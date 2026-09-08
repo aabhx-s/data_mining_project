@@ -1,0 +1,1310 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2024-11-14",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Brisbane",
+    "dates": [
+      "2024-11-14"
+    ],
+    "event": {
+      "name": "Pakistan tour of Australia",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2948,
+    "officials": {
+      "match_referees": [
+        "DC Boon"
+      ],
+      "reserve_umpires": [
+        "SAJ Craig"
+      ],
+      "tv_umpires": [
+        "SB Haig"
+      ],
+      "umpires": [
+        "DM Koch",
+        "PJ Gillespie"
+      ]
+    },
+    "outcome": {
+      "winner": "Australia",
+      "by": {
+        "runs": 29
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "GJ Maxwell"
+    ],
+    "players": {
+      "Australia": [
+        "MW Short",
+        "J Fraser-McGurk",
+        "GJ Maxwell",
+        "TH David",
+        "MP Stoinis",
+        "JP Inglis",
+        "AM Hardie",
+        "NT Ellis",
+        "XC Bartlett",
+        "SH Johnson",
+        "A Zampa"
+      ],
+      "Pakistan": [
+        "Sahibzada Farhan",
+        "Mohammad Rizwan",
+        "Babar Azam",
+        "Usman Khan",
+        "Agha Salman",
+        "Irfan Khan",
+        "Haseebullah Khan",
+        "Abbas Afridi",
+        "Shaheen Shah Afridi",
+        "Naseem Shah",
+        "Haris Rauf"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Zampa": "14f96089",
+        "AM Hardie": "d405c0d5",
+        "Abbas Afridi": "2cec2a92",
+        "Agha Salman": "89c16049",
+        "Babar Azam": "8a75e999",
+        "DC Boon": "e79a1fe3",
+        "DM Koch": "6d10c034",
+        "GJ Maxwell": "b681e71e",
+        "Haris Rauf": "24bb1c2f",
+        "Haseebullah Khan": "5691931a",
+        "Irfan Khan": "ee95065d",
+        "J Fraser-McGurk": "9b6e1b3f",
+        "JP Inglis": "989889ff",
+        "MP Stoinis": "d9273ee7",
+        "MW Short": "a90e53ec",
+        "Mohammad Rizwan": "2f26ac1a",
+        "NT Ellis": "9eb1455b",
+        "Naseem Shah": "9c9af282",
+        "PJ Gillespie": "3e253a50",
+        "SAJ Craig": "689f2eed",
+        "SB Haig": "811655b3",
+        "SH Johnson": "83c3e8e3",
+        "Sahibzada Farhan": "1aba45cd",
+        "Shaheen Shah Afridi": "45a7e761",
+        "TH David": "f1f99156",
+        "Usman Khan": "bafb9238",
+        "XC Bartlett": "3b53243a"
+      }
+    },
+    "season": "2024/25",
+    "team_type": "international",
+    "teams": [
+      "Australia",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Pakistan"
+    },
+    "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane"
+  },
+  "innings": [
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "MW Short",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "J Fraser-McGurk",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "J Fraser-McGurk",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "J Fraser-McGurk",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "J Fraser-McGurk",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "MW Short",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "J Fraser-McGurk",
+              "bowler": "Naseem Shah",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Fraser-McGurk",
+                  "fielders": [
+                    {
+                      "name": "Babar Azam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "GJ Maxwell",
+              "bowler": "Naseem Shah",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "GJ Maxwell",
+              "bowler": "Naseem Shah",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "GJ Maxwell",
+              "bowler": "Naseem Shah",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "GJ Maxwell",
+              "bowler": "Naseem Shah",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "GJ Maxwell",
+              "bowler": "Naseem Shah",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "GJ Maxwell",
+              "bowler": "Naseem Shah",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "MW Short",
+              "bowler": "Haris Rauf",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "GJ Maxwell",
+              "bowler": "Haris Rauf",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "GJ Maxwell",
+              "bowler": "Haris Rauf",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "MW Short",
+              "bowler": "Haris Rauf",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MW Short",
+                  "fielders": [
+                    {
+                      "name": "Babar Azam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "TH David",
+              "bowler": "Haris Rauf",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "GJ Maxwell",
+              "bowler": "Haris Rauf",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "TH David",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "TH David",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "GJ Maxwell",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "GJ Maxwell",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "TH David",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "TH David",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "TH David",
+              "bowler": "Haris Rauf",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "GJ Maxwell",
+              "bowler": "Haris Rauf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "GJ Maxwell",
+              "bowler": "Haris Rauf",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "GJ Maxwell",
+              "bowler": "Haris Rauf",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "GJ Maxwell",
+              "bowler": "Haris Rauf",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "GJ Maxwell",
+              "bowler": "Haris Rauf",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "GJ Maxwell",
+              "bowler": "Haris Rauf",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "GJ Maxwell",
+              "bowler": "Abbas Afridi",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "GJ Maxwell",
+              "bowler": "Abbas Afridi",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "GJ Maxwell",
+              "bowler": "Abbas Afridi",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GJ Maxwell",
+                  "fielders": [
+                    {
+                      "name": "Usman Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "MP Stoinis",
+              "bowler": "Abbas Afridi",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "TH David",
+              "bowler": "Abbas Afridi",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "TH David",
+              "bowler": "Abbas Afridi",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TH David",
+                  "fielders": [
+                    {
+                      "name": "Sahibzada Farhan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "MP Stoinis",
+              "bowler": "Naseem Shah",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "MP Stoinis",
+              "bowler": "Naseem Shah",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "MP Stoinis",
+              "bowler": "Naseem Shah",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "MP Stoinis",
+              "bowler": "Naseem Shah",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "MP Stoinis",
+              "bowler": "Naseem Shah",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "MP Stoinis",
+              "bowler": "Naseem Shah",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Sahibzada Farhan",
+              "bowler": "SH Johnson",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Sahibzada Farhan",
+              "bowler": "SH Johnson",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Sahibzada Farhan",
+              "bowler": "SH Johnson",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Sahibzada Farhan",
+              "bowler": "SH Johnson",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sahibzada Farhan",
+                  "fielders": [
+                    {
+                      "name": "XC Bartlett"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Babar Azam",
+              "bowler": "SH Johnson",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Mohammad Rizwan",
+              "bowler": "SH Johnson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Mohammad Rizwan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Rizwan",
+                  "fielders": [
+                    {
+                      "name": "J Fraser-McGurk"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Usman Khan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Usman Khan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Usman Khan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Usman Khan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Usman Khan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Usman Khan",
+                  "fielders": [
+                    {
+                      "name": "MW Short"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Babar Azam",
+              "bowler": "NT Ellis",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Babar Azam",
+                  "fielders": [
+                    {
+                      "name": "J Fraser-McGurk"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Irfan Khan",
+              "bowler": "NT Ellis",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Irfan Khan",
+              "bowler": "NT Ellis",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Irfan Khan",
+                  "fielders": [
+                    {
+                      "name": "J Fraser-McGurk"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Haseebullah Khan",
+              "bowler": "NT Ellis",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Haseebullah Khan",
+              "bowler": "NT Ellis",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Haseebullah Khan",
+              "bowler": "NT Ellis",
+              "non_striker": "Agha Salman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Agha Salman",
+              "bowler": "XC Bartlett",
+              "non_striker": "Haseebullah Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Agha Salman",
+              "bowler": "XC Bartlett",
+              "non_striker": "Haseebullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Agha Salman",
+                  "fielders": [
+                    {
+                      "name": "JP Inglis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Abbas Afridi",
+              "bowler": "XC Bartlett",
+              "non_striker": "Haseebullah Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Abbas Afridi",
+              "bowler": "XC Bartlett",
+              "non_striker": "Haseebullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Haseebullah Khan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Abbas Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Abbas Afridi",
+              "bowler": "XC Bartlett",
+              "non_striker": "Haseebullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Abbas Afridi",
+              "bowler": "SH Johnson",
+              "non_striker": "Haseebullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Abbas Afridi",
+              "bowler": "SH Johnson",
+              "non_striker": "Haseebullah Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Abbas Afridi",
+              "bowler": "SH Johnson",
+              "non_striker": "Haseebullah Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Abbas Afridi",
+              "bowler": "SH Johnson",
+              "non_striker": "Haseebullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Haseebullah Khan",
+              "bowler": "SH Johnson",
+              "non_striker": "Abbas Afridi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Haseebullah Khan",
+              "bowler": "SH Johnson",
+              "non_striker": "Abbas Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Haseebullah Khan",
+              "bowler": "NT Ellis",
+              "non_striker": "Abbas Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Haseebullah Khan",
+              "bowler": "NT Ellis",
+              "non_striker": "Abbas Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Haseebullah Khan",
+                  "fielders": [
+                    {
+                      "name": "MW Short"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "NT Ellis",
+              "non_striker": "Abbas Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "NT Ellis",
+              "non_striker": "Abbas Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Abbas Afridi",
+              "bowler": "NT Ellis",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Abbas Afridi",
+              "bowler": "NT Ellis",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Abbas Afridi",
+              "bowler": "A Zampa",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "A Zampa",
+              "non_striker": "Abbas Afridi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "A Zampa",
+              "non_striker": "Abbas Afridi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "A Zampa",
+              "non_striker": "Abbas Afridi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "A Zampa",
+              "non_striker": "Abbas Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shaheen Shah Afridi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Naseem Shah",
+              "bowler": "A Zampa",
+              "non_striker": "Abbas Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Naseem Shah",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 7,
+        "runs": 94
+      }
+    }
+  ]
+}

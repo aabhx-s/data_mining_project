@@ -1,0 +1,2994 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-06-22",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Windhoek",
+    "dates": [
+      "2026-06-20"
+    ],
+    "event": {
+      "name": "Namibia T20 Tri-Series",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3969,
+    "officials": {
+      "reserve_umpires": [
+        "E Lassen"
+      ],
+      "umpires": [
+        "A Louw",
+        "Claus Schumacher"
+      ]
+    },
+    "outcome": {
+      "winner": "Namibia",
+      "by": {
+        "runs": 90
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "J Taanyanda"
+    ],
+    "players": {
+      "Namibia": [
+        "JN Frylinck",
+        "J Taanyanda",
+        "MG Erasmus",
+        "A Busing-Volschenk",
+        "JJ Smit",
+        "JT Brassell",
+        "JC Balt",
+        "ZE Green",
+        "M Heingo",
+        "W Smith",
+        "R Trumpelmann"
+      ],
+      "Nigeria": [
+        "Selim Salau",
+        "I Danladi",
+        "Ali Rahmon",
+        "O Olaleye",
+        "IO Okpe",
+        "SA Okpe",
+        "Sulaimon Runsewe",
+        "M Akhigbe",
+        "CM Akachukwu",
+        "P Aho",
+        "Mohameed Taiwo"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Busing-Volschenk": "e9e37173",
+        "A Louw": "5eecae5d",
+        "Ali Rahmon": "c9c19700",
+        "CM Akachukwu": "e6581a17",
+        "Claus Schumacher": "85645e62",
+        "E Lassen": "a476d6d0",
+        "I Danladi": "c156cc1f",
+        "IO Okpe": "1c5c3dce",
+        "J Taanyanda": "c41ad06b",
+        "JC Balt": "75be3b2a",
+        "JJ Smit": "bb134e5c",
+        "JN Frylinck": "3c87f0c3",
+        "JT Brassell": "537021f5",
+        "M Akhigbe": "32613355",
+        "M Heingo": "0abb2525",
+        "MG Erasmus": "95a5e066",
+        "Mohameed Taiwo": "a9d788e3",
+        "O Olaleye": "811785d2",
+        "P Aho": "2e392afa",
+        "R Trumpelmann": "ff6a7ab5",
+        "SA Okpe": "681f522f",
+        "Selim Salau": "d18d3a0f",
+        "Sulaimon Runsewe": "c25d26dc",
+        "W Smith": "cc9989f9",
+        "ZE Green": "8716233e",
+        "ZJ van Vuuren": "c0d59d9c"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Namibia",
+      "Nigeria"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Namibia"
+    },
+    "venue": "Namibia Cricket Ground, Windhoek"
+  },
+  "innings": [
+    {
+      "team": "Namibia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "JN Frylinck",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "JN Frylinck",
+              "bowler": "Mohameed Taiwo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "JN Frylinck",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "JN Frylinck",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "JN Frylinck",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "J Taanyanda",
+              "bowler": "Mohameed Taiwo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "J Taanyanda",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "JN Frylinck",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "JN Frylinck",
+              "bowler": "P Aho",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "JN Frylinck",
+              "bowler": "P Aho",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "JN Frylinck",
+              "bowler": "P Aho",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "JN Frylinck",
+              "bowler": "P Aho",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "JN Frylinck",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "JN Frylinck",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "JN Frylinck",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "JN Frylinck",
+              "bowler": "Mohameed Taiwo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "JN Frylinck",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "JN Frylinck",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "JN Frylinck",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "JN Frylinck",
+              "bowler": "P Aho",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "J Taanyanda",
+              "bowler": "M Akhigbe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "J Taanyanda",
+              "bowler": "M Akhigbe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "J Taanyanda",
+              "bowler": "M Akhigbe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "JN Frylinck",
+              "bowler": "M Akhigbe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "J Taanyanda",
+              "bowler": "M Akhigbe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "JN Frylinck",
+              "bowler": "M Akhigbe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "JN Frylinck",
+              "bowler": "IO Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "JN Frylinck",
+              "bowler": "IO Okpe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "JN Frylinck",
+              "bowler": "IO Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "J Taanyanda",
+              "bowler": "IO Okpe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "J Taanyanda",
+              "bowler": "IO Okpe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "J Taanyanda",
+              "bowler": "IO Okpe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "JN Frylinck",
+              "bowler": "IO Okpe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "JN Frylinck",
+              "bowler": "IO Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "JN Frylinck",
+              "bowler": "M Akhigbe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "J Taanyanda",
+              "bowler": "M Akhigbe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "J Taanyanda",
+              "bowler": "M Akhigbe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "J Taanyanda",
+              "bowler": "M Akhigbe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "J Taanyanda",
+              "bowler": "M Akhigbe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "J Taanyanda",
+              "bowler": "M Akhigbe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "JN Frylinck",
+              "bowler": "SA Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "JN Frylinck",
+              "bowler": "SA Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "J Taanyanda",
+              "bowler": "SA Okpe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "JN Frylinck",
+              "bowler": "SA Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "JN Frylinck",
+              "bowler": "SA Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "J Taanyanda",
+              "bowler": "SA Okpe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "J Taanyanda",
+              "bowler": "SA Okpe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "JN Frylinck",
+              "bowler": "M Akhigbe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "JN Frylinck",
+              "bowler": "M Akhigbe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "J Taanyanda",
+              "bowler": "M Akhigbe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "J Taanyanda",
+              "bowler": "M Akhigbe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "J Taanyanda",
+              "bowler": "M Akhigbe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "J Taanyanda",
+              "bowler": "M Akhigbe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "JN Frylinck",
+              "bowler": "SA Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "J Taanyanda",
+              "bowler": "SA Okpe",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "JN Frylinck",
+              "bowler": "SA Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "JN Frylinck",
+              "bowler": "SA Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "J Taanyanda",
+              "bowler": "SA Okpe",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "JN Frylinck",
+              "bowler": "SA Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "J Taanyanda",
+              "bowler": "CM Akachukwu",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "J Taanyanda",
+              "bowler": "CM Akachukwu",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "JN Frylinck",
+              "bowler": "CM Akachukwu",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JN Frylinck",
+                  "fielders": [
+                    {
+                      "name": "I Danladi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "MG Erasmus",
+              "bowler": "CM Akachukwu",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "J Taanyanda",
+              "bowler": "CM Akachukwu",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "MG Erasmus",
+              "bowler": "CM Akachukwu",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "J Taanyanda",
+              "bowler": "IO Okpe",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "MG Erasmus",
+              "bowler": "IO Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "MG Erasmus",
+              "bowler": "IO Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "MG Erasmus",
+              "bowler": "IO Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "MG Erasmus",
+              "bowler": "IO Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "MG Erasmus",
+              "bowler": "IO Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "MG Erasmus",
+              "bowler": "SA Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "MG Erasmus",
+              "bowler": "SA Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "J Taanyanda",
+              "bowler": "SA Okpe",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "MG Erasmus",
+              "bowler": "SA Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "MG Erasmus",
+              "bowler": "SA Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "MG Erasmus",
+              "bowler": "SA Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "J Taanyanda",
+              "bowler": "CM Akachukwu",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "J Taanyanda",
+              "bowler": "CM Akachukwu",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "J Taanyanda",
+              "bowler": "CM Akachukwu",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "MG Erasmus",
+              "bowler": "CM Akachukwu",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "MG Erasmus",
+              "bowler": "CM Akachukwu",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "MG Erasmus",
+              "bowler": "CM Akachukwu",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "MG Erasmus",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "J Taanyanda",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "MG Erasmus",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "MG Erasmus",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "MG Erasmus",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "MG Erasmus",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MG Erasmus",
+                  "fielders": [
+                    {
+                      "name": "IO Okpe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "A Busing-Volschenk",
+              "bowler": "P Aho",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "J Taanyanda",
+              "bowler": "CM Akachukwu",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "A Busing-Volschenk",
+              "bowler": "CM Akachukwu",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "J Taanyanda",
+              "bowler": "CM Akachukwu",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "A Busing-Volschenk",
+              "bowler": "CM Akachukwu",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "A Busing-Volschenk",
+              "bowler": "CM Akachukwu",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "A Busing-Volschenk",
+              "bowler": "CM Akachukwu",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "J Taanyanda",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "A Busing-Volschenk",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Busing-Volschenk",
+                  "fielders": [
+                    {
+                      "name": "Sulaimon Runsewe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "JJ Smit",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "JJ Smit",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "JJ Smit",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "JJ Smit",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "JJ Smit",
+              "bowler": "P Aho",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "J Taanyanda",
+              "bowler": "P Aho",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "JJ Smit",
+              "bowler": "P Aho",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "JJ Smit",
+              "bowler": "P Aho",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "JJ Smit",
+              "bowler": "IO Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "JJ Smit",
+              "bowler": "IO Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "JJ Smit",
+              "bowler": "IO Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "J Taanyanda",
+              "bowler": "IO Okpe",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "JJ Smit",
+              "bowler": "IO Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "JJ Smit",
+              "bowler": "IO Okpe",
+              "non_striker": "J Taanyanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Nigeria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Selim Salau",
+              "bowler": "R Trumpelmann",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Selim Salau",
+              "bowler": "R Trumpelmann",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Selim Salau",
+              "bowler": "R Trumpelmann",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Selim Salau",
+              "bowler": "R Trumpelmann",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "I Danladi",
+              "bowler": "R Trumpelmann",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Selim Salau",
+              "bowler": "R Trumpelmann",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "I Danladi",
+              "bowler": "R Trumpelmann",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "I Danladi",
+              "bowler": "M Heingo",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "I Danladi",
+              "bowler": "M Heingo",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "I Danladi",
+              "bowler": "M Heingo",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "I Danladi",
+              "bowler": "M Heingo",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "I Danladi",
+              "bowler": "M Heingo",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Selim Salau",
+              "bowler": "M Heingo",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Selim Salau",
+              "bowler": "M Heingo",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "I Danladi",
+              "bowler": "R Trumpelmann",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Selim Salau",
+              "bowler": "R Trumpelmann",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Selim Salau",
+              "bowler": "R Trumpelmann",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Selim Salau",
+              "bowler": "R Trumpelmann",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Selim Salau",
+              "bowler": "R Trumpelmann",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "I Danladi",
+              "bowler": "R Trumpelmann",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "I Danladi",
+              "bowler": "R Trumpelmann",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Selim Salau",
+              "bowler": "JJ Smit",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Selim Salau",
+              "bowler": "JJ Smit",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Selim Salau",
+              "bowler": "JJ Smit",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Selim Salau",
+              "bowler": "JJ Smit",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "I Danladi",
+              "bowler": "JJ Smit",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "I Danladi",
+              "bowler": "JJ Smit",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "I Danladi",
+              "bowler": "JT Brassell",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Selim Salau",
+              "bowler": "JT Brassell",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Selim Salau",
+              "bowler": "JT Brassell",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Selim Salau",
+              "bowler": "JT Brassell",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Selim Salau",
+              "bowler": "JT Brassell",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Selim Salau",
+              "bowler": "JT Brassell",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "I Danladi",
+              "bowler": "JJ Smit",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "I Danladi",
+              "bowler": "JJ Smit",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "I Danladi",
+              "bowler": "JJ Smit",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "I Danladi",
+              "bowler": "JJ Smit",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "I Danladi",
+              "bowler": "JJ Smit",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Danladi",
+                  "fielders": [
+                    {
+                      "name": "MG Erasmus"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Ali Rahmon",
+              "bowler": "JJ Smit",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Selim Salau",
+              "bowler": "W Smith",
+              "non_striker": "Ali Rahmon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Ali Rahmon",
+              "bowler": "W Smith",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Ali Rahmon",
+              "bowler": "W Smith",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Ali Rahmon",
+              "bowler": "W Smith",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Rahmon",
+                  "fielders": [
+                    {
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "O Olaleye",
+              "bowler": "W Smith",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Selim Salau",
+              "bowler": "W Smith",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "O Olaleye",
+              "bowler": "JC Balt",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Selim Salau",
+              "bowler": "JC Balt",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "O Olaleye",
+              "bowler": "JC Balt",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Selim Salau",
+              "bowler": "JC Balt",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "O Olaleye",
+              "bowler": "JC Balt",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "O Olaleye",
+              "bowler": "JC Balt",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Selim Salau",
+              "bowler": "JT Brassell",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "O Olaleye",
+              "bowler": "JT Brassell",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Selim Salau",
+              "bowler": "JT Brassell",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Selim Salau",
+              "bowler": "JT Brassell",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Selim Salau",
+              "bowler": "JT Brassell",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Selim Salau",
+              "bowler": "JT Brassell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Selim Salau",
+              "bowler": "JT Brassell",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "O Olaleye",
+              "bowler": "JC Balt",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Selim Salau",
+              "bowler": "JC Balt",
+              "non_striker": "O Olaleye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "O Olaleye",
+              "bowler": "JC Balt",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "O Olaleye",
+              "bowler": "JC Balt",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "O Olaleye",
+              "bowler": "JC Balt",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "O Olaleye",
+              "bowler": "JC Balt",
+              "non_striker": "Selim Salau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Olaleye",
+                  "fielders": [
+                    {
+                      "name": "R Trumpelmann"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Selim Salau",
+              "bowler": "JT Brassell",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Selim Salau",
+                  "fielders": [
+                    {
+                      "name": "ZJ van Vuuren",
+                      "substitute": true
+                    },
+                    {
+                      "name": "ZE Green"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "SA Okpe",
+              "bowler": "JT Brassell",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "IO Okpe",
+              "bowler": "JT Brassell",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "IO Okpe",
+              "bowler": "JT Brassell",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "IO Okpe",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "JT Brassell",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "JT Brassell",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "JC Balt",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "SA Okpe",
+              "bowler": "JC Balt",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "JC Balt",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "JC Balt",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sulaimon Runsewe",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "M Akhigbe",
+              "bowler": "JC Balt",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Akhigbe",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "CM Akachukwu",
+              "bowler": "JC Balt",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "SA Okpe",
+              "bowler": "R Trumpelmann",
+              "non_striker": "CM Akachukwu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "SA Okpe",
+              "bowler": "R Trumpelmann",
+              "non_striker": "CM Akachukwu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "CM Akachukwu",
+              "bowler": "R Trumpelmann",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "CM Akachukwu",
+              "bowler": "R Trumpelmann",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "CM Akachukwu",
+              "bowler": "R Trumpelmann",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "SA Okpe",
+              "bowler": "R Trumpelmann",
+              "non_striker": "CM Akachukwu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "CM Akachukwu",
+              "bowler": "JT Brassell",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CM Akachukwu",
+                  "fielders": [
+                    {
+                      "name": "W Smith"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "P Aho",
+              "bowler": "JT Brassell",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "SA Okpe",
+              "bowler": "JT Brassell",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "SA Okpe",
+              "bowler": "JT Brassell",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "P Aho",
+              "bowler": "JT Brassell",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "SA Okpe",
+              "bowler": "JT Brassell",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "P Aho",
+              "bowler": "W Smith",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "SA Okpe",
+              "bowler": "W Smith",
+              "non_striker": "P Aho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "P Aho",
+              "bowler": "W Smith",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "P Aho",
+              "bowler": "W Smith",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Aho",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Mohameed Taiwo",
+              "bowler": "W Smith",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Mohameed Taiwo",
+              "bowler": "W Smith",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "SA Okpe",
+              "bowler": "M Heingo",
+              "non_striker": "Mohameed Taiwo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Mohameed Taiwo",
+              "bowler": "M Heingo",
+              "non_striker": "SA Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "SA Okpe",
+              "bowler": "M Heingo",
+              "non_striker": "Mohameed Taiwo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "SA Okpe",
+              "bowler": "M Heingo",
+              "non_striker": "Mohameed Taiwo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "SA Okpe",
+              "bowler": "M Heingo",
+              "non_striker": "Mohameed Taiwo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "SA Okpe",
+              "bowler": "M Heingo",
+              "non_striker": "Mohameed Taiwo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Okpe",
+                  "fielders": [
+                    {
+                      "name": "JJ Smit"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 195
+      }
+    }
+  ]
+}

@@ -1,0 +1,1675 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2022-12-04",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2022-12-01"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1925,
+    "officials": {
+      "match_referees": [
+        "SA Fritz"
+      ],
+      "reserve_umpires": [
+        "R D'Mello"
+      ],
+      "umpires": [
+        "Habib Enesi",
+        "Lauren Agenbag"
+      ]
+    },
+    "outcome": {
+      "winner": "Tanzania",
+      "by": {
+        "wickets": 9
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "HA Chohan"
+    ],
+    "players": {
+      "Sierra Leone": [
+        "J Bangura",
+        "A Gbla",
+        "G Ngegba",
+        "M Kpaka",
+        "L Lamin",
+        "Zahid Khan",
+        "Mohamed Khan",
+        "G Sesay",
+        "C Bah",
+        "R Coker",
+        "S Conteh"
+      ],
+      "Tanzania": [
+        "AR Patwa",
+        "II Selemani",
+        "AP Rajeevan",
+        "HA Chohan",
+        "AM Kimote",
+        "Jitin Singh",
+        "K Nassoro",
+        "MO Kitunda",
+        "YM Nkanya",
+        "SA Jumbe",
+        "S Thakor"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gbla": "34ab1e6e",
+        "AM Kimote": "34e36b65",
+        "AP Rajeevan": "63d6f031",
+        "AR Patwa": "b43f7a6a",
+        "C Bah": "7213d757",
+        "G Ngegba": "69caf2be",
+        "G Sesay": "c556b9d2",
+        "HA Chohan": "847b4bdd",
+        "Habib Enesi": "fb35ab1f",
+        "II Selemani": "b2dadc51",
+        "J Bangura": "d7acab5d",
+        "Jitin Singh": "b7db83eb",
+        "K Nassoro": "29ee9bf9",
+        "L Lamin": "5a970aab",
+        "Lauren Agenbag": "40849abd",
+        "M Kpaka": "c381cec5",
+        "MO Kitunda": "badef0dc",
+        "Mohamed Khan": "13501ff4",
+        "R Coker": "3239c8a9",
+        "R D'Mello": "f3c22863",
+        "S Conteh": "8f70fff7",
+        "S Thakor": "0848ac5f",
+        "SA Fritz": "d15e60c8",
+        "SA Jumbe": "91056862",
+        "YM Nkanya": "9238dd92",
+        "Zahid Khan": "bf896894"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Sierra Leone",
+      "Tanzania"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Tanzania"
+    },
+    "venue": "Gahanga International Cricket Stadium. Rwanda"
+  },
+  "innings": [
+    {
+      "team": "Sierra Leone",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "J Bangura",
+              "bowler": "HA Chohan",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "J Bangura",
+              "bowler": "HA Chohan",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Bangura",
+                  "fielders": [
+                    {
+                      "name": "AP Rajeevan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "G Ngegba",
+              "bowler": "HA Chohan",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "G Ngegba",
+              "bowler": "HA Chohan",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "G Ngegba",
+              "bowler": "HA Chohan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "G Ngegba",
+              "bowler": "HA Chohan",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "G Ngegba",
+              "bowler": "HA Chohan",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "A Gbla",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "A Gbla",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "A Gbla",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "A Gbla",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "G Ngegba",
+              "bowler": "SA Jumbe",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "G Ngegba",
+              "bowler": "SA Jumbe",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "G Ngegba",
+              "bowler": "HA Chohan",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "G Ngegba",
+              "bowler": "HA Chohan",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "G Ngegba",
+              "bowler": "HA Chohan",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "G Ngegba",
+              "bowler": "HA Chohan",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "G Ngegba",
+              "bowler": "HA Chohan",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "G Ngegba",
+              "bowler": "HA Chohan",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Gbla",
+              "bowler": "SA Jumbe",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Gbla",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "G Ngegba",
+              "bowler": "SA Jumbe",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "G Ngegba",
+              "bowler": "SA Jumbe",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "A Gbla",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "A Gbla",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "A Gbla",
+              "bowler": "HA Chohan",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "A Gbla",
+              "bowler": "HA Chohan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "A Gbla",
+              "bowler": "HA Chohan",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "A Gbla",
+              "bowler": "HA Chohan",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Gbla",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "M Kpaka",
+              "bowler": "HA Chohan",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Kpaka",
+                  "fielders": [
+                    {
+                      "name": "S Thakor"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "L Lamin",
+              "bowler": "HA Chohan",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Lamin",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Zahid Khan",
+              "bowler": "HA Chohan",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "G Ngegba",
+              "bowler": "AM Kimote",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "G Ngegba",
+              "bowler": "AM Kimote",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "G Ngegba",
+              "bowler": "AM Kimote",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "G Ngegba",
+              "bowler": "AM Kimote",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "G Ngegba",
+              "bowler": "AM Kimote",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "G Ngegba",
+              "bowler": "AM Kimote",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "G Ngegba",
+              "bowler": "S Thakor",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "G Ngegba",
+              "bowler": "S Thakor",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Zahid Khan",
+              "bowler": "S Thakor",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Zahid Khan",
+              "bowler": "S Thakor",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Zahid Khan",
+              "bowler": "S Thakor",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Zahid Khan",
+              "bowler": "S Thakor",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "G Ngegba",
+              "bowler": "AM Kimote",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Zahid Khan",
+              "bowler": "AM Kimote",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "G Ngegba",
+              "bowler": "AM Kimote",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "G Ngegba",
+              "bowler": "AM Kimote",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "G Ngegba",
+              "bowler": "AM Kimote",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "G Ngegba",
+              "bowler": "AM Kimote",
+              "non_striker": "Zahid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Ngegba",
+                  "fielders": [
+                    {
+                      "name": "SA Jumbe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Zahid Khan",
+              "bowler": "S Thakor",
+              "non_striker": "Mohamed Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Zahid Khan",
+              "bowler": "S Thakor",
+              "non_striker": "Mohamed Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zahid Khan",
+                  "fielders": [
+                    {
+                      "name": "AP Rajeevan"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "G Sesay",
+              "bowler": "S Thakor",
+              "non_striker": "Mohamed Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "G Sesay",
+              "bowler": "S Thakor",
+              "non_striker": "Mohamed Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "G Sesay",
+              "bowler": "S Thakor",
+              "non_striker": "Mohamed Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "G Sesay",
+              "bowler": "S Thakor",
+              "non_striker": "Mohamed Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Mohamed Khan",
+              "bowler": "YM Nkanya",
+              "non_striker": "G Sesay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohamed Khan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "C Bah",
+              "bowler": "YM Nkanya",
+              "non_striker": "G Sesay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "C Bah",
+              "bowler": "YM Nkanya",
+              "non_striker": "G Sesay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "G Sesay",
+              "bowler": "YM Nkanya",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Sesay",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "R Coker",
+              "bowler": "YM Nkanya",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "R Coker",
+              "bowler": "YM Nkanya",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "C Bah",
+              "bowler": "HA Chohan",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "C Bah",
+              "bowler": "HA Chohan",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "C Bah",
+              "bowler": "HA Chohan",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "R Coker",
+              "bowler": "HA Chohan",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "C Bah",
+              "bowler": "HA Chohan",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "R Coker",
+              "bowler": "HA Chohan",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "C Bah",
+              "bowler": "YM Nkanya",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Bah",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "S Conteh",
+              "bowler": "YM Nkanya",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "S Conteh",
+              "bowler": "YM Nkanya",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Conteh",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Tanzania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "AR Patwa",
+              "bowler": "G Sesay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "AR Patwa",
+              "bowler": "G Sesay",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "AR Patwa",
+              "bowler": "G Sesay",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "AR Patwa",
+              "bowler": "G Sesay",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "II Selemani",
+              "bowler": "G Sesay",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "II Selemani",
+              "bowler": "G Sesay",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "II Selemani",
+                  "fielders": [
+                    {
+                      "name": "S Conteh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "AP Rajeevan",
+              "bowler": "G Sesay",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "AR Patwa",
+              "bowler": "S Conteh",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AR Patwa",
+              "bowler": "S Conteh",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "AR Patwa",
+              "bowler": "S Conteh",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "AR Patwa",
+              "bowler": "S Conteh",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "AR Patwa",
+              "bowler": "S Conteh",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "AR Patwa",
+              "bowler": "S Conteh",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "AP Rajeevan",
+              "bowler": "G Sesay",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "AP Rajeevan",
+              "bowler": "G Sesay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "AP Rajeevan",
+              "bowler": "G Sesay",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "AP Rajeevan",
+              "bowler": "G Sesay",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "AP Rajeevan",
+              "bowler": "G Sesay",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "AP Rajeevan",
+              "bowler": "G Sesay",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "AP Rajeevan",
+              "bowler": "G Sesay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "AP Rajeevan",
+              "bowler": "G Sesay",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "AR Patwa",
+              "bowler": "S Conteh",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "AP Rajeevan",
+              "bowler": "S Conteh",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "AP Rajeevan",
+              "bowler": "S Conteh",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "AR Patwa",
+              "bowler": "S Conteh",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "AR Patwa",
+              "bowler": "S Conteh",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "AR Patwa",
+              "bowler": "S Conteh",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "AP Rajeevan",
+              "bowler": "G Ngegba",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "AP Rajeevan",
+              "bowler": "G Ngegba",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "AR Patwa",
+              "bowler": "G Ngegba",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "AR Patwa",
+              "bowler": "G Ngegba",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "AR Patwa",
+              "bowler": "G Ngegba",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "AR Patwa",
+              "bowler": "G Ngegba",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "AP Rajeevan",
+              "bowler": "R Coker",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "AP Rajeevan",
+              "bowler": "R Coker",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "AP Rajeevan",
+              "bowler": "R Coker",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "AR Patwa",
+              "bowler": "R Coker",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "AR Patwa",
+              "bowler": "R Coker",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "AR Patwa",
+              "bowler": "R Coker",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "AR Patwa",
+              "bowler": "R Coker",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "AP Rajeevan",
+              "bowler": "G Ngegba",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "AP Rajeevan",
+              "bowler": "G Ngegba",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "AR Patwa",
+              "bowler": "G Ngegba",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "AP Rajeevan",
+              "bowler": "G Ngegba",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "AP Rajeevan",
+              "bowler": "G Ngegba",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "AP Rajeevan",
+              "bowler": "G Ngegba",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "AP Rajeevan",
+              "bowler": "Mohamed Khan",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "AP Rajeevan",
+              "bowler": "Mohamed Khan",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "AP Rajeevan",
+              "bowler": "Mohamed Khan",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 15,
+        "runs": 47
+      }
+    }
+  ]
+}

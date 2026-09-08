@@ -1,0 +1,3248 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Vantaa",
+    "dates": [
+      "2026-08-15"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Europe Qualifier C",
+      "match_number": 8,
+      "group": "A"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4079,
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "match_referees": [
+        "Prakash Bhatt"
+      ],
+      "reserve_umpires": [
+        "SB Ravindra"
+      ],
+      "umpires": [
+        "Adnan Khan",
+        "SG Chandiramani"
+      ]
+    },
+    "outcome": {
+      "winner": "Finland",
+      "by": {
+        "runs": 92
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Finland": [
+        "A Pusthay",
+        "AK Mohan",
+        "VS Padhaal",
+        "Faraaz Mehti Abbas",
+        "Zahidullah Kamal",
+        "Faheem Nellancheri",
+        "NM Salonen",
+        "Amjad Sher",
+        "Hammadullah Shinwari",
+        "Madhawa Basnayaka",
+        "Junaid Khan"
+      ],
+      "Bulgaria": [
+        "H Lakov",
+        "Isa Zaroo",
+        "M Gogev",
+        "K Krishnakumar",
+        "Manan Bashir",
+        "Jakob Gul",
+        "Danyal Raja",
+        "Ali Rasool",
+        "J Dowling",
+        "A Dowling",
+        "P Mishra"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dowling": "ec064d97",
+        "A Pusthay": "0393fbdc",
+        "AK Mohan": "d55474ac",
+        "Adnan Khan": "45ec7a99",
+        "Ali Rasool": "1a710f40",
+        "Amjad Sher": "3b4a8cfb",
+        "Danyal Raja": "324e00a9",
+        "Faheem Nellancheri": "6513502f",
+        "Faraaz Mehti Abbas": "4233080d",
+        "H Lakov": "87a6f411",
+        "Hammadullah Shinwari": "21db290f",
+        "Isa Zaroo": "9822fb85",
+        "J Dowling": "9f16f7c8",
+        "Jakob Gul": "a4696d64",
+        "Junaid Khan": "670e6804",
+        "K Krishnakumar": "ff60c8ba",
+        "M Gogev": "995fd3b2",
+        "Madhawa Basnayaka": "6f337915",
+        "Manan Bashir": "5c14bd52",
+        "NM Salonen": "f5bd70f2",
+        "P Mishra": "3fa5672e",
+        "Prakash Bhatt": "f848ab0b",
+        "SB Ravindra": "394ba7a8",
+        "SG Chandiramani": "4fa795d2",
+        "VS Padhaal": "c4fb0b39",
+        "Zahidullah Kamal": "e8550df5"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Finland",
+      "Bulgaria"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Bulgaria"
+    },
+    "venue": "Tikkurila Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Finland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "A Pusthay",
+              "bowler": "Danyal Raja",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "A Pusthay",
+              "bowler": "Danyal Raja",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Pusthay",
+                  "fielders": [
+                    {
+                      "name": "K Krishnakumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "VS Padhaal",
+              "bowler": "Danyal Raja",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "VS Padhaal",
+              "bowler": "Danyal Raja",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "AK Mohan",
+              "bowler": "Danyal Raja",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "AK Mohan",
+              "bowler": "Danyal Raja",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "VS Padhaal",
+              "bowler": "H Lakov",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AK Mohan",
+              "bowler": "H Lakov",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "AK Mohan",
+              "bowler": "H Lakov",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "AK Mohan",
+              "bowler": "H Lakov",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "AK Mohan",
+              "bowler": "H Lakov",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "VS Padhaal",
+              "bowler": "H Lakov",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "VS Padhaal",
+              "bowler": "H Lakov",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "AK Mohan",
+              "bowler": "Danyal Raja",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "AK Mohan",
+              "bowler": "Danyal Raja",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "VS Padhaal",
+              "bowler": "Danyal Raja",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "AK Mohan",
+              "bowler": "Danyal Raja",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "VS Padhaal",
+              "bowler": "Danyal Raja",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "VS Padhaal",
+              "bowler": "Danyal Raja",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "VS Padhaal",
+              "bowler": "H Lakov",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "AK Mohan",
+              "bowler": "H Lakov",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "AK Mohan",
+              "bowler": "H Lakov",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "AK Mohan",
+              "bowler": "H Lakov",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "AK Mohan",
+              "bowler": "H Lakov",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "AK Mohan",
+              "bowler": "H Lakov",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "VS Padhaal",
+              "bowler": "Danyal Raja",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "VS Padhaal",
+              "bowler": "Danyal Raja",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "VS Padhaal",
+              "bowler": "Danyal Raja",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "VS Padhaal",
+              "bowler": "Danyal Raja",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "VS Padhaal",
+              "bowler": "Danyal Raja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "VS Padhaal",
+              "bowler": "Danyal Raja",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "VS Padhaal",
+              "bowler": "Danyal Raja",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VS Padhaal",
+                  "fielders": [
+                    {
+                      "name": "H Lakov"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Danyal Raja",
+              "non_striker": "AK Mohan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "AK Mohan",
+              "bowler": "M Gogev",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "AK Mohan",
+              "bowler": "M Gogev",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AK Mohan",
+                  "fielders": [
+                    {
+                      "name": "Danyal Raja"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Zahidullah Kamal",
+              "bowler": "M Gogev",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Zahidullah Kamal",
+              "bowler": "M Gogev",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Zahidullah Kamal",
+              "bowler": "M Gogev",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Gogev",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Gogev",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Zahidullah Kamal",
+              "bowler": "M Gogev",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "P Mishra",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "P Mishra",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Zahidullah Kamal",
+              "bowler": "P Mishra",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "P Mishra",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "P Mishra",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "P Mishra",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Zahidullah Kamal",
+              "bowler": "P Mishra",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Zahidullah Kamal",
+              "bowler": "M Gogev",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Zahidullah Kamal",
+              "bowler": "M Gogev",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Gogev",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Gogev",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Gogev",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Gogev",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Zahidullah Kamal",
+              "bowler": "P Mishra",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Zahidullah Kamal",
+              "bowler": "P Mishra",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Zahidullah Kamal",
+              "bowler": "P Mishra",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Zahidullah Kamal",
+              "bowler": "P Mishra",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zahidullah Kamal",
+                  "fielders": [
+                    {
+                      "name": "J Dowling"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Faheem Nellancheri",
+              "bowler": "P Mishra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Faheem Nellancheri",
+              "bowler": "P Mishra",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Faheem Nellancheri",
+              "bowler": "P Mishra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Faheem Nellancheri",
+              "bowler": "P Mishra",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Jakob Gul",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Jakob Gul",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Jakob Gul",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Jakob Gul",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Jakob Gul",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Jakob Gul",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "P Mishra",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "P Mishra",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Faheem Nellancheri",
+              "bowler": "P Mishra",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Faheem Nellancheri",
+              "bowler": "P Mishra",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Faheem Nellancheri",
+              "bowler": "P Mishra",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Faheem Nellancheri",
+              "bowler": "P Mishra",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Jakob Gul",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Jakob Gul",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Jakob Gul",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Jakob Gul",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Jakob Gul",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Faraaz Mehti Abbas",
+                  "fielders": [
+                    {
+                      "name": "A Dowling"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "NM Salonen",
+              "bowler": "Jakob Gul",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Danyal Raja",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Danyal Raja",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Faheem Nellancheri",
+                  "fielders": [
+                    {
+                      "name": "H Lakov"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Amjad Sher",
+              "bowler": "Danyal Raja",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "NM Salonen",
+              "bowler": "Danyal Raja",
+              "non_striker": "Amjad Sher",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "NM Salonen",
+              "bowler": "Danyal Raja",
+              "non_striker": "Amjad Sher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Amjad Sher",
+              "bowler": "Danyal Raja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Amjad Sher",
+              "bowler": "Danyal Raja",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Amjad Sher",
+              "bowler": "Jakob Gul",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Amjad Sher",
+              "bowler": "Jakob Gul",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Amjad Sher",
+              "bowler": "Jakob Gul",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "NM Salonen",
+              "bowler": "Jakob Gul",
+              "non_striker": "Amjad Sher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "NM Salonen",
+              "bowler": "Jakob Gul",
+              "non_striker": "Amjad Sher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Amjad Sher",
+              "bowler": "Jakob Gul",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Amjad Sher",
+              "bowler": "Ali Rasool",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "NM Salonen",
+              "bowler": "Ali Rasool",
+              "non_striker": "Amjad Sher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Amjad Sher",
+              "bowler": "Ali Rasool",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Amjad Sher",
+                  "fielders": [
+                    {
+                      "name": "A Dowling"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Hammadullah Shinwari",
+              "bowler": "Ali Rasool",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "NM Salonen",
+              "bowler": "Ali Rasool",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "NM Salonen",
+              "bowler": "Ali Rasool",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "NM Salonen",
+              "bowler": "Jakob Gul",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "NM Salonen",
+              "bowler": "Jakob Gul",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Hammadullah Shinwari",
+              "bowler": "Jakob Gul",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "NM Salonen",
+              "bowler": "Jakob Gul",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "NM Salonen",
+              "bowler": "Jakob Gul",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Hammadullah Shinwari",
+              "bowler": "Jakob Gul",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "NM Salonen",
+              "bowler": "Ali Rasool",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "NM Salonen",
+              "bowler": "Ali Rasool",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Hammadullah Shinwari",
+              "bowler": "Ali Rasool",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "NM Salonen",
+              "bowler": "Ali Rasool",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "NM Salonen",
+              "bowler": "Ali Rasool",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "NM Salonen",
+              "bowler": "Ali Rasool",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Hammadullah Shinwari",
+              "bowler": "M Gogev",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hammadullah Shinwari",
+                  "fielders": [
+                    {
+                      "name": "K Krishnakumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Madhawa Basnayaka",
+              "bowler": "M Gogev",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Madhawa Basnayaka",
+              "bowler": "M Gogev",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "NM Salonen",
+              "bowler": "M Gogev",
+              "non_striker": "Madhawa Basnayaka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "NM Salonen",
+              "bowler": "M Gogev",
+              "non_striker": "Madhawa Basnayaka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "NM Salonen",
+              "bowler": "M Gogev",
+              "non_striker": "Madhawa Basnayaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "NM Salonen",
+              "bowler": "H Lakov",
+              "non_striker": "Madhawa Basnayaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NM Salonen",
+                  "fielders": [
+                    {
+                      "name": "Manan Bashir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Junaid Khan",
+              "bowler": "H Lakov",
+              "non_striker": "Madhawa Basnayaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Madhawa Basnayaka",
+              "bowler": "H Lakov",
+              "non_striker": "Junaid Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Madhawa Basnayaka",
+              "bowler": "H Lakov",
+              "non_striker": "Junaid Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Madhawa Basnayaka",
+              "bowler": "H Lakov",
+              "non_striker": "Junaid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Junaid Khan",
+              "bowler": "H Lakov",
+              "non_striker": "Madhawa Basnayaka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Madhawa Basnayaka",
+              "bowler": "M Gogev",
+              "non_striker": "Junaid Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Madhawa Basnayaka",
+              "bowler": "M Gogev",
+              "non_striker": "Junaid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Junaid Khan",
+              "bowler": "M Gogev",
+              "non_striker": "Madhawa Basnayaka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Junaid Khan",
+              "bowler": "M Gogev",
+              "non_striker": "Madhawa Basnayaka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Junaid Khan",
+              "bowler": "M Gogev",
+              "non_striker": "Madhawa Basnayaka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Junaid Khan",
+              "bowler": "M Gogev",
+              "non_striker": "Madhawa Basnayaka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bulgaria",
+      "absent_hurt": [
+        "P Mishra"
+      ],
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "H Lakov",
+              "bowler": "Amjad Sher",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "H Lakov",
+              "bowler": "Amjad Sher",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Isa Zaroo",
+              "bowler": "Amjad Sher",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "H Lakov",
+              "bowler": "Amjad Sher",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "H Lakov",
+              "bowler": "Amjad Sher",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Isa Zaroo",
+              "bowler": "Amjad Sher",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "H Lakov",
+              "bowler": "Junaid Khan",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Isa Zaroo",
+              "bowler": "Junaid Khan",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "H Lakov",
+              "bowler": "Junaid Khan",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "H Lakov",
+              "bowler": "Junaid Khan",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "H Lakov",
+              "bowler": "Junaid Khan",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "H Lakov",
+              "bowler": "Junaid Khan",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "H Lakov",
+              "bowler": "Amjad Sher",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "H Lakov",
+              "bowler": "Amjad Sher",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Isa Zaroo",
+              "bowler": "Amjad Sher",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Isa Zaroo",
+              "bowler": "Amjad Sher",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "H Lakov",
+              "bowler": "Amjad Sher",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Isa Zaroo",
+              "bowler": "Amjad Sher",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "H Lakov",
+              "bowler": "Junaid Khan",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Isa Zaroo",
+              "bowler": "Junaid Khan",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "H Lakov",
+              "bowler": "Junaid Khan",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Isa Zaroo",
+              "bowler": "Junaid Khan",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Isa Zaroo",
+              "bowler": "Junaid Khan",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "H Lakov",
+              "bowler": "Junaid Khan",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Isa Zaroo",
+              "bowler": "NM Salonen",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "H Lakov",
+              "bowler": "NM Salonen",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "H Lakov",
+              "bowler": "NM Salonen",
+              "non_striker": "Isa Zaroo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Isa Zaroo",
+              "bowler": "NM Salonen",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Isa Zaroo",
+              "bowler": "NM Salonen",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Isa Zaroo",
+              "bowler": "NM Salonen",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Isa Zaroo",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Isa Zaroo",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "M Gogev",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "M Gogev",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "M Gogev",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Gogev",
+                  "fielders": [
+                    {
+                      "name": "Amjad Sher"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "K Krishnakumar",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "K Krishnakumar",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "H Lakov",
+              "bowler": "NM Salonen",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "K Krishnakumar",
+              "bowler": "NM Salonen",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "K Krishnakumar",
+              "bowler": "NM Salonen",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "K Krishnakumar",
+              "bowler": "NM Salonen",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "K Krishnakumar",
+              "bowler": "NM Salonen",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "K Krishnakumar",
+              "bowler": "NM Salonen",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "H Lakov",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "K Krishnakumar",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "H Lakov",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "K Krishnakumar",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "K Krishnakumar",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "K Krishnakumar",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "K Krishnakumar",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "K Krishnakumar",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "K Krishnakumar",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "K Krishnakumar",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "H Lakov",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "H Lakov",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "K Krishnakumar",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "K Krishnakumar",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "K Krishnakumar",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "H Lakov",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "K Krishnakumar",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "K Krishnakumar",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "H Lakov",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "H Lakov",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Lakov",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Manan Bashir",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "K Krishnakumar",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "Manan Bashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Manan Bashir",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Manan Bashir",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Manan Bashir",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "K Krishnakumar",
+              "bowler": "Junaid Khan",
+              "non_striker": "Manan Bashir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Manan Bashir",
+              "bowler": "Junaid Khan",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Manan Bashir",
+              "bowler": "Junaid Khan",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Manan Bashir",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Jakob Gul",
+              "bowler": "Junaid Khan",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "K Krishnakumar",
+              "bowler": "Junaid Khan",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "K Krishnakumar",
+              "bowler": "Junaid Khan",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Jakob Gul",
+              "bowler": "Amjad Sher",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Jakob Gul",
+              "bowler": "Amjad Sher",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Jakob Gul",
+              "bowler": "Amjad Sher",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "K Krishnakumar",
+              "bowler": "Amjad Sher",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Jakob Gul",
+              "bowler": "Amjad Sher",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "K Krishnakumar",
+              "bowler": "Amjad Sher",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "K Krishnakumar",
+              "bowler": "Junaid Khan",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "K Krishnakumar",
+              "bowler": "Junaid Khan",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "K Krishnakumar",
+              "bowler": "Junaid Khan",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "K Krishnakumar",
+              "bowler": "Junaid Khan",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "K Krishnakumar",
+              "bowler": "Junaid Khan",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Jakob Gul",
+              "bowler": "Junaid Khan",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "K Krishnakumar",
+              "bowler": "Amjad Sher",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Jakob Gul",
+              "bowler": "Amjad Sher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Jakob Gul",
+              "bowler": "Amjad Sher",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Jakob Gul",
+              "bowler": "Amjad Sher",
+              "non_striker": "K Krishnakumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "K Krishnakumar",
+              "bowler": "Amjad Sher",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "K Krishnakumar",
+              "bowler": "Amjad Sher",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Krishnakumar",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Danyal Raja",
+              "bowler": "Amjad Sher",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Jakob Gul",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Jakob Gul",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Danyal Raja",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Danyal Raja",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Jakob Gul",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Jakob Gul",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Danyal Raja",
+              "bowler": "NM Salonen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.1",
+              "batter": "Danyal Raja",
+              "bowler": "NM Salonen",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Danyal Raja",
+              "bowler": "NM Salonen",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Danyal Raja",
+              "bowler": "NM Salonen",
+              "non_striker": "Jakob Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Jakob Gul",
+              "bowler": "NM Salonen",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jakob Gul",
+                  "fielders": [
+                    {
+                      "name": "A Pusthay"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Ali Rasool",
+              "bowler": "NM Salonen",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Ali Rasool",
+              "bowler": "NM Salonen",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Ali Rasool",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Ali Rasool",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Rasool",
+                  "fielders": [
+                    {
+                      "name": "NM Salonen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "J Dowling",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "J Dowling",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "J Dowling",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "J Dowling",
+              "bowler": "Madhawa Basnayaka",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Danyal Raja",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "J Dowling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "J Dowling",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Dowling",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "A Dowling",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "A Dowling",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "A Dowling",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "A Dowling",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "Danyal Raja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Dowling",
+                  "fielders": [
+                    {
+                      "name": "Madhawa Basnayaka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 233
+      }
+    }
+  ]
+}

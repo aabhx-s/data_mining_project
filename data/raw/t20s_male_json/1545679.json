@@ -1,0 +1,1189 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Vantaa",
+    "dates": [
+      "2026-08-20"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Europe Qualifier C",
+      "match_number": 20,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4092,
+    "officials": {
+      "umpires": [
+        "MS Sathe",
+        "SB Ravindra"
+      ]
+    },
+    "outcome": {
+      "winner": "Israel",
+      "by": {
+        "runs": 1
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Niv Nagavkar"
+    ],
+    "players": {
+      "Israel": [
+        "WSLK Narayana",
+        "SF Mangoda",
+        "Niv Nagavkar",
+        "Yair Nagavkar",
+        "BJ Lazarus",
+        "AL Khunti",
+        "Elan Talker",
+        "E Bhonkar",
+        "G Schachat",
+        "S Bangera",
+        "Yogev Nagavkar"
+      ],
+      "Greece": [
+        "BJ Konstas",
+        "Sajid Khan Afridi",
+        "Sinan Khan",
+        "AS Mehmi",
+        "C Bogdanos",
+        "D Triantafillithis",
+        "Emanuel",
+        "GC Galanis",
+        "Phillipos Nair",
+        "Samader Shadab",
+        "BADL Faunce"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AL Khunti": "c0ee8488",
+        "AS Mehmi": "4612619b",
+        "BADL Faunce": "00df8c9b",
+        "BJ Konstas": "68877963",
+        "BJ Lazarus": "2d7b09ce",
+        "C Bogdanos": "ecdfdd3c",
+        "D Triantafillithis": "6e64afca",
+        "E Bhonkar": "1dc3330f",
+        "Elan Talker": "bb939fa3",
+        "Emanuel": "510d525c",
+        "G Schachat": "ff92e604",
+        "GC Galanis": "db218528",
+        "MS Sathe": "7c82e11b",
+        "Niv Nagavkar": "e2abcf16",
+        "Phillipos Nair": "29f49ece",
+        "S Bangera": "856fc47a",
+        "SB Ravindra": "394ba7a8",
+        "SF Mangoda": "caf0dbef",
+        "Sajid Khan Afridi": "edc950ce",
+        "Samader Shadab": "4289ccc9",
+        "Sinan Khan": "251eb801",
+        "WSLK Narayana": "4d21a67a",
+        "Yair Nagavkar": "138e30ab",
+        "Yogev Nagavkar": "c85bea6b"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Israel",
+      "Greece"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Greece"
+    },
+    "venue": "Tikkurila Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Israel",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "WSLK Narayana",
+              "bowler": "Emanuel",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "WSLK Narayana",
+              "bowler": "Emanuel",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "WSLK Narayana",
+              "bowler": "Emanuel",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "SF Mangoda",
+              "bowler": "Emanuel",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "WSLK Narayana",
+              "bowler": "Emanuel",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "WSLK Narayana",
+              "bowler": "Emanuel",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "SF Mangoda",
+              "bowler": "Sinan Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "SF Mangoda",
+              "bowler": "Sinan Khan",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "SF Mangoda",
+              "bowler": "Sinan Khan",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SF Mangoda",
+                  "fielders": [
+                    {
+                      "name": "BADL Faunce"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "Sinan Khan",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "Sinan Khan",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "WSLK Narayana",
+              "bowler": "Sinan Khan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WSLK Narayana",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Yair Nagavkar",
+              "bowler": "Sinan Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Yair Nagavkar",
+              "bowler": "Sinan Khan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "Samader Shadab",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "Samader Shadab",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Yair Nagavkar",
+              "bowler": "Samader Shadab",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Yair Nagavkar",
+              "bowler": "Samader Shadab",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "Samader Shadab",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "Samader Shadab",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "Emanuel",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Yair Nagavkar",
+              "bowler": "Emanuel",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "Emanuel",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Yair Nagavkar",
+              "bowler": "Emanuel",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Yair Nagavkar",
+              "bowler": "Emanuel",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "Emanuel",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Yair Nagavkar",
+              "bowler": "Sajid Khan Afridi",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yair Nagavkar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "BJ Lazarus",
+              "bowler": "Sajid Khan Afridi",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "BJ Lazarus",
+              "bowler": "Sajid Khan Afridi",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "Sajid Khan Afridi",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "BJ Lazarus",
+              "bowler": "Sajid Khan Afridi",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "Sajid Khan Afridi",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "Sinan Khan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "Sinan Khan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "BJ Lazarus",
+              "bowler": "Sinan Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "Sinan Khan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "BJ Lazarus",
+              "bowler": "Sinan Khan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "Sinan Khan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "Sajid Khan Afridi",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "Sajid Khan Afridi",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "Sajid Khan Afridi",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "BJ Lazarus",
+              "bowler": "Sajid Khan Afridi",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "Sajid Khan Afridi",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "Sajid Khan Afridi",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "BJ Lazarus",
+              "bowler": "BJ Konstas",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "BJ Konstas",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "BJ Konstas",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Niv Nagavkar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "AL Khunti",
+              "bowler": "BJ Konstas",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "AL Khunti",
+              "bowler": "BJ Konstas",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "AL Khunti",
+              "bowler": "BJ Konstas",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "BJ Lazarus",
+              "bowler": "BJ Konstas",
+              "non_striker": "AL Khunti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BJ Lazarus",
+                  "fielders": [
+                    {
+                      "name": "GC Galanis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.2,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Greece",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "BJ Konstas",
+              "bowler": "SF Mangoda",
+              "non_striker": "Sajid Khan Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "BJ Konstas",
+              "bowler": "SF Mangoda",
+              "non_striker": "Sajid Khan Afridi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "BJ Konstas",
+              "bowler": "SF Mangoda",
+              "non_striker": "Sajid Khan Afridi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "BJ Konstas",
+              "bowler": "SF Mangoda",
+              "non_striker": "Sajid Khan Afridi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "BJ Konstas",
+              "bowler": "SF Mangoda",
+              "non_striker": "Sajid Khan Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "BJ Konstas",
+              "bowler": "SF Mangoda",
+              "non_striker": "Sajid Khan Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "BJ Konstas",
+              "bowler": "AL Khunti",
+              "non_striker": "Sajid Khan Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Sajid Khan Afridi",
+              "bowler": "AL Khunti",
+              "non_striker": "BJ Konstas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "BJ Konstas",
+              "bowler": "AL Khunti",
+              "non_striker": "Sajid Khan Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "BJ Konstas",
+              "bowler": "AL Khunti",
+              "non_striker": "Sajid Khan Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "BJ Konstas",
+              "bowler": "AL Khunti",
+              "non_striker": "Sajid Khan Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "BJ Konstas",
+              "bowler": "AL Khunti",
+              "non_striker": "Sajid Khan Afridi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Sajid Khan Afridi",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "BJ Konstas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "BJ Konstas",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Sajid Khan Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Sajid Khan Afridi",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "BJ Konstas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "BJ Konstas",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Sajid Khan Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Sajid Khan Afridi",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "BJ Konstas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Sajid Khan Afridi",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "BJ Konstas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sajid Khan Afridi",
+                  "fielders": [
+                    {
+                      "name": "SF Mangoda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "BJ Konstas",
+              "bowler": "AL Khunti",
+              "non_striker": "Sinan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "BJ Konstas",
+              "bowler": "AL Khunti",
+              "non_striker": "Sinan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "BJ Konstas",
+              "bowler": "AL Khunti",
+              "non_striker": "Sinan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Sinan Khan",
+              "bowler": "AL Khunti",
+              "non_striker": "BJ Konstas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Sinan Khan",
+              "bowler": "AL Khunti",
+              "non_striker": "BJ Konstas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sinan Khan",
+                  "fielders": [
+                    {
+                      "name": "E Bhonkar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "AS Mehmi",
+              "bowler": "AL Khunti",
+              "non_striker": "BJ Konstas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "BJ Konstas",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "AS Mehmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "AS Mehmi",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "BJ Konstas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "AS Mehmi",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "BJ Konstas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "AS Mehmi",
+              "bowler": "Niv Nagavkar",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "BJ Konstas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "BJ Konstas",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "AS Mehmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "BJ Konstas",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "AS Mehmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "AS Mehmi",
+                  "fielders": [
+                    {
+                      "name": "WSLK Narayana"
+                    },
+                    {
+                      "name": "Niv Nagavkar"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.5,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 45
+      }
+    }
+  ]
+}

@@ -1,0 +1,3245 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2021-05-26",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Prague",
+    "dates": [
+      "2021-05-22"
+    ],
+    "event": {
+      "name": "Central Europe Cup",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1161,
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "reserve_umpires": [
+        "P Vincent"
+      ],
+      "umpires": [
+        "J Foster",
+        "S Tripp"
+      ]
+    },
+    "outcome": {
+      "winner": "Austria",
+      "by": {
+        "runs": 78
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Austria": [
+        "Bilal Zalmai",
+        "M Simpson-Parker",
+        "N Wijesekera",
+        "K Joshi",
+        "Mirza Ahsan",
+        "Jaweed Sadran",
+        "Sahel Zadran",
+        "Razmal Shigiwal",
+        "Aqib Iqbal",
+        "Rayhaan Ahmed",
+        "LP Kasturiarachchige"
+      ],
+      "Czech Republic": [
+        "S Davizi",
+        "Hilal Ahmad",
+        "A Ashokan",
+        "EB Knowles",
+        "S Wickramasekara",
+        "K Mendon",
+        "P Taylor",
+        "Ali Waqar",
+        "Naveed Ahmed",
+        "SJ Patel",
+        "SMK Waththage"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Ashokan": "9244df4b",
+        "Ali Waqar": "89e17934",
+        "Aqib Iqbal": "14157abf",
+        "Bilal Zalmai": "33b67317",
+        "EB Knowles": "e141fddd",
+        "Hilal Ahmad": "f78aa227",
+        "J Foster": "2a1bc1b0",
+        "Jaweed Sadran": "c1f05d1d",
+        "K Joshi": "5b8e8294",
+        "K Mendon": "015dc0cd",
+        "LP Kasturiarachchige": "82af7861",
+        "M Simpson-Parker": "fecd828e",
+        "Mirza Ahsan": "6b74c13b",
+        "N Wijesekera": "85dcc96d",
+        "Naveed Ahmed": "87609cbb",
+        "P Taylor": "d3016d75",
+        "P Vincent": "afb1787b",
+        "Rayhaan Ahmed": "d9de31d4",
+        "Razmal Shigiwal": "60cc80ac",
+        "S Davizi": "5787be00",
+        "S Tripp": "6626e257",
+        "S Wickramasekara": "a9a09cb8",
+        "SJ Patel": "6a091f62",
+        "SMK Waththage": "0fc88c2a",
+        "Sahel Zadran": "dae28050"
+      }
+    },
+    "season": "2021",
+    "team_type": "international",
+    "teams": [
+      "Austria",
+      "Czech Republic"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Czech Republic"
+    },
+    "venue": "Scott Page Field, Vinor"
+  },
+  "innings": [
+    {
+      "team": "Austria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Bilal Zalmai",
+              "bowler": "Ali Waqar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "Bilal Zalmai",
+              "bowler": "Ali Waqar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "Bilal Zalmai",
+              "bowler": "Ali Waqar",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Bilal Zalmai",
+              "bowler": "Ali Waqar",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Bilal Zalmai",
+              "bowler": "Ali Waqar",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "M Simpson-Parker",
+              "bowler": "Ali Waqar",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "M Simpson-Parker",
+              "bowler": "Ali Waqar",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Bilal Zalmai",
+              "bowler": "Ali Waqar",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "M Simpson-Parker",
+              "bowler": "SMK Waththage",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Bilal Zalmai",
+              "bowler": "SMK Waththage",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Bilal Zalmai",
+              "bowler": "SMK Waththage",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Bilal Zalmai",
+              "bowler": "SMK Waththage",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Bilal Zalmai",
+              "bowler": "SMK Waththage",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Bilal Zalmai",
+              "bowler": "SMK Waththage",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "M Simpson-Parker",
+              "bowler": "Ali Waqar",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "M Simpson-Parker",
+              "bowler": "Ali Waqar",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Bilal Zalmai",
+              "bowler": "Ali Waqar",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "M Simpson-Parker",
+              "bowler": "Ali Waqar",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "M Simpson-Parker",
+              "bowler": "Ali Waqar",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "M Simpson-Parker",
+              "bowler": "Ali Waqar",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "M Simpson-Parker",
+              "bowler": "SMK Waththage",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Bilal Zalmai",
+              "bowler": "SMK Waththage",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Bilal Zalmai",
+              "bowler": "SMK Waththage",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "M Simpson-Parker",
+              "bowler": "SMK Waththage",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Bilal Zalmai",
+              "bowler": "SMK Waththage",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Bilal Zalmai",
+              "bowler": "SMK Waththage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Bilal Zalmai",
+              "bowler": "SMK Waththage",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "M Simpson-Parker",
+              "bowler": "Ali Waqar",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Bilal Zalmai",
+              "bowler": "Ali Waqar",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Bilal Zalmai",
+              "bowler": "Ali Waqar",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Bilal Zalmai",
+              "bowler": "Ali Waqar",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "M Simpson-Parker",
+              "bowler": "Ali Waqar",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "M Simpson-Parker",
+              "bowler": "Ali Waqar",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Bilal Zalmai",
+              "bowler": "P Taylor",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Bilal Zalmai",
+              "bowler": "P Taylor",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Bilal Zalmai",
+              "bowler": "P Taylor",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Bilal Zalmai",
+              "bowler": "P Taylor",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Bilal Zalmai",
+                  "fielders": [
+                    {
+                      "name": "A Ashokan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "N Wijesekera",
+              "bowler": "P Taylor",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "M Simpson-Parker",
+              "bowler": "P Taylor",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "N Wijesekera",
+              "bowler": "S Wickramasekara",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "N Wijesekera",
+              "bowler": "S Wickramasekara",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "N Wijesekera",
+              "bowler": "S Wickramasekara",
+              "non_striker": "M Simpson-Parker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "M Simpson-Parker",
+              "bowler": "S Wickramasekara",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "M Simpson-Parker",
+              "bowler": "S Wickramasekara",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Simpson-Parker",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "K Joshi",
+              "bowler": "S Wickramasekara",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "N Wijesekera",
+              "bowler": "P Taylor",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "N Wijesekera",
+              "bowler": "P Taylor",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "K Joshi",
+              "bowler": "P Taylor",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "K Joshi",
+              "bowler": "P Taylor",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "K Joshi",
+              "bowler": "P Taylor",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "K Joshi",
+              "bowler": "P Taylor",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "K Joshi",
+              "bowler": "P Taylor",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "K Joshi",
+              "bowler": "S Wickramasekara",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "N Wijesekera",
+              "bowler": "S Wickramasekara",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "K Joshi",
+              "bowler": "S Wickramasekara",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "K Joshi",
+              "bowler": "S Wickramasekara",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "N Wijesekera",
+              "bowler": "S Wickramasekara",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "N Wijesekera",
+              "bowler": "S Wickramasekara",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "K Joshi",
+              "bowler": "P Taylor",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "K Joshi",
+              "bowler": "P Taylor",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "N Wijesekera",
+              "bowler": "P Taylor",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "K Joshi",
+              "bowler": "P Taylor",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "K Joshi",
+              "bowler": "P Taylor",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "N Wijesekera",
+              "bowler": "P Taylor",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "N Wijesekera",
+              "bowler": "SJ Patel",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "N Wijesekera",
+              "bowler": "SJ Patel",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "K Joshi",
+              "bowler": "SJ Patel",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "K Joshi",
+              "bowler": "SJ Patel",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "N Wijesekera",
+              "bowler": "SJ Patel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "N Wijesekera",
+              "bowler": "SJ Patel",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "N Wijesekera",
+              "bowler": "SJ Patel",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "K Joshi",
+              "bowler": "SJ Patel",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "N Wijesekera",
+              "bowler": "P Taylor",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "K Joshi",
+              "bowler": "P Taylor",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "N Wijesekera",
+              "bowler": "P Taylor",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "K Joshi",
+              "bowler": "P Taylor",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "K Joshi",
+              "bowler": "P Taylor",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "N Wijesekera",
+              "bowler": "P Taylor",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "N Wijesekera",
+              "bowler": "SMK Waththage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.1",
+              "batter": "N Wijesekera",
+              "bowler": "SMK Waththage",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "K Joshi",
+              "bowler": "SMK Waththage",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "K Joshi",
+              "bowler": "SMK Waththage",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "K Joshi",
+              "bowler": "SMK Waththage",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "N Wijesekera",
+              "bowler": "SMK Waththage",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "N Wijesekera",
+              "bowler": "SMK Waththage",
+              "non_striker": "K Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "K Joshi",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Joshi",
+                  "fielders": [
+                    {
+                      "name": "Ali Waqar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "N Wijesekera",
+              "bowler": "Naveed Ahmed",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "N Wijesekera",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Mirza Ahsan",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "N Wijesekera",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Mirza Ahsan",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "N Wijesekera",
+              "bowler": "SMK Waththage",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Mirza Ahsan",
+              "bowler": "SMK Waththage",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "N Wijesekera",
+              "bowler": "SMK Waththage",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Mirza Ahsan",
+              "bowler": "SMK Waththage",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Mirza Ahsan",
+              "bowler": "SMK Waththage",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Mirza Ahsan",
+              "bowler": "SMK Waththage",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "N Wijesekera",
+              "bowler": "Naveed Ahmed",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.1",
+              "batter": "N Wijesekera",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "N Wijesekera",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Mirza Ahsan",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Mirza Ahsan",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "N Wijesekera",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Mirza Ahsan",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Mirza Ahsan",
+              "bowler": "S Wickramasekara",
+              "non_striker": "N Wijesekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "N Wijesekera",
+              "bowler": "S Wickramasekara",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "N Wijesekera",
+              "bowler": "S Wickramasekara",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "N Wijesekera",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Jaweed Sadran",
+              "bowler": "S Wickramasekara",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Jaweed Sadran",
+              "bowler": "S Wickramasekara",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Mirza Ahsan",
+              "bowler": "S Wickramasekara",
+              "non_striker": "Jaweed Sadran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Jaweed Sadran",
+              "bowler": "Ali Waqar",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jaweed Sadran",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Sahel Zadran",
+              "bowler": "Ali Waqar",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Mirza Ahsan",
+              "bowler": "Ali Waqar",
+              "non_striker": "Sahel Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Sahel Zadran",
+              "bowler": "Ali Waqar",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Sahel Zadran",
+              "bowler": "Ali Waqar",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Mirza Ahsan",
+              "bowler": "Ali Waqar",
+              "non_striker": "Sahel Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Mirza Ahsan",
+              "bowler": "S Wickramasekara",
+              "non_striker": "Sahel Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Mirza Ahsan",
+              "bowler": "S Wickramasekara",
+              "non_striker": "Sahel Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Sahel Zadran",
+              "bowler": "S Wickramasekara",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Sahel Zadran",
+              "bowler": "S Wickramasekara",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Mirza Ahsan",
+              "bowler": "S Wickramasekara",
+              "non_striker": "Sahel Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Mirza Ahsan",
+              "bowler": "S Wickramasekara",
+              "non_striker": "Sahel Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Sahel Zadran",
+              "bowler": "A Ashokan",
+              "non_striker": "Mirza Ahsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Mirza Ahsan",
+              "bowler": "A Ashokan",
+              "non_striker": "Sahel Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Sahel Zadran",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Mirza Ahsan",
+              "bowler": "A Ashokan",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Mirza Ahsan",
+              "bowler": "A Ashokan",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Mirza Ahsan",
+              "bowler": "A Ashokan",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Mirza Ahsan",
+              "bowler": "A Ashokan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Mirza Ahsan",
+              "bowler": "A Ashokan",
+              "non_striker": "Razmal Shigiwal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Czech Republic",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Davizi",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Hilal Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Davizi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "A Ashokan",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Hilal Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "A Ashokan",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Hilal Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Hilal Ahmad",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Hilal Ahmad",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Hilal Ahmad",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Hilal Ahmad",
+              "bowler": "Sahel Zadran",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "A Ashokan",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Hilal Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "A Ashokan",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Hilal Ahmad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "A Ashokan",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Hilal Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Hilal Ahmad",
+              "bowler": "Sahel Zadran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Hilal Ahmad",
+              "bowler": "Sahel Zadran",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Hilal Ahmad",
+              "bowler": "Sahel Zadran",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "A Ashokan",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Hilal Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Hilal Ahmad",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "A Ashokan",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Hilal Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Hilal Ahmad",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "A Ashokan",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Hilal Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "A Ashokan",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Hilal Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Ashokan",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Hilal Ahmad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Ashokan",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Hilal Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "A Ashokan",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Hilal Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Hilal Ahmad",
+              "bowler": "Sahel Zadran",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hilal Ahmad",
+                  "fielders": [
+                    {
+                      "name": "Razmal Shigiwal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "EB Knowles",
+              "bowler": "Sahel Zadran",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "EB Knowles",
+              "bowler": "Sahel Zadran",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "EB Knowles",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EB Knowles",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "S Wickramasekara",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "S Wickramasekara",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "S Wickramasekara",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "A Ashokan",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "A Ashokan",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "S Wickramasekara",
+              "bowler": "Sahel Zadran",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "A Ashokan",
+              "bowler": "Sahel Zadran",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Ashokan",
+                  "fielders": [
+                    {
+                      "name": "N Wijesekera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "K Mendon",
+              "bowler": "Sahel Zadran",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "K Mendon",
+              "bowler": "Sahel Zadran",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "K Mendon",
+              "bowler": "Sahel Zadran",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "K Mendon",
+              "bowler": "Sahel Zadran",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "S Wickramasekara",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "K Mendon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Wickramasekara",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "P Taylor",
+              "bowler": "LP Kasturiarachchige",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "K Mendon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "K Mendon",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "P Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "K Mendon",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "P Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "P Taylor",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "K Mendon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "K Mendon",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "P Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "P Taylor",
+              "bowler": "Bilal Zalmai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Mendon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.1",
+              "batter": "P Taylor",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "K Mendon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "K Mendon",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "P Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "K Mendon",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "P Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "K Mendon",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "P Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "P Taylor",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "K Mendon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "P Taylor",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "K Mendon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "K Mendon",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "P Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "K Mendon",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "P Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "K Mendon",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "P Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "P Taylor",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "K Mendon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "K Mendon",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "P Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "P Taylor",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "K Mendon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Taylor",
+                  "fielders": [
+                    {
+                      "name": "Rayhaan Ahmed"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "K Mendon",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "K Mendon",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Ali Waqar",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "K Mendon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Ali Waqar",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "K Mendon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Ali Waqar",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "K Mendon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "K Mendon",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Mendon",
+                  "fielders": [
+                    {
+                      "name": "Sahel Zadran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Naveed Ahmed",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Naveed Ahmed",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Naveed Ahmed",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Naveed Ahmed",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Naveed Ahmed",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Ali Waqar",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Naveed Ahmed",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Naveed Ahmed",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Naveed Ahmed",
+              "bowler": "Aqib Iqbal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Naveed Ahmed",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Naveed Ahmed",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Ali Waqar",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Naveed Ahmed",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Naveed Ahmed",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Naveed Ahmed",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Naveed Ahmed",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Naveed Ahmed",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Naveed Ahmed",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Naveed Ahmed",
+              "bowler": "LP Kasturiarachchige",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Ali Waqar",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Ali Waqar",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Naveed Ahmed",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Naveed Ahmed",
+              "bowler": "Aqib Iqbal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Naveed Ahmed",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Ali Waqar",
+              "bowler": "Aqib Iqbal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Ali Waqar",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Ali Waqar",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Ali Waqar",
+              "bowler": "Jaweed Sadran",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Ali Waqar",
+              "bowler": "Jaweed Sadran",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Naveed Ahmed",
+              "bowler": "Jaweed Sadran",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Ali Waqar",
+              "bowler": "Jaweed Sadran",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Ali Waqar",
+              "bowler": "Jaweed Sadran",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Ali Waqar",
+              "bowler": "Jaweed Sadran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Ali Waqar",
+              "bowler": "Jaweed Sadran",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Ali Waqar",
+              "bowler": "M Simpson-Parker",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.1",
+              "batter": "Naveed Ahmed",
+              "bowler": "M Simpson-Parker",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Ali Waqar",
+              "bowler": "M Simpson-Parker",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Ali Waqar",
+              "bowler": "M Simpson-Parker",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Naveed Ahmed",
+              "bowler": "M Simpson-Parker",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Naveed Ahmed",
+              "bowler": "M Simpson-Parker",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Naveed Ahmed",
+              "bowler": "M Simpson-Parker",
+              "non_striker": "Ali Waqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Ali Waqar",
+              "bowler": "M Simpson-Parker",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Waqar",
+                  "fielders": [
+                    {
+                      "name": "LP Kasturiarachchige"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "SJ Patel",
+              "bowler": "Jaweed Sadran",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "SJ Patel",
+              "bowler": "Jaweed Sadran",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SJ Patel",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "SMK Waththage",
+              "bowler": "Jaweed Sadran",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "SMK Waththage",
+              "bowler": "Jaweed Sadran",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "SMK Waththage",
+              "bowler": "Jaweed Sadran",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "SMK Waththage",
+              "bowler": "Jaweed Sadran",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Naveed Ahmed",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "SMK Waththage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Naveed Ahmed",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "SMK Waththage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "SMK Waththage",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "SMK Waththage",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Naveed Ahmed",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "SMK Waththage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "SMK Waththage",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Naveed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Naveed Ahmed",
+              "bowler": "Jaweed Sadran",
+              "non_striker": "SMK Waththage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Naveed Ahmed",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 163
+      }
+    }
+  ]
+}

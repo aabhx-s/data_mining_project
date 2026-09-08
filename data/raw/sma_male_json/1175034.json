@@ -1,0 +1,3305 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2023-01-03",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2019-03-10"
+    ],
+    "event": {
+      "name": "Syed Mushtaq Ali Trophy",
+      "group": "B",
+      "stage": "Super League"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Vidarbha",
+      "by": {
+        "runs": 10
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Vidarbha": [
+        "Atharva Taide",
+        "JM Sharma",
+        "SU Shrivastava",
+        "Akshay Karnewar",
+        "Ganesh Satish",
+        "RR Rathod",
+        "AV Wankhade",
+        "RL Jangid",
+        "UT Yadav",
+        "Akshay Wakhare",
+        "SB Wagh"
+      ],
+      "Uttar Pradesh": [
+        "AS Rajpoot",
+        "Yash Dayal",
+        "Mohsin Khan",
+        "Saurabh Kumar",
+        "Ankit Chaudhary",
+        "Upendra Yadav",
+        "Samarth Singh",
+        "PK Garg",
+        "AD Nath",
+        "RK Singh",
+        "Shubham Chaubey"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Nath": "f10e94c4",
+        "AS Rajpoot": "db31895a",
+        "AV Wankhade": "5708d0b6",
+        "Akshay Karnewar": "e1e7f950",
+        "Akshay Wakhare": "ec9fc54b",
+        "Ankit Chaudhary": "c0e59e39",
+        "Atharva Taide": "1ac746c8",
+        "Ganesh Satish": "0ed1a112",
+        "JM Sharma": "800d2d97",
+        "Mohsin Khan": "c33d8116",
+        "PK Garg": "bb965e9a",
+        "RK Singh": "0a509d6b",
+        "RL Jangid": "fe5f2e48",
+        "RR Rathod": "3c79f8af",
+        "SB Wagh": "dddca1d6",
+        "SU Shrivastava": "a392328e",
+        "Samarth Singh": "9889da93",
+        "Saurabh Kumar": "2a6afc6f",
+        "Shiva Singh": "3b63b5cc",
+        "Shubham Chaubey": "58588e5a",
+        "UT Yadav": "cc1e8c68",
+        "Upendra Yadav": "80ffea17",
+        "Yash Dayal": "7210d461"
+      }
+    },
+    "season": "2018/19",
+    "team_type": "club",
+    "teams": [
+      "Vidarbha",
+      "Uttar Pradesh"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Uttar Pradesh"
+    },
+    "venue": " Emerald Heights International School Ground"
+  },
+  "innings": [
+    {
+      "team": "Vidarbha",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Atharva Taide",
+              "bowler": "AS Rajpoot",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Atharva Taide",
+              "bowler": "AS Rajpoot",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Atharva Taide",
+              "bowler": "AS Rajpoot",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "JM Sharma",
+              "bowler": "AS Rajpoot",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "JM Sharma",
+              "bowler": "AS Rajpoot",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "JM Sharma",
+              "bowler": "AS Rajpoot",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Atharva Taide",
+              "bowler": "Yash Dayal",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Atharva Taide",
+              "bowler": "Yash Dayal",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Atharva Taide",
+              "bowler": "Yash Dayal",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Atharva Taide",
+              "bowler": "Yash Dayal",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Atharva Taide",
+              "bowler": "Yash Dayal",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "JM Sharma",
+              "bowler": "Yash Dayal",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Atharva Taide",
+              "bowler": "AS Rajpoot",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Atharva Taide",
+              "bowler": "AS Rajpoot",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "JM Sharma",
+              "bowler": "AS Rajpoot",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "JM Sharma",
+              "bowler": "AS Rajpoot",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "JM Sharma",
+              "bowler": "AS Rajpoot",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Atharva Taide",
+              "bowler": "AS Rajpoot",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Atharva Taide",
+              "bowler": "AS Rajpoot",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "JM Sharma",
+              "bowler": "Mohsin Khan",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "JM Sharma",
+              "bowler": "Mohsin Khan",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "JM Sharma",
+              "bowler": "Mohsin Khan",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Atharva Taide",
+              "bowler": "Mohsin Khan",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Atharva Taide",
+              "bowler": "Mohsin Khan",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Atharva Taide",
+              "bowler": "Mohsin Khan",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "JM Sharma",
+              "bowler": "Yash Dayal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "JM Sharma",
+              "bowler": "Yash Dayal",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Atharva Taide",
+              "bowler": "Yash Dayal",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Atharva Taide",
+              "bowler": "Yash Dayal",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Atharva Taide",
+              "bowler": "Yash Dayal",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Atharva Taide",
+              "bowler": "Yash Dayal",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Atharva Taide",
+              "bowler": "Yash Dayal",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Atharva Taide",
+              "bowler": "Mohsin Khan",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Atharva Taide",
+              "bowler": "Mohsin Khan",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Atharva Taide",
+              "bowler": "Mohsin Khan",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Atharva Taide",
+              "bowler": "Mohsin Khan",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "JM Sharma",
+              "bowler": "Mohsin Khan",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Atharva Taide",
+              "bowler": "Mohsin Khan",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "JM Sharma",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "JM Sharma",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "JM Sharma",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Atharva Taide",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "JM Sharma",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "JM Sharma",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "JM Sharma",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "JM Sharma",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JM Sharma",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "SU Shrivastava",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Atharva Taide",
+              "bowler": "Ankit Chaudhary",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Atharva Taide",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "SU Shrivastava",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Atharva Taide",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "SU Shrivastava",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "SU Shrivastava",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Atharva Taide",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "SU Shrivastava",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Atharva Taide",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "SU Shrivastava",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Atharva Taide",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Atharva Taide",
+              "bowler": "Ankit Chaudhary",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "SU Shrivastava",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Atharva Taide",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "SU Shrivastava",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "Atharva Taide",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Atharva Taide",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Atharva Taide",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Atharva Taide",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Atharva Taide",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Atharva Taide",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Atharva Taide",
+                  "fielders": [
+                    {
+                      "name": "Shubham Chaubey"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Akshay Karnewar",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "SU Shrivastava",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "Akshay Karnewar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Akshay Karnewar",
+              "bowler": "Yash Dayal",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Akshay Karnewar",
+              "bowler": "Yash Dayal",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Akshay Karnewar",
+                  "fielders": [
+                    {
+                      "name": "RK Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "SU Shrivastava",
+              "bowler": "Yash Dayal",
+              "non_striker": "Ganesh Satish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Ganesh Satish",
+              "bowler": "Yash Dayal",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "SU Shrivastava",
+              "bowler": "Yash Dayal",
+              "non_striker": "Ganesh Satish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Ganesh Satish",
+              "bowler": "Yash Dayal",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "SU Shrivastava",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "Ganesh Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "SU Shrivastava",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "Ganesh Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "SU Shrivastava",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "Ganesh Satish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Ganesh Satish",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ganesh Satish",
+                  "fielders": [
+                    {
+                      "name": "Upendra Yadav"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "RR Rathod",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "SU Shrivastava",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "RR Rathod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "RR Rathod",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "SU Shrivastava",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "RR Rathod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "RR Rathod",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "RR Rathod",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "SU Shrivastava",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "RR Rathod",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "SU Shrivastava",
+              "bowler": "Saurabh Kumar",
+              "non_striker": "RR Rathod",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "RR Rathod",
+              "bowler": "AS Rajpoot",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Rathod",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "AV Wankhade",
+              "bowler": "AS Rajpoot",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "SU Shrivastava",
+              "bowler": "AS Rajpoot",
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "AV Wankhade",
+              "bowler": "AS Rajpoot",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "AV Wankhade",
+              "bowler": "AS Rajpoot",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "AV Wankhade",
+              "bowler": "AS Rajpoot",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "SU Shrivastava",
+              "bowler": "AS Rajpoot",
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "SU Shrivastava",
+              "bowler": "Mohsin Khan",
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "AV Wankhade",
+              "bowler": "Mohsin Khan",
+              "non_striker": "SU Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "SU Shrivastava",
+              "bowler": "Mohsin Khan",
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "SU Shrivastava",
+              "bowler": "Mohsin Khan",
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "SU Shrivastava",
+              "bowler": "Mohsin Khan",
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SU Shrivastava",
+                  "fielders": [
+                    {
+                      "name": "Upendra Yadav"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "RL Jangid",
+              "bowler": "Mohsin Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "RL Jangid",
+              "bowler": "Mohsin Khan",
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "AV Wankhade",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "AV Wankhade",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "RL Jangid",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "AV Wankhade",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "AV Wankhade",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "AV Wankhade",
+              "bowler": "Ankit Chaudhary",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "RL Jangid",
+              "bowler": "Yash Dayal",
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "AV Wankhade",
+              "bowler": "Yash Dayal",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "AV Wankhade",
+              "bowler": "Yash Dayal",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "RL Jangid",
+              "bowler": "Yash Dayal",
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "AV Wankhade",
+              "bowler": "Yash Dayal",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "AV Wankhade",
+              "bowler": "Yash Dayal",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "AV Wankhade",
+              "bowler": "Yash Dayal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "AV Wankhade",
+              "bowler": "Yash Dayal",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "AV Wankhade",
+              "bowler": "AS Rajpoot",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "RL Jangid",
+              "bowler": "AS Rajpoot",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "AV Wankhade",
+              "bowler": "AS Rajpoot",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "RL Jangid",
+              "bowler": "AS Rajpoot",
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "RL Jangid",
+              "bowler": "AS Rajpoot",
+              "non_striker": "AV Wankhade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "AV Wankhade",
+              "bowler": "AS Rajpoot",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "AV Wankhade",
+              "bowler": "Mohsin Khan",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AV Wankhade",
+                  "fielders": [
+                    {
+                      "name": "Shiva Singh",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "RL Jangid",
+              "bowler": "Mohsin Khan",
+              "non_striker": "UT Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "RL Jangid",
+              "bowler": "Mohsin Khan",
+              "non_striker": "UT Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "RL Jangid",
+              "bowler": "Mohsin Khan",
+              "non_striker": "UT Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "UT Yadav",
+              "bowler": "Mohsin Khan",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "UT Yadav",
+              "bowler": "Mohsin Khan",
+              "non_striker": "RL Jangid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Uttar Pradesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Upendra Yadav",
+              "bowler": "UT Yadav",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Upendra Yadav",
+              "bowler": "UT Yadav",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Upendra Yadav",
+              "bowler": "UT Yadav",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Upendra Yadav",
+              "bowler": "UT Yadav",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Upendra Yadav",
+              "bowler": "UT Yadav",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Upendra Yadav",
+              "bowler": "UT Yadav",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Upendra Yadav",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Upendra Yadav",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Upendra Yadav",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Samarth Singh",
+              "bowler": "RL Jangid",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Samarth Singh",
+              "bowler": "RL Jangid",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Upendra Yadav",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Samarth Singh",
+              "bowler": "SB Wagh",
+              "non_striker": "Upendra Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Upendra Yadav",
+              "bowler": "SB Wagh",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Upendra Yadav",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "PK Garg",
+              "bowler": "SB Wagh",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Samarth Singh",
+              "bowler": "SB Wagh",
+              "non_striker": "PK Garg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Samarth Singh",
+              "bowler": "SB Wagh",
+              "non_striker": "PK Garg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "PK Garg",
+              "bowler": "SB Wagh",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "PK Garg",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "PK Garg",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PK Garg",
+                  "fielders": [
+                    {
+                      "name": "RR Rathod"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Saurabh Kumar",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Saurabh Kumar",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Saurabh Kumar",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Saurabh Kumar",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Samarth Singh",
+              "bowler": "SB Wagh",
+              "non_striker": "Saurabh Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Saurabh Kumar",
+              "bowler": "SB Wagh",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Samarth Singh",
+              "bowler": "SB Wagh",
+              "non_striker": "Saurabh Kumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Samarth Singh",
+              "bowler": "SB Wagh",
+              "non_striker": "Saurabh Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Samarth Singh",
+              "bowler": "SB Wagh",
+              "non_striker": "Saurabh Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Saurabh Kumar",
+              "bowler": "SB Wagh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Saurabh Kumar",
+              "bowler": "SB Wagh",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Saurabh Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Saurabh Kumar",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Saurabh Kumar",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saurabh Kumar",
+                  "fielders": [
+                    {
+                      "name": "JM Sharma"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "AD Nath",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "AD Nath",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Wakhare",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.1",
+              "batter": "AD Nath",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "AD Nath",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "AD Nath",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "AD Nath",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Samarth Singh",
+              "bowler": "RL Jangid",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Samarth Singh",
+              "bowler": "RL Jangid",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Samarth Singh",
+              "bowler": "Atharva Taide",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.1",
+              "batter": "Samarth Singh",
+              "bowler": "Atharva Taide",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "AD Nath",
+              "bowler": "Atharva Taide",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "AD Nath",
+              "bowler": "Atharva Taide",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "AD Nath",
+              "bowler": "Atharva Taide",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Samarth Singh",
+              "bowler": "Atharva Taide",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "AD Nath",
+              "bowler": "Atharva Taide",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Samarth Singh",
+              "bowler": "Atharva Taide",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Samarth Singh",
+              "bowler": "RL Jangid",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "AD Nath",
+              "bowler": "RL Jangid",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Nath",
+                  "fielders": [
+                    {
+                      "name": "JM Sharma"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "RK Singh",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "RK Singh",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "RK Singh",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RK Singh",
+                  "fielders": [
+                    {
+                      "name": "AV Wankhade"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Shubham Chaubey",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Shubham Chaubey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Shubham Chaubey",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shubham Chaubey",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Mohsin Khan",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Mohsin Khan",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Mohsin Khan",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Mohsin Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohsin Khan",
+                  "fielders": [
+                    {
+                      "name": "Ganesh Satish"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Akshay Wakhare",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Wakhare",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Samarth Singh",
+              "bowler": "Atharva Taide",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Atharva Taide",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Atharva Taide",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Atharva Taide",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Samarth Singh",
+              "bowler": "Atharva Taide",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Atharva Taide",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Ankit Chaudhary",
+              "bowler": "SB Wagh",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Samarth Singh",
+              "bowler": "SB Wagh",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Ankit Chaudhary",
+              "bowler": "SB Wagh",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Samarth Singh",
+              "bowler": "SB Wagh",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Ankit Chaudhary",
+              "bowler": "SB Wagh",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Samarth Singh",
+              "bowler": "SB Wagh",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Akshay Karnewar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Ankit Chaudhary",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Samarth Singh",
+              "bowler": "Akshay Karnewar",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Samarth Singh",
+              "bowler": "SB Wagh",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Samarth Singh",
+              "bowler": "SB Wagh",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Ankit Chaudhary",
+              "bowler": "SB Wagh",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Samarth Singh",
+              "bowler": "SB Wagh",
+              "non_striker": "Ankit Chaudhary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Samarth Singh",
+                  "fielders": [
+                    {
+                      "name": "RR Rathod"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Ankit Chaudhary",
+              "bowler": "SB Wagh",
+              "non_striker": "AS Rajpoot",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Ankit Chaudhary",
+              "bowler": "SB Wagh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AS Rajpoot",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Ankit Chaudhary",
+              "bowler": "SB Wagh",
+              "non_striker": "AS Rajpoot",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ankit Chaudhary",
+                  "fielders": [
+                    {
+                      "name": "UT Yadav"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Yash Dayal",
+              "bowler": "UT Yadav",
+              "non_striker": "AS Rajpoot",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Yash Dayal",
+              "bowler": "UT Yadav",
+              "non_striker": "AS Rajpoot",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "AS Rajpoot",
+              "bowler": "UT Yadav",
+              "non_striker": "Yash Dayal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "AS Rajpoot",
+              "bowler": "UT Yadav",
+              "non_striker": "Yash Dayal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Yash Dayal",
+              "bowler": "UT Yadav",
+              "non_striker": "AS Rajpoot",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "AS Rajpoot",
+              "bowler": "UT Yadav",
+              "non_striker": "Yash Dayal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

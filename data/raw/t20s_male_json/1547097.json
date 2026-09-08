@@ -1,0 +1,3086 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Blantyre",
+    "dates": [
+      "2026-08-16"
+    ],
+    "event": {
+      "name": "Malawi Tri-Nation T20I Series",
+      "match_number": 9
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4080,
+    "officials": {
+      "match_referees": [
+        "Justine Muzungu"
+      ],
+      "reserve_umpires": [
+        "John Mayeku"
+      ],
+      "umpires": [
+        "D Shawane",
+        "Osman Mhango"
+      ]
+    },
+    "outcome": {
+      "winner": "Rwanda",
+      "by": {
+        "wickets": 2
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "M Choamba"
+    ],
+    "players": {
+      "Malawi": [
+        "A Limdawala",
+        "Salim Patel",
+        "SY Nihute",
+        "Sami Sohail",
+        "D Kansonkho",
+        "B Balala",
+        "SZ Vayani",
+        "M Choamba",
+        "Matthew Mount",
+        "D Jakiel",
+        "K Thuchila"
+      ],
+      "Rwanda": [
+        "D Ndikubwimana",
+        "Hamza Khan",
+        "I Niyomugabo",
+        "O Manishimwe",
+        "Yves Cyusa",
+        "D Uwimana",
+        "E Rukiriza",
+        "M Akayezu",
+        "I Ntirenganya",
+        "Muhammad Nadir",
+        "JM Iradukunda"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Limdawala": "2bcbcac3",
+        "B Balala": "a2f8e873",
+        "D Jakiel": "8b7ce771",
+        "D Kansonkho": "45ca12a7",
+        "D Ndikubwimana": "3cbedf51",
+        "D Shawane": "021e0d95",
+        "D Uwimana": "1f8e97d7",
+        "E Rukiriza": "3ac13a94",
+        "Hamza Khan": "44a5f2b2",
+        "I Niyomugabo": "72bf5103",
+        "I Ntirenganya": "e73f6c4b",
+        "JM Iradukunda": "f58295c2",
+        "John Mayeku": "9d819a32",
+        "Justine Muzungu": "b90044b7",
+        "K Thuchila": "af42d9f2",
+        "M Akayezu": "1f3b9f8d",
+        "M Choamba": "5570c4c1",
+        "Matthew Mount": "245ca608",
+        "Muhammad Nadir": "090f96e4",
+        "O Manishimwe": "fb31ca49",
+        "Osman Mhango": "fa4ec243",
+        "SY Nihute": "56b41ed3",
+        "SZ Vayani": "a4afc486",
+        "Salim Patel": "6f13ff1c",
+        "Sami Sohail": "602ebd4c",
+        "Yves Cyusa": "b5aa28ce"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Malawi",
+      "Rwanda"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Malawi"
+    },
+    "venue": "TCA Oval, Blantyre"
+  },
+  "innings": [
+    {
+      "team": "Malawi",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "A Limdawala",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Salim Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "A Limdawala",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Salim Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Salim Patel",
+              "bowler": "I Ntirenganya",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Salim Patel",
+              "bowler": "I Ntirenganya",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Salim Patel",
+              "bowler": "I Ntirenganya",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Salim Patel",
+                  "fielders": [
+                    {
+                      "name": "D Uwimana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "SY Nihute",
+              "bowler": "I Ntirenganya",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "A Limdawala",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "SY Nihute",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "SY Nihute",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "SY Nihute",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "SY Nihute",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "SY Nihute",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "SY Nihute",
+              "bowler": "I Ntirenganya",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "SY Nihute",
+              "bowler": "I Ntirenganya",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "A Limdawala",
+              "bowler": "I Ntirenganya",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "SY Nihute",
+              "bowler": "I Ntirenganya",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "A Limdawala",
+              "bowler": "I Ntirenganya",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "SY Nihute",
+              "bowler": "I Ntirenganya",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "SY Nihute",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "SY Nihute",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "SY Nihute",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "A Limdawala",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Limdawala",
+                  "fielders": [
+                    {
+                      "name": "I Niyomugabo"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Sami Sohail",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Sami Sohail",
+              "bowler": "JM Iradukunda",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Sami Sohail",
+              "bowler": "JM Iradukunda",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "SY Nihute",
+              "bowler": "JM Iradukunda",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "SY Nihute",
+              "bowler": "JM Iradukunda",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "SY Nihute",
+              "bowler": "JM Iradukunda",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "SY Nihute",
+              "bowler": "JM Iradukunda",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SY Nihute",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Sami Sohail",
+              "bowler": "E Rukiriza",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Sami Sohail",
+              "bowler": "E Rukiriza",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Sami Sohail",
+              "bowler": "E Rukiriza",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sami Sohail",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "B Balala",
+              "bowler": "E Rukiriza",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "B Balala",
+              "bowler": "E Rukiriza",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "D Kansonkho",
+              "bowler": "E Rukiriza",
+              "non_striker": "B Balala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "B Balala",
+              "bowler": "JM Iradukunda",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "D Kansonkho",
+              "bowler": "JM Iradukunda",
+              "non_striker": "B Balala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "D Kansonkho",
+              "bowler": "JM Iradukunda",
+              "non_striker": "B Balala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "B Balala",
+              "bowler": "JM Iradukunda",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "D Kansonkho",
+              "bowler": "JM Iradukunda",
+              "non_striker": "B Balala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "B Balala",
+              "bowler": "JM Iradukunda",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "D Kansonkho",
+              "bowler": "E Rukiriza",
+              "non_striker": "B Balala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Balala",
+                  "fielders": [
+                    {
+                      "name": "O Manishimwe"
+                    },
+                    {
+                      "name": "I Ntirenganya"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "SZ Vayani",
+              "bowler": "E Rukiriza",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "SZ Vayani",
+              "bowler": "E Rukiriza",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "D Kansonkho",
+              "bowler": "E Rukiriza",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "D Kansonkho",
+              "bowler": "E Rukiriza",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "D Kansonkho",
+              "bowler": "E Rukiriza",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "D Kansonkho",
+              "bowler": "M Akayezu",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "SZ Vayani",
+              "bowler": "M Akayezu",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "D Kansonkho",
+              "bowler": "M Akayezu",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "D Kansonkho",
+              "bowler": "M Akayezu",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "D Kansonkho",
+              "bowler": "M Akayezu",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "SZ Vayani",
+              "bowler": "M Akayezu",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "SZ Vayani",
+              "bowler": "E Rukiriza",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "SZ Vayani",
+              "bowler": "E Rukiriza",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "D Kansonkho",
+              "bowler": "E Rukiriza",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "SZ Vayani",
+              "bowler": "E Rukiriza",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "D Kansonkho",
+              "bowler": "E Rukiriza",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "D Kansonkho",
+              "bowler": "E Rukiriza",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "D Kansonkho",
+              "bowler": "M Akayezu",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "SZ Vayani",
+              "bowler": "M Akayezu",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "D Kansonkho",
+              "bowler": "M Akayezu",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "SZ Vayani",
+              "bowler": "M Akayezu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "SZ Vayani",
+              "bowler": "M Akayezu",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "D Kansonkho",
+              "bowler": "M Akayezu",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "SZ Vayani",
+              "bowler": "M Akayezu",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "D Kansonkho",
+              "bowler": "E Rukiriza",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "D Kansonkho",
+              "bowler": "E Rukiriza",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "SZ Vayani",
+              "bowler": "E Rukiriza",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "SZ Vayani",
+              "bowler": "E Rukiriza",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "D Kansonkho",
+              "bowler": "E Rukiriza",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "SZ Vayani",
+              "bowler": "E Rukiriza",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SZ Vayani",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "D Kansonkho",
+              "bowler": "JM Iradukunda",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "D Kansonkho",
+              "bowler": "JM Iradukunda",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "D Kansonkho",
+              "bowler": "JM Iradukunda",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "M Choamba",
+              "bowler": "JM Iradukunda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "M Choamba",
+              "bowler": "JM Iradukunda",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "M Choamba",
+              "bowler": "JM Iradukunda",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "D Kansonkho",
+              "bowler": "JM Iradukunda",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "D Kansonkho",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "D Kansonkho",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "D Kansonkho",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "D Kansonkho",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "M Choamba",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "M Choamba",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "D Kansonkho",
+              "bowler": "JM Iradukunda",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "M Choamba",
+              "bowler": "JM Iradukunda",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "M Choamba",
+              "bowler": "JM Iradukunda",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "M Choamba",
+              "bowler": "JM Iradukunda",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "M Choamba",
+              "bowler": "JM Iradukunda",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "D Kansonkho",
+              "bowler": "JM Iradukunda",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "M Choamba",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "M Choamba",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "M Choamba",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "M Choamba",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Choamba",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "M Choamba",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "D Kansonkho",
+              "bowler": "M Akayezu",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "M Choamba",
+              "bowler": "M Akayezu",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Choamba",
+                  "fielders": [
+                    {
+                      "name": "D Ndikubwimana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Matthew Mount",
+              "bowler": "M Akayezu",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Matthew Mount",
+              "bowler": "M Akayezu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Matthew Mount",
+              "bowler": "M Akayezu",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Matthew Mount",
+              "bowler": "M Akayezu",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Matthew Mount",
+              "bowler": "M Akayezu",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "D Kansonkho",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Matthew Mount",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "D Kansonkho",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Matthew Mount",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Matthew Mount",
+              "bowler": "I Ntirenganya",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "D Kansonkho",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Matthew Mount",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Matthew Mount",
+              "bowler": "I Ntirenganya",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "D Kansonkho",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Matthew Mount",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Matthew Mount",
+              "bowler": "M Akayezu",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Matthew Mount",
+              "bowler": "M Akayezu",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "D Kansonkho",
+              "bowler": "M Akayezu",
+              "non_striker": "Matthew Mount",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "D Kansonkho",
+              "bowler": "M Akayezu",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Matthew Mount",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "D Kansonkho",
+              "bowler": "M Akayezu",
+              "non_striker": "Matthew Mount",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "D Kansonkho",
+              "bowler": "M Akayezu",
+              "non_striker": "Matthew Mount",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Matthew Mount",
+              "bowler": "M Akayezu",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Matthew Mount",
+              "bowler": "I Ntirenganya",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Matthew Mount",
+              "bowler": "I Ntirenganya",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Matthew Mount",
+              "bowler": "I Ntirenganya",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Matthew Mount",
+              "bowler": "I Ntirenganya",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Matthew Mount",
+              "bowler": "I Ntirenganya",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Matthew Mount",
+              "bowler": "I Ntirenganya",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Rwanda",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Hamza Khan",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Hamza Khan",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Hamza Khan",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Hamza Khan",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Hamza Khan",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Hamza Khan",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Hamza Khan",
+              "bowler": "D Jakiel",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hamza Khan",
+                  "fielders": [
+                    {
+                      "name": "K Thuchila"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "D Ndikubwimana",
+              "bowler": "K Thuchila",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "I Niyomugabo",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "I Niyomugabo",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "I Niyomugabo",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "I Niyomugabo",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "I Niyomugabo",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "I Niyomugabo",
+              "bowler": "D Jakiel",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "I Niyomugabo",
+              "bowler": "D Jakiel",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "I Niyomugabo",
+              "bowler": "D Jakiel",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "D Ndikubwimana",
+              "bowler": "D Jakiel",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "I Niyomugabo",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "I Niyomugabo",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "I Niyomugabo",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "I Niyomugabo",
+              "bowler": "K Thuchila",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "D Ndikubwimana",
+              "bowler": "K Thuchila",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "D Ndikubwimana",
+              "bowler": "K Thuchila",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "I Niyomugabo",
+              "bowler": "SZ Vayani",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "D Ndikubwimana",
+              "bowler": "SZ Vayani",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "D Ndikubwimana",
+              "bowler": "SZ Vayani",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "I Niyomugabo",
+              "bowler": "SZ Vayani",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "D Ndikubwimana",
+              "bowler": "SZ Vayani",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "I Niyomugabo",
+              "bowler": "SZ Vayani",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Niyomugabo",
+                  "fielders": [
+                    {
+                      "name": "SY Nihute"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "D Ndikubwimana",
+              "bowler": "K Thuchila",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Ndikubwimana",
+                  "fielders": [
+                    {
+                      "name": "SZ Vayani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Yves Cyusa",
+              "bowler": "K Thuchila",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Yves Cyusa",
+              "bowler": "K Thuchila",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Yves Cyusa",
+              "bowler": "K Thuchila",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Yves Cyusa",
+              "bowler": "K Thuchila",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Yves Cyusa",
+              "bowler": "K Thuchila",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Yves Cyusa",
+              "bowler": "SZ Vayani",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "O Manishimwe",
+              "bowler": "SZ Vayani",
+              "non_striker": "Yves Cyusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "O Manishimwe",
+              "bowler": "SZ Vayani",
+              "non_striker": "Yves Cyusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Yves Cyusa",
+              "bowler": "SZ Vayani",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Yves Cyusa",
+              "bowler": "SZ Vayani",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Yves Cyusa",
+              "bowler": "SZ Vayani",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Yves Cyusa",
+              "bowler": "M Choamba",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Yves Cyusa",
+              "bowler": "M Choamba",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Yves Cyusa",
+              "bowler": "M Choamba",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yves Cyusa",
+                  "fielders": [
+                    {
+                      "name": "D Jakiel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "D Uwimana",
+              "bowler": "M Choamba",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "D Uwimana",
+              "bowler": "M Choamba",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "D Uwimana",
+              "bowler": "M Choamba",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "O Manishimwe",
+              "bowler": "SZ Vayani",
+              "non_striker": "D Uwimana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "O Manishimwe",
+              "bowler": "SZ Vayani",
+              "non_striker": "D Uwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "O Manishimwe",
+              "bowler": "SZ Vayani",
+              "non_striker": "D Uwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "O Manishimwe",
+              "bowler": "SZ Vayani",
+              "non_striker": "D Uwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "O Manishimwe",
+              "bowler": "SZ Vayani",
+              "non_striker": "D Uwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "O Manishimwe",
+              "bowler": "SZ Vayani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Uwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "O Manishimwe",
+              "bowler": "SZ Vayani",
+              "non_striker": "D Uwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "D Uwimana",
+              "bowler": "M Choamba",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Uwimana",
+                  "fielders": [
+                    {
+                      "name": "Sami Sohail"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "E Rukiriza",
+              "bowler": "M Choamba",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Rukiriza",
+                  "fielders": [
+                    {
+                      "name": "Sami Sohail"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "M Akayezu",
+              "bowler": "M Choamba",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "M Akayezu",
+              "bowler": "M Choamba",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "M Akayezu",
+              "bowler": "M Choamba",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "M Akayezu",
+              "bowler": "M Choamba",
+              "non_striker": "O Manishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Akayezu",
+                  "fielders": [
+                    {
+                      "name": "A Limdawala"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "O Manishimwe",
+              "bowler": "SZ Vayani",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "O Manishimwe",
+              "bowler": "SZ Vayani",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "O Manishimwe",
+              "bowler": "SZ Vayani",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Manishimwe",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Muhammad Nadir",
+              "bowler": "SZ Vayani",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Muhammad Nadir",
+              "bowler": "SZ Vayani",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "I Ntirenganya",
+              "bowler": "SZ Vayani",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Muhammad Nadir",
+              "bowler": "M Choamba",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "I Ntirenganya",
+              "bowler": "M Choamba",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "I Ntirenganya",
+              "bowler": "M Choamba",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "I Ntirenganya",
+              "bowler": "M Choamba",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "I Ntirenganya",
+              "bowler": "M Choamba",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "I Ntirenganya",
+              "bowler": "M Choamba",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "I Ntirenganya",
+              "bowler": "D Jakiel",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "I Ntirenganya",
+              "bowler": "D Jakiel",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "I Ntirenganya",
+              "bowler": "D Jakiel",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Muhammad Nadir",
+              "bowler": "D Jakiel",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Muhammad Nadir",
+              "bowler": "D Jakiel",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Muhammad Nadir",
+              "bowler": "D Jakiel",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Muhammad Nadir",
+              "bowler": "M Choamba",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "I Ntirenganya",
+              "bowler": "M Choamba",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "I Ntirenganya",
+              "bowler": "M Choamba",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "I Ntirenganya",
+              "bowler": "M Choamba",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Muhammad Nadir",
+              "bowler": "M Choamba",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Muhammad Nadir",
+              "bowler": "M Choamba",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "I Ntirenganya",
+              "bowler": "Sami Sohail",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "I Ntirenganya",
+              "bowler": "Sami Sohail",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "I Ntirenganya",
+              "bowler": "Sami Sohail",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Muhammad Nadir",
+              "bowler": "Sami Sohail",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Muhammad Nadir",
+              "bowler": "Sami Sohail",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "I Ntirenganya",
+              "bowler": "Sami Sohail",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Muhammad Nadir",
+              "bowler": "B Balala",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Muhammad Nadir",
+              "bowler": "B Balala",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "I Ntirenganya",
+              "bowler": "B Balala",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "I Ntirenganya",
+              "bowler": "B Balala",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Muhammad Nadir",
+              "bowler": "B Balala",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Muhammad Nadir",
+              "bowler": "B Balala",
+              "non_striker": "I Ntirenganya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "I Ntirenganya",
+              "bowler": "Sami Sohail",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 102
+      }
+    }
+  ]
+}

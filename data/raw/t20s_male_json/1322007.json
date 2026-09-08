@@ -1,0 +1,3007 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2022-07-13",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangi",
+    "dates": [
+      "2022-07-08"
+    ],
+    "event": {
+      "name": "Quadrangular Twenty20 Series (Malaysia)",
+      "match_number": 10
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1618,
+    "officials": {
+      "match_referees": [
+        "B Ramani"
+      ],
+      "reserve_umpires": [
+        "Mathan Kumar"
+      ],
+      "umpires": [
+        "N Sivan",
+        "Rudy Ismandy"
+      ]
+    },
+    "outcome": {
+      "winner": "Maldives",
+      "by": {
+        "runs": 41
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Azyan Farhath"
+    ],
+    "players": {
+      "Maldives": [
+        "Azyan Farhath",
+        "Umar Adam",
+        "Mohamed Rishwan",
+        "Ahmed Hassan",
+        "Hassan Rasheed",
+        "Ameel Mauroof",
+        "Ibrahim Hassan",
+        "Ibrahim Rizan",
+        "L Shafeeg",
+        "Mohamed Azzam",
+        "Ibrahim Nashath"
+      ],
+      "Thailand": [
+        "N Nuntarach",
+        "J Pakhiaokajee",
+        "P Suanchuai",
+        "C Pengkumta",
+        "C Chatphaisan",
+        "Vichanath Singh",
+        "S Desungnoen",
+        "Y Saranonnakkun",
+        "K Senamontree",
+        "T Yotharat",
+        "K Namchaikul"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Ahmed Hassan": "7c885103",
+        "Ameel Mauroof": "1579d497",
+        "Azyan Farhath": "3e06e7ac",
+        "B Ramani": "92ad5353",
+        "C Chatphaisan": "85c56be8",
+        "C Pengkumta": "b3540b2a",
+        "Hassan Rasheed": "1ca51098",
+        "Ibrahim Hassan": "4add4c98",
+        "Ibrahim Nashath": "98514dce",
+        "Ibrahim Rizan": "7267e3cd",
+        "J Pakhiaokajee": "44d623c9",
+        "K Namchaikul": "f4ccbe6f",
+        "K Senamontree": "e553e27f",
+        "L Shafeeg": "ed82d9a5",
+        "Mathan Kumar": "da596754",
+        "Mohamed Azzam": "e43c9818",
+        "Mohamed Rishwan": "7d15170b",
+        "N Nuntarach": "9e3575ce",
+        "N Sivan": "8f4a0102",
+        "P Suanchuai": "e6948355",
+        "Rudy Ismandy": "84682045",
+        "S Desungnoen": "3eb26dc4",
+        "T Yotharat": "1f74f675",
+        "Umar Adam": "5d77a96a",
+        "Vichanath Singh": "dfa6db1a",
+        "Y Saranonnakkun": "9c93c0a3"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Maldives",
+      "Thailand"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Thailand"
+    },
+    "venue": "UKM-YSD Cricket Oval, Bangi"
+  },
+  "innings": [
+    {
+      "team": "Maldives",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Azyan Farhath",
+              "bowler": "C Pengkumta",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Azyan Farhath",
+              "bowler": "C Pengkumta",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Umar Adam",
+              "bowler": "C Pengkumta",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Umar Adam",
+              "bowler": "C Pengkumta",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Umar Adam",
+              "bowler": "C Pengkumta",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Umar Adam",
+              "bowler": "C Pengkumta",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Azyan Farhath",
+              "bowler": "K Senamontree",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Azyan Farhath",
+              "bowler": "K Senamontree",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Umar Adam",
+              "bowler": "K Senamontree",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Umar Adam",
+              "bowler": "K Senamontree",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Umar Adam",
+              "bowler": "K Senamontree",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Umar Adam",
+              "bowler": "K Senamontree",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Azyan Farhath",
+              "bowler": "C Pengkumta",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Azyan Farhath",
+              "bowler": "C Pengkumta",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Azyan Farhath",
+              "bowler": "C Pengkumta",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Azyan Farhath",
+              "bowler": "C Pengkumta",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Azyan Farhath",
+              "bowler": "C Pengkumta",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Umar Adam",
+              "bowler": "C Pengkumta",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Azyan Farhath",
+              "bowler": "K Senamontree",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Azyan Farhath",
+              "bowler": "K Senamontree",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Azyan Farhath",
+              "bowler": "K Senamontree",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Azyan Farhath",
+              "bowler": "K Senamontree",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Umar Adam",
+              "bowler": "K Senamontree",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Umar Adam",
+              "bowler": "K Senamontree",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Umar Adam",
+              "bowler": "K Senamontree",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Azyan Farhath",
+              "bowler": "T Yotharat",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Azyan Farhath",
+              "bowler": "T Yotharat",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Umar Adam",
+              "bowler": "T Yotharat",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Azyan Farhath",
+              "bowler": "T Yotharat",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Umar Adam",
+              "bowler": "T Yotharat",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Azyan Farhath",
+              "bowler": "T Yotharat",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Umar Adam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Umar Adam",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Umar Adam",
+                  "fielders": [
+                    {
+                      "name": "J Pakhiaokajee"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Mohamed Rishwan",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Mohamed Rishwan",
+              "bowler": "T Yotharat",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Mohamed Rishwan",
+              "bowler": "T Yotharat",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Mohamed Rishwan",
+              "bowler": "T Yotharat",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Azyan Farhath",
+              "bowler": "T Yotharat",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Mohamed Rishwan",
+              "bowler": "T Yotharat",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Mohamed Rishwan",
+              "bowler": "T Yotharat",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Azyan Farhath",
+              "bowler": "T Yotharat",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Mohamed Rishwan",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Azyan Farhath",
+              "bowler": "K Namchaikul",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Azyan Farhath",
+              "bowler": "K Namchaikul",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Azyan Farhath",
+              "bowler": "K Namchaikul",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Mohamed Rishwan",
+              "bowler": "K Namchaikul",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Azyan Farhath",
+              "bowler": "K Namchaikul",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Azyan Farhath",
+              "bowler": "K Namchaikul",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Mohamed Rishwan",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Azyan Farhath",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Azyan Farhath",
+              "bowler": "K Namchaikul",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Mohamed Rishwan",
+              "bowler": "K Namchaikul",
+              "non_striker": "Azyan Farhath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Azyan Farhath",
+              "bowler": "K Namchaikul",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Azyan Farhath",
+              "bowler": "K Namchaikul",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Azyan Farhath",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Ahmed Hassan",
+              "bowler": "K Namchaikul",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Ahmed Hassan",
+              "bowler": "K Namchaikul",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Mohamed Rishwan",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Ahmed Hassan",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Ahmed Hassan",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Mohamed Rishwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Mohamed Rishwan",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohamed Rishwan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Hassan Rasheed",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Hassan Rasheed",
+              "bowler": "Vichanath Singh",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Ahmed Hassan",
+              "bowler": "K Namchaikul",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Ahmed Hassan",
+              "bowler": "K Namchaikul",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Ahmed Hassan",
+              "bowler": "K Namchaikul",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Hassan Rasheed",
+              "bowler": "K Namchaikul",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Hassan Rasheed",
+              "bowler": "K Namchaikul",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Ahmed Hassan",
+              "bowler": "K Namchaikul",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Ahmed Hassan",
+              "bowler": "S Desungnoen",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Ahmed Hassan",
+              "bowler": "S Desungnoen",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Hassan Rasheed",
+              "bowler": "S Desungnoen",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Hassan Rasheed",
+              "bowler": "S Desungnoen",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Hassan Rasheed",
+              "bowler": "S Desungnoen",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Ahmed Hassan",
+              "bowler": "S Desungnoen",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Hassan Rasheed",
+              "bowler": "K Namchaikul",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Hassan Rasheed",
+              "bowler": "K Namchaikul",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Ahmed Hassan",
+              "bowler": "K Namchaikul",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Ahmed Hassan",
+              "bowler": "K Namchaikul",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Ahmed Hassan",
+              "bowler": "K Namchaikul",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Hassan Rasheed",
+              "bowler": "K Namchaikul",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Ahmed Hassan",
+              "bowler": "S Desungnoen",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Ahmed Hassan",
+              "bowler": "S Desungnoen",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Hassan Rasheed",
+              "bowler": "S Desungnoen",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Ahmed Hassan",
+              "bowler": "S Desungnoen",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Hassan Rasheed",
+              "bowler": "S Desungnoen",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Hassan Rasheed",
+              "bowler": "S Desungnoen",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Ahmed Hassan",
+              "bowler": "K Senamontree",
+              "non_striker": "Hassan Rasheed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Hassan Rasheed",
+              "bowler": "K Senamontree",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hassan Rasheed",
+                  "fielders": [
+                    {
+                      "name": "Vichanath Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Ameel Mauroof",
+              "bowler": "K Senamontree",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Ameel Mauroof",
+              "bowler": "K Senamontree",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Ameel Mauroof",
+              "bowler": "K Senamontree",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Ameel Mauroof",
+              "bowler": "K Senamontree",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Ameel Mauroof",
+              "bowler": "C Pengkumta",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Ameel Mauroof",
+              "bowler": "C Pengkumta",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Ameel Mauroof",
+              "bowler": "C Pengkumta",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Ameel Mauroof",
+              "bowler": "C Pengkumta",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Ahmed Hassan",
+              "bowler": "C Pengkumta",
+              "non_striker": "Ameel Mauroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ahmed Hassan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Ibrahim Hassan",
+              "bowler": "C Pengkumta",
+              "non_striker": "Ameel Mauroof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Ibrahim Hassan",
+              "bowler": "K Senamontree",
+              "non_striker": "Ameel Mauroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Ibrahim Hassan",
+              "bowler": "K Senamontree",
+              "non_striker": "Ameel Mauroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ibrahim Hassan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Ibrahim Rizan",
+              "bowler": "K Senamontree",
+              "non_striker": "Ameel Mauroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ibrahim Rizan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "L Shafeeg",
+              "bowler": "K Senamontree",
+              "non_striker": "Ameel Mauroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Shafeeg",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Mohamed Azzam",
+              "bowler": "K Senamontree",
+              "non_striker": "Ameel Mauroof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Ameel Mauroof",
+              "bowler": "K Senamontree",
+              "non_striker": "Mohamed Azzam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohamed Azzam",
+                  "fielders": [
+                    {
+                      "name": "P Suanchuai"
+                    },
+                    {
+                      "name": "T Yotharat"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Ameel Mauroof",
+              "bowler": "C Pengkumta",
+              "non_striker": "Ibrahim Nashath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Ameel Mauroof",
+              "bowler": "C Pengkumta",
+              "non_striker": "Ibrahim Nashath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Ameel Mauroof",
+              "bowler": "C Pengkumta",
+              "non_striker": "Ibrahim Nashath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ameel Mauroof",
+                  "fielders": [
+                    {
+                      "name": "Vichanath Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Thailand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "N Nuntarach",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "J Pakhiaokajee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "N Nuntarach",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "J Pakhiaokajee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "J Pakhiaokajee",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "J Pakhiaokajee",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "J Pakhiaokajee",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "J Pakhiaokajee",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "N Nuntarach",
+              "bowler": "Umar Adam",
+              "non_striker": "J Pakhiaokajee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "J Pakhiaokajee",
+              "bowler": "Umar Adam",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Pakhiaokajee",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "P Suanchuai",
+              "bowler": "Umar Adam",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "P Suanchuai",
+              "bowler": "Umar Adam",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "P Suanchuai",
+              "bowler": "Umar Adam",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "P Suanchuai",
+              "bowler": "Umar Adam",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "N Nuntarach",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "N Nuntarach",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "N Nuntarach",
+              "bowler": "Umar Adam",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "N Nuntarach",
+              "bowler": "Umar Adam",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "N Nuntarach",
+              "bowler": "Umar Adam",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "N Nuntarach",
+              "bowler": "Umar Adam",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "P Suanchuai",
+              "bowler": "Umar Adam",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "P Suanchuai",
+              "bowler": "Umar Adam",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "N Nuntarach",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "N Nuntarach",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "N Nuntarach",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "N Nuntarach",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "N Nuntarach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "N Nuntarach",
+              "bowler": "Umar Adam",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Nuntarach",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "C Pengkumta",
+              "bowler": "Umar Adam",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "C Pengkumta",
+              "bowler": "Umar Adam",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "C Pengkumta",
+              "bowler": "Umar Adam",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "C Pengkumta",
+              "bowler": "Umar Adam",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "C Pengkumta",
+              "bowler": "Umar Adam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "C Pengkumta",
+              "bowler": "Umar Adam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "C Pengkumta",
+              "bowler": "Umar Adam",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "C Chatphaisan",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "C Pengkumta",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "C Chatphaisan",
+                    "out": "P Suanchuai",
+                    "reason": "injury",
+                    "role": "batter"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "C Chatphaisan",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "C Chatphaisan",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "C Pengkumta",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Pengkumta",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Vichanath Singh",
+              "bowler": "Ibrahim Hassan",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "C Chatphaisan",
+              "bowler": "Umar Adam",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "C Chatphaisan",
+              "bowler": "Umar Adam",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "C Chatphaisan",
+              "bowler": "Umar Adam",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "C Chatphaisan",
+              "bowler": "Umar Adam",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Vichanath Singh",
+              "bowler": "Umar Adam",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "C Chatphaisan",
+              "bowler": "Umar Adam",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Vichanath Singh",
+              "bowler": "Ameel Mauroof",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.1",
+              "batter": "Vichanath Singh",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Vichanath Singh",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Vichanath Singh",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Vichanath Singh",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Vichanath Singh",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "C Chatphaisan",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Vichanath Singh",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "C Chatphaisan",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "C Chatphaisan",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "C Chatphaisan",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "C Chatphaisan",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "C Chatphaisan",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "C Chatphaisan",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "C Chatphaisan",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "C Chatphaisan",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Chatphaisan",
+                  "fielders": [
+                    {
+                      "name": "Mohamed Azzam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "P Suanchuai",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "P Suanchuai",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Vichanath Singh",
+              "bowler": "Ameel Mauroof",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Vichanath Singh",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Vichanath Singh",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Vichanath Singh",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Vichanath Singh",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Vichanath Singh",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Vichanath Singh",
+              "bowler": "Azyan Farhath",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Vichanath Singh",
+              "bowler": "Azyan Farhath",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "P Suanchuai",
+              "bowler": "Azyan Farhath",
+              "non_striker": "Vichanath Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Vichanath Singh",
+              "bowler": "Azyan Farhath",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Vichanath Singh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "S Desungnoen",
+              "bowler": "Azyan Farhath",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Desungnoen",
+                  "fielders": [
+                    {
+                      "name": "Ameel Mauroof"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "P Suanchuai",
+              "bowler": "Azyan Farhath",
+              "non_striker": "Y Saranonnakkun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Y Saranonnakkun",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Y Saranonnakkun",
+                  "fielders": [
+                    {
+                      "name": "Ibrahim Hassan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "K Senamontree",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "K Senamontree",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "K Senamontree",
+              "bowler": "Azyan Farhath",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "P Suanchuai",
+              "bowler": "Azyan Farhath",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "P Suanchuai",
+              "bowler": "Azyan Farhath",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "P Suanchuai",
+              "bowler": "Azyan Farhath",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "K Senamontree",
+              "bowler": "Azyan Farhath",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "P Suanchuai",
+              "bowler": "Azyan Farhath",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "K Senamontree",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Senamontree",
+                  "fielders": [
+                    {
+                      "name": "Hassan Rasheed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "T Yotharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "T Yotharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "P Suanchuai",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "T Yotharat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "T Yotharat",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "T Yotharat",
+              "bowler": "Ibrahim Rizan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "T Yotharat",
+              "bowler": "Ibrahim Rizan",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "T Yotharat",
+              "bowler": "Azyan Farhath",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "T Yotharat",
+              "bowler": "Azyan Farhath",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "P Suanchuai",
+              "bowler": "Azyan Farhath",
+              "non_striker": "T Yotharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Suanchuai",
+                  "fielders": [
+                    {
+                      "name": "Mohamed Azzam"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "K Namchaikul",
+              "bowler": "Azyan Farhath",
+              "non_striker": "T Yotharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "K Namchaikul",
+              "bowler": "Azyan Farhath",
+              "non_striker": "T Yotharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Namchaikul",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 98
+      }
+    }
+  ]
+}

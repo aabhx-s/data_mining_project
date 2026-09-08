@@ -1,0 +1,3306 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-06-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ilfov County",
+    "dates": [
+      "2026-06-19"
+    ],
+    "event": {
+      "name": "Continental Cup",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3959,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Belgium",
+      "by": {
+        "runs": 20
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Omid Mailk Khel"
+    ],
+    "players": {
+      "Belgium": [
+        "Aziz Mohammad",
+        "Hadisullah Tarakhel",
+        "Omid Mailk Khel",
+        "Sheraz Sheikh",
+        "B Niaz",
+        "Ahmad Khalid Ahmadzai",
+        "Walid Sahibzada",
+        "F Khaliq",
+        "Murid Ekrami",
+        "Rashid Khan",
+        "Zaki Ul Hassan"
+      ],
+      "Romania": [
+        "AN Lascu",
+        "R Satheesan",
+        "Irfan Ringku",
+        "V Saini",
+        "Avishka Iroshan",
+        "Md Ariyan",
+        "J Fernando",
+        "T Sandaruwan",
+        "Eranga De Silva",
+        "M Koli",
+        "J Khadka"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AN Lascu": "e2c882d1",
+        "Ahmad Khalid Ahmadzai": "e4ad57ea",
+        "Avishka Iroshan": "2964821b",
+        "Aziz Mohammad": "b3e9555a",
+        "B Niaz": "b7824537",
+        "Eranga De Silva": "9a8e35ea",
+        "F Khaliq": "c17dcc29",
+        "Hadisullah Tarakhel": "77bedcce",
+        "Irfan Ringku": "fa0d1410",
+        "J Fernando": "898a21a4",
+        "J Khadka": "191ee2f2",
+        "M Koli": "eb0f2802",
+        "Md Ariyan": "ff4805ee",
+        "Murid Ekrami": "76b19864",
+        "Omid Mailk Khel": "2d94751e",
+        "R Satheesan": "1125ebe4",
+        "Rashid Khan": "1eaac48d",
+        "Sheraz Sheikh": "4aad6842",
+        "T Sandaruwan": "2c31f58a",
+        "V Saini": "0fa81719",
+        "Walid Sahibzada": "523c8494",
+        "Zaki Ul Hassan": "1d6d8a8b"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Belgium",
+      "Romania"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Belgium"
+    },
+    "venue": "Moara Vlasiei Cricket Ground, Ilfov County"
+  },
+  "innings": [
+    {
+      "team": "Belgium",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Aziz Mohammad",
+              "bowler": "J Khadka",
+              "non_striker": "Hadisullah Tarakhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Aziz Mohammad",
+              "bowler": "J Khadka",
+              "non_striker": "Hadisullah Tarakhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "J Khadka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Aziz Mohammad",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Hadisullah Tarakhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Aziz Mohammad",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Hadisullah Tarakhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Hadisullah Tarakhel",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hadisullah Tarakhel",
+                  "fielders": [
+                    {
+                      "name": "Avishka Iroshan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Aziz Mohammad",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Aziz Mohammad",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Omid Mailk Khel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Omid Mailk Khel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Omid Mailk Khel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Omid Mailk Khel",
+              "bowler": "J Khadka",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Aziz Mohammad",
+              "bowler": "J Khadka",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Omid Mailk Khel",
+              "bowler": "M Koli",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Aziz Mohammad",
+              "bowler": "M Koli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Aziz Mohammad",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Aziz Mohammad",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Aziz Mohammad",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Aziz Mohammad",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Aziz Mohammad",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Omid Mailk Khel",
+              "bowler": "V Saini",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Aziz Mohammad",
+              "bowler": "V Saini",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Aziz Mohammad",
+              "bowler": "V Saini",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "V Saini",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Omid Mailk Khel",
+              "bowler": "V Saini",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Omid Mailk Khel",
+              "bowler": "V Saini",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Aziz Mohammad",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aziz Mohammad",
+                  "fielders": [
+                    {
+                      "name": "V Saini"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Sheraz Sheikh",
+              "bowler": "M Koli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Sheraz Sheikh",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Sheraz Sheikh",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Sheraz Sheikh",
+              "bowler": "M Koli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Sheraz Sheikh",
+              "bowler": "M Koli",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Omid Mailk Khel",
+              "bowler": "M Koli",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Omid Mailk Khel",
+              "bowler": "M Koli",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Omid Mailk Khel",
+              "bowler": "V Saini",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Omid Mailk Khel",
+              "bowler": "V Saini",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Omid Mailk Khel",
+              "bowler": "V Saini",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "V Saini",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Omid Mailk Khel",
+              "bowler": "V Saini",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Sheraz Sheikh",
+              "bowler": "V Saini",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Omid Mailk Khel",
+              "bowler": "M Koli",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Sheraz Sheikh",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Sheraz Sheikh",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Sheraz Sheikh",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Sheraz Sheikh",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Sheraz Sheikh",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Sheraz Sheikh",
+              "bowler": "V Saini",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Sheraz Sheikh",
+              "bowler": "V Saini",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Omid Mailk Khel",
+              "bowler": "V Saini",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "V Saini",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Sheraz Sheikh",
+              "bowler": "V Saini",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Sheraz Sheikh",
+              "bowler": "V Saini",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Omid Mailk Khel",
+              "bowler": "J Fernando",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Sheraz Sheikh",
+              "bowler": "J Fernando",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Sheraz Sheikh",
+              "bowler": "J Fernando",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "J Fernando",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Omid Mailk Khel",
+              "bowler": "J Fernando",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Omid Mailk Khel",
+              "bowler": "J Fernando",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Sheraz Sheikh",
+              "bowler": "T Sandaruwan",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Omid Mailk Khel",
+              "bowler": "T Sandaruwan",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Omid Mailk Khel",
+              "bowler": "T Sandaruwan",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "T Sandaruwan",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Sheraz Sheikh",
+              "bowler": "T Sandaruwan",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Omid Mailk Khel",
+              "bowler": "T Sandaruwan",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Sheraz Sheikh",
+              "bowler": "J Fernando",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Sheraz Sheikh",
+              "bowler": "J Fernando",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Sheraz Sheikh",
+              "bowler": "J Fernando",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Sheraz Sheikh",
+              "bowler": "J Fernando",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Omid Mailk Khel",
+              "bowler": "J Fernando",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Omid Mailk Khel",
+              "bowler": "J Fernando",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Sheraz Sheikh",
+              "bowler": "T Sandaruwan",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Sheraz Sheikh",
+              "bowler": "T Sandaruwan",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Sheraz Sheikh",
+              "bowler": "T Sandaruwan",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "T Sandaruwan",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Sheraz Sheikh",
+              "bowler": "T Sandaruwan",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Sheraz Sheikh",
+              "bowler": "T Sandaruwan",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Omid Mailk Khel",
+              "bowler": "M Koli",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Omid Mailk Khel",
+              "bowler": "M Koli",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Sheraz Sheikh",
+              "bowler": "M Koli",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "M Koli",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Omid Mailk Khel",
+              "bowler": "M Koli",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Omid Mailk Khel",
+              "bowler": "M Koli",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Omid Mailk Khel",
+                  "fielders": [
+                    {
+                      "name": "AN Lascu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Irfan Ringku",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Irfan Ringku",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "B Niaz",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Irfan Ringku",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "B Niaz",
+              "bowler": "Irfan Ringku",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Irfan Ringku",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "B Niaz",
+              "bowler": "J Fernando",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "B Niaz",
+              "bowler": "J Fernando",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Sheraz Sheikh",
+              "bowler": "J Fernando",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Sheraz Sheikh",
+              "bowler": "J Fernando",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "B Niaz",
+              "bowler": "J Fernando",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Sheraz Sheikh",
+              "bowler": "J Fernando",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sheraz Sheikh",
+                  "fielders": [
+                    {
+                      "name": "Eranga De Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "B Niaz",
+              "bowler": "J Khadka",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "18.1",
+              "batter": "B Niaz",
+              "bowler": "J Khadka",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "B Niaz",
+              "bowler": "J Khadka",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "B Niaz",
+              "bowler": "J Khadka",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Ahmad Khalid Ahmadzai",
+              "bowler": "J Khadka",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Ahmad Khalid Ahmadzai",
+              "bowler": "J Khadka",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Ahmad Khalid Ahmadzai",
+              "bowler": "J Khadka",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "B Niaz",
+              "bowler": "J Fernando",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "B Niaz",
+              "bowler": "J Fernando",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "B Niaz",
+              "bowler": "J Fernando",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Ahmad Khalid Ahmadzai",
+              "bowler": "J Fernando",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Ahmad Khalid Ahmadzai",
+              "bowler": "J Fernando",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Ahmad Khalid Ahmadzai",
+              "bowler": "J Fernando",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Romania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "AN Lascu",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "R Satheesan",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "AN Lascu",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "AN Lascu",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "AN Lascu",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "R Satheesan",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "R Satheesan",
+              "bowler": "F Khaliq",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "R Satheesan",
+              "bowler": "F Khaliq",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "R Satheesan",
+              "bowler": "F Khaliq",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "R Satheesan",
+              "bowler": "F Khaliq",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "R Satheesan",
+              "bowler": "F Khaliq",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "R Satheesan",
+              "bowler": "F Khaliq",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "R Satheesan",
+              "bowler": "F Khaliq",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "AN Lascu",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "AN Lascu",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "AN Lascu",
+              "bowler": "Hadisullah Tarakhel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "AN Lascu",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "AN Lascu",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "AN Lascu",
+              "bowler": "Hadisullah Tarakhel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "AN Lascu",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "AN Lascu",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "R Satheesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AN Lascu",
+                  "fielders": [
+                    {
+                      "name": "Zaki Ul Hassan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "R Satheesan",
+              "bowler": "Rashid Khan",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "R Satheesan",
+              "bowler": "Rashid Khan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "R Satheesan",
+              "bowler": "Rashid Khan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "R Satheesan",
+              "bowler": "Rashid Khan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "R Satheesan",
+              "bowler": "Rashid Khan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Satheesan",
+                  "fielders": [
+                    {
+                      "name": "F Khaliq"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "V Saini",
+              "bowler": "Rashid Khan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "V Saini",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Irfan Ringku",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Irfan Ringku",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "V Saini",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Irfan Ringku",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Irfan Ringku",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "V Saini",
+              "bowler": "Rashid Khan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "V Saini",
+              "bowler": "Rashid Khan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "V Saini",
+              "bowler": "Rashid Khan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "V Saini",
+              "bowler": "Rashid Khan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "V Saini",
+              "bowler": "Rashid Khan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "V Saini",
+              "bowler": "Rashid Khan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Irfan Ringku",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Irfan Ringku",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Irfan Ringku",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "V Saini",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "V Saini",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "V Saini",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Irfan Ringku",
+              "bowler": "Zaki Ul Hassan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.1",
+              "batter": "Irfan Ringku",
+              "bowler": "Zaki Ul Hassan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.1",
+              "batter": "Irfan Ringku",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Irfan Ringku",
+              "bowler": "Zaki Ul Hassan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Irfan Ringku",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Irfan Ringku",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "V Saini",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Saini",
+                  "fielders": [
+                    {
+                      "name": "Sheraz Sheikh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Avishka Iroshan",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Avishka Iroshan",
+              "bowler": "Zaki Ul Hassan",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Irfan Ringku",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Avishka Iroshan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Irfan Ringku",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Irfan Ringku",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Avishka Iroshan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Avishka Iroshan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Avishka Iroshan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Avishka Iroshan",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Avishka Iroshan",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Avishka Iroshan",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Avishka Iroshan",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Irfan Ringku",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Irfan Ringku",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Avishka Iroshan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Avishka Iroshan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Irfan Ringku",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Avishka Iroshan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Avishka Iroshan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Irfan Ringku",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Irfan Ringku",
+              "bowler": "Sheraz Sheikh",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Avishka Iroshan",
+              "bowler": "Sheraz Sheikh",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Avishka Iroshan",
+              "bowler": "Sheraz Sheikh",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Irfan Ringku",
+              "bowler": "Sheraz Sheikh",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Irfan Ringku",
+              "bowler": "Sheraz Sheikh",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Irfan Ringku",
+              "bowler": "Sheraz Sheikh",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Avishka Iroshan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Avishka Iroshan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Irfan Ringku",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Irfan Ringku",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Avishka Iroshan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Irfan Ringku",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Avishka Iroshan",
+              "bowler": "Rashid Khan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Irfan Ringku",
+              "bowler": "Rashid Khan",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Avishka Iroshan",
+              "bowler": "Rashid Khan",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Irfan Ringku",
+              "bowler": "Rashid Khan",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Irfan Ringku",
+              "bowler": "Rashid Khan",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Irfan Ringku",
+              "bowler": "Rashid Khan",
+              "non_striker": "Avishka Iroshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Avishka Iroshan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Avishka Iroshan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Avishka Iroshan",
+                  "fielders": [
+                    {
+                      "name": "Sheraz Sheikh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Md Ariyan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Md Ariyan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Irfan Ringku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Irfan Ringku",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Md Ariyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Irfan Ringku",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Md Ariyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Irfan Ringku",
+                  "fielders": [
+                    {
+                      "name": "Omid Mailk Khel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Md Ariyan",
+              "bowler": "Rashid Khan",
+              "non_striker": "J Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "J Fernando",
+              "bowler": "Rashid Khan",
+              "non_striker": "Md Ariyan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "J Fernando",
+              "bowler": "Rashid Khan",
+              "non_striker": "Md Ariyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Md Ariyan",
+              "bowler": "Rashid Khan",
+              "non_striker": "J Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Md Ariyan",
+              "bowler": "Rashid Khan",
+              "non_striker": "J Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Md Ariyan",
+                  "fielders": [
+                    {
+                      "name": "Walid Sahibzada"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "T Sandaruwan",
+              "bowler": "Rashid Khan",
+              "non_striker": "J Fernando",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "J Fernando",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "T Sandaruwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "T Sandaruwan",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "J Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "T Sandaruwan",
+              "bowler": "Aziz Mohammad",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "J Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "T Sandaruwan",
+                  "fielders": [
+                    {
+                      "name": "Omid Mailk Khel"
+                    },
+                    {
+                      "name": "Walid Sahibzada"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Eranga De Silva",
+              "bowler": "Aziz Mohammad",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "J Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Eranga De Silva",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "J Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Eranga De Silva",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "J Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "J Fernando",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "J Fernando",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Eranga De Silva",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "J Fernando",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Eranga De Silva",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "J Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "J Fernando",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Eranga De Silva",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "J Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "J Fernando",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "J Fernando",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Fernando",
+                  "fielders": [
+                    {
+                      "name": "F Khaliq"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Eranga De Silva",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "M Koli",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "M Koli",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "M Koli",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "M Koli",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "M Koli",
+              "bowler": "Hadisullah Tarakhel",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Eranga De Silva",
+              "bowler": "F Khaliq",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "M Koli",
+              "bowler": "F Khaliq",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "M Koli",
+              "bowler": "F Khaliq",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Eranga De Silva",
+              "bowler": "F Khaliq",
+              "non_striker": "M Koli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "M Koli",
+              "bowler": "F Khaliq",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "M Koli",
+              "bowler": "F Khaliq",
+              "non_striker": "Eranga De Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 181
+      }
+    }
+  ]
+}

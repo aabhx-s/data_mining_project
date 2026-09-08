@@ -1,0 +1,3115 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-06-22",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ilfov County",
+    "dates": [
+      "2026-06-21"
+    ],
+    "event": {
+      "name": "Continental Cup",
+      "stage": "Semi Final"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3971,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Belgium",
+      "by": {
+        "runs": 87
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Aziz Mohammad"
+    ],
+    "players": {
+      "Belgium": [
+        "Aziz Mohammad",
+        "Omid Rahimi",
+        "A Raza",
+        "Omid Mailk Khel",
+        "Sheraz Sheikh",
+        "Ahmad Khalid Ahmadzai",
+        "B Niaz",
+        "F Khaliq",
+        "R Thapliyal",
+        "Zaki Ul Hassan",
+        "Said Hakim"
+      ],
+      "Hungary": [
+        "Abbas Ghani",
+        "V Ravindran",
+        "Muhammad Soban",
+        "M Bhaiji",
+        "Ali Nawaz",
+        "Ali Farasat",
+        "RJ Ainsworth",
+        "Amal Jacob",
+        "MP Ainsworth",
+        "SA Mohandas",
+        "Muhammad Saqlain"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Raza": "838bc6ab",
+        "Abbas Ghani": "a8f91f78",
+        "Ahmad Khalid Ahmadzai": "e4ad57ea",
+        "Ali Farasat": "5845b99b",
+        "Ali Nawaz": "deef8879",
+        "Amal Jacob": "5772882c",
+        "Aziz Mohammad": "b3e9555a",
+        "B Niaz": "b7824537",
+        "F Khaliq": "c17dcc29",
+        "M Bhaiji": "a06c81fd",
+        "MP Ainsworth": "ae4a47d8",
+        "Muhammad Saqlain": "f094e3b8",
+        "Muhammad Soban": "a5e1e2d4",
+        "Omid Mailk Khel": "2d94751e",
+        "Omid Rahimi": "b2930573",
+        "R Thapliyal": "5947220c",
+        "RJ Ainsworth": "b6924e3f",
+        "SA Mohandas": "8b0b3bba",
+        "Said Hakim": "4cc59a40",
+        "Sheraz Sheikh": "4aad6842",
+        "V Ravindran": "e5ecb1ef",
+        "Zaki Ul Hassan": "1d6d8a8b"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Belgium",
+      "Hungary"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Belgium"
+    },
+    "venue": "Moara Vlasiei Cricket Ground, Ilfov County"
+  },
+  "innings": [
+    {
+      "team": "Belgium",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Aziz Mohammad",
+              "bowler": "SA Mohandas",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Aziz Mohammad",
+              "bowler": "SA Mohandas",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Omid Rahimi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Aziz Mohammad",
+              "bowler": "SA Mohandas",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Aziz Mohammad",
+              "bowler": "SA Mohandas",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Aziz Mohammad",
+              "bowler": "SA Mohandas",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Omid Rahimi",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Omid Rahimi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Omid Rahimi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Omid Rahimi",
+              "bowler": "SA Mohandas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Omid Rahimi",
+              "bowler": "SA Mohandas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Omid Rahimi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Omid Rahimi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Aziz Mohammad",
+              "bowler": "SA Mohandas",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Omid Rahimi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Omid Rahimi",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Omid Rahimi",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Omid Rahimi",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Omid Rahimi",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Omid Rahimi",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Aziz Mohammad",
+              "bowler": "SA Mohandas",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Omid Rahimi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Omid Rahimi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Omid Rahimi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Aziz Mohammad",
+              "bowler": "SA Mohandas",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Aziz Mohammad",
+              "bowler": "SA Mohandas",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Omid Rahimi",
+              "bowler": "MP Ainsworth",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Omid Rahimi",
+              "bowler": "MP Ainsworth",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Aziz Mohammad",
+              "bowler": "MP Ainsworth",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Aziz Mohammad",
+              "bowler": "MP Ainsworth",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Aziz Mohammad",
+              "bowler": "MP Ainsworth",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Aziz Mohammad",
+              "bowler": "MP Ainsworth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Aziz Mohammad",
+              "bowler": "MP Ainsworth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Aziz Mohammad",
+              "bowler": "MP Ainsworth",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Omid Rahimi",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Omid Rahimi",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Omid Rahimi",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Aziz Mohammad",
+              "bowler": "MP Ainsworth",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Aziz Mohammad",
+              "bowler": "MP Ainsworth",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Aziz Mohammad",
+              "bowler": "MP Ainsworth",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Omid Rahimi",
+              "bowler": "MP Ainsworth",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Omid Rahimi",
+              "bowler": "MP Ainsworth",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Omid Rahimi",
+              "bowler": "MP Ainsworth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Omid Rahimi",
+              "bowler": "MP Ainsworth",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Omid Rahimi",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Omid Rahimi",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Omid Rahimi",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Omid Rahimi",
+              "bowler": "Amal Jacob",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Aziz Mohammad",
+              "bowler": "Amal Jacob",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Aziz Mohammad",
+              "bowler": "Amal Jacob",
+              "non_striker": "Omid Rahimi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Omid Rahimi",
+              "bowler": "Amal Jacob",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Omid Rahimi",
+                  "fielders": [
+                    {
+                      "name": "MP Ainsworth"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "A Raza",
+              "bowler": "Amal Jacob",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Raza",
+                  "fielders": [
+                    {
+                      "name": "Ali Farasat"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Amal Jacob",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Aziz Mohammad",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Aziz Mohammad",
+              "bowler": "Amal Jacob",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Aziz Mohammad",
+              "bowler": "Amal Jacob",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Aziz Mohammad",
+              "bowler": "Amal Jacob",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Amal Jacob",
+              "non_striker": "Aziz Mohammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Aziz Mohammad",
+              "bowler": "Amal Jacob",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aziz Mohammad",
+                  "fielders": [
+                    {
+                      "name": "M Bhaiji"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Amal Jacob",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Amal Jacob",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Muhammad Soban",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Amal Jacob",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Amal Jacob",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Amal Jacob",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Amal Jacob",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Amal Jacob",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Amal Jacob",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Amal Jacob",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Amal Jacob",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Amal Jacob",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Amal Jacob",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Amal Jacob",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Amal Jacob",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Amal Jacob",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Abbas Ghani",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Sheraz Sheikh",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sheraz Sheikh",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Ahmad Khalid Ahmadzai",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Ahmad Khalid Ahmadzai",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Saqlain",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Ahmad Khalid Ahmadzai",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Ahmad Khalid Ahmadzai",
+              "bowler": "Muhammad Saqlain",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Omid Mailk Khel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Saqlain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Omid Mailk Khel",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Ahmad Khalid Ahmadzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ahmad Khalid Ahmadzai",
+                  "fielders": [
+                    {
+                      "name": "V Ravindran"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Hungary",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Abbas Ghani",
+              "bowler": "R Thapliyal",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Abbas Ghani",
+              "bowler": "R Thapliyal",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Abbas Ghani",
+              "bowler": "R Thapliyal",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "V Ravindran",
+              "bowler": "R Thapliyal",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Abbas Ghani",
+              "bowler": "R Thapliyal",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Abbas Ghani",
+              "bowler": "R Thapliyal",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Abbas Ghani",
+              "bowler": "R Thapliyal",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Abbas Ghani",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Abbas Ghani",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "V Ravindran",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "V Ravindran",
+              "bowler": "Zaki Ul Hassan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "V Ravindran",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Ravindran",
+                  "fielders": [
+                    {
+                      "name": "A Raza"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Muhammad Soban",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Abbas Ghani",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Muhammad Soban",
+              "bowler": "F Khaliq",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Muhammad Soban",
+              "bowler": "F Khaliq",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Abbas Ghani",
+              "bowler": "F Khaliq",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Abbas Ghani",
+              "bowler": "F Khaliq",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Abbas Ghani",
+              "bowler": "F Khaliq",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Abbas Ghani",
+              "bowler": "F Khaliq",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Abbas Ghani",
+              "bowler": "F Khaliq",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Abbas Ghani",
+              "bowler": "F Khaliq",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Muhammad Soban",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Muhammad Soban",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Abbas Ghani",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Abbas Ghani",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Abbas Ghani",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abbas Ghani",
+                  "fielders": [
+                    {
+                      "name": "Aziz Mohammad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "M Bhaiji",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Muhammad Soban",
+              "bowler": "F Khaliq",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "M Bhaiji",
+              "bowler": "F Khaliq",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Muhammad Soban",
+              "bowler": "F Khaliq",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "M Bhaiji",
+              "bowler": "F Khaliq",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "M Bhaiji",
+              "bowler": "F Khaliq",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "M Bhaiji",
+              "bowler": "F Khaliq",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Muhammad Soban",
+              "bowler": "F Khaliq",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "M Bhaiji",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Muhammad Soban",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Muhammad Soban",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "M Bhaiji",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Bhaiji",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Ali Nawaz",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Ali Nawaz",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Ali Nawaz",
+              "bowler": "Said Hakim",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Ali Nawaz",
+              "bowler": "Said Hakim",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Muhammad Soban",
+              "bowler": "Said Hakim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Muhammad Soban",
+              "bowler": "Said Hakim",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Muhammad Soban",
+              "bowler": "Said Hakim",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Muhammad Soban",
+              "bowler": "Said Hakim",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Muhammad Soban",
+              "bowler": "Said Hakim",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Ali Nawaz",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Ali Nawaz",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Ali Nawaz",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Muhammad Soban",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Muhammad Soban",
+              "bowler": "Zaki Ul Hassan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Ali Nawaz",
+              "bowler": "Zaki Ul Hassan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Ali Nawaz",
+              "bowler": "Zaki Ul Hassan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Ali Nawaz",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Muhammad Soban",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Muhammad Soban",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Ali Nawaz",
+              "bowler": "Aziz Mohammad",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Ali Nawaz",
+              "bowler": "Aziz Mohammad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Ali Nawaz",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Ali Nawaz",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Muhammad Soban",
+              "bowler": "Ahmad Khalid Ahmadzai",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Ali Nawaz",
+              "bowler": "Ahmad Khalid Ahmadzai",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Ali Nawaz",
+              "bowler": "Ahmad Khalid Ahmadzai",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Muhammad Soban",
+              "bowler": "Ahmad Khalid Ahmadzai",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Ali Nawaz",
+              "bowler": "Ahmad Khalid Ahmadzai",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Ali Nawaz",
+              "bowler": "Ahmad Khalid Ahmadzai",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Ali Nawaz",
+              "bowler": "R Thapliyal",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Muhammad Soban",
+              "bowler": "R Thapliyal",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Muhammad Soban",
+              "bowler": "R Thapliyal",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Ali Nawaz",
+              "bowler": "R Thapliyal",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Muhammad Soban",
+              "bowler": "R Thapliyal",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Muhammad Soban",
+              "bowler": "R Thapliyal",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Soban",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Ali Nawaz",
+              "bowler": "Ahmad Khalid Ahmadzai",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Ali Farasat",
+              "bowler": "Ahmad Khalid Ahmadzai",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Farasat",
+                  "fielders": [
+                    {
+                      "name": "Omid Mailk Khel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "RJ Ainsworth",
+              "bowler": "Ahmad Khalid Ahmadzai",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "RJ Ainsworth",
+              "bowler": "Ahmad Khalid Ahmadzai",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "RJ Ainsworth",
+              "bowler": "Ahmad Khalid Ahmadzai",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Ali Nawaz",
+              "bowler": "Ahmad Khalid Ahmadzai",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "RJ Ainsworth",
+              "bowler": "R Thapliyal",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "RJ Ainsworth",
+              "bowler": "R Thapliyal",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "RJ Ainsworth",
+              "bowler": "R Thapliyal",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Ali Nawaz",
+              "bowler": "R Thapliyal",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Ali Nawaz",
+              "bowler": "R Thapliyal",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Ali Nawaz",
+              "bowler": "R Thapliyal",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Nawaz",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "RJ Ainsworth",
+              "bowler": "Said Hakim",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "RJ Ainsworth",
+              "bowler": "Said Hakim",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "RJ Ainsworth",
+              "bowler": "Said Hakim",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Amal Jacob",
+              "bowler": "Said Hakim",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "RJ Ainsworth",
+              "bowler": "Said Hakim",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "RJ Ainsworth",
+              "bowler": "Said Hakim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "RJ Ainsworth",
+              "bowler": "Said Hakim",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Amal Jacob",
+              "bowler": "R Thapliyal",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Amal Jacob",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "RJ Ainsworth",
+              "bowler": "R Thapliyal",
+              "non_striker": "MP Ainsworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "MP Ainsworth",
+              "bowler": "R Thapliyal",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP Ainsworth",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "SA Mohandas",
+              "bowler": "R Thapliyal",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "RJ Ainsworth",
+              "bowler": "R Thapliyal",
+              "non_striker": "SA Mohandas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "RJ Ainsworth",
+              "bowler": "R Thapliyal",
+              "non_striker": "SA Mohandas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "SA Mohandas",
+              "bowler": "F Khaliq",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "SA Mohandas",
+              "bowler": "F Khaliq",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "SA Mohandas",
+              "bowler": "F Khaliq",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "RJ Ainsworth",
+              "bowler": "F Khaliq",
+              "non_striker": "SA Mohandas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "RJ Ainsworth",
+              "bowler": "F Khaliq",
+              "non_striker": "SA Mohandas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "SA Mohandas",
+              "bowler": "F Khaliq",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "SA Mohandas",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Mohandas",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Muhammad Saqlain",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Muhammad Saqlain",
+              "bowler": "Aziz Mohammad",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Saqlain",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 212
+      }
+    }
+  ]
+}

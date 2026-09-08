@@ -1,0 +1,3139 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kerava",
+    "dates": [
+      "2026-08-15"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Europe Qualifier C",
+      "match_number": 7,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4078,
+    "officials": {
+      "match_referees": [
+        "Prakash Bhatt"
+      ],
+      "reserve_umpires": [
+        "Vinay Malhotra"
+      ],
+      "umpires": [
+        "MS Sathe",
+        "Rizwan Akram"
+      ]
+    },
+    "outcome": {
+      "winner": "Portugal",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "C De Freitas"
+    ],
+    "players": {
+      "Germany": [
+        "B Kohler-Cadmore",
+        "Musaddiq Ahmed",
+        "J van Heerden",
+        "H Singh",
+        "Fayaz Khan",
+        "Muslim Yar",
+        "Sachin Mandy",
+        "Shahid Afridi",
+        "Sajid Liaqat",
+        "V Jatinder Kumar",
+        "Ahmad Ullah"
+      ],
+      "Portugal": [
+        "D Norotam",
+        "C De Freitas",
+        "CD Shekleton",
+        "MC Henriques",
+        "C Nunes",
+        "J Martins",
+        "SC de Oliveira",
+        "Edward Fleming",
+        "R Hashu",
+        "Sirajullah Khadim",
+        "U Shantu"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Ahmad Ullah": "8a06bb55",
+        "B Kohler-Cadmore": "209e91e6",
+        "C De Freitas": "22072cab",
+        "C Nunes": "37ee5d23",
+        "CD Shekleton": "efdee934",
+        "D Norotam": "90b73986",
+        "Edward Fleming": "2b43be58",
+        "Fayaz Khan": "373954ca",
+        "H Singh": "8209da53",
+        "J Martins": "9c96b71f",
+        "J van Heerden": "01549705",
+        "MC Henriques": "32198ae0",
+        "MS Sathe": "7c82e11b",
+        "Musaddiq Ahmed": "f8fb7e7b",
+        "Muslim Yar": "37d8d19a",
+        "Prakash Bhatt": "f848ab0b",
+        "R Hashu": "a53029a1",
+        "Rizwan Akram": "b5346f1e",
+        "SC de Oliveira": "91ae10e1",
+        "Sachin Mandy": "501fca0d",
+        "Sajid Liaqat": "b1b99a1a",
+        "Shahid Afridi": "5b2acc3f",
+        "Sirajullah Khadim": "ff36e706",
+        "U Shantu": "0e80e47d",
+        "V Jatinder Kumar": "72ef2c6b",
+        "Vinay Malhotra": "452837d1"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Germany",
+      "Portugal"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Portugal"
+    },
+    "venue": "Kerava National Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Germany",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Musaddiq Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Musaddiq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Musaddiq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Musaddiq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Musaddiq Ahmed",
+              "bowler": "SC de Oliveira",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Musaddiq Ahmed",
+              "bowler": "SC de Oliveira",
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Musaddiq Ahmed",
+              "bowler": "SC de Oliveira",
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "Musaddiq Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "Musaddiq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "Musaddiq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Musaddiq Ahmed",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Musaddiq Ahmed",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "Musaddiq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Musaddiq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Musaddiq Ahmed",
+              "bowler": "SC de Oliveira",
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Musaddiq Ahmed",
+              "bowler": "SC de Oliveira",
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Musaddiq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Musaddiq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Musaddiq Ahmed",
+              "bowler": "SC de Oliveira",
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Musaddiq Ahmed",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Musaddiq Ahmed",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Musaddiq Ahmed",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Musaddiq Ahmed",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Musaddiq Ahmed",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "J van Heerden",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "J van Heerden",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "B Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "J Martins",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "J Martins",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "J Martins",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "J Martins",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "B Kohler-Cadmore",
+              "bowler": "J Martins",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Kohler-Cadmore",
+                  "fielders": [
+                    {
+                      "name": "MC Henriques"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "H Singh",
+              "bowler": "J Martins",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "H Singh",
+              "bowler": "J Martins",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "J van Heerden",
+              "bowler": "U Shantu",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "J van Heerden",
+              "bowler": "U Shantu",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "J van Heerden",
+              "bowler": "U Shantu",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "J van Heerden",
+              "bowler": "U Shantu",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "J van Heerden",
+              "bowler": "U Shantu",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "J van Heerden",
+              "bowler": "U Shantu",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "H Singh",
+              "bowler": "R Hashu",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "J van Heerden",
+              "bowler": "R Hashu",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "H Singh",
+              "bowler": "R Hashu",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "H Singh",
+              "bowler": "R Hashu",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "J van Heerden",
+              "bowler": "R Hashu",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "H Singh",
+              "bowler": "R Hashu",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "J van Heerden",
+              "bowler": "Edward Fleming",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "H Singh",
+              "bowler": "Edward Fleming",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "H Singh",
+              "bowler": "Edward Fleming",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "J van Heerden",
+              "bowler": "Edward Fleming",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "H Singh",
+              "bowler": "Edward Fleming",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "H Singh",
+              "bowler": "Edward Fleming",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "J van Heerden",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "H Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "H Singh",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Singh",
+                  "fielders": [
+                    {
+                      "name": "J Martins"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Fayaz Khan",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Fayaz Khan",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Fayaz Khan",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "J van Heerden",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "J van Heerden",
+              "bowler": "Edward Fleming",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Fayaz Khan",
+              "bowler": "Edward Fleming",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "J van Heerden",
+              "bowler": "Edward Fleming",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Fayaz Khan",
+              "bowler": "Edward Fleming",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Fayaz Khan",
+              "bowler": "Edward Fleming",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Fayaz Khan",
+              "bowler": "Edward Fleming",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Fayaz Khan",
+              "bowler": "J Martins",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "J van Heerden",
+              "bowler": "J Martins",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "J van Heerden",
+              "bowler": "J Martins",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Fayaz Khan",
+              "bowler": "J Martins",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "J van Heerden",
+              "bowler": "J Martins",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Fayaz Khan",
+              "bowler": "J Martins",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "J van Heerden",
+              "bowler": "R Hashu",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "J van Heerden",
+              "bowler": "R Hashu",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Fayaz Khan",
+              "bowler": "R Hashu",
+              "non_striker": "J van Heerden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "J van Heerden",
+                  "fielders": [
+                    {
+                      "name": "MC Henriques"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Fayaz Khan",
+              "bowler": "R Hashu",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Muslim Yar",
+              "bowler": "R Hashu",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Muslim Yar",
+              "bowler": "R Hashu",
+              "non_striker": "Fayaz Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Fayaz Khan",
+              "bowler": "U Shantu",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Fayaz Khan",
+                  "fielders": [
+                    {
+                      "name": "MC Henriques"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Sachin Mandy",
+              "bowler": "U Shantu",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Muslim Yar",
+              "bowler": "U Shantu",
+              "non_striker": "Sachin Mandy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Muslim Yar",
+              "bowler": "U Shantu",
+              "non_striker": "Sachin Mandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Sachin Mandy",
+              "bowler": "U Shantu",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Muslim Yar",
+              "bowler": "U Shantu",
+              "non_striker": "Sachin Mandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Muslim Yar",
+              "bowler": "Edward Fleming",
+              "non_striker": "Sachin Mandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Sachin Mandy",
+              "bowler": "Edward Fleming",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Sachin Mandy",
+              "bowler": "Edward Fleming",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Muslim Yar",
+              "bowler": "Edward Fleming",
+              "non_striker": "Sachin Mandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Muslim Yar",
+              "bowler": "Edward Fleming",
+              "non_striker": "Sachin Mandy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Muslim Yar",
+              "bowler": "Edward Fleming",
+              "non_striker": "Sachin Mandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Sachin Mandy",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Muslim Yar",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "Sachin Mandy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Muslim Yar",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "Sachin Mandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Sachin Mandy",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Muslim Yar",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "Sachin Mandy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Muslim Yar",
+              "bowler": "Sirajullah Khadim",
+              "non_striker": "Sachin Mandy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Sachin Mandy",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Muslim Yar",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Sachin Mandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Sachin Mandy",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sachin Mandy",
+                  "fielders": [
+                    {
+                      "name": "R Hashu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Shahid Afridi",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Shahid Afridi",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Shahid Afridi",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Muslim Yar",
+              "bowler": "J Martins",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Muslim Yar",
+              "bowler": "J Martins",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Muslim Yar",
+              "bowler": "J Martins",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Shahid Afridi",
+              "bowler": "J Martins",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shahid Afridi",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Sajid Liaqat",
+              "bowler": "J Martins",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Sajid Liaqat",
+              "bowler": "J Martins",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Muslim Yar",
+              "bowler": "R Hashu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sajid Liaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.1",
+              "batter": "Muslim Yar",
+              "bowler": "R Hashu",
+              "non_striker": "Sajid Liaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Sajid Liaqat",
+              "bowler": "R Hashu",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Sajid Liaqat",
+              "bowler": "R Hashu",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Muslim Yar",
+              "bowler": "R Hashu",
+              "non_striker": "Sajid Liaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Sajid Liaqat",
+              "bowler": "R Hashu",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Sajid Liaqat",
+              "bowler": "R Hashu",
+              "non_striker": "Muslim Yar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Muslim Yar",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Sajid Liaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Muslim Yar",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Sajid Liaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muslim Yar",
+                  "fielders": [
+                    {
+                      "name": "Edward Fleming"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "V Jatinder Kumar",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Sajid Liaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "V Jatinder Kumar",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Sajid Liaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "V Jatinder Kumar",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Sajid Liaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Jatinder Kumar",
+                  "fielders": [
+                    {
+                      "name": "C Nunes"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Ahmad Ullah",
+              "bowler": "SC de Oliveira",
+              "non_striker": "Sajid Liaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Sajid Liaqat",
+              "bowler": "J Martins",
+              "non_striker": "Ahmad Ullah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Sajid Liaqat",
+              "bowler": "J Martins",
+              "non_striker": "Ahmad Ullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Ahmad Ullah",
+              "bowler": "J Martins",
+              "non_striker": "Sajid Liaqat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Ahmad Ullah",
+              "bowler": "J Martins",
+              "non_striker": "Sajid Liaqat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Sajid Liaqat",
+              "bowler": "J Martins",
+              "non_striker": "Ahmad Ullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Sajid Liaqat",
+              "bowler": "J Martins",
+              "non_striker": "Ahmad Ullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Portugal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "D Norotam",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "D Norotam",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "D Norotam",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "D Norotam",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "C De Freitas",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "D Norotam",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "C De Freitas",
+              "bowler": "J van Heerden",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "C De Freitas",
+              "bowler": "J van Heerden",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "C De Freitas",
+              "bowler": "J van Heerden",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "D Norotam",
+              "bowler": "J van Heerden",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "D Norotam",
+              "bowler": "J van Heerden",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "D Norotam",
+              "bowler": "J van Heerden",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "C De Freitas",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "C De Freitas",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "C De Freitas",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "C De Freitas",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "D Norotam",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "D Norotam",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "C De Freitas",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "C De Freitas",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "C De Freitas",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "D Norotam",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "D Norotam",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Norotam",
+                  "fielders": [
+                    {
+                      "name": "H Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "CD Shekleton",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "CD Shekleton",
+              "bowler": "Muslim Yar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "CD Shekleton",
+              "bowler": "Muslim Yar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "CD Shekleton",
+              "bowler": "Muslim Yar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "CD Shekleton",
+              "bowler": "Muslim Yar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "CD Shekleton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "CD Shekleton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "CD Shekleton",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "CD Shekleton",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "C De Freitas",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "CD Shekleton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "CD Shekleton",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "CD Shekleton",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "CD Shekleton",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "C De Freitas",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "CD Shekleton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "CD Shekleton",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "CD Shekleton",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "C De Freitas",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "CD Shekleton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "CD Shekleton",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CD Shekleton",
+                  "fielders": [
+                    {
+                      "name": "B Kohler-Cadmore"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "MC Henriques",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "MC Henriques",
+              "bowler": "Muslim Yar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "MC Henriques",
+              "bowler": "Muslim Yar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MC Henriques",
+                  "fielders": [
+                    {
+                      "name": "J van Heerden"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "C De Freitas",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "C De Freitas",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "C Nunes",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "C De Freitas",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "C De Freitas",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "C De Freitas",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "C Nunes",
+              "bowler": "Muslim Yar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "C De Freitas",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "C Nunes",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "C Nunes",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "C Nunes",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "C De Freitas",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "C De Freitas",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "C Nunes",
+              "bowler": "Muslim Yar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "C Nunes",
+              "bowler": "Muslim Yar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "C Nunes",
+              "bowler": "Muslim Yar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "C De Freitas",
+              "bowler": "Muslim Yar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "C Nunes",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "C De Freitas",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "C De Freitas",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "C De Freitas",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "C Nunes",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "C Nunes",
+              "bowler": "Ahmad Ullah",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "C De Freitas",
+              "bowler": "J van Heerden",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "C Nunes",
+              "bowler": "J van Heerden",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "C Nunes",
+              "bowler": "J van Heerden",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "C Nunes",
+              "bowler": "J van Heerden",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "C Nunes",
+              "bowler": "J van Heerden",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "C De Freitas",
+              "bowler": "J van Heerden",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "C De Freitas",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "C De Freitas",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "C Nunes",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "C De Freitas",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "C Nunes",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "C De Freitas",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "C Nunes",
+              "bowler": "J van Heerden",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "C De Freitas",
+              "bowler": "J van Heerden",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C De Freitas",
+                  "fielders": [
+                    {
+                      "name": "Musaddiq Ahmed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "J Martins",
+              "bowler": "J van Heerden",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "J Martins",
+              "bowler": "J van Heerden",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "C Nunes",
+              "bowler": "J van Heerden",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "C Nunes",
+              "bowler": "J van Heerden",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "C Nunes",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "C Nunes",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "J Martins",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Martins",
+                  "fielders": [
+                    {
+                      "name": "Ahmad Ullah"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "SC de Oliveira",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "SC de Oliveira",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "SC de Oliveira",
+              "bowler": "V Jatinder Kumar",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "SC de Oliveira",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "SC de Oliveira",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "SC de Oliveira",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "SC de Oliveira",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "C Nunes",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "SC de Oliveira",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "C Nunes",
+              "bowler": "Sajid Liaqat",
+              "non_striker": "SC de Oliveira",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "SC de Oliveira",
+              "bowler": "Shahid Afridi",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "SC de Oliveira",
+              "bowler": "Shahid Afridi",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "C Nunes",
+              "bowler": "Shahid Afridi",
+              "non_striker": "SC de Oliveira",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "C Nunes",
+              "bowler": "Shahid Afridi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SC de Oliveira",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "SC de Oliveira",
+              "bowler": "Shahid Afridi",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "SC de Oliveira",
+              "bowler": "Shahid Afridi",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SC de Oliveira",
+                  "fielders": [
+                    {
+                      "name": "J van Heerden"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "C Nunes",
+              "bowler": "J van Heerden",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "C Nunes",
+              "bowler": "J van Heerden",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 141
+      }
+    }
+  ]
+}

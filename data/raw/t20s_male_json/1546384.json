@@ -1,0 +1,2969 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-07-28",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ilfov County",
+    "dates": [
+      "2026-07-28"
+    ],
+    "event": {
+      "name": "ECA Men's European Cup",
+      "match_number": 8
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4049,
+    "officials": {
+      "reserve_umpires": [
+        "Suleman Saeed"
+      ],
+      "umpires": [
+        "A Elliott",
+        "Imran Haider"
+      ]
+    },
+    "outcome": {
+      "winner": "Turkey",
+      "by": {
+        "runs": 9
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Muhammad Fahad"
+    ],
+    "players": {
+      "Turkey": [
+        "G Tuskan",
+        "Mertcan Donmez",
+        "Mustafa Balkis",
+        "Muhammad Fahad",
+        "Ibrahim Kursad Dalyan",
+        "Serdar Burak Emir",
+        "Murat Yilmaz",
+        "Muhammet Bicer",
+        "Omer Kutuk",
+        "A Kanogullari",
+        "Mertcan Filiz"
+      ],
+      "Israel": [
+        "BJ Lazarus",
+        "Norman Sankar",
+        "Niv Nagavkar",
+        "JS Bangera",
+        "JE Marks",
+        "GJ Hilkowitz",
+        "G Schachat",
+        "R Bangera",
+        "Idan Varsulkar",
+        "Elan Talker",
+        "IY Levy"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Elliott": "f48d5563",
+        "A Kanogullari": "a6f365e7",
+        "BJ Lazarus": "2d7b09ce",
+        "Elan Talker": "bb939fa3",
+        "G Schachat": "ff92e604",
+        "G Tuskan": "0b22ec0f",
+        "GJ Hilkowitz": "45d794b0",
+        "IY Levy": "63b156c1",
+        "Ibrahim Kursad Dalyan": "f0f20cf8",
+        "Idan Varsulkar": "65026426",
+        "Imran Haider": "1b8242f2",
+        "JE Marks": "f1aa94c3",
+        "JS Bangera": "6a6037c8",
+        "Mertcan Donmez": "fb5a5fe3",
+        "Mertcan Filiz": "b2e15fa9",
+        "Muhammad Fahad": "3f778477",
+        "Muhammet Bicer": "7990dc16",
+        "Murat Yilmaz": "f2990906",
+        "Mustafa Balkis": "55e6c23c",
+        "Niv Nagavkar": "e2abcf16",
+        "Norman Sankar": "a3d600fe",
+        "Omer Kutuk": "c9a05046",
+        "R Bangera": "c5376f3d",
+        "Serdar Burak Emir": "6d9238ac",
+        "Suleman Saeed": "60018b15"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Turkey",
+      "Israel"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Israel"
+    },
+    "venue": "Moara Vlasiei Cricket Ground, Ilfov County"
+  },
+  "innings": [
+    {
+      "team": "Turkey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "G Tuskan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "G Tuskan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "G Tuskan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "G Tuskan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "G Tuskan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "G Tuskan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Mertcan Donmez",
+              "bowler": "Elan Talker",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "G Tuskan",
+              "bowler": "Elan Talker",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Mertcan Donmez",
+              "bowler": "Elan Talker",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Mertcan Donmez",
+              "bowler": "Elan Talker",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mertcan Donmez",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Mustafa Balkis",
+              "bowler": "Elan Talker",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "G Tuskan",
+              "bowler": "Elan Talker",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Mustafa Balkis",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "G Tuskan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "G Tuskan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "G Tuskan",
+              "bowler": "Niv Nagavkar",
+              "extras": {
+                "byes": 1,
+                "noballs": 1
+              },
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Mustafa Balkis",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Mustafa Balkis",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Mustafa Balkis",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Mustafa Balkis",
+              "bowler": "Elan Talker",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Mustafa Balkis",
+              "bowler": "Elan Talker",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Mustafa Balkis",
+              "bowler": "Elan Talker",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "G Tuskan",
+              "bowler": "Elan Talker",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Tuskan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Muhammad Fahad",
+              "bowler": "Elan Talker",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Muhammad Fahad",
+              "bowler": "Elan Talker",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Mustafa Balkis",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Mustafa Balkis",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Mustafa Balkis",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Mustafa Balkis",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Mustafa Balkis",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Mustafa Balkis",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Mustafa Balkis",
+              "bowler": "Elan Talker",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Mustafa Balkis",
+              "bowler": "Elan Talker",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Mustafa Balkis",
+              "bowler": "Elan Talker",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Mustafa Balkis",
+              "bowler": "Elan Talker",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Muhammad Fahad",
+              "bowler": "Elan Talker",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Mustafa Balkis",
+              "bowler": "Elan Talker",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Muhammad Fahad",
+              "bowler": "Elan Talker",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Mustafa Balkis",
+              "bowler": "JE Marks",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "Mustafa Balkis",
+              "bowler": "JE Marks",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "Mustafa Balkis",
+              "bowler": "JE Marks",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Muhammad Fahad",
+              "bowler": "JE Marks",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Mustafa Balkis",
+              "bowler": "JE Marks",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Mustafa Balkis",
+              "bowler": "JE Marks",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Mustafa Balkis",
+              "bowler": "JE Marks",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Muhammad Fahad",
+              "bowler": "JE Marks",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Muhammad Fahad",
+              "bowler": "IY Levy",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Mustafa Balkis",
+              "bowler": "IY Levy",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Mustafa Balkis",
+              "bowler": "IY Levy",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Muhammad Fahad",
+              "bowler": "IY Levy",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Muhammad Fahad",
+              "bowler": "IY Levy",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Muhammad Fahad",
+              "bowler": "IY Levy",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Mustafa Balkis",
+              "bowler": "JE Marks",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Muhammad Fahad",
+              "bowler": "JE Marks",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Muhammad Fahad",
+              "bowler": "JE Marks",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Muhammad Fahad",
+              "bowler": "JE Marks",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Mustafa Balkis",
+              "bowler": "JE Marks",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Mustafa Balkis",
+              "bowler": "JE Marks",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Mustafa Balkis",
+              "bowler": "IY Levy",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Mustafa Balkis",
+              "bowler": "IY Levy",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Mustafa Balkis",
+              "bowler": "IY Levy",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mustafa Balkis",
+                  "fielders": [
+                    {
+                      "name": "Idan Varsulkar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "IY Levy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "IY Levy",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "IY Levy",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "IY Levy",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Muhammad Fahad",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Muhammad Fahad",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Fahad",
+                  "fielders": [
+                    {
+                      "name": "Idan Varsulkar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Serdar Burak Emir",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Serdar Burak Emir",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Serdar Burak Emir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Serdar Burak Emir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Serdar Burak Emir",
+              "bowler": "IY Levy",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Serdar Burak Emir",
+              "bowler": "IY Levy",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "IY Levy",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Serdar Burak Emir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Serdar Burak Emir",
+              "bowler": "IY Levy",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Serdar Burak Emir",
+              "bowler": "IY Levy",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "IY Levy",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Serdar Burak Emir",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Serdar Burak Emir",
+              "bowler": "IY Levy",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Serdar Burak Emir",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Serdar Burak Emir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Serdar Burak Emir",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Serdar Burak Emir",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Serdar Burak Emir",
+              "bowler": "GJ Hilkowitz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Serdar Burak Emir",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Serdar Burak Emir",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Serdar Burak Emir",
+              "bowler": "JE Marks",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Serdar Burak Emir",
+              "bowler": "JE Marks",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Serdar Burak Emir",
+              "bowler": "JE Marks",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "JE Marks",
+              "non_striker": "Serdar Burak Emir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "JE Marks",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Serdar Burak Emir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Serdar Burak Emir",
+              "bowler": "JE Marks",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Serdar Burak Emir",
+                  "fielders": [
+                    {
+                      "name": "JS Bangera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Murat Yilmaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "GJ Hilkowitz",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Murat Yilmaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Murat Yilmaz",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Murat Yilmaz",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Murat Yilmaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Murat Yilmaz",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "IY Levy",
+              "non_striker": "Murat Yilmaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "IY Levy",
+              "non_striker": "Murat Yilmaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Murat Yilmaz",
+              "bowler": "IY Levy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Murat Yilmaz",
+              "bowler": "IY Levy",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Murat Yilmaz",
+                  "fielders": [
+                    {
+                      "name": "JS Bangera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Muhammet Bicer",
+              "bowler": "IY Levy",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Muhammet Bicer",
+              "bowler": "IY Levy",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Muhammet Bicer",
+              "bowler": "IY Levy",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Muhammet Bicer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Muhammet Bicer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Muhammet Bicer",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammet Bicer",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Omer Kutuk",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "GJ Hilkowitz",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Omer Kutuk",
+              "bowler": "JE Marks",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Omer Kutuk",
+              "bowler": "JE Marks",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "JE Marks",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Omer Kutuk",
+              "bowler": "JE Marks",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "JE Marks",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Omer Kutuk",
+              "bowler": "JE Marks",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Elan Talker",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Elan Talker",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Elan Talker",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Elan Talker",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Elan Talker",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Elan Talker",
+              "non_striker": "Omer Kutuk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Israel",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "BJ Lazarus",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Norman Sankar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "BJ Lazarus",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Norman Sankar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Norman Sankar",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Norman Sankar",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Norman Sankar",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "BJ Lazarus",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Norman Sankar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Norman Sankar",
+              "bowler": "G Tuskan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Norman Sankar",
+              "bowler": "G Tuskan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Norman Sankar",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Tuskan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "BJ Lazarus",
+              "bowler": "G Tuskan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "BJ Lazarus",
+              "bowler": "G Tuskan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "BJ Lazarus",
+              "bowler": "G Tuskan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "BJ Lazarus",
+              "bowler": "G Tuskan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "BJ Lazarus",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "BJ Lazarus",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "BJ Lazarus",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Tuskan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "BJ Lazarus",
+              "bowler": "G Tuskan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Tuskan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "BJ Lazarus",
+              "bowler": "G Tuskan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "BJ Lazarus",
+              "bowler": "G Tuskan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "BJ Lazarus",
+              "bowler": "G Tuskan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "BJ Lazarus",
+              "bowler": "G Tuskan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "BJ Lazarus",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "BJ Lazarus",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "BJ Lazarus",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "BJ Lazarus",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "BJ Lazarus",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "BJ Lazarus",
+              "bowler": "Serdar Burak Emir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "BJ Lazarus",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "BJ Lazarus",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BJ Lazarus",
+                  "fielders": [
+                    {
+                      "name": "A Kanogullari"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "JS Bangera",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "JS Bangera",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "JS Bangera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "JS Bangera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "JS Bangera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "JS Bangera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "JS Bangera",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "JS Bangera",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JS Bangera",
+                  "fielders": [
+                    {
+                      "name": "Murat Yilmaz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "JE Marks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "JE Marks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "JE Marks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "JE Marks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "JE Marks",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "JE Marks",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "Murat Yilmaz",
+              "non_striker": "JE Marks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "Murat Yilmaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JE Marks",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "Murat Yilmaz",
+              "non_striker": "JE Marks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "JE Marks",
+              "bowler": "Murat Yilmaz",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "Murat Yilmaz",
+              "non_striker": "JE Marks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "Murat Yilmaz",
+              "non_striker": "JE Marks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "JE Marks",
+              "bowler": "Murat Yilmaz",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "JE Marks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "JE Marks",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "JE Marks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "JE Marks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "JE Marks",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JE Marks",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "GJ Hilkowitz",
+              "bowler": "Serdar Burak Emir",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Tuskan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GJ Hilkowitz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Tuskan",
+              "non_striker": "GJ Hilkowitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "GJ Hilkowitz",
+              "bowler": "G Tuskan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Tuskan",
+              "non_striker": "GJ Hilkowitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "GJ Hilkowitz",
+              "bowler": "G Tuskan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "GJ Hilkowitz",
+              "bowler": "G Tuskan",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Tuskan",
+              "non_striker": "GJ Hilkowitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Niv Nagavkar",
+                  "fielders": [
+                    {
+                      "name": "Ibrahim Kursad Dalyan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "GJ Hilkowitz",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "G Schachat",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "GJ Hilkowitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "GJ Hilkowitz",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GJ Hilkowitz",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "R Bangera",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Bangera",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Fahad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Idan Varsulkar",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Idan Varsulkar",
+              "bowler": "Muhammet Bicer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Idan Varsulkar",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Idan Varsulkar",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "G Schachat",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Idan Varsulkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Idan Varsulkar",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Idan Varsulkar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Elan Talker",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "G Schachat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "G Schachat",
+                  "fielders": [
+                    {
+                      "name": "G Tuskan"
+                    },
+                    {
+                      "name": "Muhammad Fahad"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Elan Talker",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "IY Levy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "IY Levy",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Elan Talker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "IY Levy",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "Elan Talker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "IY Levy",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "Elan Talker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "IY Levy",
+              "bowler": "Muhammet Bicer",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Elan Talker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Elan Talker",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "IY Levy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Elan Talker",
+                  "fielders": [
+                    {
+                      "name": "Muhammet Bicer"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 15,
+        "runs": 98
+      }
+    }
+  ]
+}

@@ -1,0 +1,2709 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2025-07-10",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "The Hague",
+    "dates": [
+      "2025-07-05"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Europe Region Final",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3277,
+    "officials": {
+      "match_referees": [
+        "Denavon Hayles"
+      ],
+      "reserve_umpires": [
+        "R Black"
+      ],
+      "umpires": [
+        "Aidan Seaver",
+        "RJ Warren"
+      ]
+    },
+    "outcome": {
+      "winner": "Italy",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "J Mosca"
+    ],
+    "players": {
+      "Guernsey": [
+        "B Fitchet",
+        "A Martel",
+        "M Dale-Bradley",
+        "MWR Stokes",
+        "T Nightingale",
+        "IDA Damarell",
+        "OB Nightingale",
+        "LT Bichard",
+        "ACF Stokes",
+        "C Forshaw",
+        "Harry Johnson"
+      ],
+      "Italy": [
+        "J Mosca",
+        "EN Gay",
+        "JA Burns",
+        "HJ Manenti",
+        "BAD Manenti",
+        "M Campopiano",
+        "CJPF Kalugamage",
+        "G Stewart",
+        "Zain Ali",
+        "Jaspreet Singh",
+        "TJ Draca"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Martel": "65cd62a9",
+        "ACF Stokes": "7f74b21d",
+        "Aidan Seaver": "862c0b16",
+        "B Fitchet": "d77ecd14",
+        "BAD Manenti": "ab21795b",
+        "C Forshaw": "0ed66ce6",
+        "CJPF Kalugamage": "31c04b7b",
+        "Denavon Hayles": "5cbeeb02",
+        "EN Gay": "aa710a58",
+        "G Stewart": "a77472dc",
+        "HJ Manenti": "0e56c514",
+        "Harry Johnson": "80b92515",
+        "IDA Damarell": "580ae7f2",
+        "J Mosca": "8f02f6a8",
+        "JA Burns": "7a5f232a",
+        "Jaspreet Singh": "d76ab352",
+        "LT Bichard": "dfcdb11e",
+        "M Campopiano": "26d80a9d",
+        "M Dale-Bradley": "62b2aa65",
+        "MWR Stokes": "c573d173",
+        "OB Nightingale": "1deb4c0c",
+        "R Black": "156c8fb1",
+        "RJ Warren": "9d1c62d7",
+        "T Nightingale": "51a125b3",
+        "TJ Draca": "88fac705",
+        "Zain Ali": "cccac242"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Guernsey",
+      "Italy"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Italy"
+    },
+    "venue": "Sportpark Westvliet, Voorburg"
+  },
+  "innings": [
+    {
+      "team": "Guernsey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "B Fitchet",
+              "bowler": "G Stewart",
+              "non_striker": "A Martel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "A Martel",
+              "bowler": "G Stewart",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "A Martel",
+              "bowler": "G Stewart",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "A Martel",
+              "bowler": "G Stewart",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "A Martel",
+              "bowler": "G Stewart",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "A Martel",
+              "bowler": "G Stewart",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "A Martel",
+                  "fielders": [
+                    {
+                      "name": "J Mosca"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "B Fitchet",
+              "bowler": "TJ Draca",
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "B Fitchet",
+              "bowler": "TJ Draca",
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "M Dale-Bradley",
+              "bowler": "TJ Draca",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "B Fitchet",
+              "bowler": "TJ Draca",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "M Dale-Bradley",
+              "bowler": "TJ Draca",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "M Dale-Bradley",
+              "bowler": "TJ Draca",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "M Dale-Bradley",
+              "bowler": "TJ Draca",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "M Dale-Bradley",
+              "bowler": "G Stewart",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "B Fitchet",
+              "bowler": "G Stewart",
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "B Fitchet",
+              "bowler": "G Stewart",
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "B Fitchet",
+              "bowler": "G Stewart",
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "M Dale-Bradley",
+              "bowler": "G Stewart",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "M Dale-Bradley",
+              "bowler": "G Stewart",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "M Dale-Bradley",
+              "bowler": "HJ Manenti",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "M Dale-Bradley",
+              "bowler": "HJ Manenti",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "M Dale-Bradley",
+              "bowler": "HJ Manenti",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "B Fitchet",
+              "bowler": "HJ Manenti",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "M Dale-Bradley",
+              "bowler": "HJ Manenti",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "B Fitchet",
+              "bowler": "HJ Manenti",
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "M Dale-Bradley",
+              "bowler": "TJ Draca",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "B Fitchet",
+              "bowler": "TJ Draca",
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "B Fitchet",
+              "bowler": "TJ Draca",
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "B Fitchet",
+              "bowler": "TJ Draca",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "B Fitchet",
+              "bowler": "TJ Draca",
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "B Fitchet",
+              "bowler": "TJ Draca",
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "M Dale-Bradley",
+              "bowler": "TJ Draca",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "B Fitchet",
+              "bowler": "HJ Manenti",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Dale-Bradley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "M Dale-Bradley",
+              "bowler": "HJ Manenti",
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Dale-Bradley",
+                  "fielders": [
+                    {
+                      "name": "JA Burns"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "MWR Stokes",
+              "bowler": "HJ Manenti",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B Fitchet",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "B Fitchet",
+              "bowler": "HJ Manenti",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Fitchet",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "T Nightingale",
+              "bowler": "HJ Manenti",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "T Nightingale",
+              "bowler": "HJ Manenti",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "MWR Stokes",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "T Nightingale",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "MWR Stokes",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "T Nightingale",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "T Nightingale",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "T Nightingale",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "T Nightingale",
+              "bowler": "BAD Manenti",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "MWR Stokes",
+              "bowler": "BAD Manenti",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "MWR Stokes",
+              "bowler": "BAD Manenti",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "MWR Stokes",
+              "bowler": "BAD Manenti",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "T Nightingale",
+              "bowler": "BAD Manenti",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "T Nightingale",
+              "bowler": "BAD Manenti",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "MWR Stokes",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "MWR Stokes",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "T Nightingale",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "MWR Stokes",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "MWR Stokes",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "T Nightingale",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "MWR Stokes",
+              "bowler": "BAD Manenti",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "T Nightingale",
+              "bowler": "BAD Manenti",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "T Nightingale",
+              "bowler": "BAD Manenti",
+              "non_striker": "MWR Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "MWR Stokes",
+              "bowler": "BAD Manenti",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "MWR Stokes",
+              "bowler": "BAD Manenti",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "MWR Stokes",
+              "bowler": "BAD Manenti",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "MWR Stokes",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "MWR Stokes",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "MWR Stokes",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MWR Stokes",
+                  "fielders": [
+                    {
+                      "name": "JA Burns"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "IDA Damarell",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "T Nightingale",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "IDA Damarell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "IDA Damarell",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "T Nightingale",
+              "bowler": "BAD Manenti",
+              "non_striker": "IDA Damarell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "T Nightingale",
+              "bowler": "BAD Manenti",
+              "non_striker": "IDA Damarell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "IDA Damarell",
+              "bowler": "BAD Manenti",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "T Nightingale",
+              "bowler": "BAD Manenti",
+              "non_striker": "IDA Damarell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "IDA Damarell",
+              "bowler": "BAD Manenti",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "IDA Damarell",
+              "bowler": "BAD Manenti",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "IDA Damarell",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "IDA Damarell",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "OB Nightingale",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "OB Nightingale",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "T Nightingale",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "T Nightingale",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "T Nightingale",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "OB Nightingale",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "OB Nightingale",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "T Nightingale",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "OB Nightingale",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "OB Nightingale",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "T Nightingale",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "OB Nightingale",
+              "bowler": "G Stewart",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "T Nightingale",
+              "bowler": "G Stewart",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "OB Nightingale",
+              "bowler": "G Stewart",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "T Nightingale",
+              "bowler": "G Stewart",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "OB Nightingale",
+              "bowler": "G Stewart",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "OB Nightingale",
+              "bowler": "G Stewart",
+              "non_striker": "T Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "T Nightingale",
+              "bowler": "BAD Manenti",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "T Nightingale",
+              "bowler": "BAD Manenti",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Nightingale",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "LT Bichard",
+              "bowler": "BAD Manenti",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "LT Bichard",
+              "bowler": "BAD Manenti",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "LT Bichard",
+              "bowler": "BAD Manenti",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LT Bichard",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "ACF Stokes",
+              "bowler": "BAD Manenti",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "OB Nightingale",
+              "bowler": "G Stewart",
+              "non_striker": "ACF Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "ACF Stokes",
+              "bowler": "G Stewart",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "ACF Stokes",
+              "bowler": "G Stewart",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "ACF Stokes",
+              "bowler": "G Stewart",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ACF Stokes",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "C Forshaw",
+              "bowler": "G Stewart",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "C Forshaw",
+              "bowler": "G Stewart",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "C Forshaw",
+              "bowler": "HJ Manenti",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "C Forshaw",
+              "bowler": "HJ Manenti",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "C Forshaw",
+              "bowler": "HJ Manenti",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "OB Nightingale",
+              "bowler": "HJ Manenti",
+              "non_striker": "C Forshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "C Forshaw",
+              "bowler": "HJ Manenti",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "OB Nightingale",
+              "bowler": "HJ Manenti",
+              "non_striker": "C Forshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "OB Nightingale",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "C Forshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "C Forshaw",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "OB Nightingale",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "C Forshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "C Forshaw",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "C Forshaw",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "OB Nightingale",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "C Forshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "OB Nightingale",
+              "bowler": "HJ Manenti",
+              "non_striker": "C Forshaw",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "OB Nightingale",
+              "bowler": "HJ Manenti",
+              "non_striker": "C Forshaw",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "OB Nightingale",
+              "bowler": "HJ Manenti",
+              "non_striker": "C Forshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "C Forshaw",
+              "bowler": "HJ Manenti",
+              "non_striker": "OB Nightingale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "OB Nightingale",
+              "bowler": "HJ Manenti",
+              "non_striker": "C Forshaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OB Nightingale",
+                  "fielders": [
+                    {
+                      "name": "M Campopiano"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Harry Johnson",
+              "bowler": "HJ Manenti",
+              "non_striker": "C Forshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Italy",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "J Mosca",
+              "bowler": "LT Bichard",
+              "non_striker": "EN Gay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "J Mosca",
+              "bowler": "LT Bichard",
+              "non_striker": "EN Gay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "EN Gay",
+              "bowler": "LT Bichard",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "EN Gay",
+              "bowler": "LT Bichard",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "EN Gay",
+              "bowler": "LT Bichard",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "EN Gay",
+              "bowler": "LT Bichard",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EN Gay",
+                  "fielders": [
+                    {
+                      "name": "B Fitchet"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "J Mosca",
+              "bowler": "ACF Stokes",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "JA Burns",
+              "bowler": "ACF Stokes",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "JA Burns",
+              "bowler": "ACF Stokes",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "J Mosca",
+              "bowler": "ACF Stokes",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "J Mosca",
+              "bowler": "ACF Stokes",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "JA Burns",
+              "bowler": "ACF Stokes",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "J Mosca",
+              "bowler": "C Forshaw",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "J Mosca",
+              "bowler": "C Forshaw",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "J Mosca",
+              "bowler": "C Forshaw",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "J Mosca",
+              "bowler": "C Forshaw",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "JA Burns",
+              "bowler": "C Forshaw",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "JA Burns",
+              "bowler": "C Forshaw",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "JA Burns",
+              "bowler": "LT Bichard",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "JA Burns",
+              "bowler": "LT Bichard",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "J Mosca",
+              "bowler": "LT Bichard",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "J Mosca",
+              "bowler": "LT Bichard",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "J Mosca",
+              "bowler": "LT Bichard",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "J Mosca",
+              "bowler": "LT Bichard",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "JA Burns",
+              "bowler": "A Martel",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "JA Burns",
+              "bowler": "A Martel",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "JA Burns",
+              "bowler": "A Martel",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "JA Burns",
+              "bowler": "A Martel",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "JA Burns",
+              "bowler": "A Martel",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "JA Burns",
+              "bowler": "A Martel",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "JA Burns",
+              "bowler": "C Forshaw",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "JA Burns",
+              "bowler": "C Forshaw",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "JA Burns",
+              "bowler": "C Forshaw",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "JA Burns",
+              "bowler": "C Forshaw",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "JA Burns",
+              "bowler": "C Forshaw",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "J Mosca",
+              "bowler": "C Forshaw",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "JA Burns",
+              "bowler": "Harry Johnson",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "J Mosca",
+              "bowler": "Harry Johnson",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "J Mosca",
+              "bowler": "Harry Johnson",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "J Mosca",
+              "bowler": "Harry Johnson",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "JA Burns",
+              "bowler": "Harry Johnson",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JA Burns",
+                  "fielders": [
+                    {
+                      "name": "T Nightingale"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "HJ Manenti",
+              "bowler": "Harry Johnson",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "HJ Manenti",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "J Mosca",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "J Mosca",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "J Mosca",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "HJ Manenti",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "HJ Manenti",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "HJ Manenti",
+              "bowler": "Harry Johnson",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "J Mosca",
+              "bowler": "Harry Johnson",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "J Mosca",
+              "bowler": "Harry Johnson",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "J Mosca",
+              "bowler": "Harry Johnson",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "J Mosca",
+              "bowler": "Harry Johnson",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "J Mosca",
+              "bowler": "Harry Johnson",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "HJ Manenti",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "J Mosca",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "HJ Manenti",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "HJ Manenti",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "J Mosca",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "HJ Manenti",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "J Mosca",
+              "bowler": "ACF Stokes",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "HJ Manenti",
+              "bowler": "ACF Stokes",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "HJ Manenti",
+              "bowler": "ACF Stokes",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "HJ Manenti",
+              "bowler": "ACF Stokes",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "J Mosca",
+              "bowler": "ACF Stokes",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "J Mosca",
+              "bowler": "ACF Stokes",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "HJ Manenti",
+              "bowler": "A Martel",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "J Mosca",
+              "bowler": "A Martel",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "HJ Manenti",
+              "bowler": "A Martel",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "HJ Manenti",
+              "bowler": "A Martel",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "HJ Manenti",
+              "bowler": "A Martel",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "HJ Manenti",
+              "bowler": "A Martel",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "J Mosca",
+              "bowler": "C Forshaw",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "HJ Manenti",
+              "bowler": "C Forshaw",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "J Mosca",
+              "bowler": "C Forshaw",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "HJ Manenti",
+              "bowler": "C Forshaw",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "J Mosca",
+              "bowler": "C Forshaw",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "J Mosca",
+              "bowler": "C Forshaw",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "HJ Manenti",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "HJ Manenti",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "HJ Manenti",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HJ Manenti",
+                  "fielders": [
+                    {
+                      "name": "ACF Stokes"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "BAD Manenti",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "J Mosca",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "J Mosca",
+              "bowler": "M Dale-Bradley",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 123
+      }
+    }
+  ]
+}

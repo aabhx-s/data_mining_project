@@ -1,0 +1,3026 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2023-01-01",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2019-11-14"
+    ],
+    "event": {
+      "name": "Syed Mushtaq Ali Trophy",
+      "group": "A"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Andhra",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Uttarakhand": [
+        "Karanveer Kaushal",
+        "Avneesh Sudha",
+        "TM Srivastava",
+        "Saurabh Rawat",
+        "Dikshanshu Negi",
+        "Vaibhav Singh Panwar",
+        "Himanshu Bisht",
+        "Sunny Rana",
+        "Mayank Mishra",
+        "Akash Madhwal",
+        "Rahil Shah"
+      ],
+      "Andhra": [
+        "Manish Golamaru",
+        "Cheepurapalli Stephen",
+        "Bandaru Ayyappa",
+        "Harishankar Reddy",
+        "Naren Reddy",
+        "Dasari Swaroop Kumar",
+        "Ashwin Hebbar",
+        "KS Bharat",
+        "Prashanth Kumar",
+        "RK Bhui",
+        "Chintapalli Kranthi Kumar"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Akash Madhwal": "4bd09374",
+        "Ashwin Hebbar": "b11d8647",
+        "Avneesh Sudha": "126e8cb3",
+        "Bandaru Ayyappa": "cb4f31e2",
+        "Cheepurapalli Stephen": "48bf9d5c",
+        "Chintapalli Kranthi Kumar": "cc9c8722",
+        "Dasari Swaroop Kumar": "a082d97a",
+        "Dikshanshu Negi": "1f3febed",
+        "Harishankar Reddy": "791c088d",
+        "Himanshu Bisht": "24d163d7",
+        "KS Bharat": "44a89551",
+        "Karanveer Kaushal": "9e62632a",
+        "Manish Golamaru": "327c7253",
+        "Mayank Mishra": "de00b96c",
+        "Naren Reddy": "a7b20d59",
+        "Prashanth Kumar": "1f0b8f44",
+        "RK Bhui": "b63e358a",
+        "Rahil Shah": "7c30f4d0",
+        "Saurabh Rawat": "839b6d2e",
+        "Sunny Rana": "798c67e5",
+        "TM Srivastava": "a76d10ba",
+        "Vaibhav Singh Panwar": "8685f676"
+      }
+    },
+    "season": "2019/20",
+    "team_type": "club",
+    "teams": [
+      "Uttarakhand",
+      "Andhra"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Andhra"
+    },
+    "venue": "Dr P.V.G. Raju ACA Sports Complex"
+  },
+  "innings": [
+    {
+      "team": "Uttarakhand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Manish Golamaru",
+              "non_striker": "Avneesh Sudha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Manish Golamaru",
+              "non_striker": "Avneesh Sudha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Manish Golamaru",
+              "non_striker": "Avneesh Sudha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Avneesh Sudha",
+              "bowler": "Manish Golamaru",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Avneesh Sudha",
+              "bowler": "Manish Golamaru",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Manish Golamaru",
+              "non_striker": "Avneesh Sudha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Avneesh Sudha",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Avneesh Sudha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Avneesh Sudha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Avneesh Sudha",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Avneesh Sudha",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Avneesh Sudha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Avneesh Sudha",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Avneesh Sudha",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "Avneesh Sudha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "Avneesh Sudha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "Avneesh Sudha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Avneesh Sudha",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Avneesh Sudha",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Avneesh Sudha",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Avneesh Sudha",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Avneesh Sudha",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Avneesh Sudha",
+                  "fielders": [
+                    {
+                      "name": "Ashwin Hebbar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "TM Srivastava",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "TM Srivastava",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "TM Srivastava",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "TM Srivastava",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "TM Srivastava",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "TM Srivastava",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "TM Srivastava",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "Karanveer Kaushal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Karanveer Kaushal",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Karanveer Kaushal",
+                  "fielders": [
+                    {
+                      "name": "RK Bhui"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Saurabh Rawat",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "TM Srivastava",
+              "bowler": "Naren Reddy",
+              "non_striker": "Saurabh Rawat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Saurabh Rawat",
+              "bowler": "Naren Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "TM Srivastava",
+              "bowler": "Naren Reddy",
+              "non_striker": "Saurabh Rawat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Saurabh Rawat",
+              "bowler": "Naren Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "TM Srivastava",
+              "bowler": "Naren Reddy",
+              "non_striker": "Saurabh Rawat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Saurabh Rawat",
+              "bowler": "Naren Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Saurabh Rawat",
+              "bowler": "Manish Golamaru",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "TM Srivastava",
+              "bowler": "Manish Golamaru",
+              "non_striker": "Saurabh Rawat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Saurabh Rawat",
+              "bowler": "Manish Golamaru",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Saurabh Rawat",
+              "bowler": "Manish Golamaru",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "TM Srivastava",
+              "bowler": "Manish Golamaru",
+              "non_striker": "Saurabh Rawat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Saurabh Rawat",
+              "bowler": "Manish Golamaru",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Saurabh Rawat",
+              "bowler": "Naren Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "TM Srivastava",
+              "bowler": "Naren Reddy",
+              "non_striker": "Saurabh Rawat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "TM Srivastava",
+              "bowler": "Naren Reddy",
+              "non_striker": "Saurabh Rawat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saurabh Rawat",
+                  "fielders": [
+                    {
+                      "name": "Chintapalli Kranthi Kumar"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Naren Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "TM Srivastava",
+              "bowler": "Naren Reddy",
+              "non_striker": "Dikshanshu Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Naren Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "TM Srivastava",
+              "bowler": "Dasari Swaroop Kumar",
+              "non_striker": "Dikshanshu Negi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "TM Srivastava",
+              "bowler": "Dasari Swaroop Kumar",
+              "non_striker": "Dikshanshu Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Dasari Swaroop Kumar",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "TM Srivastava",
+              "bowler": "Dasari Swaroop Kumar",
+              "non_striker": "Dikshanshu Negi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "TM Srivastava",
+              "bowler": "Dasari Swaroop Kumar",
+              "non_striker": "Dikshanshu Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Dasari Swaroop Kumar",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Naren Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "TM Srivastava",
+              "bowler": "Naren Reddy",
+              "non_striker": "Dikshanshu Negi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "TM Srivastava",
+              "bowler": "Naren Reddy",
+              "non_striker": "Dikshanshu Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Naren Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Naren Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Naren Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Dasari Swaroop Kumar",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "TM Srivastava",
+              "bowler": "Dasari Swaroop Kumar",
+              "non_striker": "Dikshanshu Negi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "TM Srivastava",
+              "bowler": "Dasari Swaroop Kumar",
+              "non_striker": "Dikshanshu Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Dasari Swaroop Kumar",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "TM Srivastava",
+              "bowler": "Dasari Swaroop Kumar",
+              "non_striker": "Dikshanshu Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Dasari Swaroop Kumar",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "TM Srivastava",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "Dikshanshu Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "TM Srivastava",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "Dikshanshu Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "TM Srivastava",
+              "bowler": "Manish Golamaru",
+              "non_striker": "Dikshanshu Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Dikshanshu Negi",
+              "bowler": "Manish Golamaru",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Dikshanshu Negi",
+                  "fielders": [
+                    {
+                      "name": "KS Bharat"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Vaibhav Singh Panwar",
+              "bowler": "Manish Golamaru",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "TM Srivastava",
+              "bowler": "Manish Golamaru",
+              "non_striker": "Vaibhav Singh Panwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Vaibhav Singh Panwar",
+              "bowler": "Manish Golamaru",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "TM Srivastava",
+              "bowler": "Manish Golamaru",
+              "non_striker": "Vaibhav Singh Panwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Vaibhav Singh Panwar",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "TM Srivastava",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "Vaibhav Singh Panwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "TM Srivastava",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "Vaibhav Singh Panwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Vaibhav Singh Panwar",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "TM Srivastava",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "Vaibhav Singh Panwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Vaibhav Singh Panwar",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Vaibhav Singh Panwar",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Vaibhav Singh Panwar",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "TM Srivastava",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "Vaibhav Singh Panwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "TM Srivastava",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "Vaibhav Singh Panwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Vaibhav Singh Panwar",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Vaibhav Singh Panwar",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Vaibhav Singh Panwar",
+                  "fielders": [
+                    {
+                      "name": "Prashanth Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "TM Srivastava",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Himanshu Bisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Himanshu Bisht",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Himanshu Bisht",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "TM Srivastava",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Himanshu Bisht",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "TM Srivastava",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Himanshu Bisht",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "TM Srivastava",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Himanshu Bisht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Himanshu Bisht",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "TM Srivastava",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "Himanshu Bisht",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "TM Srivastava",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "Himanshu Bisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Himanshu Bisht",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Himanshu Bisht",
+                  "fielders": [
+                    {
+                      "name": "Chintapalli Kranthi Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Sunny Rana",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sunny Rana",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Mayank Mishra",
+              "bowler": "Harishankar Reddy",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Mayank Mishra",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "TM Srivastava",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "Mayank Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Mayank Mishra",
+              "bowler": "Bandaru Ayyappa",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "TM Srivastava",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "Mayank Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Mayank Mishra",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Mayank Mishra",
+              "bowler": "Bandaru Ayyappa",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Mayank Mishra",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Mayank Mishra",
+              "bowler": "Cheepurapalli Stephen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "TM Srivastava",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Mayank Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "TM Srivastava",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "Mayank Mishra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "TM Srivastava",
+              "bowler": "Cheepurapalli Stephen",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Mayank Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Mayank Mishra",
+              "bowler": "Cheepurapalli Stephen",
+              "non_striker": "TM Srivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mayank Mishra",
+                  "fielders": [
+                    {
+                      "name": "KS Bharat"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Andhra",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Mayank Mishra",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Mayank Mishra",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Mayank Mishra",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "KS Bharat",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "KS Bharat",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "KS Bharat",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Sunny Rana",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "KS Bharat",
+              "bowler": "Sunny Rana",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "KS Bharat",
+              "bowler": "Sunny Rana",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "KS Bharat",
+              "bowler": "Sunny Rana",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "KS Bharat",
+              "bowler": "Sunny Rana",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "KS Bharat",
+              "bowler": "Sunny Rana",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Mayank Mishra",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Mayank Mishra",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "KS Bharat",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "KS Bharat",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "KS Bharat",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "KS Bharat",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Sunny Rana",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Sunny Rana",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Sunny Rana",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Sunny Rana",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "KS Bharat",
+              "bowler": "Sunny Rana",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Sunny Rana",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "KS Bharat",
+              "bowler": "Akash Madhwal",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Akash Madhwal",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Akash Madhwal",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Akash Madhwal",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "KS Bharat",
+              "bowler": "Akash Madhwal",
+              "non_striker": "Ashwin Hebbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Ashwin Hebbar",
+              "bowler": "Akash Madhwal",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ashwin Hebbar",
+                  "fielders": [
+                    {
+                      "name": "Karanveer Kaushal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "Prashanth Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "Prashanth Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "Prashanth Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "Prashanth Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "Prashanth Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "Prashanth Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Prashanth Kumar",
+              "bowler": "Akash Madhwal",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Prashanth Kumar",
+              "bowler": "Akash Madhwal",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Prashanth Kumar",
+              "bowler": "Akash Madhwal",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Prashanth Kumar",
+                  "fielders": [
+                    {
+                      "name": "Saurabh Rawat"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "RK Bhui",
+              "bowler": "Akash Madhwal",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "RK Bhui",
+              "bowler": "Akash Madhwal",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "RK Bhui",
+              "bowler": "Akash Madhwal",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "RK Bhui",
+              "bowler": "Rahil Shah",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "RK Bhui",
+              "bowler": "Akash Madhwal",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "RK Bhui",
+              "bowler": "Akash Madhwal",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "KS Bharat",
+              "bowler": "Akash Madhwal",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "KS Bharat",
+              "bowler": "Akash Madhwal",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "KS Bharat",
+              "bowler": "Akash Madhwal",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "RK Bhui",
+              "bowler": "Akash Madhwal",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "RK Bhui",
+              "bowler": "Rahil Shah",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "KS Bharat",
+              "bowler": "Rahil Shah",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "RK Bhui",
+              "bowler": "Rahil Shah",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "RK Bhui",
+              "bowler": "Rahil Shah",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "RK Bhui",
+              "bowler": "Dikshanshu Negi",
+              "non_striker": "KS Bharat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "KS Bharat",
+              "bowler": "Dikshanshu Negi",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KS Bharat",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Dikshanshu Negi",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "RK Bhui",
+              "bowler": "Dikshanshu Negi",
+              "non_striker": "Chintapalli Kranthi Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Dikshanshu Negi",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "RK Bhui",
+              "bowler": "Dikshanshu Negi",
+              "non_striker": "Chintapalli Kranthi Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "RK Bhui",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Chintapalli Kranthi Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Dikshanshu Negi",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Dikshanshu Negi",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Dikshanshu Negi",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "RK Bhui",
+              "bowler": "Dikshanshu Negi",
+              "non_striker": "Chintapalli Kranthi Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Dikshanshu Negi",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Dikshanshu Negi",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Chintapalli Kranthi Kumar",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Chintapalli Kranthi Kumar",
+                  "fielders": [
+                    {
+                      "name": "Avneesh Sudha"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "RK Bhui",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "RK Bhui",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "RK Bhui",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Naren Reddy",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "RK Bhui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "RK Bhui",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RK Bhui",
+                  "fielders": [
+                    {
+                      "name": "Karanveer Kaushal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Manish Golamaru",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Manish Golamaru",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Manish Golamaru",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Naren Reddy",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Naren Reddy",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Naren Reddy",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Manish Golamaru",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Manish Golamaru",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Naren Reddy",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Manish Golamaru",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Manish Golamaru",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Naren Reddy",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Manish Golamaru",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Naren Reddy",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Manish Golamaru",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Naren Reddy",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Naren Reddy",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Manish Golamaru",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Naren Reddy",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Naren Reddy",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Manish Golamaru",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Manish Golamaru",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Naren Reddy",
+              "bowler": "Himanshu Bisht",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Naren Reddy",
+              "bowler": "Akash Madhwal",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Naren Reddy",
+              "bowler": "Akash Madhwal",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Naren Reddy",
+              "bowler": "Akash Madhwal",
+              "non_striker": "Manish Golamaru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Manish Golamaru",
+              "bowler": "Akash Madhwal",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Manish Golamaru",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Dasari Swaroop Kumar",
+              "bowler": "Akash Madhwal",
+              "non_striker": "Naren Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2751 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bogota",
+    "dates": [
+      "2026-08-07"
+    ],
+    "event": {
+      "name": "South American Men's Championships",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4059,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Brazil",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "RV Nascimento"
+    ],
+    "players": {
+      "Panama": [
+        "SP Guzman",
+        "MY Bawa",
+        "Yusuf Bhoola",
+        "Irfan Hafejee",
+        "Lalu Bhai Ahir",
+        "Sufiyan Tarajia",
+        "Abdul Makda",
+        "Kalpesh Ahir",
+        "BB Ahir",
+        "AK Ahir",
+        "Sarkar Ameji"
+      ],
+      "Brazil": [
+        "W Maximo",
+        "LH Rodrigues",
+        "CC Machado",
+        "MFI Assuncao",
+        "Yasar Haroon",
+        "G Oliveira",
+        "L Maximo",
+        "LA Goncalves",
+        "LG Moras",
+        "B Passoni",
+        "RV Nascimento"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AK Ahir": "d95070e3",
+        "Abdul Makda": "7864bd38",
+        "B Passoni": "a3e8e678",
+        "BB Ahir": "59590c98",
+        "CC Machado": "5992ef03",
+        "G Oliveira": "b4c52f5f",
+        "Irfan Hafejee": "244009ae",
+        "Kalpesh Ahir": "a74a9dac",
+        "L Maximo": "58c0c30c",
+        "LA Goncalves": "40ff8e58",
+        "LG Moras": "d5dea4e7",
+        "LH Rodrigues": "57c95c3c",
+        "Lalu Bhai Ahir": "dcd05452",
+        "MFI Assuncao": "d8e48e1b",
+        "MY Bawa": "8ca63417",
+        "RV Nascimento": "d9ba93c0",
+        "SP Guzman": "37a1766e",
+        "Sarkar Ameji": "a04b5edc",
+        "Sufiyan Tarajia": "32737738",
+        "W Maximo": "e41dee27",
+        "Yasar Haroon": "5a8dc41e",
+        "Yusuf Bhoola": "5afc0b37"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Panama",
+      "Brazil"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Brazil"
+    },
+    "venue": "Los Pinos Polo Club 1, Cundinamarca"
+  },
+  "innings": [
+    {
+      "team": "Panama",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "SP Guzman",
+              "bowler": "LH Rodrigues",
+              "non_striker": "MY Bawa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "SP Guzman",
+              "bowler": "LH Rodrigues",
+              "non_striker": "MY Bawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "SP Guzman",
+              "bowler": "LH Rodrigues",
+              "non_striker": "MY Bawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "MY Bawa",
+              "bowler": "LH Rodrigues",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "MY Bawa",
+              "bowler": "LH Rodrigues",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "SP Guzman",
+              "bowler": "LH Rodrigues",
+              "non_striker": "MY Bawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "SP Guzman",
+              "bowler": "LG Moras",
+              "non_striker": "MY Bawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "MY Bawa",
+              "bowler": "LH Rodrigues",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "MY Bawa",
+              "bowler": "LH Rodrigues",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "MY Bawa",
+              "bowler": "LH Rodrigues",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "MY Bawa",
+              "bowler": "LH Rodrigues",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "MY Bawa",
+              "bowler": "LH Rodrigues",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "SP Guzman",
+              "bowler": "LH Rodrigues",
+              "non_striker": "MY Bawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "SP Guzman",
+              "bowler": "LH Rodrigues",
+              "non_striker": "MY Bawa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "SP Guzman",
+              "bowler": "G Oliveira",
+              "non_striker": "MY Bawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "SP Guzman",
+              "bowler": "G Oliveira",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MY Bawa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "SP Guzman",
+              "bowler": "G Oliveira",
+              "non_striker": "MY Bawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "SP Guzman",
+              "bowler": "G Oliveira",
+              "non_striker": "MY Bawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "MY Bawa",
+              "bowler": "G Oliveira",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "MY Bawa",
+              "bowler": "G Oliveira",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "MY Bawa",
+              "bowler": "G Oliveira",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "MY Bawa",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MY Bawa",
+                  "fielders": [
+                    {
+                      "name": "W Maximo"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Yusuf Bhoola",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Yusuf Bhoola",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Yusuf Bhoola",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Yusuf Bhoola",
+              "bowler": "LG Moras",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "SP Guzman",
+              "bowler": "G Oliveira",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Yusuf Bhoola",
+              "bowler": "G Oliveira",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Yusuf Bhoola",
+              "bowler": "G Oliveira",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "SP Guzman",
+              "bowler": "G Oliveira",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "SP Guzman",
+              "bowler": "G Oliveira",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Yusuf Bhoola",
+              "bowler": "G Oliveira",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "SP Guzman",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Yusuf Bhoola",
+              "bowler": "Yasar Haroon",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Yusuf Bhoola",
+              "bowler": "Yasar Haroon",
+              "non_striker": "SP Guzman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "SP Guzman",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "SP Guzman",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SP Guzman",
+                  "fielders": [
+                    {
+                      "name": "LA Goncalves"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Irfan Hafejee",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Yusuf Bhoola",
+              "bowler": "G Oliveira",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Yusuf Bhoola",
+              "bowler": "G Oliveira",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Irfan Hafejee",
+              "bowler": "G Oliveira",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Irfan Hafejee",
+              "bowler": "G Oliveira",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Yusuf Bhoola",
+              "bowler": "G Oliveira",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Irfan Hafejee",
+              "bowler": "G Oliveira",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Irfan Hafejee",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Irfan Hafejee",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Irfan Hafejee",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Irfan Hafejee",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Irfan Hafejee",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Irfan Hafejee",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Yusuf Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Yusuf Bhoola",
+              "bowler": "RV Nascimento",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Yusuf Bhoola",
+              "bowler": "RV Nascimento",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yusuf Bhoola",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Lalu Bhai Ahir",
+              "bowler": "RV Nascimento",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Irfan Hafejee",
+              "bowler": "RV Nascimento",
+              "non_striker": "Lalu Bhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Irfan Hafejee",
+              "bowler": "RV Nascimento",
+              "non_striker": "Lalu Bhai Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Lalu Bhai Ahir",
+              "bowler": "RV Nascimento",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Irfan Hafejee",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Lalu Bhai Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Lalu Bhai Ahir",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Lalu Bhai Ahir",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Lalu Bhai Ahir",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Lalu Bhai Ahir",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Lalu Bhai Ahir",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Irfan Hafejee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Irfan Hafejee",
+              "bowler": "RV Nascimento",
+              "non_striker": "Lalu Bhai Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Irfan Hafejee",
+                  "fielders": [
+                    {
+                      "name": "MFI Assuncao"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Sufiyan Tarajia",
+              "bowler": "RV Nascimento",
+              "non_striker": "Lalu Bhai Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Lalu Bhai Ahir",
+              "bowler": "RV Nascimento",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Sufiyan Tarajia",
+              "bowler": "RV Nascimento",
+              "non_striker": "Lalu Bhai Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Lalu Bhai Ahir",
+              "bowler": "RV Nascimento",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Lalu Bhai Ahir",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Abdul Makda",
+              "bowler": "RV Nascimento",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Sufiyan Tarajia",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Abdul Makda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Abdul Makda",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Abdul Makda",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Sufiyan Tarajia",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Abdul Makda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Sufiyan Tarajia",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Abdul Makda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Sufiyan Tarajia",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Abdul Makda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Abdul Makda",
+              "bowler": "RV Nascimento",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Sufiyan Tarajia",
+              "bowler": "RV Nascimento",
+              "non_striker": "Abdul Makda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Abdul Makda",
+              "bowler": "RV Nascimento",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Abdul Makda",
+              "bowler": "RV Nascimento",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Abdul Makda",
+              "bowler": "RV Nascimento",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Abdul Makda",
+              "bowler": "RV Nascimento",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Abdul Makda",
+              "bowler": "RV Nascimento",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Abdul Makda",
+              "bowler": "RV Nascimento",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Abdul Makda",
+              "bowler": "MFI Assuncao",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Abdul Makda",
+              "bowler": "MFI Assuncao",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abdul Makda",
+                  "fielders": [
+                    {
+                      "name": "W Maximo"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Kalpesh Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Sufiyan Tarajia",
+              "bowler": "MFI Assuncao",
+              "non_striker": "Kalpesh Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Kalpesh Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Sufiyan Tarajia",
+              "bowler": "MFI Assuncao",
+              "non_striker": "Kalpesh Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Kalpesh Ahir",
+              "bowler": "G Oliveira",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Kalpesh Ahir",
+              "bowler": "G Oliveira",
+              "non_striker": "Sufiyan Tarajia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Sufiyan Tarajia",
+              "bowler": "G Oliveira",
+              "non_striker": "Kalpesh Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Sufiyan Tarajia",
+              "bowler": "G Oliveira",
+              "non_striker": "Kalpesh Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sufiyan Tarajia",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "BB Ahir",
+              "bowler": "G Oliveira",
+              "non_striker": "Kalpesh Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "BB Ahir",
+              "bowler": "G Oliveira",
+              "non_striker": "Kalpesh Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Kalpesh Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "BB Ahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Kalpesh Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "BB Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "BB Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "Kalpesh Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Kalpesh Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "BB Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kalpesh Ahir",
+                  "fielders": [
+                    {
+                      "name": "LA Goncalves"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "AK Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "BB Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "BB Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "AK Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "BB Ahir",
+              "bowler": "LH Rodrigues",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AK Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "AK Ahir",
+              "bowler": "LH Rodrigues",
+              "non_striker": "BB Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "BB Ahir",
+              "bowler": "LH Rodrigues",
+              "non_striker": "AK Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "BB Ahir",
+              "bowler": "LH Rodrigues",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AK Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "BB Ahir",
+              "bowler": "LH Rodrigues",
+              "non_striker": "AK Ahir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "BB Ahir",
+              "bowler": "LH Rodrigues",
+              "non_striker": "AK Ahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "BB Ahir",
+              "bowler": "LH Rodrigues",
+              "non_striker": "AK Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "AK Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "BB Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "BB Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "AK Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "AK Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "BB Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "AK Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "BB Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "BB Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "AK Ahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "AK Ahir",
+                  "fielders": [
+                    {
+                      "name": "LH Rodrigues"
+                    },
+                    {
+                      "name": "MFI Assuncao"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "BB Ahir",
+              "bowler": "MFI Assuncao",
+              "non_striker": "Sarkar Ameji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Brazil",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "W Maximo",
+              "bowler": "Lalu Bhai Ahir",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "W Maximo",
+              "bowler": "Lalu Bhai Ahir",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "W Maximo",
+              "bowler": "Lalu Bhai Ahir",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "W Maximo",
+              "bowler": "Lalu Bhai Ahir",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "W Maximo",
+              "bowler": "Lalu Bhai Ahir",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "LH Rodrigues",
+              "bowler": "Lalu Bhai Ahir",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "LH Rodrigues",
+              "bowler": "Sufiyan Tarajia",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "W Maximo",
+              "bowler": "Sufiyan Tarajia",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "W Maximo",
+              "bowler": "Sufiyan Tarajia",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "W Maximo",
+              "bowler": "Sufiyan Tarajia",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "W Maximo",
+              "bowler": "Sufiyan Tarajia",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "W Maximo",
+              "bowler": "Sufiyan Tarajia",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "W Maximo",
+              "bowler": "Lalu Bhai Ahir",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "LH Rodrigues",
+              "bowler": "Lalu Bhai Ahir",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "LH Rodrigues",
+              "bowler": "Lalu Bhai Ahir",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "LH Rodrigues",
+              "bowler": "Lalu Bhai Ahir",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "LH Rodrigues",
+              "bowler": "Lalu Bhai Ahir",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "W Maximo",
+              "bowler": "Lalu Bhai Ahir",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "W Maximo",
+              "bowler": "Lalu Bhai Ahir",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "LH Rodrigues",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "LH Rodrigues",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "W Maximo",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "LH Rodrigues",
+              "bowler": "Irfan Hafejee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "LH Rodrigues",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "W Maximo",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "W Maximo",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "W Maximo",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "LH Rodrigues",
+              "bowler": "MY Bawa",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "LH Rodrigues",
+              "bowler": "MY Bawa",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "LH Rodrigues",
+              "bowler": "MY Bawa",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "W Maximo",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "LH Rodrigues",
+              "bowler": "MY Bawa",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "W Maximo",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "W Maximo",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "LH Rodrigues",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "LH Rodrigues",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "W Maximo",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "LH Rodrigues",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "W Maximo",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "W Maximo",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "W Maximo",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "LH Rodrigues",
+              "bowler": "MY Bawa",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "LH Rodrigues",
+              "bowler": "MY Bawa",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "LH Rodrigues",
+              "bowler": "MY Bawa",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "W Maximo",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Maximo",
+                  "fielders": [
+                    {
+                      "name": "Yusuf Bhoola"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "CC Machado",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "CC Machado",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "CC Machado",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "CC Machado",
+              "bowler": "Irfan Hafejee",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "LH Rodrigues",
+              "bowler": "Irfan Hafejee",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "CC Machado",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "CC Machado",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "CC Machado",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CC Machado",
+                  "fielders": [
+                    {
+                      "name": "Yusuf Bhoola"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "MFI Assuncao",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "MFI Assuncao",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "MFI Assuncao",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "LH Rodrigues",
+              "bowler": "Sarkar Ameji",
+              "non_striker": "MFI Assuncao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "LH Rodrigues",
+              "bowler": "Sarkar Ameji",
+              "non_striker": "MFI Assuncao",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "MFI Assuncao",
+              "bowler": "Sarkar Ameji",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "MFI Assuncao",
+              "bowler": "Sarkar Ameji",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "MFI Assuncao",
+              "bowler": "Sarkar Ameji",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MFI Assuncao",
+                  "fielders": [
+                    {
+                      "name": "AK Ahir"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "LH Rodrigues",
+              "bowler": "Sarkar Ameji",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Yasar Haroon",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Yasar Haroon",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "LH Rodrigues",
+              "bowler": "MY Bawa",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "LH Rodrigues",
+              "bowler": "MY Bawa",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Yasar Haroon",
+              "bowler": "MY Bawa",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "LH Rodrigues",
+              "bowler": "MY Bawa",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Yasar Haroon",
+              "bowler": "Sarkar Ameji",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Yasar Haroon",
+              "bowler": "Sarkar Ameji",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Yasar Haroon",
+              "bowler": "Sarkar Ameji",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Yasar Haroon",
+              "bowler": "Sarkar Ameji",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "LH Rodrigues",
+              "bowler": "Sarkar Ameji",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Yasar Haroon",
+              "bowler": "Sarkar Ameji",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "LH Rodrigues",
+              "bowler": "Abdul Makda",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "LH Rodrigues",
+              "bowler": "Abdul Makda",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "LH Rodrigues",
+              "bowler": "Abdul Makda",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "LH Rodrigues",
+              "bowler": "Abdul Makda",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "LH Rodrigues",
+              "bowler": "Abdul Makda",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Yasar Haroon",
+              "bowler": "Abdul Makda",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "LH Rodrigues",
+              "bowler": "Kalpesh Ahir",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Yasar Haroon",
+              "bowler": "Kalpesh Ahir",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Yasar Haroon",
+              "bowler": "Kalpesh Ahir",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 94
+      }
+    }
+  ]
+}

@@ -1,0 +1,2659 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-07-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Nottingham",
+    "dates": [
+      "2026-07-07"
+    ],
+    "event": {
+      "name": "India tour of England",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4013,
+    "officials": {
+      "match_referees": [
+        "RB Richardson"
+      ],
+      "reserve_umpires": [
+        "GD Lloyd"
+      ],
+      "tv_umpires": [
+        "M Burns"
+      ],
+      "umpires": [
+        "MJ Saggers",
+        "RJ Warren"
+      ]
+    },
+    "outcome": {
+      "winner": "England",
+      "by": {
+        "runs": 125
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "JC Archer"
+    ],
+    "players": {
+      "England": [
+        "PD Salt",
+        "JC Buttler",
+        "HC Brook",
+        "JG Bethell",
+        "T Banton",
+        "SM Curran",
+        "WG Jacks",
+        "JC Archer",
+        "LA Dawson",
+        "AU Rashid",
+        "JC Tongue"
+      ],
+      "India": [
+        "Abhishek Sharma",
+        "V Suryavanshi",
+        "Ishan Kishan",
+        "SS Iyer",
+        "AR Patel",
+        "Tilak Varma",
+        "Harshit Rana",
+        "S Dube",
+        "Arshdeep Singh",
+        "CV Varun",
+        "Prince Yadav"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AR Patel": "2e171977",
+        "AU Rashid": "249d60c9",
+        "Abhishek Sharma": "f29185a1",
+        "Arshdeep Singh": "244048f6",
+        "CV Varun": "5b7ab5a9",
+        "GD Lloyd": "36e0770d",
+        "HC Brook": "4ae1755b",
+        "Harshit Rana": "77b1aa15",
+        "Ishan Kishan": "752f7486",
+        "JC Archer": "5574750c",
+        "JC Buttler": "99b75528",
+        "JC Tongue": "1f1b4c89",
+        "JG Bethell": "3c55c703",
+        "LA Dawson": "4a461c24",
+        "M Burns": "b3bd0666",
+        "MJ Saggers": "402d5937",
+        "PD Salt": "3d284ca3",
+        "Prince Yadav": "80b2fb19",
+        "RB Richardson": "410e2f12",
+        "RJ Warren": "9d1c62d7",
+        "S Dube": "a4e37e47",
+        "SM Curran": "e94915e6",
+        "SS Iyer": "85ec8e33",
+        "T Banton": "25f7b7d6",
+        "Tilak Varma": "b0482a1d",
+        "V Suryavanshi": "470f446b",
+        "WG Jacks": "9caf69a1"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "England",
+      "India"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "India"
+    },
+    "venue": "Trent Bridge, Nottingham"
+  },
+  "innings": [
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "JC Buttler",
+              "review": {
+                "by": "India",
+                "umpire": "MJ Saggers",
+                "batter": "PD Salt",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "PD Salt",
+              "bowler": "Harshit Rana",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "PD Salt",
+              "bowler": "Harshit Rana",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "JC Buttler",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "JC Buttler",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "JC Buttler",
+              "bowler": "Arshdeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "JC Buttler",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "JC Buttler",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "JC Buttler",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "JC Buttler",
+              "bowler": "AR Patel",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "JC Buttler",
+              "bowler": "AR Patel",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "JC Buttler",
+              "bowler": "AR Patel",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "JC Buttler",
+              "bowler": "AR Patel",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "JC Buttler",
+              "bowler": "AR Patel",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "JC Buttler",
+              "bowler": "AR Patel",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "PD Salt",
+              "bowler": "Harshit Rana",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "JC Buttler",
+              "bowler": "Prince Yadav",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JC Buttler",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "HC Brook",
+              "bowler": "Prince Yadav",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "PD Salt",
+              "bowler": "Prince Yadav",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "HC Brook",
+              "bowler": "Prince Yadav",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "PD Salt",
+              "bowler": "Prince Yadav",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "HC Brook",
+              "bowler": "Prince Yadav",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "PD Salt",
+              "bowler": "S Dube",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "PD Salt",
+              "bowler": "S Dube",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "HC Brook",
+              "bowler": "S Dube",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "HC Brook",
+              "bowler": "S Dube",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "PD Salt",
+              "bowler": "S Dube",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "PD Salt",
+              "bowler": "S Dube",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "HC Brook",
+              "bowler": "S Dube",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "PD Salt",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "PD Salt",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "HC Brook",
+              "bowler": "Prince Yadav",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "HC Brook",
+              "bowler": "Prince Yadav",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HC Brook",
+                  "fielders": [
+                    {
+                      "name": "Abhishek Sharma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "JG Bethell",
+              "bowler": "Prince Yadav",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "PD Salt",
+              "bowler": "Prince Yadav",
+              "non_striker": "JG Bethell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "PD Salt",
+              "bowler": "Prince Yadav",
+              "non_striker": "JG Bethell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "JG Bethell",
+              "bowler": "Prince Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "JG Bethell",
+              "bowler": "Prince Yadav",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "PD Salt",
+              "bowler": "CV Varun",
+              "non_striker": "JG Bethell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "PD Salt",
+              "bowler": "CV Varun",
+              "non_striker": "JG Bethell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "JG Bethell",
+              "bowler": "CV Varun",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "PD Salt",
+              "bowler": "CV Varun",
+              "non_striker": "JG Bethell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "PD Salt",
+              "bowler": "CV Varun",
+              "non_striker": "JG Bethell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "PD Salt",
+              "bowler": "CV Varun",
+              "non_striker": "JG Bethell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "JG Bethell",
+              "bowler": "AR Patel",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "PD Salt",
+              "bowler": "AR Patel",
+              "non_striker": "JG Bethell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "PD Salt",
+              "bowler": "AR Patel",
+              "non_striker": "JG Bethell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "JG Bethell",
+              "bowler": "AR Patel",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "JG Bethell",
+              "bowler": "AR Patel",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "PD Salt",
+              "bowler": "AR Patel",
+              "non_striker": "JG Bethell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "PD Salt",
+              "bowler": "Harshit Rana",
+              "non_striker": "JG Bethell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "JG Bethell",
+              "bowler": "Harshit Rana",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "PD Salt",
+              "bowler": "Harshit Rana",
+              "non_striker": "JG Bethell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "JG Bethell",
+              "bowler": "Harshit Rana",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "JG Bethell",
+              "bowler": "Harshit Rana",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JG Bethell",
+                  "fielders": [
+                    {
+                      "name": "V Suryavanshi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "T Banton",
+              "bowler": "Harshit Rana",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Banton",
+                  "fielders": [
+                    {
+                      "name": "CV Varun"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "PD Salt",
+              "bowler": "Prince Yadav",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "SM Curran",
+              "bowler": "Prince Yadav",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "PD Salt",
+              "bowler": "Prince Yadav",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "PD Salt",
+              "bowler": "Prince Yadav",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "PD Salt",
+              "bowler": "Prince Yadav",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "SM Curran",
+              "bowler": "Prince Yadav",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "PD Salt",
+              "bowler": "AR Patel",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "PD Salt",
+              "bowler": "AR Patel",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "SM Curran",
+              "bowler": "AR Patel",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "PD Salt",
+              "bowler": "AR Patel",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "SM Curran",
+              "bowler": "AR Patel",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "SM Curran",
+              "bowler": "AR Patel",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "SM Curran",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "SM Curran",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "PD Salt",
+              "bowler": "CV Varun",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "SM Curran",
+              "bowler": "CV Varun",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "SM Curran",
+              "bowler": "CV Varun",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "SM Curran",
+              "bowler": "CV Varun",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "PD Salt",
+              "bowler": "CV Varun",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "SM Curran",
+              "bowler": "CV Varun",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "PD Salt",
+              "bowler": "AR Patel",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "PD Salt",
+              "bowler": "AR Patel",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PD Salt",
+                  "fielders": [
+                    {
+                      "name": "Arshdeep Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "WG Jacks",
+              "bowler": "AR Patel",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "WG Jacks",
+              "bowler": "AR Patel",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "WG Jacks",
+              "bowler": "AR Patel",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "WG Jacks",
+              "bowler": "AR Patel",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "SM Curran",
+              "bowler": "Harshit Rana",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "SM Curran",
+              "bowler": "Harshit Rana",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "SM Curran",
+              "bowler": "Harshit Rana",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "SM Curran",
+              "bowler": "Harshit Rana",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "SM Curran",
+              "bowler": "Harshit Rana",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "SM Curran",
+              "bowler": "Harshit Rana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "SM Curran",
+              "bowler": "Harshit Rana",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "WG Jacks",
+              "bowler": "Prince Yadav",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "WG Jacks",
+              "bowler": "Prince Yadav",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "SM Curran",
+              "bowler": "Prince Yadav",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "SM Curran",
+              "bowler": "Prince Yadav",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "SM Curran",
+              "bowler": "Prince Yadav",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "SM Curran",
+              "bowler": "Prince Yadav",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "WG Jacks",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "WG Jacks",
+                  "fielders": [
+                    {
+                      "name": "Ishan Kishan"
+                    },
+                    {
+                      "name": "AR Patel"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "JC Archer",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "JC Archer",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "SM Curran",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "SM Curran",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "JC Archer",
+                  "fielders": [
+                    {
+                      "name": "Tilak Varma"
+                    },
+                    {
+                      "name": "Arshdeep Singh"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "SM Curran",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "LA Dawson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Abhishek Sharma",
+              "bowler": "JC Archer",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Abhishek Sharma",
+              "bowler": "JC Archer",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Abhishek Sharma",
+              "bowler": "JC Archer",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Abhishek Sharma",
+              "bowler": "JC Archer",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "V Suryavanshi",
+              "bowler": "JC Archer",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "V Suryavanshi",
+              "bowler": "JC Archer",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Abhishek Sharma",
+              "bowler": "JC Tongue",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Abhishek Sharma",
+              "bowler": "JC Tongue",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "V Suryavanshi",
+              "bowler": "JC Tongue",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "V Suryavanshi",
+              "bowler": "JC Tongue",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Abhishek Sharma",
+              "bowler": "JC Tongue",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abhishek Sharma",
+                  "fielders": [
+                    {
+                      "name": "PD Salt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Ishan Kishan",
+              "bowler": "JC Tongue",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Ishan Kishan",
+              "bowler": "JC Archer",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Ishan Kishan",
+              "bowler": "JC Archer",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Ishan Kishan",
+              "bowler": "JC Archer",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "V Suryavanshi",
+              "bowler": "JC Archer",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Suryavanshi",
+                  "fielders": [
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "SS Iyer",
+              "bowler": "JC Archer",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "SS Iyer",
+              "bowler": "JC Archer",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Ishan Kishan",
+              "bowler": "JC Tongue",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "SS Iyer",
+              "bowler": "JC Tongue",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Ishan Kishan",
+              "bowler": "JC Tongue",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Ishan Kishan",
+              "bowler": "JC Tongue",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Ishan Kishan",
+              "bowler": "JC Tongue",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Ishan Kishan",
+              "bowler": "JC Tongue",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ishan Kishan",
+                  "fielders": [
+                    {
+                      "name": "JG Bethell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "SS Iyer",
+              "bowler": "JC Archer",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SS Iyer",
+                  "fielders": [
+                    {
+                      "name": "JG Bethell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Tilak Varma",
+              "bowler": "JC Archer",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "AR Patel",
+              "bowler": "JC Archer",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "AR Patel",
+              "bowler": "JC Archer",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "AR Patel",
+              "bowler": "JC Archer",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "AR Patel",
+              "bowler": "JC Archer",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Patel",
+                  "fielders": [
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Tilak Varma",
+              "bowler": "WG Jacks",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Tilak Varma",
+              "bowler": "WG Jacks",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Harshit Rana",
+              "bowler": "WG Jacks",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Tilak Varma",
+              "bowler": "WG Jacks",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Tilak Varma",
+              "bowler": "WG Jacks",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Tilak Varma",
+              "bowler": "WG Jacks",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Harshit Rana",
+              "bowler": "AU Rashid",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Harshit Rana",
+              "bowler": "AU Rashid",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Tilak Varma",
+              "bowler": "AU Rashid",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Tilak Varma",
+              "bowler": "AU Rashid",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Tilak Varma",
+              "bowler": "AU Rashid",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Tilak Varma",
+              "bowler": "AU Rashid",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Tilak Varma",
+              "bowler": "WG Jacks",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tilak Varma",
+                  "fielders": [
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "S Dube",
+              "bowler": "WG Jacks",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Harshit Rana",
+              "bowler": "WG Jacks",
+              "non_striker": "S Dube",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "S Dube",
+              "bowler": "WG Jacks",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Harshit Rana",
+              "bowler": "WG Jacks",
+              "non_striker": "S Dube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Harshit Rana",
+              "bowler": "WG Jacks",
+              "non_striker": "S Dube",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "S Dube",
+              "bowler": "JC Tongue",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "S Dube",
+              "bowler": "JC Tongue",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Dube",
+                  "fielders": [
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Arshdeep Singh",
+              "bowler": "JC Tongue",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Harshit Rana",
+              "bowler": "JC Tongue",
+              "non_striker": "Arshdeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Harshit Rana",
+              "bowler": "JC Tongue",
+              "non_striker": "Arshdeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Arshdeep Singh",
+              "bowler": "JC Tongue",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Arshdeep Singh",
+              "bowler": "AU Rashid",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Arshdeep Singh",
+              "bowler": "AU Rashid",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Arshdeep Singh",
+                  "fielders": [
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "CV Varun",
+              "bowler": "AU Rashid",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "CV Varun",
+              "bowler": "AU Rashid",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "CV Varun",
+              "bowler": "AU Rashid",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Harshit Rana",
+              "bowler": "AU Rashid",
+              "non_striker": "CV Varun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Harshit Rana",
+              "bowler": "JC Tongue",
+              "non_striker": "CV Varun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Harshit Rana",
+              "bowler": "JC Tongue",
+              "non_striker": "CV Varun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Harshit Rana",
+              "bowler": "JC Tongue",
+              "non_striker": "CV Varun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Harshit Rana",
+              "bowler": "JC Tongue",
+              "non_striker": "CV Varun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Harshit Rana",
+                  "fielders": [
+                    {
+                      "name": "T Banton"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Prince Yadav",
+              "bowler": "JC Tongue",
+              "non_striker": "CV Varun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Prince Yadav",
+              "bowler": "JC Tongue",
+              "non_striker": "CV Varun",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "CV Varun",
+              "bowler": "AU Rashid",
+              "non_striker": "Prince Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "CV Varun",
+              "bowler": "AU Rashid",
+              "non_striker": "Prince Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "CV Varun",
+              "bowler": "AU Rashid",
+              "non_striker": "Prince Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "CV Varun",
+              "bowler": "AU Rashid",
+              "non_striker": "Prince Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CV Varun",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 202
+      }
+    }
+  ]
+}

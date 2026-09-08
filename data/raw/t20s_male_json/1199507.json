@@ -1,0 +1,3037 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2019-10-22",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Abu Dhabi",
+    "dates": [
+      "2019-10-19"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Qualifier",
+      "match_number": 9,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 943,
+    "officials": {
+      "match_referees": [
+        "JJ Crowe"
+      ],
+      "reserve_umpires": [
+        "A Paleker"
+      ],
+      "umpires": [
+        "SJ Nogajski",
+        "Rashid Riaz"
+      ]
+    },
+    "outcome": {
+      "winner": "United Arab Emirates",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Rohan Mustafa"
+    ],
+    "players": {
+      "Ireland": [
+        "PR Stirling",
+        "KJ O'Brien",
+        "A Balbirnie",
+        "HT Tector",
+        "GC Wilson",
+        "MR Adair",
+        "GJ Delany",
+        "SC Getkate",
+        "GH Dockrell",
+        "DC Delany",
+        "WB Rankin"
+      ],
+      "United Arab Emirates": [
+        "Ashfaq Ahmed",
+        "Rohan Mustafa",
+        "DDP D'Silva",
+        "Muhammad Usman",
+        "Rameez Shahzad",
+        "Waheed Ahmed",
+        "Mohammad Boota",
+        "Ahmed Raza",
+        "Sultan Ahmed",
+        "Junaid Siddique",
+        "Zahoor Khan"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Balbirnie": "6ef13460",
+        "A Paleker": "634b11ac",
+        "Ahmed Raza": "79b4839e",
+        "Ashfaq Ahmed": "9d1f42c6",
+        "DC Delany": "0f9c9d1d",
+        "DDP D'Silva": "07b6f54c",
+        "GC Wilson": "05de1a5a",
+        "GH Dockrell": "99cddc5e",
+        "GJ Delany": "33b3d2df",
+        "HT Tector": "59ea70a4",
+        "JJ Crowe": "2e760301",
+        "Junaid Siddique": "84dc72db",
+        "KJ O'Brien": "243431b5",
+        "MR Adair": "fc55ec67",
+        "Mohammad Boota": "39713d08",
+        "Muhammad Usman": "45642393",
+        "PR Stirling": "cf494ffe",
+        "Rameez Shahzad": "e045c165",
+        "Rashid Riaz": "fb82725e",
+        "Rohan Mustafa": "d1988788",
+        "SC Getkate": "c8065f31",
+        "SJ Nogajski": "9b3f9323",
+        "Sultan Ahmed": "07687c15",
+        "WB Rankin": "29b89ae8",
+        "Waheed Ahmed": "3df3f50b",
+        "Zahoor Khan": "f0e293b0"
+      }
+    },
+    "season": "2019/20",
+    "team_type": "international",
+    "teams": [
+      "United Arab Emirates",
+      "Ireland"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "United Arab Emirates"
+    },
+    "venue": "Sheikh Zayed Stadium"
+  },
+  "innings": [
+    {
+      "team": "Ireland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "PR Stirling",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "KJ O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "PR Stirling",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "KJ O'Brien",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "KJ O'Brien",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "KJ O'Brien",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "KJ O'Brien",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "KJ O'Brien",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "PR Stirling",
+              "bowler": "Ahmed Raza",
+              "non_striker": "KJ O'Brien",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "PR Stirling",
+              "bowler": "Ahmed Raza",
+              "non_striker": "KJ O'Brien",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "KJ O'Brien",
+              "bowler": "Ahmed Raza",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "KJ O'Brien",
+              "bowler": "Ahmed Raza",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "PR Stirling",
+              "bowler": "Ahmed Raza",
+              "non_striker": "KJ O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "PR Stirling",
+              "bowler": "Ahmed Raza",
+              "non_striker": "KJ O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "KJ O'Brien",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "KJ O'Brien",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "KJ O'Brien",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "KJ O'Brien",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "KJ O'Brien",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "PR Stirling",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "KJ O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "KJ O'Brien",
+              "bowler": "Junaid Siddique",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "KJ O'Brien",
+                  "fielders": [
+                    {
+                      "name": "Ashfaq Ahmed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Balbirnie",
+              "bowler": "Junaid Siddique",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "A Balbirnie",
+              "bowler": "Junaid Siddique",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "A Balbirnie",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "PR Stirling",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "PR Stirling",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "PR Stirling",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "PR Stirling",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "A Balbirnie",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "A Balbirnie",
+              "bowler": "Junaid Siddique",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "A Balbirnie",
+              "bowler": "Junaid Siddique",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "A Balbirnie",
+              "bowler": "Junaid Siddique",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "A Balbirnie",
+              "bowler": "Ahmed Raza",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "A Balbirnie",
+              "bowler": "Ahmed Raza",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "A Balbirnie",
+              "bowler": "Ahmed Raza",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "PR Stirling",
+              "bowler": "Ahmed Raza",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "PR Stirling",
+              "bowler": "Ahmed Raza",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "PR Stirling",
+              "bowler": "Ahmed Raza",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "PR Stirling",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "PR Stirling",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "A Balbirnie",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "PR Stirling",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "PR Stirling",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "A Balbirnie",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "A Balbirnie",
+              "bowler": "Ahmed Raza",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "A Balbirnie",
+                  "fielders": [
+                    {
+                      "name": "Rohan Mustafa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "HT Tector",
+              "bowler": "Ahmed Raza",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "PR Stirling",
+              "bowler": "Ahmed Raza",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "PR Stirling",
+              "bowler": "Ahmed Raza",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "HT Tector",
+              "bowler": "Ahmed Raza",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "HT Tector",
+              "bowler": "Ahmed Raza",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "PR Stirling",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "HT Tector",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "HT Tector",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "PR Stirling",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "HT Tector",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "HT Tector"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "GC Wilson",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "GC Wilson",
+              "bowler": "Ahmed Raza",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "GC Wilson",
+              "bowler": "Ahmed Raza",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "PR Stirling",
+              "bowler": "Ahmed Raza",
+              "non_striker": "GC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "GC Wilson",
+              "bowler": "Ahmed Raza",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "PR Stirling",
+              "bowler": "Ahmed Raza",
+              "non_striker": "GC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "GC Wilson",
+              "bowler": "Ahmed Raza",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "GC Wilson",
+              "bowler": "Rohan Mustafa",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "PR Stirling",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "GC Wilson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "PR Stirling",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "GC Wilson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "PR Stirling",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "GC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "PR Stirling",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "GC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "GC Wilson",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "GC Wilson",
+                  "fielders": [
+                    {
+                      "name": "DDP D'Silva"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "PR Stirling",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "PR Stirling",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "MR Adair",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "MR Adair",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "MR Adair",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "MR Adair",
+              "bowler": "Sultan Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "PR Stirling",
+              "bowler": "Waheed Ahmed",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "MR Adair",
+              "bowler": "Waheed Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "MR Adair",
+              "bowler": "Waheed Ahmed",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "PR Stirling",
+              "bowler": "Waheed Ahmed",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "PR Stirling",
+              "bowler": "Waheed Ahmed",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "PR Stirling",
+              "bowler": "Waheed Ahmed",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "MR Adair",
+              "bowler": "Zahoor Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "PR Stirling",
+              "bowler": "Zahoor Khan",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "MR Adair",
+              "bowler": "Zahoor Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "MR Adair",
+              "bowler": "Zahoor Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "PR Stirling",
+              "bowler": "Zahoor Khan",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "MR Adair",
+              "bowler": "Zahoor Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "PR Stirling",
+              "bowler": "Zahoor Khan",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "MR Adair",
+              "bowler": "Junaid Siddique",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "MR Adair",
+              "bowler": "Junaid Siddique",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "PR Stirling",
+              "bowler": "Zahoor Khan",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "PR Stirling",
+              "bowler": "Zahoor Khan",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "PR Stirling",
+              "bowler": "Zahoor Khan",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "PR Stirling",
+              "bowler": "Zahoor Khan",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "MR Adair",
+              "bowler": "Zahoor Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "MR Adair",
+              "bowler": "Zahoor Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "MR Adair",
+              "bowler": "Zahoor Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "MR Adair",
+              "bowler": "Junaid Siddique",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "PR Stirling",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "MR Adair",
+              "bowler": "Junaid Siddique",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "MR Adair",
+              "bowler": "Zahoor Khan",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "PR Stirling",
+              "bowler": "Zahoor Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "PR Stirling",
+              "bowler": "Zahoor Khan",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "PR Stirling",
+              "bowler": "Zahoor Khan",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "PR Stirling",
+              "bowler": "Zahoor Khan",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "PR Stirling"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "GJ Delany",
+              "bowler": "Zahoor Khan",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "GJ Delany",
+              "bowler": "Zahoor Khan",
+              "non_striker": "MR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "GJ Delany"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "MR Adair",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "MR Adair"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "GH Dockrell",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "SC Getkate",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "GH Dockrell"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "DC Delany",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "DC Delany"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "WB Rankin",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "SC Getkate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "SC Getkate",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "WB Rankin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "WB Rankin"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "United Arab Emirates",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Ashfaq Ahmed",
+              "bowler": "GH Dockrell",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Rohan Mustafa",
+              "bowler": "GH Dockrell",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Rohan Mustafa",
+              "bowler": "GH Dockrell",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Rohan Mustafa",
+              "bowler": "GH Dockrell",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Rohan Mustafa",
+              "bowler": "GH Dockrell",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Rohan Mustafa",
+              "bowler": "GH Dockrell",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Ashfaq Ahmed",
+              "bowler": "PR Stirling",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Rohan Mustafa",
+              "bowler": "PR Stirling",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Ashfaq Ahmed",
+              "bowler": "PR Stirling",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Rohan Mustafa",
+              "bowler": "PR Stirling",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Rohan Mustafa",
+              "bowler": "PR Stirling",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Rohan Mustafa",
+              "bowler": "PR Stirling",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Ashfaq Ahmed",
+              "bowler": "MR Adair",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Ashfaq Ahmed",
+              "bowler": "MR Adair",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Ashfaq Ahmed"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "DDP D'Silva",
+              "bowler": "MR Adair",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "DDP D'Silva",
+              "bowler": "MR Adair",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "DDP D'Silva",
+              "bowler": "MR Adair",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "DDP D'Silva",
+              "bowler": "MR Adair",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Rohan Mustafa",
+              "bowler": "WB Rankin",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "DDP D'Silva",
+              "bowler": "MR Adair",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "DDP D'Silva",
+              "bowler": "MR Adair",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "DDP D'Silva",
+              "bowler": "MR Adair",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Rohan Mustafa",
+              "bowler": "MR Adair",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "DDP D'Silva",
+              "bowler": "MR Adair",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "DDP D'Silva",
+              "bowler": "MR Adair",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Rohan Mustafa",
+              "bowler": "WB Rankin",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Rohan Mustafa",
+              "bowler": "WB Rankin",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Rohan Mustafa",
+              "bowler": "WB Rankin",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "DDP D'Silva",
+              "bowler": "SC Getkate",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Rohan Mustafa",
+              "bowler": "SC Getkate",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "DDP D'Silva",
+              "bowler": "SC Getkate",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "DDP D'Silva",
+              "bowler": "SC Getkate",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Rohan Mustafa",
+              "bowler": "SC Getkate",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "DDP D'Silva",
+              "bowler": "SC Getkate",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "DDP D'Silva",
+              "bowler": "DC Delany",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Rohan Mustafa",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Rohan Mustafa"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Muhammad Usman",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Muhammad Usman",
+              "bowler": "DC Delany",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Muhammad Usman",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Muhammad Usman",
+              "bowler": "DC Delany",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Muhammad Usman",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "DDP D'Silva",
+              "bowler": "DC Delany",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Muhammad Usman",
+              "bowler": "GJ Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Muhammad Usman",
+              "bowler": "GJ Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Muhammad Usman",
+              "bowler": "GJ Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "DDP D'Silva",
+              "bowler": "GJ Delany",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Muhammad Usman",
+              "bowler": "GJ Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "DDP D'Silva",
+              "bowler": "GJ Delany",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Muhammad Usman",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Muhammad Usman",
+              "bowler": "DC Delany",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Muhammad Usman",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Muhammad Usman",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Muhammad Usman",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Muhammad Usman",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Muhammad Usman",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "DDP D'Silva",
+              "bowler": "MR Adair",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Muhammad Usman",
+              "bowler": "MR Adair",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Muhammad Usman",
+              "bowler": "MR Adair",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Muhammad Usman",
+              "bowler": "MR Adair",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Muhammad Usman",
+              "bowler": "MR Adair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Muhammad Usman",
+              "bowler": "MR Adair",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "DDP D'Silva",
+              "bowler": "MR Adair",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Muhammad Usman",
+              "bowler": "WB Rankin",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Muhammad Usman",
+              "bowler": "WB Rankin",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Muhammad Usman",
+              "bowler": "WB Rankin",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Muhammad Usman",
+              "bowler": "WB Rankin",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Muhammad Usman",
+                  "fielders": [
+                    {
+                      "name": "GC Wilson"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "DDP D'Silva",
+              "bowler": "DC Delany",
+              "non_striker": "Rameez Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Rameez Shahzad",
+              "bowler": "DC Delany",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Rameez Shahzad",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "DDP D'Silva",
+              "bowler": "DC Delany",
+              "non_striker": "Rameez Shahzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "DDP D'Silva",
+              "bowler": "DC Delany",
+              "non_striker": "Rameez Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "DDP D'Silva",
+              "bowler": "DC Delany",
+              "non_striker": "Rameez Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Rameez Shahzad",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Rameez Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Rameez Shahzad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "DDP D'Silva",
+              "bowler": "WB Rankin",
+              "non_striker": "Rameez Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Rameez Shahzad",
+              "bowler": "WB Rankin",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Rameez Shahzad",
+              "bowler": "WB Rankin",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Rameez Shahzad",
+              "bowler": "WB Rankin",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Rameez Shahzad",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "DDP D'Silva",
+              "bowler": "DC Delany",
+              "non_striker": "Rameez Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Rameez Shahzad"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "DDP D'Silva",
+              "bowler": "DC Delany",
+              "non_striker": "Waheed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Waheed Ahmed",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Waheed Ahmed",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Waheed Ahmed",
+              "bowler": "DC Delany",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "DDP D'Silva",
+              "bowler": "SC Getkate",
+              "non_striker": "Waheed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "DDP D'Silva",
+              "bowler": "SC Getkate",
+              "non_striker": "Waheed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Waheed Ahmed",
+              "bowler": "SC Getkate",
+              "non_striker": "DDP D'Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "DDP D'Silva"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Waheed Ahmed",
+              "bowler": "SC Getkate",
+              "non_striker": "Mohammad Boota",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Waheed Ahmed",
+              "bowler": "SC Getkate",
+              "non_striker": "Mohammad Boota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Waheed Ahmed",
+              "bowler": "SC Getkate",
+              "non_striker": "Mohammad Boota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Mohammad Boota",
+              "bowler": "MR Adair",
+              "non_striker": "Waheed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Waheed Ahmed",
+              "bowler": "MR Adair",
+              "non_striker": "Mohammad Boota",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Mohammad Boota",
+              "bowler": "MR Adair",
+              "non_striker": "Waheed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Mohammad Boota",
+              "bowler": "MR Adair",
+              "non_striker": "Waheed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Mohammad Boota",
+              "bowler": "MR Adair",
+              "non_striker": "Waheed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Waheed Ahmed",
+              "bowler": "MR Adair",
+              "non_striker": "Mohammad Boota",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 126
+      }
+    }
+  ]
+}

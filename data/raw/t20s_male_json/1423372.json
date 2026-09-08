@@ -1,0 +1,3202 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2024-03-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Al Amarat",
+    "dates": [
+      "2024-03-06"
+    ],
+    "event": {
+      "name": "Papua New Guinea tour of Oman",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2500,
+    "officials": {
+      "reserve_umpires": [
+        "G Pillai"
+      ],
+      "umpires": [
+        "Rahul Asher",
+        "Zaman Quoraishi"
+      ]
+    },
+    "outcome": {
+      "winner": "Oman",
+      "by": {
+        "wickets": 3
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Zeeshan Maqsood"
+    ],
+    "players": {
+      "Papua New Guinea": [
+        "TP Ura",
+        "S Bau",
+        "A Vala",
+        "L Siaka",
+        "CJA Amini",
+        "H Hiri",
+        "CA Soper",
+        "HGV Vare",
+        "JWW Gardner",
+        "J Kariko",
+        "KV Morea"
+      ],
+      "Oman": [
+        "KH Prajapati",
+        "PS Athavale",
+        "Aqib Ilyas",
+        "Zeeshan Maqsood",
+        "Khalid Kail",
+        "Ayan Khan",
+        "Mehran Khan",
+        "Rafiullah",
+        "Shakeel Ahmed",
+        "Bilal Khan",
+        "Kaleemullah"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Vala": "72e60730",
+        "Aqib Ilyas": "b3b39bed",
+        "Ayan Khan": "44d6a8b8",
+        "Bilal Khan": "dcdb87f2",
+        "CA Soper": "9920dd86",
+        "CJA Amini": "4d84ad05",
+        "G Pillai": "c363921c",
+        "H Hiri": "9dc3ea7e",
+        "HGV Vare": "98299b67",
+        "J Kariko": "cde067e1",
+        "JWW Gardner": "6e61adb8",
+        "KH Prajapati": "c4e73ff1",
+        "KV Morea": "270bf7e2",
+        "Kaleemullah": "72253b87",
+        "Khalid Kail": "3ee90b67",
+        "L Siaka": "6b4593ee",
+        "Mehran Khan": "d7bfcc0b",
+        "PS Athavale": "c2f12310",
+        "Rafiullah": "369cc49c",
+        "Rahul Asher": "4956b0bf",
+        "S Bau": "9a95bebb",
+        "Shakeel Ahmed": "e29e9c12",
+        "TP Ura": "a82eb3fb",
+        "Zaman Quoraishi": "8c3c46b0",
+        "Zeeshan Maqsood": "34464143"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "international",
+    "teams": [
+      "Papua New Guinea",
+      "Oman"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Oman"
+    },
+    "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)"
+  },
+  "innings": [
+    {
+      "team": "Papua New Guinea",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "TP Ura",
+              "bowler": "Bilal Khan",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "TP Ura",
+              "bowler": "Bilal Khan",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "TP Ura",
+              "bowler": "Bilal Khan",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Bau",
+              "bowler": "Bilal Khan",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "S Bau",
+              "bowler": "Bilal Khan",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Bau",
+              "bowler": "Bilal Khan",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "TP Ura",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "TP Ura",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "S Bau",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "S Bau",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "S Bau",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "S Bau",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Bau",
+              "bowler": "Bilal Khan",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Bau",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "A Vala",
+              "bowler": "Bilal Khan",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "TP Ura",
+              "bowler": "Bilal Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "TP Ura",
+              "bowler": "Bilal Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "TP Ura",
+              "bowler": "Bilal Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TP Ura",
+                  "fielders": [
+                    {
+                      "name": "Aqib Ilyas"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "L Siaka",
+              "bowler": "Bilal Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Vala",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Vala",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "A Vala",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "L Siaka",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "A Vala",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Siaka",
+                  "fielders": [
+                    {
+                      "name": "Ayan Khan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "CJA Amini",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "A Vala",
+              "bowler": "Kaleemullah",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "CJA Amini",
+              "bowler": "Kaleemullah",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "A Vala",
+              "bowler": "Kaleemullah",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "CJA Amini",
+              "bowler": "Kaleemullah",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "A Vala",
+              "bowler": "Kaleemullah",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "CJA Amini",
+              "bowler": "Kaleemullah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "CJA Amini",
+              "bowler": "Kaleemullah",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "CJA Amini",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "A Vala",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "A Vala",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "A Vala",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "A Vala",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "A Vala",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "A Vala",
+              "bowler": "Kaleemullah",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "CJA Amini",
+              "bowler": "Kaleemullah",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "CJA Amini",
+              "bowler": "Kaleemullah",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "CJA Amini",
+              "bowler": "Kaleemullah",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "A Vala",
+              "bowler": "Kaleemullah",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "CJA Amini",
+              "bowler": "Kaleemullah",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "A Vala",
+              "bowler": "Aqib Ilyas",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "CJA Amini",
+              "bowler": "Aqib Ilyas",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "A Vala",
+              "bowler": "Aqib Ilyas",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "A Vala",
+              "bowler": "Aqib Ilyas",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "A Vala",
+              "bowler": "Aqib Ilyas",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "A Vala",
+              "bowler": "Aqib Ilyas",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "CJA Amini",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "A Vala",
+              "bowler": "Mehran Khan",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "CJA Amini",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "CJA Amini",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "CJA Amini",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "A Vala",
+              "bowler": "Mehran Khan",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "CJA Amini",
+              "bowler": "Aqib Ilyas",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "CJA Amini",
+              "bowler": "Aqib Ilyas",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "CJA Amini",
+              "bowler": "Aqib Ilyas",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "A Vala",
+              "bowler": "Aqib Ilyas",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "A Vala",
+              "bowler": "Aqib Ilyas",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "CJA Amini",
+              "bowler": "Aqib Ilyas",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "CJA Amini",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "CJA Amini",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "CJA Amini",
+              "bowler": "Mehran Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "CJA Amini",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "CJA Amini",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CJA Amini",
+                  "fielders": [
+                    {
+                      "name": "PS Athavale"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "H Hiri",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "A Vala",
+              "bowler": "Mehran Khan",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "A Vala",
+              "bowler": "Zeeshan Maqsood",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "11.1",
+              "batter": "A Vala",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "A Vala",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "H Hiri",
+              "bowler": "Zeeshan Maqsood",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "H Hiri",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "H Hiri",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "H Hiri",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "H Hiri",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "A Vala",
+              "bowler": "Mehran Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.1",
+              "batter": "A Vala",
+              "bowler": "Mehran Khan",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "H Hiri",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "H Hiri",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "H Hiri",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "A Vala",
+              "bowler": "Mehran Khan",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "H Hiri",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "A Vala",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "A Vala",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "A Vala",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "H Hiri",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "A Vala",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "A Vala",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "H Hiri",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "A Vala",
+              "bowler": "Mehran Khan",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "H Hiri",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "H Hiri",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "H Hiri",
+              "bowler": "Mehran Khan",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "A Vala",
+              "bowler": "Mehran Khan",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "A Vala",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "H Hiri",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "H Hiri",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "A Vala",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "H Hiri",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "A Vala",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Vala",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "H Hiri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "H Hiri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "H Hiri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "H Hiri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "CA Soper",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "H Hiri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "H Hiri",
+              "bowler": "Bilal Khan",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "H Hiri",
+              "bowler": "Bilal Khan",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "H Hiri",
+              "bowler": "Bilal Khan",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "H Hiri",
+              "bowler": "Bilal Khan",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "H Hiri",
+              "bowler": "Bilal Khan",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "CA Soper",
+              "bowler": "Bilal Khan",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "CA Soper",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "CA Soper",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "CA Soper",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "H Hiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "H Hiri",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Hiri",
+                  "fielders": [
+                    {
+                      "name": "Mehran Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "HGV Vare",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "HGV Vare",
+              "bowler": "Zeeshan Maqsood",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "HGV Vare",
+              "bowler": "Bilal Khan",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "CA Soper",
+              "bowler": "Bilal Khan",
+              "non_striker": "HGV Vare",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "HGV Vare",
+              "bowler": "Bilal Khan",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "HGV Vare",
+              "bowler": "Bilal Khan",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "CA Soper",
+              "bowler": "Bilal Khan",
+              "non_striker": "HGV Vare",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "CA Soper",
+              "bowler": "Bilal Khan",
+              "non_striker": "HGV Vare",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Oman",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "KH Prajapati",
+              "bowler": "KV Morea",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "KH Prajapati",
+              "bowler": "KV Morea",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "KH Prajapati",
+              "bowler": "KV Morea",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "KH Prajapati",
+              "bowler": "KV Morea",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "KH Prajapati",
+              "bowler": "KV Morea",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "KH Prajapati",
+              "bowler": "KV Morea",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "KH Prajapati",
+              "bowler": "KV Morea",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "PS Athavale",
+              "bowler": "JWW Gardner",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "PS Athavale",
+              "bowler": "JWW Gardner",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "PS Athavale",
+              "bowler": "JWW Gardner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "PS Athavale",
+              "bowler": "JWW Gardner",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "PS Athavale",
+              "bowler": "JWW Gardner",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "KH Prajapati",
+              "bowler": "JWW Gardner",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "KH Prajapati",
+              "bowler": "JWW Gardner",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "PS Athavale",
+              "bowler": "KV Morea",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "PS Athavale",
+              "bowler": "KV Morea",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "KH Prajapati",
+              "bowler": "KV Morea",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "PS Athavale",
+              "bowler": "KV Morea",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "PS Athavale",
+              "bowler": "KV Morea",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "KH Prajapati",
+              "bowler": "KV Morea",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "KH Prajapati",
+              "bowler": "CA Soper",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "KH Prajapati",
+              "bowler": "CA Soper",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "KH Prajapati",
+              "bowler": "CA Soper",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "KH Prajapati",
+              "bowler": "CA Soper",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "PS Athavale",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "PS Athavale",
+              "bowler": "CA Soper",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "PS Athavale",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "PS Athavale",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "PS Athavale",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "KH Prajapati",
+              "bowler": "J Kariko",
+              "non_striker": "PS Athavale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "PS Athavale",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PS Athavale",
+                  "fielders": [
+                    {
+                      "name": "HGV Vare"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Aqib Ilyas",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Aqib Ilyas",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "KH Prajapati",
+              "bowler": "JWW Gardner",
+              "non_striker": "Aqib Ilyas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Aqib Ilyas",
+              "bowler": "JWW Gardner",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Aqib Ilyas",
+              "bowler": "JWW Gardner",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aqib Ilyas",
+                  "fielders": [
+                    {
+                      "name": "L Siaka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "JWW Gardner",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "JWW Gardner",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "JWW Gardner",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "KH Prajapati",
+              "bowler": "S Bau",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "KH Prajapati",
+              "bowler": "S Bau",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "KH Prajapati",
+              "bowler": "S Bau",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "S Bau",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "S Bau",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "KH Prajapati",
+              "bowler": "S Bau",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "KH Prajapati",
+              "bowler": "J Kariko",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "KH Prajapati",
+              "bowler": "J Kariko",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "KH Prajapati",
+              "bowler": "J Kariko",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "KH Prajapati",
+              "bowler": "CA Soper",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "KH Prajapati",
+              "bowler": "J Kariko",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "KH Prajapati",
+              "bowler": "J Kariko",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "KH Prajapati",
+              "bowler": "J Kariko",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "KH Prajapati",
+              "bowler": "JWW Gardner",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "KH Prajapati",
+              "bowler": "JWW Gardner",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "KH Prajapati",
+              "bowler": "JWW Gardner",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "JWW Gardner",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "KH Prajapati",
+              "bowler": "JWW Gardner",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "KH Prajapati",
+              "bowler": "JWW Gardner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "KH Prajapati",
+              "bowler": "JWW Gardner",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "KH Prajapati",
+              "bowler": "A Vala",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "A Vala",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "KH Prajapati",
+              "bowler": "A Vala",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "KH Prajapati",
+              "bowler": "A Vala",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "A Vala",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "KH Prajapati",
+              "bowler": "A Vala",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "S Bau",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "S Bau",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "S Bau",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "KH Prajapati",
+              "bowler": "S Bau",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "S Bau",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "S Bau",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "KH Prajapati",
+              "bowler": "A Vala",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "A Vala",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "A Vala",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "A Vala",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "KH Prajapati",
+              "bowler": "A Vala",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "A Vala",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "KV Morea",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "KV Morea",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "KH Prajapati",
+              "bowler": "KV Morea",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "KH Prajapati",
+              "bowler": "KV Morea",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "KV Morea",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "KV Morea",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "A Vala",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "KH Prajapati",
+              "bowler": "A Vala",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "KH Prajapati",
+              "bowler": "A Vala",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "KH Prajapati",
+              "bowler": "A Vala",
+              "non_striker": "Zeeshan Maqsood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "A Vala",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "A Vala",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Zeeshan Maqsood",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zeeshan Maqsood",
+                  "fielders": [
+                    {
+                      "name": "TP Ura"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Khalid Kail",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "KH Prajapati",
+              "bowler": "CA Soper",
+              "non_striker": "Khalid Kail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Khalid Kail",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Khalid Kail",
+                  "fielders": [
+                    {
+                      "name": "H Hiri"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Ayan Khan",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Ayan Khan",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Ayan Khan",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Ayan Khan",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ayan Khan",
+                  "fielders": [
+                    {
+                      "name": "H Hiri"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Mehran Khan",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "KH Prajapati",
+              "bowler": "J Kariko",
+              "non_striker": "Mehran Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Mehran Khan",
+              "bowler": "J Kariko",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "KH Prajapati",
+              "bowler": "J Kariko",
+              "non_striker": "Mehran Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "KH Prajapati",
+              "bowler": "KV Morea",
+              "non_striker": "Mehran Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Mehran Khan",
+              "bowler": "KV Morea",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mehran Khan",
+                  "fielders": [
+                    {
+                      "name": "JWW Gardner"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Rafiullah",
+              "bowler": "KV Morea",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "KH Prajapati",
+              "bowler": "KV Morea",
+              "non_striker": "Rafiullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Rafiullah",
+              "bowler": "KV Morea",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Rafiullah",
+              "bowler": "KV Morea",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Rafiullah",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rafiullah",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Shakeel Ahmed",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Shakeel Ahmed",
+              "bowler": "CA Soper",
+              "non_striker": "KH Prajapati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 137
+      }
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+match_id,competition,season,date,team1,team2,venue,city
+1273712,T20_WC,2021/22,2021-10-17,Papua New Guinea,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat
+1273713,T20_WC,2021/22,2021-10-17,Scotland,Bangladesh,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat
+1273714,T20_WC,2021/22,2021-10-18,Netherlands,Ireland,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1273715,T20_WC,2021/22,2021-10-18,Namibia,Sri Lanka,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1273716,T20_WC,2021/22,2021-10-19,Scotland,Papua New Guinea,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat
+1273717,T20_WC,2021/22,2021-10-19,Bangladesh,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat
+1273718,T20_WC,2021/22,2021-10-20,Netherlands,Namibia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1273719,T20_WC,2021/22,2021-10-20,Sri Lanka,Ireland,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1273720,T20_WC,2021/22,2021-10-21,Bangladesh,Papua New Guinea,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat
+1273721,T20_WC,2021/22,2021-10-21,Oman,Scotland,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat
+1273722,T20_WC,2021/22,2021-10-22,Ireland,Namibia,Sharjah Cricket Stadium,Sharjah
+1273723,T20_WC,2021/22,2021-10-22,Netherlands,Sri Lanka,Sharjah Cricket Stadium,Sharjah
+1273724,T20_WC,2021/22,2021-10-23,South Africa,Australia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1273725,T20_WC,2021/22,2021-10-23,West Indies,England,Dubai International Cricket Stadium,Dubai
+1273726,T20_WC,2021/22,2021-10-24,Bangladesh,Sri Lanka,Sharjah Cricket Stadium,Sharjah
+1273727,T20_WC,2021/22,2021-10-24,India,Pakistan,Dubai International Cricket Stadium,Dubai
+1273729,T20_WC,2021/22,2021-10-26,West Indies,South Africa,Dubai International Cricket Stadium,Dubai
+1273730,T20_WC,2021/22,2021-10-26,New Zealand,Pakistan,Sharjah Cricket Stadium,Sharjah
+1273731,T20_WC,2021/22,2021-10-27,Bangladesh,England,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1273732,T20_WC,2021/22,2021-10-27,Scotland,Namibia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1273733,T20_WC,2021/22,2021-10-28,Sri Lanka,Australia,Dubai International Cricket Stadium,Dubai
+1273734,T20_WC,2021/22,2021-10-29,West Indies,Bangladesh,Sharjah Cricket Stadium,Sharjah
+1273736,T20_WC,2021/22,2021-10-30,Sri Lanka,South Africa,Sharjah Cricket Stadium,Sharjah
+1273737,T20_WC,2021/22,2021-10-30,Australia,England,Dubai International Cricket Stadium,Dubai
+1273739,T20_WC,2021/22,2021-10-31,India,New Zealand,Dubai International Cricket Stadium,Dubai
+1273740,T20_WC,2021/22,2021-11-01,England,Sri Lanka,Sharjah Cricket Stadium,Sharjah
+1273741,T20_WC,2021/22,2021-11-02,Bangladesh,South Africa,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1273742,T20_WC,2021/22,2021-11-02,Pakistan,Namibia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1273743,T20_WC,2021/22,2021-11-03,New Zealand,Scotland,Dubai International Cricket Stadium,Dubai
+1273745,T20_WC,2021/22,2021-11-04,Bangladesh,Australia,Dubai International Cricket Stadium,Dubai
+1273746,T20_WC,2021/22,2021-11-04,Sri Lanka,West Indies,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1273747,T20_WC,2021/22,2021-11-05,New Zealand,Namibia,Sharjah Cricket Stadium,Sharjah
+1273748,T20_WC,2021/22,2021-11-05,Scotland,India,Dubai International Cricket Stadium,Dubai
+1273749,T20_WC,2021/22,2021-11-06,West Indies,Australia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1273750,T20_WC,2021/22,2021-11-06,South Africa,England,Sharjah Cricket Stadium,Sharjah
+1273752,T20_WC,2021/22,2021-11-07,Pakistan,Scotland,Sharjah Cricket Stadium,Sharjah
+1273753,T20_WC,2021/22,2021-11-08,Namibia,India,Dubai International Cricket Stadium,Dubai
+1273754,T20_WC,2021/22,2021-11-10,England,New Zealand,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1273755,T20_WC,2021/22,2021-11-11,Pakistan,Australia,Dubai International Cricket Stadium,Dubai
+1273756,T20_WC,2021/22,2021-11-14,New Zealand,Australia,Dubai International Cricket Stadium,Dubai
+1298135,T20_WC,2022/23,2022-10-16,Namibia,Sri Lanka,"GMHBA Stadium, South Geelong, Victoria",Geelong
+1298136,T20_WC,2022/23,2022-10-16,United Arab Emirates,Netherlands,"GMHBA Stadium, South Geelong, Victoria",Geelong
+1298137,T20_WC,2022/23,2022-10-17,Scotland,West Indies,"Bellerive Oval, Hobart",Hobart
+1298138,T20_WC,2022/23,2022-10-17,Zimbabwe,Ireland,"Bellerive Oval, Hobart",Hobart
+1298139,T20_WC,2022/23,2022-10-18,Namibia,Netherlands,"GMHBA Stadium, South Geelong, Victoria",Geelong
+1298140,T20_WC,2022/23,2022-10-18,Sri Lanka,United Arab Emirates,"GMHBA Stadium, South Geelong, Victoria",Geelong
+1298141,T20_WC,2022/23,2022-10-19,Scotland,Ireland,"Bellerive Oval, Hobart",Hobart
+1298142,T20_WC,2022/23,2022-10-19,West Indies,Zimbabwe,"Bellerive Oval, Hobart",Hobart
+1298143,T20_WC,2022/23,2022-10-20,Sri Lanka,Netherlands,"GMHBA Stadium, South Geelong, Victoria",Geelong
+1298144,T20_WC,2022/23,2022-10-20,United Arab Emirates,Namibia,"GMHBA Stadium, South Geelong, Victoria",Geelong
+1298145,T20_WC,2022/23,2022-10-21,West Indies,Ireland,"Bellerive Oval, Hobart",Hobart
+1298146,T20_WC,2022/23,2022-10-21,Scotland,Zimbabwe,"Bellerive Oval, Hobart",Hobart
+1298147,T20_WC,2022/23,2022-10-22,New Zealand,Australia,Sydney Cricket Ground,Sydney
+1298149,T20_WC,2022/23,2022-10-23,Ireland,Sri Lanka,"Bellerive Oval, Hobart",Hobart
+1298150,T20_WC,2022/23,2022-10-23,Pakistan,India,Melbourne Cricket Ground,Melbourne
+1298151,T20_WC,2022/23,2022-10-24,Bangladesh,Netherlands,"Bellerive Oval, Hobart",Hobart
+1298152,T20_WC,2022/23,2022-10-24,Zimbabwe,South Africa,"Bellerive Oval, Hobart",Hobart
+1298153,T20_WC,2022/23,2022-10-25,Sri Lanka,Australia,Perth Stadium,Perth
+1298154,T20_WC,2022/23,2022-10-26,Ireland,England,Melbourne Cricket Ground,Melbourne
+1298156,T20_WC,2022/23,2022-10-27,South Africa,Bangladesh,Sydney Cricket Ground,Sydney
+1298157,T20_WC,2022/23,2022-10-27,India,Netherlands,Sydney Cricket Ground,Sydney
+1298158,T20_WC,2022/23,2022-10-27,Zimbabwe,Pakistan,Perth Stadium,Perth
+1298161,T20_WC,2022/23,2022-10-29,New Zealand,Sri Lanka,Sydney Cricket Ground,Sydney
+1298162,T20_WC,2022/23,2022-10-30,Bangladesh,Zimbabwe,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane
+1298163,T20_WC,2022/23,2022-10-30,Netherlands,Pakistan,Perth Stadium,Perth
+1298164,T20_WC,2022/23,2022-10-30,India,South Africa,Perth Stadium,Perth
+1298165,T20_WC,2022/23,2022-10-31,Australia,Ireland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane
+1298167,T20_WC,2022/23,2022-11-01,England,New Zealand,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane
+1298168,T20_WC,2022/23,2022-11-02,Zimbabwe,Netherlands,Adelaide Oval,Adelaide
+1298169,T20_WC,2022/23,2022-11-02,India,Bangladesh,Adelaide Oval,Adelaide
+1298170,T20_WC,2022/23,2022-11-03,Pakistan,South Africa,Sydney Cricket Ground,Sydney
+1298171,T20_WC,2022/23,2022-11-04,New Zealand,Ireland,Adelaide Oval,Adelaide
+1298173,T20_WC,2022/23,2022-11-05,Sri Lanka,England,Sydney Cricket Ground,Sydney
+1298174,T20_WC,2022/23,2022-11-06,Netherlands,South Africa,Adelaide Oval,Adelaide
+1298175,T20_WC,2022/23,2022-11-06,Bangladesh,Pakistan,Adelaide Oval,Adelaide
+1298176,T20_WC,2022/23,2022-11-06,India,Zimbabwe,Melbourne Cricket Ground,Melbourne
+1298177,T20_WC,2022/23,2022-11-09,New Zealand,Pakistan,Sydney Cricket Ground,Sydney
+1298178,T20_WC,2022/23,2022-11-10,India,England,Adelaide Oval,Adelaide
+1298179,T20_WC,2022/23,2022-11-13,Pakistan,England,Melbourne Cricket Ground,Melbourne
+1415701,T20_WC,2024,2024-06-01,Canada,United States of America,"Grand Prairie Stadium, Dallas",Dallas
+1415702,T20_WC,2024,2024-06-02,Papua New Guinea,West Indies,"Providence Stadium, Guyana",Providence
+1415703,T20_WC,2024,2024-06-02,Oman,Namibia,"Kensington Oval, Bridgetown, Barbados",Bridgetown
+1415704,T20_WC,2024,2024-06-03,Sri Lanka,South Africa,"Nassau County International Cricket Stadium, New York",New York
+1415706,T20_WC,2024,2024-06-04,Scotland,England,"Kensington Oval, Bridgetown, Barbados",Bridgetown
+1415707,T20_WC,2024,2024-06-04,Nepal,Netherlands,"Grand Prairie Stadium, Dallas",Dallas
+1415708,T20_WC,2024,2024-06-05,Ireland,India,"Nassau County International Cricket Stadium, New York",New York
+1415709,T20_WC,2024,2024-06-05,Papua New Guinea,Uganda,"Providence Stadium, Guyana",Providence
+1415710,T20_WC,2024,2024-06-05,Australia,Oman,"Kensington Oval, Bridgetown, Barbados",Bridgetown
+1415711,T20_WC,2024,2024-06-06,Pakistan,United States of America,"Grand Prairie Stadium, Dallas",Dallas
+1415712,T20_WC,2024,2024-06-06,Namibia,Scotland,"Kensington Oval, Bridgetown, Barbados",Bridgetown
+1415713,T20_WC,2024,2024-06-07,Canada,Ireland,"Nassau County International Cricket Stadium, New York",New York
+1415715,T20_WC,2024,2024-06-07,Sri Lanka,Bangladesh,"Grand Prairie Stadium, Dallas",Dallas
+1415716,T20_WC,2024,2024-06-08,Netherlands,South Africa,"Nassau County International Cricket Stadium, New York",New York
+1415717,T20_WC,2024,2024-06-08,Australia,England,"Kensington Oval, Bridgetown, Barbados",Bridgetown
+1415718,T20_WC,2024,2024-06-08,West Indies,Uganda,"Providence Stadium, Guyana",Providence
+1415719,T20_WC,2024,2024-06-09,India,Pakistan,"Nassau County International Cricket Stadium, New York",New York
+1415720,T20_WC,2024,2024-06-09,Oman,Scotland,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
+1415721,T20_WC,2024,2024-06-10,South Africa,Bangladesh,"Nassau County International Cricket Stadium, New York",New York
+1415722,T20_WC,2024,2024-06-11,Canada,Pakistan,"Nassau County International Cricket Stadium, New York",New York
+1415724,T20_WC,2024,2024-06-11,Namibia,Australia,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
+1415725,T20_WC,2024,2024-06-12,United States of America,India,"Nassau County International Cricket Stadium, New York",New York
+1415726,T20_WC,2024,2024-06-12,West Indies,New Zealand,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba
+1415727,T20_WC,2024,2024-06-13,Bangladesh,Netherlands,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown
+1415728,T20_WC,2024,2024-06-13,Oman,England,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
+1415731,T20_WC,2024,2024-06-14,South Africa,Nepal,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown
+1415732,T20_WC,2024,2024-06-14,Uganda,New Zealand,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba
+1415734,T20_WC,2024,2024-06-15,England,Namibia,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
+1415735,T20_WC,2024,2024-06-15,Scotland,Australia,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet
+1415736,T20_WC,2024,2024-06-16,Ireland,Pakistan,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill
+1415737,T20_WC,2024,2024-06-16,Bangladesh,Nepal,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown
+1415738,T20_WC,2024,2024-06-16,Sri Lanka,Netherlands,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet
+1415739,T20_WC,2024,2024-06-17,Papua New Guinea,New Zealand,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba
+1415741,T20_WC,2024,2024-06-19,South Africa,United States of America,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
+1415742,T20_WC,2024,2024-06-19,West Indies,England,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet
+1415744,T20_WC,2024,2024-06-20,Bangladesh,Australia,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
+1415745,T20_WC,2024,2024-06-21,South Africa,England,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet
+1415746,T20_WC,2024,2024-06-21,United States of America,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown
+1415747,T20_WC,2024,2024-06-22,India,Bangladesh,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
+1415749,T20_WC,2024,2024-06-23,United States of America,England,"Kensington Oval, Bridgetown, Barbados",Bridgetown
+1415750,T20_WC,2024,2024-06-23,West Indies,South Africa,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
+1415751,T20_WC,2024,2024-06-24,India,Australia,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet
+1415754,T20_WC,2024,2024-06-27,India,England,"Providence Stadium, Guyana",Providence
+1415755,T20_WC,2024,2024-06-29,India,South Africa,"Kensington Oval, Bridgetown, Barbados",Bridgetown
+1512719,T20_WC,2025/26,2026-02-07,Netherlands,Pakistan,"Sinhalese Sports Club Ground, Colombo",Colombo
+1512720,T20_WC,2025/26,2026-02-07,West Indies,Scotland,"Eden Gardens, Kolkata",Kolkata
+1512721,T20_WC,2025/26,2026-02-07,India,United States of America,"Wankhede Stadium, Mumbai",Mumbai
+1512723,T20_WC,2025/26,2026-02-08,England,Nepal,"Wankhede Stadium, Mumbai",Mumbai
+1512724,T20_WC,2025/26,2026-02-08,Sri Lanka,Ireland,"R Premadasa Stadium, Colombo",Colombo
+1512725,T20_WC,2025/26,2026-02-09,Scotland,Italy,"Eden Gardens, Kolkata",Kolkata
+1512726,T20_WC,2025/26,2026-02-09,Oman,Zimbabwe,"Sinhalese Sports Club Ground, Colombo",Colombo
+1512727,T20_WC,2025/26,2026-02-09,South Africa,Canada,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1512728,T20_WC,2025/26,2026-02-10,Namibia,Netherlands,"Arun Jaitley Stadium, Delhi",Delhi
+1512729,T20_WC,2025/26,2026-02-10,United Arab Emirates,New Zealand,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1512730,T20_WC,2025/26,2026-02-10,Pakistan,United States of America,"Sinhalese Sports Club Ground, Colombo",Colombo
+1512732,T20_WC,2025/26,2026-02-11,Australia,Ireland,"R Premadasa Stadium, Colombo",Colombo
+1512733,T20_WC,2025/26,2026-02-11,West Indies,England,"Wankhede Stadium, Mumbai",Mumbai
+1512734,T20_WC,2025/26,2026-02-12,Sri Lanka,Oman,Pallekele International Cricket Stadium,Kandy
+1512735,T20_WC,2025/26,2026-02-12,Nepal,Italy,"Wankhede Stadium, Mumbai",Mumbai
+1512736,T20_WC,2025/26,2026-02-12,India,Namibia,"Arun Jaitley Stadium, Delhi",Delhi
+1512737,T20_WC,2025/26,2026-02-13,Zimbabwe,Australia,"R Premadasa Stadium, Colombo",Colombo
+1512738,T20_WC,2025/26,2026-02-13,Canada,United Arab Emirates,"Arun Jaitley Stadium, Delhi",Delhi
+1512739,T20_WC,2025/26,2026-02-13,United States of America,Netherlands,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1512740,T20_WC,2025/26,2026-02-14,Ireland,Oman,"Sinhalese Sports Club Ground, Colombo",Colombo
+1512741,T20_WC,2025/26,2026-02-14,Scotland,England,"Eden Gardens, Kolkata",Kolkata
+1512742,T20_WC,2025/26,2026-02-14,New Zealand,South Africa,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1512743,T20_WC,2025/26,2026-02-15,Nepal,West Indies,"Wankhede Stadium, Mumbai",Mumbai
+1512744,T20_WC,2025/26,2026-02-15,United States of America,Namibia,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1512745,T20_WC,2025/26,2026-02-15,India,Pakistan,"R Premadasa Stadium, Colombo",Colombo
+1512747,T20_WC,2025/26,2026-02-16,England,Italy,"Eden Gardens, Kolkata",Kolkata
+1512748,T20_WC,2025/26,2026-02-16,Australia,Sri Lanka,Pallekele International Cricket Stadium,Kandy
+1512749,T20_WC,2025/26,2026-02-17,Canada,New Zealand,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1512751,T20_WC,2025/26,2026-02-17,Scotland,Nepal,"Wankhede Stadium, Mumbai",Mumbai
+1512752,T20_WC,2025/26,2026-02-18,United Arab Emirates,South Africa,"Arun Jaitley Stadium, Delhi",Delhi
+1512753,T20_WC,2025/26,2026-02-18,Pakistan,Namibia,"Sinhalese Sports Club Ground, Colombo",Colombo
+1512754,T20_WC,2025/26,2026-02-18,India,Netherlands,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1512755,T20_WC,2025/26,2026-02-19,West Indies,Italy,"Eden Gardens, Kolkata",Kolkata
+1512756,T20_WC,2025/26,2026-02-19,Sri Lanka,Zimbabwe,"R Premadasa Stadium, Colombo",Colombo
+1512758,T20_WC,2025/26,2026-02-20,Oman,Australia,Pallekele International Cricket Stadium,Kandy
+1512760,T20_WC,2025/26,2026-02-22,England,Sri Lanka,Pallekele International Cricket Stadium,Kandy
+1512761,T20_WC,2025/26,2026-02-22,South Africa,India,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1512762,T20_WC,2025/26,2026-02-23,West Indies,Zimbabwe,"Wankhede Stadium, Mumbai",Mumbai
+1512763,T20_WC,2025/26,2026-02-24,Pakistan,England,Pallekele International Cricket Stadium,Kandy
+1512764,T20_WC,2025/26,2026-02-25,New Zealand,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo
+1512765,T20_WC,2025/26,2026-02-26,West Indies,South Africa,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1512766,T20_WC,2025/26,2026-02-26,India,Zimbabwe,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1512767,T20_WC,2025/26,2026-02-27,New Zealand,England,"R Premadasa Stadium, Colombo",Colombo
+1512768,T20_WC,2025/26,2026-02-28,Pakistan,Sri Lanka,Pallekele International Cricket Stadium,Kandy
+1512769,T20_WC,2025/26,2026-03-01,Zimbabwe,South Africa,"Arun Jaitley Stadium, Delhi",Delhi
+1512770,T20_WC,2025/26,2026-03-01,West Indies,India,"Eden Gardens, Kolkata",Kolkata
+1512771,T20_WC,2025/26,2026-03-04,South Africa,New Zealand,"Eden Gardens, Kolkata",Kolkata
+1512772,T20_WC,2025/26,2026-03-05,India,England,"Wankhede Stadium, Mumbai",Mumbai
+1512773,T20_WC,2025/26,2026-03-08,India,New Zealand,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+682899,T20_WC,2013/14,2014-03-16,Hong Kong,Nepal,Zahur Ahmed Chowdhury Stadium,Chittagong
+682901,T20_WC,2013/14,2014-03-17,Ireland,Zimbabwe,Sylhet Stadium,
+682903,T20_WC,2013/14,2014-03-17,Netherlands,United Arab Emirates,Sylhet Stadium,
+682907,T20_WC,2013/14,2014-03-18,Bangladesh,Nepal,Zahur Ahmed Chowdhury Stadium,Chittagong
+682909,T20_WC,2013/14,2014-03-19,Netherlands,Zimbabwe,Sylhet Stadium,
+682911,T20_WC,2013/14,2014-03-19,Ireland,United Arab Emirates,Sylhet Stadium,
+682915,T20_WC,2013/14,2014-03-20,Bangladesh,Hong Kong,Zahur Ahmed Chowdhury Stadium,Chittagong
+682917,T20_WC,2013/14,2014-03-21,United Arab Emirates,Zimbabwe,Sylhet Stadium,
+682919,T20_WC,2013/14,2014-03-21,Ireland,Netherlands,Sylhet Stadium,
+682921,T20_WC,2013/14,2014-03-21,India,Pakistan,Shere Bangla National Stadium,Mirpur
+682923,T20_WC,2013/14,2014-03-22,South Africa,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong
+682925,T20_WC,2013/14,2014-03-22,England,New Zealand,Zahur Ahmed Chowdhury Stadium,Chattogram
+682927,T20_WC,2013/14,2014-03-23,Australia,Pakistan,Shere Bangla National Stadium,Mirpur
+682929,T20_WC,2013/14,2014-03-23,India,West Indies,Shere Bangla National Stadium,Mirpur
+682931,T20_WC,2013/14,2014-03-24,New Zealand,South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong
+682933,T20_WC,2013/14,2014-03-24,Netherlands,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong
+682935,T20_WC,2013/14,2014-03-25,Bangladesh,West Indies,Shere Bangla National Stadium,Mirpur
+682937,T20_WC,2013/14,2014-03-27,Netherlands,South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong
+682939,T20_WC,2013/14,2014-03-27,England,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong
+682941,T20_WC,2013/14,2014-03-28,Australia,West Indies,Shere Bangla National Stadium,Mirpur
+682943,T20_WC,2013/14,2014-03-28,Bangladesh,India,Shere Bangla National Stadium,Mirpur
+682945,T20_WC,2013/14,2014-03-29,Netherlands,New Zealand,Zahur Ahmed Chowdhury Stadium,Chittagong
+682947,T20_WC,2013/14,2014-03-29,England,South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong
+682949,T20_WC,2013/14,2014-03-30,Bangladesh,Pakistan,Shere Bangla National Stadium,Mirpur
+682951,T20_WC,2013/14,2014-03-30,Australia,India,Shere Bangla National Stadium,Mirpur
+682953,T20_WC,2013/14,2014-03-31,England,Netherlands,Zahur Ahmed Chowdhury Stadium,Chittagong
+682955,T20_WC,2013/14,2014-03-31,New Zealand,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong
+682957,T20_WC,2013/14,2014-04-01,Bangladesh,Australia,Shere Bangla National Stadium,Mirpur
+682959,T20_WC,2013/14,2014-04-01,Pakistan,West Indies,Shere Bangla National Stadium,Mirpur
+682961,T20_WC,2013/14,2014-04-03,Sri Lanka,West Indies,Shere Bangla National Stadium,Mirpur
+682963,T20_WC,2013/14,2014-04-04,India,South Africa,Shere Bangla National Stadium,Mirpur
+682965,T20_WC,2013/14,2014-04-06,India,Sri Lanka,Shere Bangla National Stadium,Mirpur
+951309,T20_WC,2015/16,2016-03-09,Bangladesh,Netherlands,Himachal Pradesh Cricket Association Stadium,Dharamsala
+951311,T20_WC,2015/16,2016-03-09,Ireland,Oman,Himachal Pradesh Cricket Association Stadium,Dharamsala
+951313,T20_WC,2015/16,2016-03-10,Scotland,Zimbabwe,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur
+951319,T20_WC,2015/16,2016-03-11,Bangladesh,Ireland,Himachal Pradesh Cricket Association Stadium,Dharamsala
+951323,T20_WC,2015/16,2016-03-12,Hong Kong,Scotland,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur
+951325,T20_WC,2015/16,2016-03-13,Ireland,Netherlands,Himachal Pradesh Cricket Association Stadium,Dharamsala
+951327,T20_WC,2015/16,2016-03-13,Bangladesh,Oman,Himachal Pradesh Cricket Association Stadium,Dharamsala
+951329,T20_WC,2015/16,2016-03-15,India,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur
+951331,T20_WC,2015/16,2016-03-16,England,West Indies,Wankhede Stadium,Mumbai
+951333,T20_WC,2015/16,2016-03-16,Bangladesh,Pakistan,Eden Gardens,Kolkata
+951337,T20_WC,2015/16,2016-03-18,Australia,New Zealand,Himachal Pradesh Cricket Association Stadium,Dharamsala
+951339,T20_WC,2015/16,2016-03-18,England,South Africa,Wankhede Stadium,Mumbai
+951341,T20_WC,2015/16,2016-03-19,India,Pakistan,Eden Gardens,Kolkata
+951345,T20_WC,2015/16,2016-03-20,Sri Lanka,West Indies,M Chinnaswamy Stadium,Bangalore
+951347,T20_WC,2015/16,2016-03-21,Australia,Bangladesh,M Chinnaswamy Stadium,Bangalore
+951349,T20_WC,2015/16,2016-03-22,New Zealand,Pakistan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh
+951353,T20_WC,2015/16,2016-03-23,India,Bangladesh,M Chinnaswamy Stadium,Bangalore
+951355,T20_WC,2015/16,2016-03-25,Australia,Pakistan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh
+951357,T20_WC,2015/16,2016-03-25,South Africa,West Indies,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur
+951359,T20_WC,2015/16,2016-03-26,Bangladesh,New Zealand,Eden Gardens,Kolkata
+951361,T20_WC,2015/16,2016-03-26,England,Sri Lanka,Feroz Shah Kotla,Delhi
+951363,T20_WC,2015/16,2016-03-27,India,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh
+951367,T20_WC,2015/16,2016-03-28,South Africa,Sri Lanka,Feroz Shah Kotla,Delhi
+951369,T20_WC,2015/16,2016-03-30,England,New Zealand,Feroz Shah Kotla,Delhi
+951371,T20_WC,2015/16,2016-03-31,India,West Indies,Wankhede Stadium,Mumbai
+951373,T20_WC,2015/16,2016-04-03,England,West Indies,Eden Gardens,Kolkata

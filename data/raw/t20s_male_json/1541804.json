@@ -1,0 +1,1477 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-06-22",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Singapore",
+    "dates": [
+      "2026-06-22"
+    ],
+    "event": {
+      "name": "Asia Pacific Cricket Champions Trophy",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3977,
+    "officials": {
+      "match_referees": [
+        "KK Ghosh"
+      ],
+      "reserve_umpires": [
+        "Sathish Balasubramaniam"
+      ],
+      "umpires": [
+        "A Natarajan",
+        "KSVP Venu Madhav"
+      ]
+    },
+    "outcome": {
+      "winner": "Singapore",
+      "by": {
+        "runs": 52
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "R Gaznavi"
+    ],
+    "players": {
+      "Singapore": [
+        "S Gulecha",
+        "R Gaznavi",
+        "Manpreet Singh",
+        "DPS Tyagi",
+        "H Venkataram",
+        "J Santhanam",
+        "Raheel Thakkar",
+        "A Kessar",
+        "VT Thiyanesh",
+        "G Gune",
+        "RR Naik"
+      ],
+      "Uzbekistan": [
+        "Luqman Hussan",
+        "A Khakimov",
+        "S Shermatov",
+        "Nikhil",
+        "Saif Ullah",
+        "A Musaev",
+        "Syed Ahzamul Haq",
+        "I Mustafoev",
+        "U Tuychiev",
+        "G Tuychiev",
+        "A Khasanov"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Kessar": "6da5685e",
+        "A Khakimov": "93883b6a",
+        "A Khasanov": "c266599c",
+        "A Musaev": "19a51d59",
+        "A Natarajan": "a2b73ae0",
+        "DPS Tyagi": "d5f96736",
+        "G Gune": "5491a9ff",
+        "G Tuychiev": "beafdac1",
+        "H Venkataram": "e61cee7b",
+        "I Mustafoev": "eb45b187",
+        "J Santhanam": "4f1d3f68",
+        "KK Ghosh": "eea3fd8e",
+        "KSVP Venu Madhav": "8c7fb752",
+        "Luqman Hussan": "d33fce1b",
+        "Manpreet Singh": "e9d6a2ce",
+        "Nikhil": "f4e3d407",
+        "R Gaznavi": "0079f139",
+        "RR Naik": "f456ad17",
+        "Raheel Thakkar": "4844672e",
+        "S Gulecha": "b70ec03e",
+        "S Shermatov": "a6941f24",
+        "Saif Ullah": "44756879",
+        "Sathish Balasubramaniam": "b4794f2a",
+        "Syed Ahzamul Haq": "7c05b23d",
+        "U Tuychiev": "c97539e6",
+        "VT Thiyanesh": "e1d2c0bf"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Singapore",
+      "Uzbekistan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Uzbekistan"
+    },
+    "venue": "Singapore National Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Singapore",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Gulecha",
+              "bowler": "A Khasanov",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Gulecha",
+              "bowler": "A Khasanov",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Gulecha",
+              "bowler": "A Khasanov",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Gulecha",
+              "bowler": "A Khasanov",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Gulecha",
+              "bowler": "A Khasanov",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "R Gaznavi",
+              "bowler": "A Khasanov",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "R Gaznavi",
+              "bowler": "A Khasanov",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "S Gulecha",
+              "bowler": "A Musaev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "S Gulecha",
+              "bowler": "A Musaev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "S Gulecha",
+              "bowler": "A Musaev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "S Gulecha",
+              "bowler": "A Musaev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Gulecha",
+                  "fielders": [
+                    {
+                      "name": "Saif Ullah"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Manpreet Singh",
+              "bowler": "A Musaev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Manpreet Singh",
+              "bowler": "A Musaev",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Manpreet Singh",
+              "bowler": "A Musaev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "R Gaznavi",
+              "bowler": "A Khasanov",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "R Gaznavi",
+              "bowler": "A Khasanov",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Manpreet Singh",
+              "bowler": "A Khasanov",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Manpreet Singh",
+              "bowler": "A Khasanov",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Manpreet Singh",
+              "bowler": "A Khasanov",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "R Gaznavi",
+              "bowler": "A Khasanov",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "R Gaznavi",
+              "bowler": "I Mustafoev",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "R Gaznavi",
+              "bowler": "I Mustafoev",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "R Gaznavi",
+              "bowler": "I Mustafoev",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "R Gaznavi",
+              "bowler": "I Mustafoev",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Manpreet Singh",
+              "bowler": "I Mustafoev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Manpreet Singh",
+                  "fielders": [
+                    {
+                      "name": "U Tuychiev"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "DPS Tyagi",
+              "bowler": "I Mustafoev",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "DPS Tyagi",
+              "bowler": "I Mustafoev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "R Gaznavi",
+              "bowler": "Luqman Hussan",
+              "non_striker": "DPS Tyagi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "R Gaznavi",
+              "bowler": "Luqman Hussan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DPS Tyagi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "DPS Tyagi",
+              "bowler": "Luqman Hussan",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "DPS Tyagi",
+              "bowler": "Luqman Hussan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "DPS Tyagi",
+              "bowler": "Luqman Hussan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "DPS Tyagi",
+              "bowler": "Luqman Hussan",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "DPS Tyagi",
+              "bowler": "Luqman Hussan",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "DPS Tyagi",
+              "bowler": "Luqman Hussan",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "R Gaznavi",
+              "bowler": "U Tuychiev",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "DPS Tyagi",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "5.1",
+              "batter": "R Gaznavi",
+              "bowler": "U Tuychiev",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "DPS Tyagi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "DPS Tyagi",
+              "bowler": "U Tuychiev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "DPS Tyagi",
+              "bowler": "U Tuychiev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DPS Tyagi",
+                  "fielders": [
+                    {
+                      "name": "Nikhil"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "H Venkataram",
+              "bowler": "U Tuychiev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "H Venkataram",
+              "bowler": "U Tuychiev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "H Venkataram",
+              "bowler": "U Tuychiev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "H Venkataram",
+              "bowler": "Luqman Hussan",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "R Gaznavi",
+              "bowler": "Luqman Hussan",
+              "non_striker": "H Venkataram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "R Gaznavi",
+              "bowler": "Luqman Hussan",
+              "non_striker": "H Venkataram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "R Gaznavi",
+              "bowler": "Luqman Hussan",
+              "non_striker": "H Venkataram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "H Venkataram",
+              "bowler": "Luqman Hussan",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "H Venkataram",
+              "bowler": "Luqman Hussan",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "R Gaznavi",
+              "bowler": "I Mustafoev",
+              "non_striker": "H Venkataram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "R Gaznavi",
+              "bowler": "I Mustafoev",
+              "non_striker": "H Venkataram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "H Venkataram",
+              "bowler": "I Mustafoev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "H Venkataram",
+              "bowler": "I Mustafoev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "H Venkataram",
+              "bowler": "I Mustafoev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "H Venkataram",
+              "bowler": "I Mustafoev",
+              "non_striker": "R Gaznavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.2,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Uzbekistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Luqman Hussan",
+              "bowler": "J Santhanam",
+              "non_striker": "A Khakimov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Luqman Hussan",
+                  "fielders": [
+                    {
+                      "name": "VT Thiyanesh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Shermatov",
+              "bowler": "J Santhanam",
+              "non_striker": "A Khakimov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Shermatov",
+              "bowler": "J Santhanam",
+              "non_striker": "A Khakimov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Shermatov",
+              "bowler": "J Santhanam",
+              "non_striker": "A Khakimov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "S Shermatov",
+              "bowler": "J Santhanam",
+              "non_striker": "A Khakimov",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Shermatov",
+              "bowler": "J Santhanam",
+              "non_striker": "A Khakimov",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "A Khakimov",
+              "bowler": "A Kessar",
+              "non_striker": "S Shermatov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "A Khakimov",
+              "bowler": "A Kessar",
+              "non_striker": "S Shermatov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "A Khakimov",
+              "bowler": "A Kessar",
+              "non_striker": "S Shermatov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "A Khakimov",
+              "bowler": "A Kessar",
+              "non_striker": "S Shermatov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "A Khakimov",
+              "bowler": "A Kessar",
+              "non_striker": "S Shermatov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Khakimov",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Nikhil",
+              "bowler": "A Kessar",
+              "non_striker": "S Shermatov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Shermatov",
+              "bowler": "J Santhanam",
+              "non_striker": "Nikhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Nikhil",
+              "bowler": "J Santhanam",
+              "non_striker": "S Shermatov",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Nikhil",
+              "bowler": "J Santhanam",
+              "non_striker": "S Shermatov",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "S Shermatov",
+              "bowler": "J Santhanam",
+              "non_striker": "Nikhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "S Shermatov",
+              "bowler": "J Santhanam",
+              "non_striker": "Nikhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Shermatov",
+                  "fielders": [
+                    {
+                      "name": "Raheel Thakkar"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Saif Ullah",
+              "bowler": "J Santhanam",
+              "non_striker": "Nikhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Nikhil",
+              "bowler": "H Venkataram",
+              "non_striker": "Saif Ullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Saif Ullah",
+              "bowler": "H Venkataram",
+              "non_striker": "Nikhil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Saif Ullah",
+              "bowler": "H Venkataram",
+              "non_striker": "Nikhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Saif Ullah",
+              "bowler": "H Venkataram",
+              "non_striker": "Nikhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Saif Ullah",
+              "bowler": "H Venkataram",
+              "non_striker": "Nikhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Saif Ullah",
+              "bowler": "H Venkataram",
+              "non_striker": "Nikhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Nikhil",
+              "bowler": "A Kessar",
+              "non_striker": "Saif Ullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nikhil",
+                  "fielders": [
+                    {
+                      "name": "VT Thiyanesh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "A Musaev",
+              "bowler": "A Kessar",
+              "non_striker": "Saif Ullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "A Musaev",
+              "bowler": "A Kessar",
+              "non_striker": "Saif Ullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A Musaev",
+              "bowler": "A Kessar",
+              "non_striker": "Saif Ullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Saif Ullah",
+              "bowler": "A Kessar",
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Saif Ullah",
+              "bowler": "A Kessar",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Saif Ullah",
+              "bowler": "H Venkataram",
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "A Musaev",
+              "bowler": "H Venkataram",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Saif Ullah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Saif Ullah",
+              "bowler": "H Venkataram",
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Saif Ullah",
+              "bowler": "H Venkataram",
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "A Musaev",
+              "bowler": "H Venkataram",
+              "non_striker": "Saif Ullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Saif Ullah",
+              "bowler": "H Venkataram",
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Saif Ullah",
+              "bowler": "VT Thiyanesh",
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saif Ullah",
+                  "fielders": [
+                    {
+                      "name": "A Kessar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Syed Ahzamul Haq",
+              "bowler": "VT Thiyanesh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Syed Ahzamul Haq",
+              "bowler": "VT Thiyanesh",
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Syed Ahzamul Haq",
+              "bowler": "VT Thiyanesh",
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Syed Ahzamul Haq",
+              "bowler": "VT Thiyanesh",
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Syed Ahzamul Haq",
+              "bowler": "VT Thiyanesh",
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Syed Ahzamul Haq",
+              "bowler": "VT Thiyanesh",
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Syed Ahzamul Haq",
+              "bowler": "S Gulecha",
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "A Musaev",
+              "bowler": "S Gulecha",
+              "non_striker": "Syed Ahzamul Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "A Musaev",
+              "bowler": "S Gulecha",
+              "non_striker": "Syed Ahzamul Haq",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "A Musaev",
+              "bowler": "S Gulecha",
+              "non_striker": "Syed Ahzamul Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Syed Ahzamul Haq",
+              "bowler": "S Gulecha",
+              "non_striker": "A Musaev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "A Musaev",
+              "bowler": "S Gulecha",
+              "non_striker": "Syed Ahzamul Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 8,
+        "runs": 102
+      }
+    }
+  ]
+}

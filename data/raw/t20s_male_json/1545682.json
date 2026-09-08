@@ -1,0 +1,2315 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-21",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Vantaa",
+    "dates": [
+      "2026-08-21"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Europe Qualifier C",
+      "stage": "5th Place Play-Off"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4095,
+    "officials": {
+      "match_referees": [
+        "Prakash Bhatt"
+      ],
+      "reserve_umpires": [
+        "MS Sathe"
+      ],
+      "umpires": [
+        "SB Ravindra",
+        "SG Chandiramani"
+      ]
+    },
+    "outcome": {
+      "winner": "Isle of Man",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "G Newton"
+    ],
+    "players": {
+      "Israel": [
+        "Yogev Nagavkar",
+        "WSLK Narayana",
+        "Niv Nagavkar",
+        "SF Mangoda",
+        "Yair Nagavkar",
+        "BJ Lazarus",
+        "S Bangera",
+        "AL Khunti",
+        "E Bhonkar",
+        "Elan Talker",
+        "Snir Massil"
+      ],
+      "Isle of Man": [
+        "A McAuley",
+        "C Hartmann",
+        "D Jansen",
+        "C Webster",
+        "C Liebenberg",
+        "CJ Langford",
+        "G Newton",
+        "JA Burrows",
+        "J Clough",
+        "MJ Ansell",
+        "N Knights"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A McAuley": "39e599c8",
+        "AL Khunti": "c0ee8488",
+        "BJ Lazarus": "2d7b09ce",
+        "C Hartmann": "467c28f9",
+        "C Liebenberg": "83f0b848",
+        "C Webster": "f7bf6004",
+        "CJ Langford": "3967b66f",
+        "D Jansen": "c90346a0",
+        "E Bhonkar": "1dc3330f",
+        "Elan Talker": "bb939fa3",
+        "G Newton": "57618587",
+        "J Clough": "1f08084c",
+        "JA Burrows": "dba54d8e",
+        "MJ Ansell": "6e60a792",
+        "MS Sathe": "7c82e11b",
+        "N Knights": "b0aadf4f",
+        "Niv Nagavkar": "e2abcf16",
+        "Prakash Bhatt": "f848ab0b",
+        "S Bangera": "856fc47a",
+        "SB Ravindra": "394ba7a8",
+        "SF Mangoda": "caf0dbef",
+        "SG Chandiramani": "4fa795d2",
+        "Snir Massil": "7e58386e",
+        "WSLK Narayana": "4d21a67a",
+        "Yair Nagavkar": "138e30ab",
+        "Yogev Nagavkar": "c85bea6b"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Israel",
+      "Isle of Man"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Isle of Man"
+    },
+    "venue": "Tikkurila Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Israel",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Yogev Nagavkar",
+              "bowler": "MJ Ansell",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Yogev Nagavkar",
+              "bowler": "MJ Ansell",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yogev Nagavkar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "MJ Ansell",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "MJ Ansell",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "MJ Ansell",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "WSLK Narayana",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Newton",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "WSLK Narayana",
+              "bowler": "G Newton",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "WSLK Narayana",
+              "bowler": "G Newton",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "WSLK Narayana",
+              "bowler": "G Newton",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Newton",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Newton",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "WSLK Narayana",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "WSLK Narayana",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "WSLK Narayana",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "WSLK Narayana",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "WSLK Narayana",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "MJ Ansell",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "WSLK Narayana",
+              "bowler": "CJ Langford",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "WSLK Narayana",
+              "bowler": "CJ Langford",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "CJ Langford",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "CJ Langford",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "CJ Langford",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "CJ Langford",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "WSLK Narayana",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "MJ Ansell",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "WSLK Narayana",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "WSLK Narayana",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "WSLK Narayana",
+              "bowler": "MJ Ansell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "WSLK Narayana",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "WSLK Narayana",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "D Jansen",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "D Jansen",
+              "non_striker": "WSLK Narayana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "WSLK Narayana",
+              "bowler": "D Jansen",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WSLK Narayana",
+                  "fielders": [
+                    {
+                      "name": "G Newton"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "SF Mangoda",
+              "bowler": "D Jansen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "D Jansen",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "D Jansen",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "MJ Ansell",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "SF Mangoda",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "MJ Ansell",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "SF Mangoda",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "SF Mangoda",
+              "bowler": "MJ Ansell",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "MJ Ansell",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "SF Mangoda",
+              "bowler": "D Jansen",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "D Jansen",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "D Jansen",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "D Jansen",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "D Jansen",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "SF Mangoda",
+              "bowler": "D Jansen",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "SF Mangoda",
+              "bowler": "JA Burrows",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "JA Burrows",
+              "non_striker": "SF Mangoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "SF Mangoda",
+              "bowler": "JA Burrows",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "SF Mangoda",
+              "bowler": "JA Burrows",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SF Mangoda",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Yair Nagavkar",
+              "bowler": "JA Burrows",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Yair Nagavkar",
+              "bowler": "JA Burrows",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Yair Nagavkar",
+              "bowler": "C Liebenberg",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Yair Nagavkar",
+              "bowler": "C Liebenberg",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "C Liebenberg",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Yair Nagavkar",
+              "bowler": "C Liebenberg",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Yair Nagavkar",
+              "bowler": "C Liebenberg",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "C Liebenberg",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "C Liebenberg",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Yair Nagavkar",
+              "bowler": "JA Burrows",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "JA Burrows",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Yair Nagavkar",
+              "bowler": "JA Burrows",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "JA Burrows",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "JA Burrows",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "JA Burrows",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "C Liebenberg",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "C Liebenberg",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Yair Nagavkar",
+              "bowler": "C Liebenberg",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Yair Nagavkar",
+              "bowler": "C Liebenberg",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "C Liebenberg",
+              "non_striker": "Yair Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Yair Nagavkar",
+              "bowler": "C Liebenberg",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yair Nagavkar",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "CJ Langford",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "BJ Lazarus",
+              "bowler": "CJ Langford",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "CJ Langford",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "BJ Lazarus",
+              "bowler": "CJ Langford",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "BJ Lazarus",
+              "bowler": "CJ Langford",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "BJ Lazarus",
+              "bowler": "CJ Langford",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "BJ Lazarus",
+              "bowler": "G Newton",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "BJ Lazarus",
+              "bowler": "G Newton",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Newton",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Newton",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Newton",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Newton",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "CJ Langford",
+              "non_striker": "BJ Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "BJ Lazarus",
+              "bowler": "CJ Langford",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "BJ Lazarus",
+              "bowler": "CJ Langford",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BJ Lazarus",
+                  "fielders": [
+                    {
+                      "name": "C Webster"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "S Bangera",
+              "bowler": "CJ Langford",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "S Bangera",
+              "bowler": "CJ Langford",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "S Bangera",
+              "bowler": "CJ Langford",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Newton",
+              "non_striker": "S Bangera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Newton",
+              "non_striker": "S Bangera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "S Bangera",
+              "bowler": "G Newton",
+              "non_striker": "Niv Nagavkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Niv Nagavkar",
+              "bowler": "G Newton",
+              "non_striker": "S Bangera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Niv Nagavkar",
+                  "fielders": [
+                    {
+                      "name": "D Jansen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "AL Khunti",
+              "bowler": "G Newton",
+              "non_striker": "S Bangera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "S Bangera",
+              "bowler": "G Newton",
+              "non_striker": "AL Khunti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Bangera",
+                  "fielders": [
+                    {
+                      "name": "C Hartmann"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "AL Khunti",
+              "bowler": "JA Burrows",
+              "non_striker": "E Bhonkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "AL Khunti",
+              "bowler": "JA Burrows",
+              "non_striker": "E Bhonkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "AL Khunti",
+              "bowler": "JA Burrows",
+              "non_striker": "E Bhonkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "AL Khunti",
+              "bowler": "JA Burrows",
+              "non_striker": "E Bhonkar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "AL Khunti",
+              "bowler": "JA Burrows",
+              "non_striker": "E Bhonkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AL Khunti",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Elan Talker",
+              "bowler": "JA Burrows",
+              "non_striker": "E Bhonkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "E Bhonkar",
+              "bowler": "G Newton",
+              "non_striker": "Elan Talker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "E Bhonkar",
+              "bowler": "G Newton",
+              "non_striker": "Elan Talker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "E Bhonkar",
+              "bowler": "G Newton",
+              "non_striker": "Elan Talker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Bhonkar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Snir Massil",
+              "bowler": "G Newton",
+              "non_striker": "Elan Talker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Elan Talker",
+              "bowler": "G Newton",
+              "non_striker": "Snir Massil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Elan Talker",
+              "bowler": "G Newton",
+              "non_striker": "Snir Massil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Snir Massil",
+              "bowler": "JA Burrows",
+              "non_striker": "Elan Talker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Snir Massil",
+              "bowler": "JA Burrows",
+              "non_striker": "Elan Talker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Snir Massil",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Isle of Man",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "A McAuley",
+              "bowler": "Elan Talker",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "A McAuley",
+              "bowler": "Elan Talker",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "C Hartmann",
+              "bowler": "Elan Talker",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "C Hartmann",
+              "bowler": "Elan Talker",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "A McAuley",
+              "bowler": "Elan Talker",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "A McAuley",
+              "bowler": "Elan Talker",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "A McAuley",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "A McAuley",
+              "bowler": "Niv Nagavkar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "C Hartmann",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "C Hartmann",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "A McAuley",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "A McAuley",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "A McAuley",
+              "bowler": "Elan Talker",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "C Hartmann",
+              "bowler": "Elan Talker",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "C Hartmann",
+              "bowler": "Elan Talker",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "C Hartmann",
+              "bowler": "Elan Talker",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "A McAuley",
+              "bowler": "Elan Talker",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "C Hartmann",
+              "bowler": "Elan Talker",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "C Hartmann",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "C Hartmann",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "C Hartmann",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "C Hartmann",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "C Hartmann",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "C Hartmann",
+              "bowler": "Niv Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "A McAuley",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "A McAuley",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "A McAuley",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A McAuley",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "A McAuley",
+              "bowler": "Yair Nagavkar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "A McAuley",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "A McAuley",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "A McAuley",
+              "bowler": "WSLK Narayana",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "A McAuley",
+              "bowler": "WSLK Narayana",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "A McAuley",
+              "bowler": "WSLK Narayana",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "A McAuley",
+              "bowler": "WSLK Narayana",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "A McAuley",
+              "bowler": "WSLK Narayana",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "A McAuley",
+              "bowler": "WSLK Narayana",
+              "non_striker": "C Hartmann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "C Hartmann",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "C Hartmann",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "C Hartmann",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "C Hartmann",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Hartmann",
+                  "fielders": [
+                    {
+                      "name": "SF Mangoda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "D Jansen",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "D Jansen",
+              "bowler": "Yair Nagavkar",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "A McAuley",
+              "bowler": "WSLK Narayana",
+              "non_striker": "D Jansen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "A McAuley",
+              "bowler": "WSLK Narayana",
+              "non_striker": "D Jansen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "D Jansen",
+              "bowler": "WSLK Narayana",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "A McAuley",
+              "bowler": "WSLK Narayana",
+              "non_striker": "D Jansen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "D Jansen",
+              "bowler": "WSLK Narayana",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "A McAuley",
+              "bowler": "WSLK Narayana",
+              "non_striker": "D Jansen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "D Jansen",
+              "bowler": "SF Mangoda",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "A McAuley",
+              "bowler": "SF Mangoda",
+              "non_striker": "D Jansen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "A McAuley",
+              "bowler": "SF Mangoda",
+              "non_striker": "D Jansen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "A McAuley",
+              "bowler": "SF Mangoda",
+              "non_striker": "D Jansen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "A McAuley",
+              "bowler": "SF Mangoda",
+              "non_striker": "D Jansen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "A McAuley",
+              "bowler": "SF Mangoda",
+              "non_striker": "D Jansen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "A McAuley",
+              "bowler": "AL Khunti",
+              "non_striker": "D Jansen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "A McAuley",
+              "bowler": "AL Khunti",
+              "non_striker": "D Jansen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "A McAuley",
+              "bowler": "AL Khunti",
+              "non_striker": "D Jansen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "D Jansen",
+              "bowler": "AL Khunti",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "D Jansen",
+              "bowler": "AL Khunti",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "D Jansen",
+              "bowler": "AL Khunti",
+              "non_striker": "A McAuley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "A McAuley",
+              "bowler": "Snir Massil",
+              "non_striker": "D Jansen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 89
+      }
+    }
+  ]
+}

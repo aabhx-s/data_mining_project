@@ -1,0 +1,3004 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bogota",
+    "dates": [
+      "2026-08-08"
+    ],
+    "event": {
+      "name": "South American Men's Championships",
+      "match_number": 4
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4060,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Brazil",
+      "by": {
+        "runs": 44
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Yasar Haroon"
+    ],
+    "players": {
+      "Brazil": [
+        "W Maximo",
+        "LH Rodrigues",
+        "CC Machado",
+        "MFI Assuncao",
+        "Yasar Haroon",
+        "LG Moras",
+        "Rejaul Karim",
+        "L Maximo",
+        "G Oliveira",
+        "RV Nascimento",
+        "KM Silva"
+      ],
+      "Mexico": [
+        "J Byrappa",
+        "Shashikant Laxman",
+        "SS Tallapragada",
+        "Mohit Sharma",
+        "M Noble",
+        "Waseem Tabrez",
+        "D Panda",
+        "Y Jasti",
+        "Pratik Singh Bais",
+        "Bhargav Narasimha",
+        "GE Gutierrez Chavez"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Bhargav Narasimha": "e60e8014",
+        "CC Machado": "5992ef03",
+        "D Panda": "bad1af65",
+        "G Oliveira": "b4c52f5f",
+        "GE Gutierrez Chavez": "6ecd3d7b",
+        "J Byrappa": "860f7b67",
+        "KM Silva": "0b9b3eb6",
+        "L Maximo": "58c0c30c",
+        "LG Moras": "d5dea4e7",
+        "LH Rodrigues": "57c95c3c",
+        "M Noble": "d8141f01",
+        "MFI Assuncao": "d8e48e1b",
+        "Mohit Sharma": "cd9f6505",
+        "Pratik Singh Bais": "5b351aff",
+        "RV Nascimento": "d9ba93c0",
+        "Rejaul Karim": "c767d8ed",
+        "SS Tallapragada": "24ff9539",
+        "Shashikant Laxman": "8cf61570",
+        "W Maximo": "e41dee27",
+        "Waseem Tabrez": "d9dcca57",
+        "Y Jasti": "3377f988",
+        "Yasar Haroon": "5a8dc41e"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Brazil",
+      "Mexico"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Mexico"
+    },
+    "venue": "Los Pinos Polo Club 1, Cundinamarca"
+  },
+  "innings": [
+    {
+      "team": "Brazil",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "W Maximo",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "W Maximo",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "W Maximo",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "LH Rodrigues",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "LH Rodrigues",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "LH Rodrigues",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "LH Rodrigues",
+              "bowler": "Y Jasti",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "LH Rodrigues",
+              "bowler": "Y Jasti",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "LH Rodrigues",
+              "bowler": "Y Jasti",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "W Maximo",
+              "bowler": "Y Jasti",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "W Maximo",
+              "bowler": "Y Jasti",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "LH Rodrigues",
+              "bowler": "Y Jasti",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "LH Rodrigues",
+              "bowler": "Y Jasti",
+              "non_striker": "W Maximo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "W Maximo",
+              "bowler": "Mohit Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.1",
+              "batter": "W Maximo",
+              "bowler": "Mohit Sharma",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Maximo",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "CC Machado",
+              "bowler": "Mohit Sharma",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "LH Rodrigues",
+              "bowler": "Mohit Sharma",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "CC Machado",
+              "bowler": "Mohit Sharma",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "LH Rodrigues",
+              "bowler": "Mohit Sharma",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "CC Machado",
+              "bowler": "Mohit Sharma",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "LH Rodrigues",
+              "bowler": "Y Jasti",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "CC Machado",
+              "bowler": "Y Jasti",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "CC Machado",
+              "bowler": "Y Jasti",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "CC Machado",
+              "bowler": "Y Jasti",
+              "non_striker": "LH Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "LH Rodrigues",
+              "bowler": "Y Jasti",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LH Rodrigues",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "MFI Assuncao",
+              "bowler": "Y Jasti",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "CC Machado",
+              "bowler": "Y Jasti",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MFI Assuncao",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "CC Machado",
+              "bowler": "Y Jasti",
+              "non_striker": "MFI Assuncao",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "CC Machado",
+              "bowler": "Mohit Sharma",
+              "non_striker": "MFI Assuncao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "CC Machado",
+              "bowler": "Mohit Sharma",
+              "non_striker": "MFI Assuncao",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "MFI Assuncao",
+              "bowler": "Mohit Sharma",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "CC Machado",
+              "bowler": "Mohit Sharma",
+              "non_striker": "MFI Assuncao",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "MFI Assuncao",
+              "bowler": "Mohit Sharma",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "MFI Assuncao",
+              "bowler": "Mohit Sharma",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "MFI Assuncao",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "MFI Assuncao",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "MFI Assuncao",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "MFI Assuncao",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "MFI Assuncao",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "CC Machado",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "MFI Assuncao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "MFI Assuncao",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "MFI Assuncao",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "MFI Assuncao",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "MFI Assuncao",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "MFI Assuncao",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MFI Assuncao",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Yasar Haroon",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "CC Machado",
+              "bowler": "D Panda",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Yasar Haroon",
+              "bowler": "D Panda",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Yasar Haroon",
+              "bowler": "D Panda",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Yasar Haroon",
+              "bowler": "D Panda",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Yasar Haroon",
+              "bowler": "D Panda",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "CC Machado",
+              "bowler": "D Panda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "CC Machado",
+              "bowler": "D Panda",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Yasar Haroon",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Yasar Haroon",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "CC Machado",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "CC Machado",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "CC Machado",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Yasar Haroon",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "CC Machado",
+              "bowler": "D Panda",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Yasar Haroon",
+              "bowler": "D Panda",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "CC Machado",
+              "bowler": "D Panda",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "CC Machado",
+              "bowler": "D Panda",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "CC Machado",
+              "bowler": "D Panda",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Yasar Haroon",
+              "bowler": "D Panda",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "CC Machado",
+              "bowler": "Shashikant Laxman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "CC Machado",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Yasar Haroon",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Yasar Haroon",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "CC Machado",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Yasar Haroon",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "CC Machado",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Yasar Haroon",
+              "bowler": "Y Jasti",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Yasar Haroon",
+              "bowler": "Y Jasti",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "CC Machado",
+              "bowler": "Y Jasti",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Yasar Haroon",
+              "bowler": "Y Jasti",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "CC Machado",
+              "bowler": "Y Jasti",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "CC Machado",
+              "bowler": "Y Jasti",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Yasar Haroon",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Yasar Haroon",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "CC Machado",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "CC Machado",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "CC Machado",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "CC Machado",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "CC Machado",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Yasar Haroon",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Yasar Haroon",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Yasar Haroon",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Yasar Haroon",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "CC Machado",
+              "bowler": "Pratik Singh Bais",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "CC Machado",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Yasar Haroon",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Yasar Haroon",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Yasar Haroon",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "CC Machado",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "CC Machado",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CC Machado",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "LG Moras",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "LG Moras",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Yasar Haroon",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Yasar Haroon",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Yasar Haroon",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "LG Moras",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "LG Moras",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "LG Moras",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Yasar Haroon",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "LG Moras",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Yasar Haroon",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Yasar Haroon",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Yasar Haroon",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Yasar Haroon",
+              "bowler": "Shashikant Laxman",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "LG Moras",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "Yasar Haroon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Yasar Haroon",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Yasar Haroon",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Yasar Haroon",
+              "bowler": "Bhargav Narasimha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Yasar Haroon",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yasar Haroon",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Rejaul Karim",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "LG Moras",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "Rejaul Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "LG Moras",
+              "bowler": "Y Jasti",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rejaul Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.1",
+              "batter": "LG Moras",
+              "bowler": "Y Jasti",
+              "non_striker": "Rejaul Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "LG Moras",
+              "bowler": "Y Jasti",
+              "non_striker": "Rejaul Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "LG Moras",
+              "bowler": "Y Jasti",
+              "non_striker": "Rejaul Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Rejaul Karim",
+              "bowler": "Y Jasti",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rejaul Karim",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "L Maximo",
+              "bowler": "Y Jasti",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "LG Moras",
+              "bowler": "Y Jasti",
+              "non_striker": "L Maximo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "L Maximo",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "L Maximo",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Maximo",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "G Oliveira",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "G Oliveira",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "G Oliveira",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "G Oliveira",
+              "bowler": "Bhargav Narasimha",
+              "non_striker": "LG Moras",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Mexico",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "J Byrappa",
+              "bowler": "LH Rodrigues",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shashikant Laxman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "J Byrappa",
+              "bowler": "LH Rodrigues",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shashikant Laxman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "J Byrappa",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Shashikant Laxman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Shashikant Laxman",
+              "bowler": "LH Rodrigues",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "J Byrappa",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Shashikant Laxman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Shashikant Laxman",
+              "bowler": "LH Rodrigues",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Shashikant Laxman",
+              "bowler": "LH Rodrigues",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shashikant Laxman",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "SS Tallapragada",
+              "bowler": "LH Rodrigues",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "SS Tallapragada",
+              "bowler": "LG Moras",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "SS Tallapragada",
+              "bowler": "LG Moras",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "SS Tallapragada",
+              "bowler": "LG Moras",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "J Byrappa",
+              "bowler": "LG Moras",
+              "non_striker": "SS Tallapragada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "SS Tallapragada",
+              "bowler": "LG Moras",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "SS Tallapragada",
+              "bowler": "LG Moras",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SS Tallapragada",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "J Byrappa",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Mohit Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "J Byrappa",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Mohit Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "J Byrappa",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Mohit Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "J Byrappa",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Mohit Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Mohit Sharma",
+              "bowler": "LH Rodrigues",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "J Byrappa",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Mohit Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Mohit Sharma",
+              "bowler": "LG Moras",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Mohit Sharma",
+              "bowler": "LG Moras",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohit Sharma",
+                  "fielders": [
+                    {
+                      "name": "Yasar Haroon"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "M Noble",
+              "bowler": "LG Moras",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Noble",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Waseem Tabrez",
+              "bowler": "LG Moras",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Waseem Tabrez",
+              "bowler": "LG Moras",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Waseem Tabrez",
+              "bowler": "LG Moras",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Waseem Tabrez",
+              "bowler": "LG Moras",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "J Byrappa",
+              "bowler": "G Oliveira",
+              "non_striker": "Waseem Tabrez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Waseem Tabrez",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Waseem Tabrez",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Waseem Tabrez",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Waseem Tabrez",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Waseem Tabrez",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "J Byrappa",
+              "bowler": "LG Moras",
+              "non_striker": "Waseem Tabrez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "J Byrappa",
+              "bowler": "LG Moras",
+              "non_striker": "Waseem Tabrez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "J Byrappa",
+              "bowler": "LG Moras",
+              "non_striker": "Waseem Tabrez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "J Byrappa",
+              "bowler": "LG Moras",
+              "non_striker": "Waseem Tabrez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Waseem Tabrez",
+              "bowler": "LG Moras",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "J Byrappa",
+              "bowler": "LG Moras",
+              "non_striker": "Waseem Tabrez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "J Byrappa",
+              "bowler": "G Oliveira",
+              "non_striker": "Waseem Tabrez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "J Byrappa",
+              "bowler": "G Oliveira",
+              "non_striker": "Waseem Tabrez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Waseem Tabrez",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Waseem Tabrez",
+                  "fielders": [
+                    {
+                      "name": "RV Nascimento"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "D Panda",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "D Panda",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "D Panda",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "J Byrappa",
+              "bowler": "LG Moras",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "J Byrappa",
+              "bowler": "LG Moras",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "J Byrappa",
+              "bowler": "LG Moras",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "J Byrappa",
+              "bowler": "LG Moras",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "J Byrappa",
+              "bowler": "LG Moras",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "J Byrappa",
+              "bowler": "LG Moras",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "D Panda",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "D Panda",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "D Panda",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "D Panda",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "J Byrappa",
+              "bowler": "G Oliveira",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "D Panda",
+              "bowler": "G Oliveira",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "J Byrappa",
+              "bowler": "Yasar Haroon",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "J Byrappa",
+              "bowler": "Yasar Haroon",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "J Byrappa",
+              "bowler": "Yasar Haroon",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "J Byrappa",
+              "bowler": "Yasar Haroon",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "D Panda",
+              "bowler": "Yasar Haroon",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "D Panda",
+              "bowler": "Yasar Haroon",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "J Byrappa",
+              "bowler": "G Oliveira",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "J Byrappa",
+              "bowler": "G Oliveira",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "J Byrappa",
+              "bowler": "G Oliveira",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "J Byrappa",
+              "bowler": "G Oliveira",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "J Byrappa",
+              "bowler": "G Oliveira",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "J Byrappa",
+              "bowler": "G Oliveira",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "D Panda",
+              "bowler": "Yasar Haroon",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "J Byrappa",
+              "bowler": "Yasar Haroon",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "J Byrappa",
+              "bowler": "Yasar Haroon",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "J Byrappa",
+              "bowler": "Yasar Haroon",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "J Byrappa",
+              "bowler": "Yasar Haroon",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Byrappa",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Y Jasti",
+              "bowler": "Yasar Haroon",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Y Jasti",
+                  "fielders": [
+                    {
+                      "name": "RV Nascimento"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "D Panda",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "D Panda",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "D Panda",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Panda",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Bhargav Narasimha",
+              "bowler": "LH Rodrigues",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Bhargav Narasimha",
+              "bowler": "LH Rodrigues",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Bhargav Narasimha",
+              "bowler": "LH Rodrigues",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Bhargav Narasimha",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Pratik Singh Bais",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Bhargav Narasimha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Bhargav Narasimha",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Bhargav Narasimha",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Bhargav Narasimha",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Bhargav Narasimha",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Bhargav Narasimha",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Pratik Singh Bais",
+              "bowler": "Yasar Haroon",
+              "non_striker": "Bhargav Narasimha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Bhargav Narasimha",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Bhargav Narasimha",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Bhargav Narasimha",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Bhargav Narasimha",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Bhargav Narasimha",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Pratik Singh Bais",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Pratik Singh Bais",
+              "bowler": "LH Rodrigues",
+              "non_striker": "Bhargav Narasimha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Pratik Singh Bais",
+                  "fielders": [
+                    {
+                      "name": "Yasar Haroon"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Bhargav Narasimha",
+              "bowler": "Yasar Haroon",
+              "non_striker": "GE Gutierrez Chavez",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Bhargav Narasimha",
+              "bowler": "Yasar Haroon",
+              "non_striker": "GE Gutierrez Chavez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Bhargav Narasimha",
+              "bowler": "Yasar Haroon",
+              "non_striker": "GE Gutierrez Chavez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Bhargav Narasimha",
+              "bowler": "Yasar Haroon",
+              "non_striker": "GE Gutierrez Chavez",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Bhargav Narasimha",
+              "bowler": "Yasar Haroon",
+              "non_striker": "GE Gutierrez Chavez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Bhargav Narasimha",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 114
+      }
+    }
+  ]
+}

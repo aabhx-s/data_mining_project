@@ -1,0 +1,3362 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-06-15",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Stockholm",
+    "dates": [
+      "2026-06-13"
+    ],
+    "event": {
+      "name": "Viking Cup",
+      "match_number": 5
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3950,
+    "officials": {
+      "umpires": [
+        "Bilal Munir",
+        "Madhava Rao"
+      ]
+    },
+    "outcome": {
+      "winner": "Finland",
+      "by": {
+        "runs": 35
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "VS Padhaal"
+    ],
+    "players": {
+      "Finland": [
+        "A Pusthay",
+        "VS Padhaal",
+        "Faraaz Mehti Abbas",
+        "Zahidullah Kamal",
+        "Faheem Nellancheri",
+        "Jordan O'Brien",
+        "NM Salonen",
+        "Amjad Sher",
+        "MB Tambe",
+        "Akhil Arjunan",
+        "Junaid Khan"
+      ],
+      "Norway": [
+        "Saif-Ul Islam",
+        "Khizer Ahmed",
+        "Walid Ghauri",
+        "Akhter Pacha Sher",
+        "Chaudhary Akram",
+        "Faisal Raza",
+        "Ibrahim Rahimi",
+        "Qamar Mushtaque",
+        "Farmanullah Ghari",
+        "Ahmadullah Shinwari",
+        "M Shahbaz Butt"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gupta": "59e1abef",
+        "A Pusthay": "0393fbdc",
+        "Ahmadullah Shinwari": "e068d48e",
+        "Akhil Arjunan": "2b203501",
+        "Akhter Pacha Sher": "921292ca",
+        "Amjad Sher": "3b4a8cfb",
+        "Bilal Munir": "c35c63b9",
+        "Chaudhary Akram": "3e697d4a",
+        "Faheem Nellancheri": "6513502f",
+        "Faisal Raza": "dccb802c",
+        "Faraaz Mehti Abbas": "4233080d",
+        "Farmanullah Ghari": "2f7244b5",
+        "Hammadullah Shinwari": "21db290f",
+        "Ibrahim Rahimi": "f8ef3653",
+        "Jordan O'Brien": "c31d7da1",
+        "Junaid Khan": "670e6804",
+        "Khizer Ahmed": "723ca856",
+        "M Shahbaz Butt": "5ef3c310",
+        "MB Tambe": "1c1bb0d5",
+        "Madhava Rao": "66ac328c",
+        "NM Salonen": "f5bd70f2",
+        "Qamar Mushtaque": "fc362c5d",
+        "Saif-Ul Islam": "1f3d7990",
+        "VS Padhaal": "c4fb0b39",
+        "Walid Ghauri": "331e137f",
+        "Zahidullah Kamal": "e8550df5"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Finland",
+      "Norway"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Norway"
+    },
+    "venue": "Botkyrka Cricket Center, Stockholm"
+  },
+  "innings": [
+    {
+      "team": "Finland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "A Pusthay",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "A Pusthay",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "A Pusthay",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "A Pusthay",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "VS Padhaal",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "VS Padhaal",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "A Pusthay",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "VS Padhaal",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "VS Padhaal",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "VS Padhaal",
+              "bowler": "Farmanullah Ghari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "VS Padhaal",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "VS Padhaal",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "VS Padhaal",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "A Pusthay",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "VS Padhaal",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "VS Padhaal",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "VS Padhaal",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "A Pusthay",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "A Pusthay",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "VS Padhaal",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "VS Padhaal",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "VS Padhaal",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "VS Padhaal",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "VS Padhaal",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "A Pusthay",
+              "bowler": "Farmanullah Ghari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "A Pusthay",
+              "bowler": "Farmanullah Ghari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "A Pusthay",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "A Pusthay",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "A Pusthay",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "A Pusthay",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A Pusthay",
+              "bowler": "Ahmadullah Shinwari",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A Pusthay",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Pusthay",
+                  "fielders": [
+                    {
+                      "name": "Saif-Ul Islam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "VS Padhaal",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "VS Padhaal",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "VS Padhaal",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "VS Padhaal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "VS Padhaal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "VS Padhaal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "VS Padhaal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "VS Padhaal",
+              "bowler": "Chaudhary Akram",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Chaudhary Akram",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "VS Padhaal",
+              "bowler": "Chaudhary Akram",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Chaudhary Akram",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "VS Padhaal",
+              "bowler": "Chaudhary Akram",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "VS Padhaal",
+              "bowler": "Chaudhary Akram",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Shahbaz Butt",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "VS Padhaal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "VS Padhaal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "VS Padhaal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Walid Ghauri",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "VS Padhaal",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Walid Ghauri",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Walid Ghauri",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "VS Padhaal",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Walid Ghauri",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "VS Padhaal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Faraaz Mehti Abbas",
+                  "fielders": [
+                    {
+                      "name": "Ibrahim Rahimi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Zahidullah Kamal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "VS Padhaal",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Zahidullah Kamal",
+              "bowler": "Walid Ghauri",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "VS Padhaal",
+              "bowler": "Walid Ghauri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "VS Padhaal",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "VS Padhaal",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "VS Padhaal",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "VS Padhaal",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "VS Padhaal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "VS Padhaal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Zahidullah Kamal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "VS Padhaal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "VS Padhaal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "VS Padhaal",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "Zahidullah Kamal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Zahidullah Kamal",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zahidullah Kamal",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "VS Padhaal",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "VS Padhaal",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "VS Padhaal",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Farmanullah Ghari",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "VS Padhaal",
+              "bowler": "Farmanullah Ghari",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Farmanullah Ghari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "VS Padhaal",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "VS Padhaal",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "VS Padhaal",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "VS Padhaal",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "VS Padhaal",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "VS Padhaal",
+              "bowler": "Walid Ghauri",
+              "non_striker": "Faheem Nellancheri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Faheem Nellancheri",
+              "bowler": "Walid Ghauri",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Faheem Nellancheri",
+                  "fielders": [
+                    {
+                      "name": "A Gupta",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Jordan O'Brien",
+              "bowler": "Walid Ghauri",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "VS Padhaal",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "VS Padhaal",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "VS Padhaal",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Jordan O'Brien",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Jordan O'Brien",
+                  "fielders": [
+                    {
+                      "name": "Akhter Pacha Sher"
+                    },
+                    {
+                      "name": "Chaudhary Akram"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "NM Salonen",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "NM Salonen",
+              "bowler": "Qamar Mushtaque",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "VS Padhaal",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "NM Salonen",
+                  "fielders": [
+                    {
+                      "name": "Ahmadullah Shinwari"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "VS Padhaal",
+              "bowler": "Ahmadullah Shinwari",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Amjad Sher",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Amjad Sher",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Amjad Sher",
+              "bowler": "Ahmadullah Shinwari",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "VS Padhaal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "VS Padhaal",
+              "bowler": "Ahmadullah Shinwari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amjad Sher",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "VS Padhaal",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "Amjad Sher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VS Padhaal",
+                  "fielders": [
+                    {
+                      "name": "Akhter Pacha Sher"
+                    },
+                    {
+                      "name": "Ibrahim Rahimi"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "MB Tambe",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "Amjad Sher",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "MB Tambe",
+              "bowler": "Ahmadullah Shinwari",
+              "non_striker": "Amjad Sher",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Norway",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Amjad Sher",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Khizer Ahmed",
+              "bowler": "Amjad Sher",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Amjad Sher",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Amjad Sher",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Amjad Sher",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Khizer Ahmed",
+              "bowler": "Amjad Sher",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Khizer Ahmed",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Khizer Ahmed",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Khizer Ahmed",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Khizer Ahmed",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Khizer Ahmed",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Khizer Ahmed",
+              "bowler": "NM Salonen",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Khizer Ahmed",
+              "bowler": "NM Salonen",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Khizer Ahmed",
+              "bowler": "NM Salonen",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Saif-Ul Islam",
+              "bowler": "NM Salonen",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Saif-Ul Islam",
+              "bowler": "NM Salonen",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Khizer Ahmed",
+              "bowler": "NM Salonen",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Khizer Ahmed",
+              "bowler": "NM Salonen",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Amjad Sher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Amjad Sher",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Amjad Sher",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Khizer Ahmed",
+              "bowler": "Amjad Sher",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Khizer Ahmed",
+              "bowler": "Amjad Sher",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Khizer Ahmed",
+              "bowler": "Amjad Sher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Khizer Ahmed",
+              "bowler": "Amjad Sher",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Khizer Ahmed",
+              "bowler": "Amjad Sher",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Khizer Ahmed",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Khizer Ahmed",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Khizer Ahmed",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Amjad Sher",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Amjad Sher",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Saif-Ul Islam",
+              "bowler": "Amjad Sher",
+              "non_striker": "Khizer Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Khizer Ahmed",
+              "bowler": "Amjad Sher",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Khizer Ahmed",
+                  "fielders": [
+                    {
+                      "name": "Akhil Arjunan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Walid Ghauri",
+              "bowler": "Amjad Sher",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Walid Ghauri",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Akhter Pacha Sher",
+              "bowler": "Amjad Sher",
+              "non_striker": "Saif-Ul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Saif-Ul Islam",
+              "bowler": "NM Salonen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Akhter Pacha Sher",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "Saif-Ul Islam",
+              "bowler": "NM Salonen",
+              "non_striker": "Akhter Pacha Sher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saif-Ul Islam",
+                  "fielders": [
+                    {
+                      "name": "Amjad Sher"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Chaudhary Akram",
+              "bowler": "NM Salonen",
+              "non_striker": "Akhter Pacha Sher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Akhter Pacha Sher",
+                  "fielders": [
+                    {
+                      "name": "A Pusthay"
+                    },
+                    {
+                      "name": "NM Salonen"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Chaudhary Akram",
+              "bowler": "NM Salonen",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Faisal Raza",
+              "bowler": "NM Salonen",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Faisal Raza",
+              "bowler": "NM Salonen",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Faisal Raza",
+              "bowler": "NM Salonen",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Faisal Raza",
+              "bowler": "Amjad Sher",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Chaudhary Akram",
+              "bowler": "Amjad Sher",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Chaudhary Akram",
+              "bowler": "Amjad Sher",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Faisal Raza",
+              "bowler": "Amjad Sher",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Faisal Raza",
+              "bowler": "Amjad Sher",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Faisal Raza",
+              "bowler": "Amjad Sher",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Chaudhary Akram",
+              "bowler": "Junaid Khan",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Chaudhary Akram",
+              "bowler": "Junaid Khan",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Chaudhary Akram",
+              "bowler": "Junaid Khan",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Faisal Raza",
+              "bowler": "Junaid Khan",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Faisal Raza",
+              "bowler": "Junaid Khan",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Faisal Raza",
+              "bowler": "Junaid Khan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Faisal Raza",
+              "bowler": "Junaid Khan",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Chaudhary Akram",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Chaudhary Akram",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Chaudhary Akram",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Chaudhary Akram",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Faisal Raza",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Chaudhary Akram",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Chaudhary Akram",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Chaudhary Akram",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Faisal Raza",
+              "bowler": "MB Tambe",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Faisal Raza",
+              "bowler": "MB Tambe",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Chaudhary Akram",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Chaudhary Akram",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Faisal Raza",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Faisal Raza",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Faisal Raza",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Chaudhary Akram",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Faisal Raza",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Faisal Raza",
+              "bowler": "Akhil Arjunan",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Chaudhary Akram",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Chaudhary Akram",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Faisal Raza",
+              "bowler": "MB Tambe",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Chaudhary Akram",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Chaudhary Akram",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Chaudhary Akram",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Chaudhary Akram",
+              "bowler": "Faraaz Mehti Abbas",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Faisal Raza",
+              "bowler": "Faraaz Mehti Abbas",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Faisal Raza",
+              "bowler": "Faraaz Mehti Abbas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Faisal Raza",
+              "bowler": "Faraaz Mehti Abbas",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Chaudhary Akram",
+              "bowler": "Faraaz Mehti Abbas",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Faisal Raza",
+              "bowler": "Faraaz Mehti Abbas",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Chaudhary Akram",
+              "bowler": "Faraaz Mehti Abbas",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Chaudhary Akram",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Faisal Raza",
+              "bowler": "MB Tambe",
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Chaudhary Akram",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Faisal Raza",
+              "bowler": "MB Tambe",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Chaudhary Akram",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Chaudhary Akram",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Chaudhary Akram",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Chaudhary Akram",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Ibrahim Rahimi",
+              "bowler": "MB Tambe",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ibrahim Rahimi",
+                  "fielders": [
+                    {
+                      "name": "NM Salonen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Faisal Raza",
+              "bowler": "Junaid Khan",
+              "non_striker": "Qamar Mushtaque",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Qamar Mushtaque",
+              "bowler": "Junaid Khan",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Qamar Mushtaque",
+              "bowler": "Junaid Khan",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Qamar Mushtaque",
+              "bowler": "Junaid Khan",
+              "non_striker": "Faisal Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Faisal Raza",
+              "bowler": "Junaid Khan",
+              "non_striker": "Qamar Mushtaque",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Faisal Raza",
+              "bowler": "Junaid Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Qamar Mushtaque",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Faisal Raza",
+              "bowler": "MB Tambe",
+              "non_striker": "Qamar Mushtaque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Faisal Raza",
+                  "fielders": [
+                    {
+                      "name": "Hammadullah Shinwari",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Farmanullah Ghari",
+              "bowler": "MB Tambe",
+              "non_striker": "Qamar Mushtaque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Farmanullah Ghari",
+              "bowler": "MB Tambe",
+              "non_striker": "Qamar Mushtaque",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Farmanullah Ghari",
+              "bowler": "MB Tambe",
+              "non_striker": "Qamar Mushtaque",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Qamar Mushtaque",
+              "bowler": "MB Tambe",
+              "non_striker": "Farmanullah Ghari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Farmanullah Ghari",
+              "bowler": "MB Tambe",
+              "non_striker": "Qamar Mushtaque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Farmanullah Ghari",
+                  "fielders": [
+                    {
+                      "name": "Jordan O'Brien"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Qamar Mushtaque",
+              "bowler": "Junaid Khan",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Qamar Mushtaque",
+                  "fielders": [
+                    {
+                      "name": "Jordan O'Brien"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "M Shahbaz Butt",
+              "bowler": "Junaid Khan",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "M Shahbaz Butt",
+              "bowler": "Junaid Khan",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "M Shahbaz Butt",
+              "bowler": "Junaid Khan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "Junaid Khan",
+              "non_striker": "M Shahbaz Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "Junaid Khan",
+              "non_striker": "M Shahbaz Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "M Shahbaz Butt",
+              "bowler": "NM Salonen",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "M Shahbaz Butt",
+              "bowler": "NM Salonen",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "M Shahbaz Butt",
+              "bowler": "NM Salonen",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "M Shahbaz Butt",
+              "bowler": "NM Salonen",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "NM Salonen",
+              "non_striker": "M Shahbaz Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "NM Salonen",
+              "non_striker": "M Shahbaz Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "M Shahbaz Butt",
+              "bowler": "Junaid Khan",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "M Shahbaz Butt",
+              "bowler": "Junaid Khan",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Ahmadullah Shinwari",
+              "bowler": "Junaid Khan",
+              "non_striker": "M Shahbaz Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "M Shahbaz Butt",
+              "bowler": "Junaid Khan",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "M Shahbaz Butt",
+              "bowler": "Junaid Khan",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "M Shahbaz Butt",
+              "bowler": "Junaid Khan",
+              "non_striker": "Ahmadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 178
+      }
+    }
+  ]
+}

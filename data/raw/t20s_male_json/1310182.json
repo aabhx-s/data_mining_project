@@ -1,0 +1,3141 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2022-05-15",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Marsa",
+    "dates": [
+      "2022-05-14"
+    ],
+    "event": {
+      "name": "Valletta Cup",
+      "match_number": 13
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1534,
+    "officials": {
+      "match_referees": [
+        "SN Anand"
+      ],
+      "reserve_umpires": [
+        "J Ghose Roy"
+      ],
+      "umpires": [
+        "S Harnal",
+        "T Wheeler"
+      ]
+    },
+    "outcome": {
+      "winner": "Czech Republic",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "A Ashokan"
+    ],
+    "players": {
+      "Hungary": [
+        "Khaibar Deldar",
+        "Abhijeet Ahuja",
+        "Zahir Mohammed",
+        "Abhishek Ahuja",
+        "HV Mandhyan",
+        "A Kheterpal",
+        "Ali Farasat",
+        "S Ashwathnarayana",
+        "AG Weligamage",
+        "SA Mohandas",
+        "BP Adapaka"
+      ],
+      "Czech Republic": [
+        "S Davizi",
+        "Dylan Steyn",
+        "A Ashokan",
+        "S Wickramasekara",
+        "Ritik Tomar",
+        "Sazib Bhuiyan",
+        "Divyendra Singh",
+        "S Sengupta",
+        "S Ramakrishnan",
+        "Naveed Ahmed",
+        "SJ Patel"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Ashokan": "9244df4b",
+        "A Kheterpal": "2deb4082",
+        "AG Weligamage": "747209e0",
+        "Abhijeet Ahuja": "b91083bd",
+        "Abhishek Ahuja": "65cf74b4",
+        "Ali Farasat": "5845b99b",
+        "BP Adapaka": "e6082b10",
+        "Divyendra Singh": "7f122e0b",
+        "Dylan Steyn": "ff2b190e",
+        "HV Mandhyan": "11f56b14",
+        "J Ghose Roy": "ecef5677",
+        "Khaibar Deldar": "032c7eab",
+        "Naveed Ahmed": "87609cbb",
+        "Ritik Tomar": "6de51a8e",
+        "S Ashwathnarayana": "8f8d30be",
+        "S Davizi": "5787be00",
+        "S Harnal": "756fe781",
+        "S Ramakrishnan": "b0f5175e",
+        "S Sengupta": "da39f141",
+        "S Wickramasekara": "a9a09cb8",
+        "SA Mohandas": "8b0b3bba",
+        "SJ Patel": "6a091f62",
+        "SN Anand": "ab3d6059",
+        "Sazib Bhuiyan": "e5464794",
+        "T Wheeler": "f4d1ecae",
+        "Zahir Mohammed": "7c38942a"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Hungary",
+      "Czech Republic"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Hungary"
+    },
+    "venue": "Marsa Sports Club"
+  },
+  "innings": [
+    {
+      "team": "Hungary",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Khaibar Deldar",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Khaibar Deldar",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Khaibar Deldar",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Khaibar Deldar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Zahir Mohammed",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Zahir Mohammed",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Zahir Mohammed",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "S Sengupta",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "S Sengupta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "S Sengupta",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "S Sengupta",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "S Sengupta",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "S Sengupta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "S Sengupta",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "S Sengupta",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Zahir Mohammed",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Zahir Mohammed",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Zahir Mohammed",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Zahir Mohammed",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zahir Mohammed",
+                  "fielders": [
+                    {
+                      "name": "Ritik Tomar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "A Ashokan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "A Ashokan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "A Ashokan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Naveed Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Sazib Bhuiyan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Sazib Bhuiyan",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Sazib Bhuiyan",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Sazib Bhuiyan",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Sazib Bhuiyan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Sazib Bhuiyan",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Naveed Ahmed",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Ritik Tomar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Ritik Tomar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Ritik Tomar",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Ritik Tomar",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Ritik Tomar",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Ritik Tomar",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abhijeet Ahuja",
+                  "fielders": [
+                    {
+                      "name": "Ritik Tomar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "HV Mandhyan",
+              "bowler": "Sazib Bhuiyan",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Sazib Bhuiyan",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "HV Mandhyan",
+              "bowler": "Sazib Bhuiyan",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "HV Mandhyan",
+              "bowler": "Sazib Bhuiyan",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Sazib Bhuiyan",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Sazib Bhuiyan",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "HV Mandhyan",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "HV Mandhyan",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HV Mandhyan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "A Kheterpal",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "A Kheterpal",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kheterpal",
+                  "fielders": [
+                    {
+                      "name": "S Davizi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Ali Farasat",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Ali Farasat",
+              "bowler": "SJ Patel",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "S Sengupta",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "S Sengupta",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "S Sengupta",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Ali Farasat",
+              "bowler": "S Sengupta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Ali Farasat",
+              "bowler": "S Sengupta",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Ali Farasat",
+              "bowler": "S Sengupta",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Ali Farasat",
+              "bowler": "S Sengupta",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "SJ Patel",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abhishek Ahuja",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "S Ashwathnarayana",
+              "bowler": "SJ Patel",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Ali Farasat",
+              "bowler": "SJ Patel",
+              "non_striker": "S Ashwathnarayana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "S Ashwathnarayana",
+              "bowler": "S Sengupta",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "S Ashwathnarayana",
+              "bowler": "S Sengupta",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "S Ashwathnarayana",
+              "bowler": "S Sengupta",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "S Ashwathnarayana",
+              "bowler": "S Sengupta",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Ali Farasat",
+              "bowler": "S Sengupta",
+              "non_striker": "S Ashwathnarayana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Ali Farasat",
+              "bowler": "S Sengupta",
+              "non_striker": "S Ashwathnarayana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "S Ashwathnarayana",
+              "bowler": "Ritik Tomar",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "S Ashwathnarayana",
+              "bowler": "Ritik Tomar",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "S Ashwathnarayana",
+              "bowler": "Ritik Tomar",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Ali Farasat",
+              "bowler": "Ritik Tomar",
+              "non_striker": "S Ashwathnarayana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Ali Farasat",
+              "bowler": "Ritik Tomar",
+              "non_striker": "S Ashwathnarayana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Farasat",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "AG Weligamage",
+              "bowler": "Ritik Tomar",
+              "non_striker": "S Ashwathnarayana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "AG Weligamage",
+              "bowler": "S Sengupta",
+              "non_striker": "S Ashwathnarayana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "S Ashwathnarayana",
+              "bowler": "S Sengupta",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "S Ashwathnarayana",
+              "bowler": "S Sengupta",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "S Ashwathnarayana",
+              "bowler": "S Sengupta",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "S Ashwathnarayana",
+              "bowler": "S Sengupta",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "AG Weligamage",
+              "bowler": "S Sengupta",
+              "non_striker": "S Ashwathnarayana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Czech Republic",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Davizi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Davizi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Davizi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Davizi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "S Davizi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Davizi",
+              "bowler": "SA Mohandas",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "S Davizi",
+              "bowler": "HV Mandhyan",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "S Davizi",
+              "bowler": "HV Mandhyan",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "S Davizi",
+              "bowler": "HV Mandhyan",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "S Davizi",
+              "bowler": "HV Mandhyan",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "S Davizi",
+              "bowler": "HV Mandhyan",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Dylan Steyn",
+              "bowler": "HV Mandhyan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Davizi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Dylan Steyn",
+              "bowler": "HV Mandhyan",
+              "non_striker": "S Davizi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Davizi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Davizi",
+                  "fielders": [
+                    {
+                      "name": "BP Adapaka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "A Ashokan",
+              "bowler": "SA Mohandas",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "A Ashokan",
+              "bowler": "SA Mohandas",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "A Ashokan",
+              "bowler": "SA Mohandas",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Dylan Steyn",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "A Ashokan",
+              "bowler": "SA Mohandas",
+              "non_striker": "Dylan Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Dylan Steyn",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Dylan Steyn",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Dylan Steyn",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Dylan Steyn",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "S Wickramasekara",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "S Wickramasekara",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "S Wickramasekara",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "A Ashokan",
+              "bowler": "SA Mohandas",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "S Wickramasekara",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "S Wickramasekara",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A Ashokan",
+              "bowler": "SA Mohandas",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "S Wickramasekara",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "S Wickramasekara",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "A Ashokan",
+              "bowler": "A Kheterpal",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "A Ashokan",
+              "bowler": "A Kheterpal",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "A Ashokan",
+              "bowler": "A Kheterpal",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "S Wickramasekara",
+              "bowler": "A Kheterpal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "S Wickramasekara",
+              "bowler": "A Kheterpal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "A Ashokan",
+              "bowler": "A Kheterpal",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "S Wickramasekara",
+              "bowler": "AG Weligamage",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "S Wickramasekara",
+              "bowler": "AG Weligamage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "S Wickramasekara",
+              "bowler": "AG Weligamage",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "A Ashokan",
+              "bowler": "AG Weligamage",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "S Wickramasekara",
+              "bowler": "AG Weligamage",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "A Ashokan",
+              "bowler": "AG Weligamage",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "A Ashokan",
+              "bowler": "AG Weligamage",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "S Wickramasekara",
+              "bowler": "AG Weligamage",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "S Wickramasekara",
+              "bowler": "A Kheterpal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "A Ashokan",
+              "bowler": "A Kheterpal",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "A Ashokan",
+              "bowler": "A Kheterpal",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "S Wickramasekara",
+              "bowler": "A Kheterpal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "A Ashokan",
+              "bowler": "A Kheterpal",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "S Wickramasekara",
+              "bowler": "A Kheterpal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "A Ashokan",
+              "bowler": "AG Weligamage",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "S Wickramasekara",
+              "bowler": "AG Weligamage",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "S Wickramasekara",
+              "bowler": "AG Weligamage",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "S Wickramasekara",
+              "bowler": "AG Weligamage",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "S Wickramasekara",
+              "bowler": "AG Weligamage",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "S Wickramasekara",
+              "bowler": "AG Weligamage",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "A Ashokan",
+              "bowler": "A Kheterpal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "S Wickramasekara",
+              "bowler": "A Kheterpal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "A Ashokan",
+              "bowler": "A Kheterpal",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "S Wickramasekara",
+              "bowler": "A Kheterpal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "S Wickramasekara",
+              "bowler": "A Kheterpal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "A Ashokan",
+              "bowler": "A Kheterpal",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "A Ashokan",
+              "bowler": "AG Weligamage",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "A Ashokan",
+              "bowler": "AG Weligamage",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "S Wickramasekara",
+              "bowler": "AG Weligamage",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "S Wickramasekara",
+              "bowler": "AG Weligamage",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "A Ashokan",
+              "bowler": "AG Weligamage",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "S Wickramasekara",
+              "bowler": "AG Weligamage",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "A Ashokan",
+              "bowler": "BP Adapaka",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "S Wickramasekara",
+              "bowler": "BP Adapaka",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "A Ashokan",
+              "bowler": "BP Adapaka",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "S Wickramasekara",
+              "bowler": "BP Adapaka",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "S Wickramasekara",
+              "bowler": "BP Adapaka",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "S Wickramasekara",
+              "bowler": "BP Adapaka",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "S Wickramasekara",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "A Ashokan",
+              "bowler": "HV Mandhyan",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "S Wickramasekara",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "S Wickramasekara",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "S Wickramasekara",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "S Wickramasekara",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "A Ashokan",
+              "bowler": "BP Adapaka",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "S Wickramasekara",
+              "bowler": "BP Adapaka",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "A Ashokan",
+              "bowler": "BP Adapaka",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "A Ashokan",
+              "bowler": "BP Adapaka",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "S Wickramasekara",
+              "bowler": "BP Adapaka",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "A Ashokan",
+              "bowler": "BP Adapaka",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "S Wickramasekara",
+              "bowler": "HV Mandhyan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.1",
+              "batter": "S Wickramasekara",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "S Wickramasekara",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "A Ashokan",
+              "bowler": "HV Mandhyan",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "A Ashokan",
+              "bowler": "HV Mandhyan",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "A Ashokan",
+              "bowler": "HV Mandhyan",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "S Wickramasekara",
+              "bowler": "HV Mandhyan",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "A Ashokan",
+              "bowler": "BP Adapaka",
+              "non_striker": "S Wickramasekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "S Wickramasekara",
+              "bowler": "BP Adapaka",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Wickramasekara",
+                  "fielders": [
+                    {
+                      "name": "Khaibar Deldar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "A Ashokan",
+              "bowler": "BP Adapaka",
+              "non_striker": "Ritik Tomar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "A Ashokan",
+              "bowler": "BP Adapaka",
+              "non_striker": "Ritik Tomar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Ritik Tomar",
+              "bowler": "BP Adapaka",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Ritik Tomar",
+              "bowler": "BP Adapaka",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "A Ashokan",
+              "bowler": "SA Mohandas",
+              "extras": {
+                "wides": 4
+              },
+              "non_striker": "Ritik Tomar",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.1",
+              "batter": "Ritik Tomar",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Ritik Tomar",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Ritik Tomar",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Ritik Tomar",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "A Ashokan",
+              "bowler": "SA Mohandas",
+              "non_striker": "Ritik Tomar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Ritik Tomar",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Ritik Tomar",
+              "bowler": "A Kheterpal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Ritik Tomar",
+              "bowler": "A Kheterpal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Ritik Tomar",
+              "bowler": "A Kheterpal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "A Ashokan",
+              "bowler": "A Kheterpal",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Ritik Tomar",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Ritik Tomar",
+              "bowler": "A Kheterpal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "A Ashokan",
+              "bowler": "A Kheterpal",
+              "non_striker": "Ritik Tomar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Ritik Tomar",
+              "bowler": "A Kheterpal",
+              "non_striker": "A Ashokan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "A Ashokan",
+              "bowler": "BP Adapaka",
+              "non_striker": "Ritik Tomar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 170
+      }
+    }
+  ]
+}

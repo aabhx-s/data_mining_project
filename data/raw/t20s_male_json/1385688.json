@@ -1,0 +1,3232 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2024-05-26",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Birmingham",
+    "dates": [
+      "2024-05-25"
+    ],
+    "event": {
+      "name": "Pakistan tour of England",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2623,
+    "officials": {
+      "match_referees": [
+        "BC Broad"
+      ],
+      "reserve_umpires": [
+        "GD Lloyd"
+      ],
+      "tv_umpires": [
+        "RJ Warren"
+      ],
+      "umpires": [
+        "MJ Saggers",
+        "M Burns"
+      ]
+    },
+    "outcome": {
+      "winner": "England",
+      "by": {
+        "runs": 23
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "JC Buttler"
+    ],
+    "players": {
+      "England": [
+        "PD Salt",
+        "JC Buttler",
+        "WG Jacks",
+        "JM Bairstow",
+        "HC Brook",
+        "MM Ali",
+        "LS Livingstone",
+        "CJ Jordan",
+        "JC Archer",
+        "AU Rashid",
+        "RJW Topley"
+      ],
+      "Pakistan": [
+        "Mohammad Rizwan",
+        "Saim Ayub",
+        "Babar Azam",
+        "Fakhar Zaman",
+        "Shadab Khan",
+        "Azam Khan",
+        "Iftikhar Ahmed",
+        "Imad Wasim",
+        "Shaheen Shah Afridi",
+        "Mohammad Amir",
+        "Haris Rauf"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AU Rashid": "249d60c9",
+        "Azam Khan": "ee8f1a6d",
+        "BC Broad": "d6a7dd38",
+        "Babar Azam": "8a75e999",
+        "CJ Jordan": "ffe699c0",
+        "Fakhar Zaman": "1777c020",
+        "GD Lloyd": "36e0770d",
+        "HC Brook": "4ae1755b",
+        "Haris Rauf": "24bb1c2f",
+        "Iftikhar Ahmed": "29e253dd",
+        "Imad Wasim": "9cb8d7a6",
+        "JC Archer": "5574750c",
+        "JC Buttler": "99b75528",
+        "JM Bairstow": "abb83e27",
+        "LS Livingstone": "50c6bc2b",
+        "M Burns": "b3bd0666",
+        "MJ Saggers": "402d5937",
+        "MM Ali": "bb351c23",
+        "Mohammad Amir": "e174dadd",
+        "Mohammad Rizwan": "2f26ac1a",
+        "PD Salt": "3d284ca3",
+        "RJ Warren": "9d1c62d7",
+        "RJW Topley": "8db7f47f",
+        "Saim Ayub": "33609a8c",
+        "Shadab Khan": "9de62878",
+        "Shaheen Shah Afridi": "45a7e761",
+        "WG Jacks": "9caf69a1"
+      }
+    },
+    "season": "2024",
+    "team_type": "international",
+    "teams": [
+      "England",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Pakistan"
+    },
+    "venue": "Edgbaston, Birmingham"
+  },
+  "innings": [
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "PD Salt",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "PD Salt",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "PD Salt",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "JC Buttler",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "JC Buttler",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "PD Salt",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "PD Salt",
+              "bowler": "Mohammad Amir",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "PD Salt",
+              "bowler": "Mohammad Amir",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "PD Salt",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "PD Salt",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "JC Buttler",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "JC Buttler",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "JC Buttler",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "JC Buttler",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "PD Salt",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PD Salt",
+                  "fielders": [
+                    {
+                      "name": "Shaheen Shah Afridi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "WG Jacks",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "JC Buttler",
+              "bowler": "Imad Wasim",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "WG Jacks",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "WG Jacks",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "WG Jacks",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "JC Buttler",
+              "bowler": "Haris Rauf",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "WG Jacks",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "WG Jacks",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "WG Jacks",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "JC Buttler",
+              "bowler": "Haris Rauf",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "WG Jacks",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "WG Jacks",
+              "bowler": "Mohammad Amir",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "WG Jacks",
+              "bowler": "Mohammad Amir",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "WG Jacks",
+              "bowler": "Shadab Khan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "WG Jacks",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "JC Buttler",
+              "bowler": "Imad Wasim",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "WG Jacks",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "WG Jacks",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "WG Jacks",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "WG Jacks",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "WG Jacks",
+              "bowler": "Shadab Khan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "WG Jacks",
+              "bowler": "Shadab Khan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "WG Jacks",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "WG Jacks",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "WG Jacks",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "JC Buttler",
+              "bowler": "Imad Wasim",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "WG Jacks",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "JC Buttler",
+              "bowler": "Imad Wasim",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "WG Jacks",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WG Jacks",
+                  "fielders": [
+                    {
+                      "name": "Shadab Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "JM Bairstow",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "JM Bairstow",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "review": {
+                "by": "Pakistan",
+                "umpire": "M Burns",
+                "batter": "JM Bairstow",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "JM Bairstow",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "JM Bairstow",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "JC Buttler",
+              "bowler": "Haris Rauf",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "JM Bairstow",
+              "bowler": "Shadab Khan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "JM Bairstow",
+              "bowler": "Shadab Khan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "JM Bairstow",
+              "bowler": "Shadab Khan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "JM Bairstow",
+              "bowler": "Shadab Khan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "JC Buttler",
+              "bowler": "Haris Rauf",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "JC Buttler",
+              "bowler": "Haris Rauf",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "JC Buttler",
+              "bowler": "Haris Rauf",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "JM Bairstow",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "JC Buttler",
+              "bowler": "Haris Rauf",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "JM Bairstow",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "JM Bairstow",
+              "bowler": "Shadab Khan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "JM Bairstow",
+              "bowler": "Shadab Khan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "JC Buttler",
+              "bowler": "Shadab Khan",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "JM Bairstow",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "JM Bairstow",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "JM Bairstow",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "JM Bairstow",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "JM Bairstow",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "JM Bairstow",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JM Bairstow",
+                  "fielders": [
+                    {
+                      "name": "Iftikhar Ahmed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "JC Buttler",
+              "bowler": "Imad Wasim",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "HC Brook",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "JC Buttler",
+              "bowler": "Imad Wasim",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "HC Brook",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HC Brook",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "MM Ali",
+              "bowler": "Imad Wasim",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "JC Buttler",
+              "bowler": "Imad Wasim",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "MM Ali",
+              "bowler": "Mohammad Amir",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "MM Ali",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "MM Ali",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "JC Buttler",
+              "bowler": "Haris Rauf",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "MM Ali",
+              "bowler": "Haris Rauf",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "JC Buttler",
+              "bowler": "Haris Rauf",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "JC Buttler",
+              "bowler": "Haris Rauf",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JC Buttler",
+                  "fielders": [
+                    {
+                      "name": "Shadab Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "MM Ali",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "MM Ali",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "MM Ali",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MM Ali",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Rizwan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "CJ Jordan",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "LS Livingstone",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "CJ Jordan",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "CJ Jordan",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CJ Jordan",
+                  "fielders": [
+                    {
+                      "name": "Haris Rauf"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "LS Livingstone",
+              "bowler": "Mohammad Amir",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "JC Archer",
+              "bowler": "Mohammad Amir",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "JC Archer",
+              "bowler": "Mohammad Amir",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "JC Archer",
+              "bowler": "Mohammad Amir",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "JC Archer",
+              "bowler": "Mohammad Amir",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "LS Livingstone",
+              "bowler": "Mohammad Amir",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Mohammad Rizwan",
+              "bowler": "MM Ali",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Mohammad Rizwan",
+              "bowler": "MM Ali",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Mohammad Rizwan",
+              "bowler": "MM Ali",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Rizwan",
+                  "fielders": [
+                    {
+                      "name": "LS Livingstone"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Babar Azam",
+              "bowler": "MM Ali",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Saim Ayub",
+              "bowler": "MM Ali",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Saim Ayub",
+              "bowler": "MM Ali",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Babar Azam",
+              "bowler": "RJW Topley",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Saim Ayub",
+              "bowler": "RJW Topley",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Babar Azam",
+              "bowler": "RJW Topley",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Babar Azam",
+              "bowler": "RJW Topley",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Babar Azam",
+              "bowler": "RJW Topley",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Saim Ayub",
+              "bowler": "RJW Topley",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Babar Azam",
+              "bowler": "MM Ali",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Babar Azam",
+              "bowler": "MM Ali",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Babar Azam",
+              "bowler": "MM Ali",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Saim Ayub",
+              "bowler": "MM Ali",
+              "non_striker": "Babar Azam",
+              "review": {
+                "by": "England",
+                "umpire": "M Burns",
+                "batter": "Saim Ayub",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Babar Azam",
+              "bowler": "MM Ali",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Saim Ayub",
+              "bowler": "MM Ali",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Babar Azam",
+              "bowler": "RJW Topley",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Babar Azam",
+              "bowler": "RJW Topley",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Saim Ayub",
+              "bowler": "RJW Topley",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saim Ayub",
+                  "fielders": [
+                    {
+                      "name": "PD Salt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Fakhar Zaman",
+              "bowler": "RJW Topley",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Fakhar Zaman",
+              "bowler": "RJW Topley",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Fakhar Zaman",
+              "bowler": "RJW Topley",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Fakhar Zaman",
+              "bowler": "RJW Topley",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Babar Azam",
+              "bowler": "MM Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Fakhar Zaman",
+              "bowler": "MM Ali",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Fakhar Zaman",
+              "bowler": "MM Ali",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Babar Azam",
+              "bowler": "MM Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Babar Azam",
+              "bowler": "MM Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Fakhar Zaman",
+              "bowler": "MM Ali",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Babar Azam",
+              "bowler": "JC Archer",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Babar Azam",
+              "bowler": "JC Archer",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Babar Azam",
+              "bowler": "JC Archer",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Fakhar Zaman",
+              "bowler": "JC Archer",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Fakhar Zaman",
+              "bowler": "JC Archer",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Fakhar Zaman",
+              "bowler": "JC Archer",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Babar Azam",
+              "bowler": "CJ Jordan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Fakhar Zaman",
+              "bowler": "CJ Jordan",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Babar Azam",
+              "bowler": "CJ Jordan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Babar Azam",
+              "bowler": "CJ Jordan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Babar Azam",
+              "bowler": "CJ Jordan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Fakhar Zaman",
+              "bowler": "CJ Jordan",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Babar Azam",
+              "bowler": "CJ Jordan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Fakhar Zaman",
+              "bowler": "AU Rashid",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Babar Azam",
+              "bowler": "AU Rashid",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Babar Azam",
+              "bowler": "AU Rashid",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Babar Azam",
+              "bowler": "AU Rashid",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Babar Azam",
+              "bowler": "AU Rashid",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Fakhar Zaman",
+              "bowler": "AU Rashid",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Fakhar Zaman",
+              "bowler": "AU Rashid",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Babar Azam",
+              "bowler": "MM Ali",
+              "non_striker": "Fakhar Zaman",
+              "review": {
+                "by": "Pakistan",
+                "umpire": "M Burns",
+                "batter": "Babar Azam",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Babar Azam",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Shadab Khan",
+              "bowler": "MM Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Fakhar Zaman",
+              "bowler": "MM Ali",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Fakhar Zaman",
+              "bowler": "MM Ali",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Fakhar Zaman",
+              "bowler": "MM Ali",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Shadab Khan",
+              "bowler": "MM Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Shadab Khan",
+              "bowler": "AU Rashid",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Fakhar Zaman",
+              "bowler": "AU Rashid",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Shadab Khan",
+              "bowler": "AU Rashid",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shadab Khan",
+                  "fielders": [
+                    {
+                      "name": "CJ Jordan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Azam Khan",
+              "bowler": "AU Rashid",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Azam Khan",
+              "bowler": "AU Rashid",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Azam Khan",
+              "bowler": "AU Rashid",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Fakhar Zaman",
+              "bowler": "CJ Jordan",
+              "non_striker": "Azam Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Azam Khan",
+              "bowler": "CJ Jordan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Azam Khan",
+              "bowler": "CJ Jordan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Azam Khan",
+              "bowler": "CJ Jordan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Azam Khan",
+              "bowler": "CJ Jordan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Azam Khan",
+              "bowler": "CJ Jordan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Azam Khan",
+              "bowler": "CJ Jordan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Azam Khan",
+              "bowler": "JC Archer",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Azam Khan",
+                  "fielders": [
+                    {
+                      "name": "MM Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "JC Archer",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "JC Archer",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "JC Archer",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "JC Archer",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Fakhar Zaman",
+              "bowler": "JC Archer",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "LS Livingstone",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Fakhar Zaman",
+              "bowler": "LS Livingstone",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Fakhar Zaman",
+              "bowler": "LS Livingstone",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Fakhar Zaman",
+              "bowler": "LS Livingstone",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Fakhar Zaman",
+                  "fielders": [
+                    {
+                      "name": "HC Brook"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Imad Wasim",
+              "bowler": "LS Livingstone",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "LS Livingstone",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "LS Livingstone",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Imad Wasim",
+              "bowler": "AU Rashid",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Imad Wasim",
+              "bowler": "AU Rashid",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Imad Wasim",
+              "bowler": "AU Rashid",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Imad Wasim",
+              "bowler": "AU Rashid",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "AU Rashid",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "AU Rashid",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "JC Archer",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Imad Wasim",
+              "bowler": "JC Archer",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "JC Archer",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Imad Wasim",
+              "bowler": "JC Archer",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "JC Archer",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "JC Archer",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "RJW Topley",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Imad Wasim",
+              "bowler": "RJW Topley",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Imad Wasim",
+              "bowler": "RJW Topley",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "RJW Topley",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "RJW Topley",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "RJW Topley",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Iftikhar Ahmed",
+                  "fielders": [
+                    {
+                      "name": "CJ Jordan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Imad Wasim",
+              "bowler": "CJ Jordan",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "CJ Jordan",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Imad Wasim",
+              "bowler": "CJ Jordan",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "CJ Jordan",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Imad Wasim",
+              "bowler": "CJ Jordan",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "CJ Jordan",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "JC Archer",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "JC Archer",
+              "non_striker": "Imad Wasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Imad Wasim",
+              "bowler": "JC Archer",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Imad Wasim",
+                  "fielders": [
+                    {
+                      "name": "LS Livingstone"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Mohammad Amir",
+              "bowler": "JC Archer",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Mohammad Amir",
+              "bowler": "JC Archer",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "JC Archer",
+              "non_striker": "Mohammad Amir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "CJ Jordan",
+              "non_striker": "Mohammad Amir",
+              "review": {
+                "by": "Pakistan",
+                "umpire": "M Burns",
+                "batter": "Shaheen Shah Afridi",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "CJ Jordan",
+              "non_striker": "Mohammad Amir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Mohammad Amir",
+              "bowler": "CJ Jordan",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Amir",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Haris Rauf",
+              "bowler": "CJ Jordan",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Haris Rauf",
+              "bowler": "CJ Jordan",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "CJ Jordan",
+              "non_striker": "Haris Rauf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "RJW Topley",
+              "non_striker": "Haris Rauf",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "RJW Topley",
+              "non_striker": "Haris Rauf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shaheen Shah Afridi",
+                  "fielders": [
+                    {
+                      "name": "PD Salt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 184
+      }
+    }
+  ]
+}

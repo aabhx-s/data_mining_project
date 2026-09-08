@@ -1,0 +1,3514 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2022-05-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Marsa",
+    "dates": [
+      "2022-05-10"
+    ],
+    "event": {
+      "name": "Valletta Cup",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1523,
+    "officials": {
+      "match_referees": [
+        "SN Anand"
+      ],
+      "reserve_umpires": [
+        "T Wheeler"
+      ],
+      "umpires": [
+        "R Sivanadian",
+        "S Harnal"
+      ]
+    },
+    "outcome": {
+      "winner": "Malta",
+      "by": {
+        "runs": 45
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "B Arora"
+    ],
+    "players": {
+      "Malta": [
+        "G Chaturvedi",
+        "B Arora",
+        "B George",
+        "HS Gericke",
+        "Aaftab Alam Khan",
+        "VP Thamotharam",
+        "Bilal Muhammad",
+        "N Khanna",
+        "Washeem Abbas",
+        "Jaison Jerome",
+        "Amar Sharma"
+      ],
+      "Hungary": [
+        "Khaibar Deldar",
+        "Abhijeet Ahuja",
+        "Abhishek Ahuja",
+        "Zahir Mohammed",
+        "HV Mandhyan",
+        "A Kheterpal",
+        "Ali Farasat",
+        "AG Weligamage",
+        "SA Mohandas",
+        "Akramullah Malikzada",
+        "BP Adapaka"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Kheterpal": "2deb4082",
+        "AG Weligamage": "747209e0",
+        "Aaftab Alam Khan": "9dbc77b3",
+        "Abhijeet Ahuja": "b91083bd",
+        "Abhishek Ahuja": "65cf74b4",
+        "Akramullah Malikzada": "dd3df124",
+        "Ali Farasat": "5845b99b",
+        "Amar Sharma": "14e1fdab",
+        "B Arora": "39e9f0c9",
+        "B George": "1bdbf53b",
+        "BP Adapaka": "e6082b10",
+        "Bilal Muhammad": "eb5aa5b9",
+        "G Chaturvedi": "e1c92333",
+        "HS Gericke": "c28a293e",
+        "HV Mandhyan": "11f56b14",
+        "Jaison Jerome": "e57d25fa",
+        "Khaibar Deldar": "032c7eab",
+        "N Khanna": "0ec6a7c3",
+        "R Sivanadian": "6100086b",
+        "S Harnal": "756fe781",
+        "SA Mohandas": "8b0b3bba",
+        "SN Anand": "ab3d6059",
+        "T Wheeler": "f4d1ecae",
+        "VP Thamotharam": "eb40ed89",
+        "Washeem Abbas": "6de4e430",
+        "Zahir Mohammed": "7c38942a"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "Malta",
+      "Hungary"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Hungary"
+    },
+    "venue": "Marsa Sports Club"
+  },
+  "innings": [
+    {
+      "team": "Malta",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "G Chaturvedi",
+              "bowler": "SA Mohandas",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "B Arora",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Chaturvedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "B Arora",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Chaturvedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "B Arora",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Chaturvedi",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "G Chaturvedi",
+              "bowler": "SA Mohandas",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "B Arora",
+              "bowler": "SA Mohandas",
+              "non_striker": "G Chaturvedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "G Chaturvedi",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "G Chaturvedi",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "G Chaturvedi",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "G Chaturvedi",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "G Chaturvedi",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "G Chaturvedi",
+              "bowler": "HV Mandhyan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "G Chaturvedi",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Chaturvedi",
+                  "fielders": [
+                    {
+                      "name": "AG Weligamage"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "B George",
+              "bowler": "SA Mohandas",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "B George",
+              "bowler": "SA Mohandas",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "B Arora",
+              "bowler": "SA Mohandas",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "B Arora",
+              "bowler": "SA Mohandas",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "B Arora",
+              "bowler": "SA Mohandas",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "B Arora",
+              "bowler": "SA Mohandas",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "B Arora",
+              "bowler": "HV Mandhyan",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "B George",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "B George",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "B George",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "B George",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "B George",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "B Arora",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "B Arora",
+              "bowler": "SA Mohandas",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "B George",
+              "bowler": "SA Mohandas",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "B Arora",
+              "bowler": "SA Mohandas",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "B George",
+              "bowler": "SA Mohandas",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "B George",
+              "bowler": "SA Mohandas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "B George",
+              "bowler": "SA Mohandas",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "B George",
+              "bowler": "SA Mohandas",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "B Arora",
+              "bowler": "A Kheterpal",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "B George",
+              "bowler": "A Kheterpal",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "B Arora",
+              "bowler": "A Kheterpal",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "B George",
+              "bowler": "A Kheterpal",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "B George",
+              "bowler": "A Kheterpal",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "B Arora",
+              "bowler": "A Kheterpal",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "B Arora",
+              "bowler": "Khaibar Deldar",
+              "extras": {
+                "byes": 2,
+                "noballs": 1
+              },
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "B Arora",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "B Arora",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "B Arora",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "B Arora",
+              "bowler": "A Kheterpal",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "B George",
+              "bowler": "A Kheterpal",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "B Arora",
+              "bowler": "A Kheterpal",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "B Arora",
+              "bowler": "A Kheterpal",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "B Arora",
+              "bowler": "A Kheterpal",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "B George",
+              "bowler": "A Kheterpal",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "B Arora",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "B Arora",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "B George",
+              "bowler": "A Kheterpal",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "B Arora",
+              "bowler": "A Kheterpal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "B Arora",
+              "bowler": "A Kheterpal",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "B George",
+              "bowler": "A Kheterpal",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "B Arora",
+              "bowler": "A Kheterpal",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "B George",
+              "bowler": "A Kheterpal",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "B Arora",
+              "bowler": "A Kheterpal",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "B Arora",
+              "bowler": "A Kheterpal",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "B George",
+              "bowler": "A Kheterpal",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "B George",
+              "bowler": "AG Weligamage",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "B George",
+              "bowler": "AG Weligamage",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "non_striker": "B George",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B George",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "B George",
+              "bowler": "AG Weligamage",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "B George",
+              "bowler": "Khaibar Deldar",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B George",
+                  "fielders": [
+                    {
+                      "name": "SA Mohandas"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "HS Gericke",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "B Arora",
+              "bowler": "HV Mandhyan",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "B Arora",
+              "bowler": "HV Mandhyan",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "B Arora",
+              "bowler": "HV Mandhyan",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "HS Gericke",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "B Arora",
+              "bowler": "HV Mandhyan",
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "HS Gericke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "HS Gericke",
+              "bowler": "AG Weligamage",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "HS Gericke",
+              "bowler": "AG Weligamage",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "HS Gericke",
+              "bowler": "AG Weligamage",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HS Gericke",
+                  "fielders": [
+                    {
+                      "name": "Zahir Mohammed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Aaftab Alam Khan",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Aaftab Alam Khan",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Aaftab Alam Khan",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "B Arora",
+              "bowler": "HV Mandhyan",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Aaftab Alam Khan",
+              "bowler": "HV Mandhyan",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "B Arora",
+              "bowler": "HV Mandhyan",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Aaftab Alam Khan",
+              "bowler": "AG Weligamage",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Aaftab Alam Khan",
+              "bowler": "AG Weligamage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Aaftab Alam Khan",
+              "bowler": "AG Weligamage",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Aaftab Alam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Aaftab Alam Khan",
+              "bowler": "AG Weligamage",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aaftab Alam Khan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "VP Thamotharam",
+              "bowler": "AG Weligamage",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "VP Thamotharam",
+              "bowler": "Zahir Mohammed",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "B Arora",
+              "bowler": "Zahir Mohammed",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "B Arora",
+              "bowler": "Zahir Mohammed",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "B Arora",
+              "bowler": "Zahir Mohammed",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "VP Thamotharam",
+              "bowler": "Zahir Mohammed",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "VP Thamotharam",
+              "bowler": "Zahir Mohammed",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "VP Thamotharam",
+              "bowler": "Zahir Mohammed",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "VP Thamotharam",
+              "bowler": "AG Weligamage",
+              "non_striker": "B Arora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "B Arora",
+              "bowler": "AG Weligamage",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Arora",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Bilal Muhammad",
+              "bowler": "AG Weligamage",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "VP Thamotharam",
+              "bowler": "A Kheterpal",
+              "non_striker": "Bilal Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "VP Thamotharam",
+              "bowler": "A Kheterpal",
+              "non_striker": "Bilal Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Bilal Muhammad",
+              "bowler": "A Kheterpal",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "VP Thamotharam",
+              "bowler": "A Kheterpal",
+              "non_striker": "Bilal Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "VP Thamotharam",
+              "bowler": "A Kheterpal",
+              "non_striker": "Bilal Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Bilal Muhammad",
+              "bowler": "A Kheterpal",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Bilal Muhammad",
+              "bowler": "SA Mohandas",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Bilal Muhammad",
+                  "fielders": [
+                    {
+                      "name": "Khaibar Deldar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "VP Thamotharam",
+              "bowler": "SA Mohandas",
+              "non_striker": "N Khanna",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "VP Thamotharam",
+              "bowler": "SA Mohandas",
+              "non_striker": "N Khanna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "N Khanna",
+              "bowler": "SA Mohandas",
+              "non_striker": "VP Thamotharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "VP Thamotharam",
+              "bowler": "SA Mohandas",
+              "non_striker": "N Khanna",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "VP Thamotharam",
+              "bowler": "SA Mohandas",
+              "non_striker": "N Khanna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "N Khanna",
+                  "fielders": [
+                    {
+                      "name": "Abhishek Ahuja"
+                    },
+                    {
+                      "name": "A Kheterpal"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Hungary",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Khaibar Deldar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Khaibar Deldar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Khaibar Deldar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Khaibar Deldar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Khaibar Deldar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Khaibar Deldar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Abhijeet Ahuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Bilal Muhammad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Abhijeet Ahuja",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abhijeet Ahuja",
+                  "fielders": [
+                    {
+                      "name": "Aaftab Alam Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Bilal Muhammad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Khaibar Deldar",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Khaibar Deldar",
+              "bowler": "Washeem Abbas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Khaibar Deldar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Khaibar Deldar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Khaibar Deldar",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Bilal Muhammad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Bilal Muhammad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Bilal Muhammad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Khaibar Deldar",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Khaibar Deldar",
+              "bowler": "Jaison Jerome",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Khaibar Deldar",
+              "bowler": "Jaison Jerome",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Khaibar Deldar",
+              "bowler": "Jaison Jerome",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Khaibar Deldar",
+              "bowler": "Jaison Jerome",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Khaibar Deldar",
+              "bowler": "Jaison Jerome",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Khaibar Deldar",
+              "bowler": "Jaison Jerome",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Khaibar Deldar",
+              "bowler": "Jaison Jerome",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Khaibar Deldar",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Khaibar Deldar",
+              "bowler": "VP Thamotharam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Khaibar Deldar",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "VP Thamotharam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Khaibar Deldar",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Khaibar Deldar",
+              "bowler": "Amar Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Khaibar Deldar",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Khaibar Deldar",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Khaibar Deldar",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Khaibar Deldar",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Amar Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Amar Sharma",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Khaibar Deldar",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Khaibar Deldar",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Khaibar Deldar",
+              "bowler": "VP Thamotharam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Khaibar Deldar",
+              "bowler": "VP Thamotharam",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Amar Sharma",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Amar Sharma",
+              "non_striker": "Khaibar Deldar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Khaibar Deldar",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Khaibar Deldar",
+                  "fielders": [
+                    {
+                      "name": "Jaison Jerome"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Amar Sharma",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Amar Sharma",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Amar Sharma",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Zahir Mohammed",
+              "bowler": "B Arora",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Zahir Mohammed",
+              "bowler": "B Arora",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Zahir Mohammed",
+              "bowler": "B Arora",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "B Arora",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "B Arora",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Abhishek Ahuja",
+              "bowler": "B Arora",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "B Arora",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Zahir Mohammed",
+              "bowler": "B Arora",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Amar Sharma",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Zahir Mohammed",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zahir Mohammed",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "HV Mandhyan",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "HV Mandhyan",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "HV Mandhyan",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Amar Sharma",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "HV Mandhyan",
+              "bowler": "B Arora",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "B Arora",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Abhishek Ahuja",
+              "bowler": "B Arora",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "HV Mandhyan",
+              "bowler": "B Arora",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Abhishek Ahuja",
+              "bowler": "B Arora",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "HV Mandhyan",
+              "bowler": "B Arora",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Amar Sharma",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "HV Mandhyan",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "HV Mandhyan",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "HV Mandhyan",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "HV Mandhyan",
+              "bowler": "Amar Sharma",
+              "non_striker": "Abhishek Ahuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Abhishek Ahuja",
+              "bowler": "Amar Sharma",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Abhishek Ahuja",
+              "bowler": "B Arora",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Abhishek Ahuja",
+              "bowler": "B Arora",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abhishek Ahuja",
+                  "fielders": [
+                    {
+                      "name": "Bilal Muhammad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "A Kheterpal",
+              "bowler": "B Arora",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "HV Mandhyan",
+              "bowler": "B Arora",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "HV Mandhyan",
+              "bowler": "B Arora",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "A Kheterpal",
+              "bowler": "B Arora",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "A Kheterpal",
+              "bowler": "B Arora",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "HV Mandhyan",
+              "bowler": "Jaison Jerome",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "A Kheterpal",
+              "bowler": "Jaison Jerome",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "A Kheterpal",
+              "bowler": "Jaison Jerome",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "A Kheterpal",
+              "bowler": "Jaison Jerome",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "HV Mandhyan",
+              "bowler": "Jaison Jerome",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "A Kheterpal",
+              "bowler": "Jaison Jerome",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "A Kheterpal",
+              "bowler": "B Arora",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "A Kheterpal",
+              "bowler": "B Arora",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "HV Mandhyan",
+              "bowler": "B Arora",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "HV Mandhyan",
+              "bowler": "B Arora",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "HV Mandhyan",
+              "bowler": "B Arora",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "HV Mandhyan",
+              "bowler": "B Arora",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "A Kheterpal",
+              "bowler": "Washeem Abbas",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "A Kheterpal",
+              "bowler": "Washeem Abbas",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "HV Mandhyan",
+              "bowler": "Washeem Abbas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "HV Mandhyan",
+              "bowler": "Washeem Abbas",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "A Kheterpal",
+              "bowler": "Washeem Abbas",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "HV Mandhyan",
+              "bowler": "Washeem Abbas",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "HV Mandhyan",
+              "bowler": "Washeem Abbas",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "HV Mandhyan",
+              "bowler": "Bilal Muhammad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.1",
+              "batter": "HV Mandhyan",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "HV Mandhyan",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "HV Mandhyan",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "A Kheterpal",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "A Kheterpal",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "HV Mandhyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "HV Mandhyan",
+              "bowler": "Bilal Muhammad",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "HV Mandhyan",
+              "bowler": "Washeem Abbas",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HV Mandhyan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Ali Farasat",
+              "bowler": "Washeem Abbas",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "A Kheterpal",
+              "bowler": "Washeem Abbas",
+              "non_striker": "Ali Farasat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Ali Farasat",
+              "bowler": "Washeem Abbas",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Farasat",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "AG Weligamage",
+              "bowler": "Washeem Abbas",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "A Kheterpal",
+              "bowler": "Washeem Abbas",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "A Kheterpal",
+              "bowler": "Jaison Jerome",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "A Kheterpal",
+              "bowler": "Jaison Jerome",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "A Kheterpal",
+              "bowler": "Jaison Jerome",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "A Kheterpal",
+              "bowler": "Jaison Jerome",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "AG Weligamage",
+              "bowler": "Jaison Jerome",
+              "non_striker": "A Kheterpal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "A Kheterpal",
+              "bowler": "Jaison Jerome",
+              "non_striker": "AG Weligamage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 207
+      }
+    }
+  ]
+}

@@ -1,0 +1,3315 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-07-27",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ilfov County",
+    "dates": [
+      "2026-07-27"
+    ],
+    "event": {
+      "name": "ECA Men's European Cup",
+      "match_number": 5
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4046,
+    "officials": {
+      "reserve_umpires": [
+        "Asad Ali"
+      ],
+      "umpires": [
+        "Imran Haider",
+        "Suleman Saeed"
+      ]
+    },
+    "outcome": {
+      "winner": "France",
+      "by": {
+        "runs": 145
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Mustafa Omer"
+    ],
+    "players": {
+      "France": [
+        "Zakria Atiq Butt",
+        "Virk Ali",
+        "Mustafa Omer",
+        "C Roberts",
+        "Dawood Ahmadzai",
+        "Kamran Ahmadzai",
+        "Usman Khan",
+        "Noman Amjad",
+        "Rahimgul Naseri",
+        "Rahmatullah Mangal",
+        "L Canessane"
+      ],
+      "Turkey": [
+        "G Tuskan",
+        "A Kanogullari",
+        "Mustafa Balkis",
+        "Furkan Tuskan",
+        "Muhammet Bicer",
+        "Ibrahim Kursad Dalyan",
+        "Mertcan Donmez",
+        "Mertcan Filiz",
+        "Omer Kutuk",
+        "Mustafa Atmaca",
+        "KK Tetik"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Kanogullari": "a6f365e7",
+        "Asad Ali": "fd0758b9",
+        "C Roberts": "07ac9c54",
+        "Dawood Ahmadzai": "951686f5",
+        "Furkan Tuskan": "32009b6a",
+        "G Tuskan": "0b22ec0f",
+        "Ibrahim Kursad Dalyan": "f0f20cf8",
+        "Imran Haider": "1b8242f2",
+        "KK Tetik": "c31a3282",
+        "Kamran Ahmadzai": "afa2ebba",
+        "L Canessane": "72a4c3b2",
+        "Mertcan Donmez": "fb5a5fe3",
+        "Mertcan Filiz": "b2e15fa9",
+        "Muhammet Bicer": "7990dc16",
+        "Mustafa Atmaca": "76f168de",
+        "Mustafa Balkis": "55e6c23c",
+        "Mustafa Omer": "3bd52be1",
+        "Noman Amjad": "c079c66a",
+        "Omer Kutuk": "c9a05046",
+        "Rahimgul Naseri": "bf07cc63",
+        "Rahmatullah Mangal": "ec106638",
+        "Suleman Saeed": "60018b15",
+        "Usman Khan": "e8a552ef",
+        "Virk Ali": "f7f7bee0",
+        "Zakria Atiq Butt": "61b69c02"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "France",
+      "Turkey"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "France"
+    },
+    "venue": "Moara Vlasiei Cricket Ground, Ilfov County"
+  },
+  "innings": [
+    {
+      "team": "France",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "G Tuskan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Virk Ali",
+              "bowler": "G Tuskan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Virk Ali",
+              "bowler": "G Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Virk Ali",
+              "bowler": "G Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Virk Ali",
+              "bowler": "G Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "G Tuskan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "G Tuskan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Virk Ali",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Virk Ali",
+              "bowler": "Mustafa Atmaca",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Virk Ali",
+              "bowler": "Mustafa Atmaca",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Virk Ali",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Virk Ali",
+              "bowler": "Mustafa Atmaca",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Virk Ali",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Virk Ali",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Virk Ali",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Furkan Tuskan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Virk Ali",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Virk Ali",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Virk Ali",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Virk Ali",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "G Tuskan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Virk Ali",
+              "bowler": "G Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Virk Ali",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Mustafa Omer",
+              "bowler": "G Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Mustafa Omer",
+              "bowler": "G Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "G Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Mustafa Omer",
+              "bowler": "G Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Mustafa Omer",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Mustafa Omer",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Mustafa Omer",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Mustafa Omer",
+              "bowler": "G Tuskan",
+              "extras": {
+                "byes": 1,
+                "noballs": 1
+              },
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.1",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "G Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "G Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Mustafa Omer",
+              "bowler": "G Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Mustafa Omer",
+              "bowler": "G Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Mustafa Omer",
+              "bowler": "G Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Mustafa Omer",
+              "bowler": "G Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Mustafa Omer",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Mustafa Omer",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Mustafa Omer",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Mustafa Omer",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Mustafa Omer",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Furkan Tuskan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Furkan Tuskan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Mustafa Omer",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Mustafa Omer",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Mustafa Omer",
+              "bowler": "Furkan Tuskan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Mustafa Omer",
+              "bowler": "Furkan Tuskan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Mustafa Omer",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.1",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Muhammet Bicer",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "Zakria Atiq Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Zakria Atiq Butt",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zakria Atiq Butt",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "C Roberts",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "C Roberts",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "C Roberts",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "C Roberts",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "C Roberts",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Mustafa Omer",
+              "bowler": "G Tuskan",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Mustafa Omer",
+              "bowler": "G Tuskan",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Mustafa Omer",
+              "bowler": "G Tuskan",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "C Roberts",
+              "bowler": "G Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "C Roberts",
+              "bowler": "G Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "C Roberts",
+              "bowler": "G Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "C Roberts",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Mustafa Omer",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Mustafa Omer",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Mustafa Omer",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Mustafa Omer",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Mustafa Omer",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "C Roberts",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "C Roberts",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "C Roberts",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "C Roberts",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "C Roberts",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Mustafa Omer",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Mustafa Omer",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Mustafa Omer",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "C Roberts",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "C Roberts",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "C Roberts",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "Mustafa Omer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Mustafa Omer",
+              "bowler": "Muhammet Bicer",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Mustafa Omer",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Mustafa Omer",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Mustafa Omer",
+              "bowler": "Mustafa Atmaca",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Mustafa Omer",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Mustafa Omer",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Mustafa Omer",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Mustafa Omer",
+              "bowler": "Mustafa Atmaca",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Turkey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "G Tuskan",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "A Kanogullari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "G Tuskan",
+              "bowler": "Rahmatullah Mangal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Kanogullari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "A Kanogullari",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "A Kanogullari",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "A Kanogullari",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "A Kanogullari",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "G Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "G Tuskan",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "A Kanogullari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "G Tuskan",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "A Kanogullari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Tuskan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Mustafa Balkis",
+              "bowler": "Rahimgul Naseri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kanogullari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Mustafa Balkis",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "A Kanogullari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Mustafa Balkis",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "A Kanogullari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Mustafa Balkis",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "A Kanogullari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Mustafa Balkis",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "A Kanogullari",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "A Kanogullari",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "A Kanogullari",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "A Kanogullari",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "A Kanogullari",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "A Kanogullari",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "A Kanogullari",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Mustafa Balkis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kanogullari",
+                  "fielders": [
+                    {
+                      "name": "C Roberts"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Mustafa Balkis",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Mustafa Balkis",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Mustafa Balkis",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Mustafa Balkis",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mustafa Balkis",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Muhammet Bicer",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Muhammet Bicer",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Furkan Tuskan",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Muhammet Bicer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Furkan Tuskan",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Muhammet Bicer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Furkan Tuskan",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Muhammet Bicer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Furkan Tuskan",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Muhammet Bicer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Furkan Tuskan",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Muhammet Bicer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Furkan Tuskan",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Muhammet Bicer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Furkan Tuskan",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Muhammet Bicer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Muhammet Bicer",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Muhammet Bicer",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Muhammet Bicer",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Muhammet Bicer",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammet Bicer",
+                  "fielders": [
+                    {
+                      "name": "Virk Ali"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Furkan Tuskan",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Furkan Tuskan",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Furkan Tuskan",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Rahmatullah Mangal",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Furkan Tuskan",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Furkan Tuskan",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Rahimgul Naseri",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Furkan Tuskan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Furkan Tuskan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Furkan Tuskan",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Furkan Tuskan",
+                  "kind": "hit wicket"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Noman Amjad",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Noman Amjad",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Noman Amjad",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Noman Amjad",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Mertcan Donmez",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Mertcan Donmez",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Mertcan Donmez",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Noman Amjad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.1",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Noman Amjad",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Noman Amjad",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Noman Amjad",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Mertcan Donmez",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Mertcan Donmez",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Mertcan Donmez",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Usman Khan",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Usman Khan",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Usman Khan",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Mertcan Donmez",
+              "bowler": "Usman Khan",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Mertcan Donmez",
+              "bowler": "Usman Khan",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Mertcan Donmez",
+              "bowler": "Usman Khan",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Noman Amjad",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Mertcan Donmez",
+              "bowler": "Noman Amjad",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Noman Amjad",
+              "non_striker": "Mertcan Donmez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Mertcan Donmez",
+              "bowler": "Usman Khan",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Mertcan Donmez",
+              "bowler": "Usman Khan",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Mertcan Donmez",
+              "bowler": "Usman Khan",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mertcan Donmez",
+                  "fielders": [
+                    {
+                      "name": "Zakria Atiq Butt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Mertcan Filiz",
+              "bowler": "Usman Khan",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Mertcan Filiz",
+              "bowler": "Usman Khan",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Usman Khan",
+              "non_striker": "Mertcan Filiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Mertcan Filiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Mertcan Filiz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Mertcan Filiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Mertcan Filiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Mertcan Filiz",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Mertcan Filiz",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Mertcan Filiz",
+              "bowler": "Usman Khan",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Mertcan Filiz",
+              "bowler": "Usman Khan",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Mertcan Filiz",
+              "bowler": "Usman Khan",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Mertcan Filiz",
+              "bowler": "Usman Khan",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Usman Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mertcan Filiz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Mertcan Filiz",
+              "bowler": "Usman Khan",
+              "non_striker": "Ibrahim Kursad Dalyan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Mertcan Filiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Mertcan Filiz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Mertcan Filiz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mertcan Filiz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Mertcan Filiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Mertcan Filiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ibrahim Kursad Dalyan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Omer Kutuk",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Mertcan Filiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 236
+      }
+    }
+  ]
+}

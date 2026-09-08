@@ -1,0 +1,2558 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-06-22",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Chattogram",
+    "dates": [
+      "2026-06-21"
+    ],
+    "event": {
+      "name": "Australia tour of Bangladesh",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3972,
+    "officials": {
+      "match_referees": [
+        "Prakash Bhatt"
+      ],
+      "reserve_umpires": [
+        "Masudur Rahman"
+      ],
+      "tv_umpires": [
+        "Tanvir Ahmed"
+      ],
+      "umpires": [
+        "Gazi Sohel",
+        "Morshed Ali Khan"
+      ]
+    },
+    "outcome": {
+      "winner": "Australia",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "MR Marsh"
+    ],
+    "players": {
+      "Bangladesh": [
+        "Tanzid Hasan",
+        "Saif Hassan",
+        "Parvez Hossain Emon",
+        "Towhid Hridoy",
+        "Nurul Hasan",
+        "Shamim Hossain",
+        "Rishad Hossain",
+        "Nasum Ahmed",
+        "Shoriful Islam",
+        "Taskin Ahmed",
+        "Nahid Rana"
+      ],
+      "Australia": [
+        "MR Marsh",
+        "JP Inglis",
+        "C Connolly",
+        "MT Renshaw",
+        "TH David",
+        "Nikhil Chaudhary",
+        "JA Davies",
+        "AM Hardie",
+        "NT Ellis",
+        "A Zampa",
+        "SH Johnson"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Zampa": "14f96089",
+        "AM Hardie": "d405c0d5",
+        "C Connolly": "fe366f34",
+        "Gazi Sohel": "f0df3ed7",
+        "JA Davies": "5cdf8304",
+        "JP Inglis": "989889ff",
+        "MR Marsh": "3d8feaf8",
+        "MT Renshaw": "218d4d78",
+        "Masudur Rahman": "9581ac6b",
+        "Morshed Ali Khan": "a7c3cf5f",
+        "NT Ellis": "9eb1455b",
+        "Nahid Rana": "5318ee68",
+        "Nasum Ahmed": "37654b75",
+        "Nikhil Chaudhary": "1f84183a",
+        "Nurul Hasan": "d365d463",
+        "Parvez Hossain Emon": "489aaf0a",
+        "Prakash Bhatt": "f848ab0b",
+        "Rishad Hossain": "5935d694",
+        "SH Johnson": "83c3e8e3",
+        "Saif Hassan": "bb95564b",
+        "Shamim Hossain": "711249d1",
+        "Shoriful Islam": "bb34fd31",
+        "TH David": "f1f99156",
+        "Tanvir Ahmed": "ea2df1f1",
+        "Tanzid Hasan": "80fe764d",
+        "Taskin Ahmed": "ef18b66e",
+        "Towhid Hridoy": "9e52a414"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Bangladesh",
+      "Australia"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Bangladesh"
+    },
+    "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram"
+  },
+  "innings": [
+    {
+      "team": "Bangladesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Tanzid Hasan",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Saif Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Saif Hassan",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Saif Hassan",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Saif Hassan",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Saif Hassan",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Tanzid Hasan",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Saif Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Saif Hassan",
+              "bowler": "SH Johnson",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Saif Hassan",
+              "bowler": "SH Johnson",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Saif Hassan",
+              "bowler": "SH Johnson",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tanzid Hasan",
+                  "fielders": [
+                    {
+                      "name": "SH Johnson"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Saif Hassan",
+              "bowler": "SH Johnson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Saif Hassan",
+              "bowler": "SH Johnson",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Saif Hassan",
+              "bowler": "SH Johnson",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saif Hassan",
+                  "fielders": [
+                    {
+                      "name": "MR Marsh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Towhid Hridoy",
+              "bowler": "SH Johnson",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Towhid Hridoy",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "SH Johnson",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Parvez Hossain Emon",
+              "bowler": "SH Johnson",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Parvez Hossain Emon",
+              "bowler": "SH Johnson",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Parvez Hossain Emon",
+              "bowler": "SH Johnson",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Parvez Hossain Emon",
+              "bowler": "SH Johnson",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Parvez Hossain Emon",
+              "bowler": "SH Johnson",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Parvez Hossain Emon",
+              "bowler": "NT Ellis",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Parvez Hossain Emon",
+              "bowler": "NT Ellis",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Parvez Hossain Emon",
+              "bowler": "NT Ellis",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Parvez Hossain Emon",
+              "bowler": "NT Ellis",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Parvez Hossain Emon",
+                  "fielders": [
+                    {
+                      "name": "JA Davies"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "JA Davies",
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Nurul Hasan",
+              "bowler": "JA Davies",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Nurul Hasan",
+              "bowler": "JA Davies",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Nurul Hasan",
+              "bowler": "JA Davies",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Nurul Hasan",
+              "bowler": "JA Davies",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Towhid Hridoy",
+              "bowler": "JA Davies",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Towhid Hridoy",
+              "bowler": "JA Davies",
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Nurul Hasan",
+              "bowler": "Nikhil Chaudhary",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Nurul Hasan",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "Nikhil Chaudhary",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Towhid Hridoy",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Towhid Hridoy",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Nurul Hasan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Nurul Hasan",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Nurul Hasan",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nurul Hasan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Shamim Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Shamim Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Shamim Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Shamim Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "SH Johnson",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Towhid Hridoy",
+              "bowler": "SH Johnson",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "SH Johnson",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "SH Johnson",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Shamim Hossain",
+              "bowler": "SH Johnson",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shamim Hossain",
+                  "fielders": [
+                    {
+                      "name": "JP Inglis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Rishad Hossain",
+              "bowler": "SH Johnson",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Rishad Hossain",
+              "bowler": "SH Johnson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Rishad Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Rishad Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Rishad Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Rishad Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Rishad Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Rishad Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Rishad Hossain",
+              "bowler": "JA Davies",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Rishad Hossain",
+              "bowler": "JA Davies",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Rishad Hossain",
+              "bowler": "JA Davies",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "JA Davies",
+              "non_striker": "Rishad Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Rishad Hossain",
+              "bowler": "JA Davies",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Rishad Hossain",
+              "bowler": "JA Davies",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Rishad Hossain",
+              "bowler": "Nikhil Chaudhary",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.1",
+              "batter": "Rishad Hossain",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Towhid Hridoy",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Rishad Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Rishad Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Rishad Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Rishad Hossain",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Rishad Hossain",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rishad Hossain",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Nasum Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Nasum Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Nasum Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Nasum Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Nasum Ahmed",
+              "bowler": "NT Ellis",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Nasum Ahmed",
+              "bowler": "NT Ellis",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nasum Ahmed",
+                  "fielders": [
+                    {
+                      "name": "TH David"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Shoriful Islam",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Shoriful Islam",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Shoriful Islam",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Shoriful Islam",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Shoriful Islam",
+              "bowler": "AM Hardie",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Shoriful Islam",
+              "bowler": "AM Hardie",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "AM Hardie",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Shoriful Islam",
+              "bowler": "AM Hardie",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Shoriful Islam",
+              "bowler": "AM Hardie",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Towhid Hridoy",
+              "bowler": "AM Hardie",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Shoriful Islam",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Shoriful Islam",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Shoriful Islam",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Shoriful Islam",
+              "bowler": "NT Ellis",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Shoriful Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Shoriful Islam",
+              "bowler": "NT Ellis",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Shoriful Islam",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shoriful Islam",
+                  "fielders": [
+                    {
+                      "name": "JA Davies"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Taskin Ahmed",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Taskin Ahmed",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Taskin Ahmed",
+              "review": {
+                "by": "Australia",
+                "umpire": "Morshed Ali Khan",
+                "batter": "Towhid Hridoy",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "SH Johnson",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Towhid Hridoy",
+              "bowler": "SH Johnson",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "SH Johnson",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "SH Johnson",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Towhid Hridoy",
+              "bowler": "SH Johnson",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Taskin Ahmed",
+              "bowler": "SH Johnson",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "MR Marsh",
+              "bowler": "Shoriful Islam",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "MR Marsh",
+              "bowler": "Shoriful Islam",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "MR Marsh",
+              "bowler": "Shoriful Islam",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "MR Marsh",
+              "bowler": "Shoriful Islam",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "JP Inglis",
+              "bowler": "Shoriful Islam",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "JP Inglis",
+              "bowler": "Shoriful Islam",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "MR Marsh",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "JP Inglis",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "JP Inglis",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "JP Inglis",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "JP Inglis",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "MR Marsh",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "MR Marsh",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "MR Marsh",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "MR Marsh",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "MR Marsh",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "JP Inglis",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "MR Marsh",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "JP Inglis",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "JP Inglis",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "MR Marsh",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "MR Marsh",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "MR Marsh",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "MR Marsh",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "MR Marsh",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "MR Marsh",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "MR Marsh",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "JP Inglis",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "MR Marsh",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "JP Inglis",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "JP Inglis",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "JP Inglis",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JP Inglis",
+                  "fielders": [
+                    {
+                      "name": "Shamim Hossain"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "C Connolly",
+              "bowler": "Nasum Ahmed",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "MR Marsh",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "MR Marsh",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "MR Marsh",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "C Connolly",
+              "bowler": "Rishad Hossain",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "C Connolly",
+              "bowler": "Rishad Hossain",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "MR Marsh",
+              "bowler": "Rishad Hossain",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "MR Marsh",
+              "bowler": "Rishad Hossain",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "MR Marsh",
+              "bowler": "Rishad Hossain",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "MR Marsh",
+              "bowler": "Rishad Hossain",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "MR Marsh",
+              "bowler": "Shoriful Islam",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "MR Marsh",
+              "bowler": "Shoriful Islam",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MR Marsh",
+                  "fielders": [
+                    {
+                      "name": "Shamim Hossain"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "MT Renshaw",
+              "bowler": "Shoriful Islam",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "C Connolly",
+              "bowler": "Shoriful Islam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "C Connolly",
+              "bowler": "Shoriful Islam",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "C Connolly",
+              "bowler": "Shoriful Islam",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "MT Renshaw",
+              "bowler": "Shoriful Islam",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "MT Renshaw",
+              "bowler": "Saif Hassan",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "C Connolly",
+              "bowler": "Saif Hassan",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "MT Renshaw",
+              "bowler": "Saif Hassan",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "C Connolly",
+              "bowler": "Saif Hassan",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "MT Renshaw",
+              "bowler": "Saif Hassan",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "C Connolly",
+              "bowler": "Saif Hassan",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "C Connolly",
+              "bowler": "Rishad Hossain",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "MT Renshaw",
+              "bowler": "Rishad Hossain",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "C Connolly",
+              "bowler": "Rishad Hossain",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Connolly",
+                  "fielders": [
+                    {
+                      "name": "Saif Hassan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "TH David",
+              "bowler": "Rishad Hossain",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "TH David",
+              "bowler": "Rishad Hossain",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "TH David",
+              "bowler": "Rishad Hossain",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 110
+      }
+    }
+  ]
+}

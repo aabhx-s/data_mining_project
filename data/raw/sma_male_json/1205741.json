@@ -1,0 +1,2523 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2023-01-01",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2019-11-18"
+    ],
+    "event": {
+      "name": "Syed Mushtaq Ali Trophy",
+      "group": "E"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Gujarat",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Jammu & Kashmir": [
+        "Shubham Khajuria",
+        "Jatin Wadhwan",
+        "Shubham Pundir",
+        "Parvez Rasool",
+        "Abdul Samad",
+        "Manzoor Dar",
+        "Fazil Rashid",
+        "Ram Dayal",
+        "Auqib Nabi",
+        "Abid Mushtaq",
+        "Umar Nazir"
+      ],
+      "Gujarat": [
+        "Chintan Gaja",
+        "HP Patel",
+        "A Nagwaswalla",
+        "AR Patel",
+        "PP Chawla",
+        "Urvil Patel",
+        "BH Merai",
+        "Kshitij Patel",
+        "Chirag Gandhi",
+        "RV Patel",
+        "Priyank Panchal"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Nagwaswalla": "01ada0ed",
+        "AR Patel": "2e171977",
+        "Abdul Samad": "8e514b4c",
+        "Abid Mushtaq": "b10e8c85",
+        "Auqib Nabi": "7c3c0337",
+        "BH Merai": "15d20a08",
+        "Chintan Gaja": "63bfb5fc",
+        "Chirag Gandhi": "35eb75af",
+        "Fazil Rashid": "514a0408",
+        "HP Patel": "8254ea06",
+        "Jatin Wadhwan": "2cd4271e",
+        "Kshitij Patel": "9309e81f",
+        "Manzoor Dar": "91a260d3",
+        "PP Chawla": "98ae73b1",
+        "Parvez Rasool": "9170ff49",
+        "Priyank Panchal": "ebf25cf2",
+        "RV Patel": "60500956",
+        "Ram Dayal": "93fefdfa",
+        "Shubham Khajuria": "d8a90827",
+        "Shubham Pundir": "86a98b15",
+        "Umar Nazir": "734062e6",
+        "Urvil Patel": "cf59b3f0"
+      }
+    },
+    "season": "2019/20",
+    "team_type": "club",
+    "teams": [
+      "Jammu & Kashmir",
+      "Gujarat"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Gujarat"
+    },
+    "venue": "Lalbhai Contractor Stadium"
+  },
+  "innings": [
+    {
+      "team": "Jammu & Kashmir",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Shubham Khajuria",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Jatin Wadhwan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Shubham Khajuria",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Jatin Wadhwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Shubham Khajuria",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Jatin Wadhwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Jatin Wadhwan",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Jatin Wadhwan",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Shubham Khajuria",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Jatin Wadhwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Jatin Wadhwan",
+              "bowler": "HP Patel",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jatin Wadhwan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Shubham Pundir",
+              "bowler": "HP Patel",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Shubham Pundir",
+              "bowler": "HP Patel",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Shubham Pundir",
+              "bowler": "HP Patel",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Shubham Khajuria",
+              "bowler": "HP Patel",
+              "non_striker": "Shubham Pundir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Shubham Khajuria",
+              "bowler": "HP Patel",
+              "non_striker": "Shubham Pundir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Shubham Pundir",
+              "bowler": "A Nagwaswalla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.1",
+              "batter": "Shubham Pundir",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Shubham Pundir",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Shubham Pundir",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Shubham Pundir",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Shubham Pundir",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Shubham Khajuria",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Shubham Pundir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Shubham Pundir",
+              "bowler": "AR Patel",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Shubham Khajuria",
+              "bowler": "AR Patel",
+              "non_striker": "Shubham Pundir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Shubham Pundir",
+              "bowler": "AR Patel",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Shubham Khajuria",
+              "bowler": "AR Patel",
+              "non_striker": "Shubham Pundir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Shubham Khajuria",
+              "bowler": "AR Patel",
+              "non_striker": "Shubham Pundir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Shubham Pundir",
+              "bowler": "AR Patel",
+              "non_striker": "Shubham Khajuria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Shubham Khajuria",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Shubham Pundir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Shubham Khajuria",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Shubham Pundir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shubham Khajuria",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Parvez Rasool",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Shubham Pundir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Parvez Rasool",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Shubham Pundir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Parvez Rasool",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Shubham Pundir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Parvez Rasool",
+                  "fielders": [
+                    {
+                      "name": "RV Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Abdul Samad",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Shubham Pundir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Shubham Pundir",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Shubham Pundir",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Shubham Pundir",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Shubham Pundir",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Shubham Pundir",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Abdul Samad",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Shubham Pundir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Shubham Pundir",
+              "bowler": "PP Chawla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shubham Pundir",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Manzoor Dar",
+              "bowler": "PP Chawla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Abdul Samad",
+              "bowler": "PP Chawla",
+              "non_striker": "Manzoor Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Abdul Samad",
+              "bowler": "PP Chawla",
+              "non_striker": "Manzoor Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Abdul Samad",
+              "bowler": "PP Chawla",
+              "non_striker": "Manzoor Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Abdul Samad",
+              "bowler": "PP Chawla",
+              "non_striker": "Manzoor Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Manzoor Dar",
+              "bowler": "HP Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Manzoor Dar",
+              "bowler": "HP Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Manzoor Dar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Fazil Rashid",
+              "bowler": "HP Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Fazil Rashid",
+              "bowler": "HP Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Fazil Rashid",
+              "bowler": "HP Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Abdul Samad",
+              "bowler": "HP Patel",
+              "non_striker": "Fazil Rashid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Abdul Samad",
+              "bowler": "PP Chawla",
+              "non_striker": "Fazil Rashid",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Abdul Samad",
+              "bowler": "PP Chawla",
+              "non_striker": "Fazil Rashid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Fazil Rashid",
+              "bowler": "PP Chawla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Fazil Rashid",
+              "bowler": "PP Chawla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Fazil Rashid",
+              "bowler": "PP Chawla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Fazil Rashid",
+              "bowler": "PP Chawla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Abdul Samad",
+              "bowler": "AR Patel",
+              "non_striker": "Fazil Rashid",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Abdul Samad",
+              "bowler": "AR Patel",
+              "non_striker": "Fazil Rashid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Fazil Rashid",
+              "bowler": "AR Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Fazil Rashid",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Ram Dayal",
+              "bowler": "AR Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Ram Dayal",
+              "bowler": "AR Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Ram Dayal",
+              "bowler": "AR Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Abdul Samad",
+              "bowler": "HP Patel",
+              "non_striker": "Ram Dayal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Ram Dayal",
+              "bowler": "HP Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Abdul Samad",
+              "bowler": "HP Patel",
+              "non_striker": "Ram Dayal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Abdul Samad",
+              "bowler": "HP Patel",
+              "non_striker": "Ram Dayal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Abdul Samad",
+              "bowler": "HP Patel",
+              "non_striker": "Ram Dayal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Ram Dayal",
+              "bowler": "HP Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Abdul Samad",
+              "bowler": "AR Patel",
+              "non_striker": "Ram Dayal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Ram Dayal",
+              "bowler": "AR Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Abdul Samad",
+              "bowler": "AR Patel",
+              "non_striker": "Ram Dayal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Abdul Samad",
+              "bowler": "AR Patel",
+              "non_striker": "Ram Dayal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Abdul Samad",
+              "bowler": "AR Patel",
+              "non_striker": "Ram Dayal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Ram Dayal",
+              "bowler": "AR Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Ram Dayal",
+              "bowler": "PP Chawla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Ram Dayal",
+              "bowler": "PP Chawla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Abdul Samad",
+              "bowler": "PP Chawla",
+              "non_striker": "Ram Dayal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Abdul Samad",
+              "bowler": "PP Chawla",
+              "non_striker": "Ram Dayal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Ram Dayal",
+              "bowler": "PP Chawla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ram Dayal",
+                  "fielders": [
+                    {
+                      "name": "Urvil Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Auqib Nabi",
+              "bowler": "PP Chawla",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Abdul Samad",
+              "bowler": "AR Patel",
+              "non_striker": "Auqib Nabi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Abdul Samad",
+              "bowler": "AR Patel",
+              "non_striker": "Auqib Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Abdul Samad",
+              "bowler": "AR Patel",
+              "non_striker": "Auqib Nabi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Auqib Nabi",
+              "bowler": "AR Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Auqib Nabi",
+              "bowler": "AR Patel",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Abdul Samad",
+              "bowler": "AR Patel",
+              "non_striker": "Auqib Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Auqib Nabi",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Auqib Nabi",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Abdul Samad",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Auqib Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abdul Samad",
+                  "fielders": [
+                    {
+                      "name": "AR Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Abid Mushtaq",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Auqib Nabi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Auqib Nabi",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Abid Mushtaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Abid Mushtaq",
+              "bowler": "Chintan Gaja",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Auqib Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Abid Mushtaq",
+              "bowler": "HP Patel",
+              "non_striker": "Auqib Nabi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Abid Mushtaq",
+              "bowler": "HP Patel",
+              "non_striker": "Auqib Nabi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Auqib Nabi",
+              "bowler": "HP Patel",
+              "non_striker": "Abid Mushtaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Abid Mushtaq",
+              "bowler": "HP Patel",
+              "non_striker": "Auqib Nabi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Auqib Nabi",
+              "bowler": "HP Patel",
+              "non_striker": "Abid Mushtaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Auqib Nabi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Umar Nazir",
+              "bowler": "HP Patel",
+              "non_striker": "Abid Mushtaq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Abid Mushtaq",
+              "bowler": "PP Chawla",
+              "non_striker": "Umar Nazir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Abid Mushtaq",
+              "bowler": "PP Chawla",
+              "non_striker": "Umar Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Abid Mushtaq",
+              "bowler": "PP Chawla",
+              "non_striker": "Umar Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Umar Nazir",
+              "bowler": "PP Chawla",
+              "non_striker": "Abid Mushtaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Umar Nazir",
+              "bowler": "PP Chawla",
+              "non_striker": "Abid Mushtaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Umar Nazir",
+              "bowler": "PP Chawla",
+              "non_striker": "Abid Mushtaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Abid Mushtaq",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Umar Nazir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Abid Mushtaq",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Umar Nazir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Abid Mushtaq",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Umar Nazir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Abid Mushtaq",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Umar Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Abid Mushtaq",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Umar Nazir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Umar Nazir",
+              "bowler": "A Nagwaswalla",
+              "non_striker": "Abid Mushtaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Abid Mushtaq",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Umar Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Abid Mushtaq",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Umar Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Abid Mushtaq",
+              "bowler": "Chintan Gaja",
+              "non_striker": "Umar Nazir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abid Mushtaq",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Gujarat",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Urvil Patel",
+              "bowler": "Ram Dayal",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Urvil Patel",
+              "bowler": "Ram Dayal",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "BH Merai",
+              "bowler": "Ram Dayal",
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Urvil Patel",
+              "bowler": "Ram Dayal",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Urvil Patel",
+              "bowler": "Ram Dayal",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Urvil Patel",
+              "bowler": "Ram Dayal",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Urvil Patel",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Urvil Patel",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Urvil Patel",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Urvil Patel",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Urvil Patel",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Urvil Patel",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "BH Merai",
+              "bowler": "Ram Dayal",
+              "non_striker": "Urvil Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Urvil Patel",
+              "bowler": "Ram Dayal",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Urvil Patel",
+              "bowler": "Ram Dayal",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Urvil Patel",
+              "bowler": "Ram Dayal",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Urvil Patel",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Kshitij Patel",
+              "bowler": "Ram Dayal",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "BH Merai",
+              "bowler": "Ram Dayal",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Kshitij Patel",
+              "bowler": "Umar Nazir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "Kshitij Patel",
+              "bowler": "Umar Nazir",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Kshitij Patel",
+              "bowler": "Umar Nazir",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "BH Merai",
+              "bowler": "Umar Nazir",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "BH Merai",
+              "bowler": "Umar Nazir",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Kshitij Patel",
+              "bowler": "Umar Nazir",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "BH Merai",
+              "bowler": "Umar Nazir",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Kshitij Patel",
+              "bowler": "Parvez Rasool",
+              "non_striker": "BH Merai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "BH Merai",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "BH Merai",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BH Merai",
+                  "fielders": [
+                    {
+                      "name": "Fazil Rashid"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Chirag Gandhi",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Kshitij Patel",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Chirag Gandhi",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Chirag Gandhi",
+              "bowler": "Umar Nazir",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Kshitij Patel",
+              "bowler": "Umar Nazir",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Kshitij Patel",
+              "bowler": "Umar Nazir",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Kshitij Patel",
+              "bowler": "Umar Nazir",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Kshitij Patel",
+              "bowler": "Umar Nazir",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Kshitij Patel",
+              "bowler": "Umar Nazir",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Chirag Gandhi",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Kshitij Patel",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Chirag Gandhi",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Kshitij Patel",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Kshitij Patel",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Chirag Gandhi",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Kshitij Patel",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Kshitij Patel",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Chirag Gandhi",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Chirag Gandhi",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Kshitij Patel",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Kshitij Patel",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Chirag Gandhi",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Kshitij Patel",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Kshitij Patel",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Kshitij Patel",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Kshitij Patel",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Chirag Gandhi",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Chirag Gandhi",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Kshitij Patel",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Chirag Gandhi",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Kshitij Patel",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Chirag Gandhi",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Chirag Gandhi",
+              "bowler": "Abid Mushtaq",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Kshitij Patel",
+              "bowler": "Abdul Samad",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Kshitij Patel",
+              "bowler": "Abdul Samad",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Chirag Gandhi",
+              "bowler": "Abdul Samad",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Chirag Gandhi",
+              "bowler": "Abdul Samad",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Kshitij Patel",
+              "bowler": "Abdul Samad",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Chirag Gandhi",
+              "bowler": "Abdul Samad",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Chirag Gandhi",
+              "bowler": "Auqib Nabi",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Kshitij Patel",
+              "bowler": "Auqib Nabi",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Kshitij Patel",
+              "bowler": "Auqib Nabi",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Kshitij Patel",
+              "bowler": "Auqib Nabi",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Kshitij Patel",
+              "bowler": "Auqib Nabi",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Kshitij Patel",
+              "bowler": "Auqib Nabi",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Chirag Gandhi",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Chirag Gandhi",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Kshitij Patel",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Kshitij Patel",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Kshitij Patel",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Chirag Gandhi",
+              "bowler": "Parvez Rasool",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Chirag Gandhi",
+              "bowler": "Auqib Nabi",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Chirag Gandhi",
+              "bowler": "Auqib Nabi",
+              "non_striker": "Kshitij Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Kshitij Patel",
+              "bowler": "Auqib Nabi",
+              "non_striker": "Chirag Gandhi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3104 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2023-01-06",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2016-01-18"
+    ],
+    "event": {
+      "name": "Syed Mushtaq Ali Trophy",
+      "stage": "Super League",
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Uttar Pradesh",
+      "by": {
+        "wickets": 3
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Delhi": [
+        "UBT Chand",
+        "G Gambhir",
+        "DR Shorey",
+        "N Rana",
+        "Milind Kumar",
+        "Aditya Kaushik",
+        "P Negi",
+        "Manan Sharma",
+        "P Awana",
+        "Navdeep Saini",
+        "Suboth Bhati"
+      ],
+      "Uttar Pradesh": [
+        "P Kumar",
+        "AS Rajpoot",
+        "Amit Mishra",
+        "PP Chawla",
+        "Kuldeep Yadav",
+        "SK Raina",
+        "Prashant Gupta",
+        "Samarth Singh",
+        "Umang Sharma",
+        "AD Nath",
+        "ER Dwivedi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Nath": "f10e94c4",
+        "AS Rajpoot": "db31895a",
+        "Aditya Kaushik": "9a2d95ac",
+        "Amit Mishra": "40792cff",
+        "DR Shorey": "faa7365d",
+        "ER Dwivedi": "b274dbbd",
+        "G Gambhir": "bb345e0b",
+        "Kuldeep Yadav": "8d2c70ad",
+        "Manan Sharma": "bfcff6cd",
+        "Milind Kumar": "b4296080",
+        "N Rana": "fb2d1dda",
+        "Navdeep Saini": "21d4e29b",
+        "P Awana": "1a0c3177",
+        "P Kumar": "e938e1bc",
+        "P Negi": "f62772e5",
+        "PP Chawla": "98ae73b1",
+        "Prashant Gupta": "ad1e02b4",
+        "SK Raina": "1dc12ab9",
+        "Samarth Singh": "9889da93",
+        "Suboth Bhati": "bee290b6",
+        "UBT Chand": "0c94f480",
+        "Umang Sharma": "6f0f39fb"
+      }
+    },
+    "season": "2015/16",
+    "team_type": "club",
+    "teams": [
+      "Delhi",
+      "Uttar Pradesh"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Uttar Pradesh"
+    },
+    "venue": "Sharad Pawar Cricket Academy BKC"
+  },
+  "innings": [
+    {
+      "team": "Delhi",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "UBT Chand",
+              "bowler": "P Kumar",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "UBT Chand",
+              "bowler": "P Kumar",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "UBT Chand",
+              "bowler": "P Kumar",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "UBT Chand",
+              "bowler": "P Kumar",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "UBT Chand",
+              "bowler": "P Kumar",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "G Gambhir",
+              "bowler": "P Kumar",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "G Gambhir",
+              "bowler": "AS Rajpoot",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "G Gambhir",
+              "bowler": "AS Rajpoot",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "UBT Chand",
+              "bowler": "AS Rajpoot",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "G Gambhir",
+              "bowler": "AS Rajpoot",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "G Gambhir",
+              "bowler": "AS Rajpoot",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "G Gambhir",
+              "bowler": "AS Rajpoot",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "G Gambhir",
+              "bowler": "P Kumar",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "UBT Chand",
+              "bowler": "P Kumar",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "UBT Chand",
+              "bowler": "P Kumar",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "UBT Chand",
+              "bowler": "P Kumar",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "G Gambhir",
+              "bowler": "P Kumar",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "G Gambhir",
+              "bowler": "P Kumar",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "UBT Chand",
+              "bowler": "AS Rajpoot",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "UBT Chand",
+              "bowler": "AS Rajpoot",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "UBT Chand",
+              "bowler": "AS Rajpoot",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "UBT Chand",
+              "bowler": "AS Rajpoot",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "UBT Chand",
+              "bowler": "AS Rajpoot",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "UBT Chand",
+              "bowler": "AS Rajpoot",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "G Gambhir",
+              "bowler": "Amit Mishra",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "UBT Chand",
+              "bowler": "Amit Mishra",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "UBT Chand",
+              "bowler": "Amit Mishra",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "G Gambhir",
+              "bowler": "Amit Mishra",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Gambhir",
+                  "fielders": [
+                    {
+                      "name": "Samarth Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "UBT Chand",
+              "bowler": "Amit Mishra",
+              "non_striker": "DR Shorey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "UBT Chand",
+              "bowler": "Amit Mishra",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DR Shorey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "UBT Chand",
+              "bowler": "PP Chawla",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DR Shorey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "DR Shorey",
+              "bowler": "PP Chawla",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "DR Shorey",
+              "bowler": "PP Chawla",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "UBT Chand",
+              "bowler": "PP Chawla",
+              "non_striker": "DR Shorey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "UBT Chand",
+              "bowler": "PP Chawla",
+              "non_striker": "DR Shorey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "UBT Chand",
+              "bowler": "PP Chawla",
+              "non_striker": "DR Shorey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "UBT Chand",
+              "bowler": "Amit Mishra",
+              "non_striker": "DR Shorey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "DR Shorey",
+              "bowler": "Amit Mishra",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "DR Shorey",
+              "bowler": "Amit Mishra",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "DR Shorey",
+              "bowler": "Amit Mishra",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "DR Shorey",
+              "bowler": "Amit Mishra",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "DR Shorey",
+              "bowler": "Amit Mishra",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "DR Shorey",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "DR Shorey",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DR Shorey",
+                  "fielders": [
+                    {
+                      "name": "ER Dwivedi"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "N Rana",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "N Rana",
+              "bowler": "Kuldeep Yadav",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "UBT Chand",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "UBT Chand",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "N Rana",
+              "bowler": "PP Chawla",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "N Rana",
+              "bowler": "PP Chawla",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "N Rana",
+              "bowler": "PP Chawla",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "N Rana",
+              "bowler": "PP Chawla",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "N Rana",
+              "bowler": "PP Chawla",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "UBT Chand",
+              "bowler": "PP Chawla",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "UBT Chand",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "N Rana",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "UBT Chand",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "UBT Chand",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "N Rana",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "UBT Chand",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "N Rana",
+              "bowler": "PP Chawla",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Rana",
+                  "fielders": [
+                    {
+                      "name": "Umang Sharma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "UBT Chand",
+              "bowler": "PP Chawla",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "UBT Chand",
+              "bowler": "PP Chawla",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Milind Kumar",
+              "bowler": "PP Chawla",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Milind Kumar",
+              "bowler": "PP Chawla",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "UBT Chand",
+              "bowler": "PP Chawla",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "UBT Chand",
+              "bowler": "Amit Mishra",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "UBT Chand",
+                  "fielders": [
+                    {
+                      "name": "Prashant Gupta"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Milind Kumar",
+              "bowler": "Amit Mishra",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Aditya Kaushik",
+              "bowler": "Amit Mishra",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Milind Kumar",
+              "bowler": "Amit Mishra",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Milind Kumar",
+              "bowler": "Amit Mishra",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Milind Kumar",
+              "bowler": "Amit Mishra",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Milind Kumar",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Aditya Kaushik",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Aditya Kaushik",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Milind Kumar",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Milind Kumar",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Aditya Kaushik",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Milind Kumar",
+              "bowler": "PP Chawla",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Milind Kumar",
+                  "fielders": [
+                    {
+                      "name": "Amit Mishra"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "P Negi",
+              "bowler": "PP Chawla",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Aditya Kaushik",
+              "bowler": "PP Chawla",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "P Negi",
+              "bowler": "PP Chawla",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "P Negi",
+              "bowler": "PP Chawla",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Aditya Kaushik",
+              "bowler": "PP Chawla",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "P Negi",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Aditya Kaushik",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "P Negi",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "P Negi",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Aditya Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Aditya Kaushik",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aditya Kaushik",
+                  "fielders": [
+                    {
+                      "name": "PP Chawla"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Manan Sharma",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Manan Sharma",
+              "bowler": "SK Raina",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "P Negi",
+              "bowler": "SK Raina",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Manan Sharma",
+              "bowler": "SK Raina",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Manan Sharma",
+              "bowler": "SK Raina",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Manan Sharma",
+              "bowler": "SK Raina",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "P Negi",
+              "bowler": "SK Raina",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "P Negi",
+              "bowler": "AS Rajpoot",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "P Negi",
+              "bowler": "AS Rajpoot",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "P Negi",
+              "bowler": "AS Rajpoot",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "P Negi",
+              "bowler": "AS Rajpoot",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Manan Sharma",
+              "bowler": "AS Rajpoot",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "P Negi",
+              "bowler": "AS Rajpoot",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Manan Sharma",
+              "bowler": "SK Raina",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "P Negi",
+              "bowler": "SK Raina",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "P Negi",
+              "bowler": "SK Raina",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Manan Sharma",
+              "bowler": "SK Raina",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Manan Sharma",
+              "bowler": "SK Raina",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Manan Sharma",
+              "bowler": "SK Raina",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Manan Sharma",
+              "bowler": "P Kumar",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "P Negi",
+              "bowler": "P Kumar",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "P Negi",
+              "bowler": "P Kumar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Manan Sharma",
+              "bowler": "P Kumar",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "P Negi",
+              "bowler": "P Kumar",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "P Negi",
+              "bowler": "P Kumar",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "P Negi",
+              "bowler": "Amit Mishra",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "P Negi",
+              "bowler": "Amit Mishra",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Manan Sharma",
+              "bowler": "Amit Mishra",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Manan Sharma",
+              "bowler": "Amit Mishra",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "P Negi",
+              "bowler": "Amit Mishra",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "P Negi",
+              "bowler": "Amit Mishra",
+              "non_striker": "Manan Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Uttar Pradesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Prashant Gupta",
+              "bowler": "Manan Sharma",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Prashant Gupta",
+              "bowler": "Manan Sharma",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Prashant Gupta",
+              "bowler": "Manan Sharma",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Prashant Gupta",
+              "bowler": "Manan Sharma",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Prashant Gupta",
+              "bowler": "Manan Sharma",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Prashant Gupta",
+              "bowler": "Manan Sharma",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Samarth Singh",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Samarth Singh",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Samarth Singh",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Samarth Singh",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Prashant Gupta",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Prashant Gupta",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Prashant Gupta",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Samarth Singh",
+              "bowler": "P Awana",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "SK Raina",
+              "bowler": "P Awana",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "SK Raina",
+              "bowler": "P Awana",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "SK Raina",
+              "bowler": "P Awana",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Samarth Singh",
+              "bowler": "P Awana",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Samarth Singh",
+              "bowler": "P Awana",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Samarth Singh",
+                  "fielders": [
+                    {
+                      "name": "G Gambhir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "SK Raina",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "SK Raina",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "SK Raina",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Umang Sharma",
+              "bowler": "Navdeep Saini",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Umang Sharma",
+              "bowler": "Navdeep Saini",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "SK Raina",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Umang Sharma",
+              "bowler": "P Awana",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "SK Raina",
+              "bowler": "P Awana",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "SK Raina",
+              "bowler": "P Awana",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "SK Raina",
+              "bowler": "P Awana",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "SK Raina",
+              "bowler": "P Awana",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "SK Raina",
+              "bowler": "P Awana",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "SK Raina",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "SK Raina",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Umang Sharma",
+              "bowler": "Navdeep Saini",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Umang Sharma",
+              "bowler": "Navdeep Saini",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Umang Sharma",
+                  "fielders": [
+                    {
+                      "name": "UBT Chand"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "AD Nath",
+              "bowler": "Navdeep Saini",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "SK Raina",
+              "bowler": "Navdeep Saini",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "SK Raina",
+              "bowler": "Manan Sharma",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "AD Nath",
+              "bowler": "Manan Sharma",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "SK Raina",
+              "bowler": "Manan Sharma",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "SK Raina",
+              "bowler": "Manan Sharma",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SK Raina",
+                  "fielders": [
+                    {
+                      "name": "N Rana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "AD Nath",
+              "bowler": "Manan Sharma",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "AD Nath",
+              "bowler": "Manan Sharma",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "AD Nath",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "AD Nath",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "ER Dwivedi",
+              "bowler": "Suboth Bhati",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "ER Dwivedi",
+              "bowler": "Suboth Bhati",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "AD Nath",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "AD Nath",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "ER Dwivedi",
+              "bowler": "Manan Sharma",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "ER Dwivedi",
+              "bowler": "Manan Sharma",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "AD Nath",
+              "bowler": "Manan Sharma",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "AD Nath",
+              "bowler": "Manan Sharma",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "ER Dwivedi",
+              "bowler": "Manan Sharma",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "AD Nath",
+              "bowler": "Manan Sharma",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "AD Nath",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "AD Nath",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "ER Dwivedi",
+              "bowler": "Suboth Bhati",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "ER Dwivedi",
+              "bowler": "Suboth Bhati",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "ER Dwivedi",
+              "bowler": "Suboth Bhati",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "AD Nath",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "ER Dwivedi",
+              "bowler": "P Negi",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "AD Nath",
+              "bowler": "P Negi",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Nath",
+                  "fielders": [
+                    {
+                      "name": "UBT Chand"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "PP Chawla",
+              "bowler": "P Negi",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "PP Chawla",
+              "bowler": "P Negi",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "PP Chawla",
+              "bowler": "P Negi",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "PP Chawla",
+              "bowler": "P Negi",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "PP Chawla",
+              "bowler": "P Awana",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "ER Dwivedi",
+              "bowler": "P Awana",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "ER Dwivedi",
+              "bowler": "P Awana",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "ER Dwivedi",
+              "bowler": "P Awana",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "ER Dwivedi",
+              "bowler": "P Awana",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "ER Dwivedi",
+              "bowler": "P Awana",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "PP Chawla",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "ER Dwivedi",
+              "bowler": "Suboth Bhati",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "PP Chawla",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "ER Dwivedi",
+              "bowler": "Suboth Bhati",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "ER Dwivedi",
+              "bowler": "Suboth Bhati",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "PP Chawla",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PP Chawla",
+                  "fielders": [
+                    {
+                      "name": "Navdeep Saini"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "ER Dwivedi",
+              "bowler": "P Negi",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "P Kumar",
+              "bowler": "P Negi",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "P Kumar",
+              "bowler": "P Negi",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "P Kumar",
+              "bowler": "P Negi",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "P Kumar",
+              "bowler": "P Negi",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "ER Dwivedi",
+              "bowler": "P Negi",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "ER Dwivedi",
+              "bowler": "Manan Sharma",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "ER Dwivedi",
+              "bowler": "Manan Sharma",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "P Kumar",
+              "bowler": "Manan Sharma",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "P Kumar",
+              "bowler": "Manan Sharma",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "ER Dwivedi",
+              "bowler": "Manan Sharma",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "P Kumar",
+              "bowler": "Manan Sharma",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "P Kumar",
+              "bowler": "P Awana",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "P Kumar",
+              "bowler": "P Awana",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "ER Dwivedi",
+              "bowler": "P Awana",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "ER Dwivedi",
+              "bowler": "P Awana",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "P Kumar",
+              "bowler": "P Awana",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "ER Dwivedi",
+              "bowler": "P Awana",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "ER Dwivedi",
+              "bowler": "P Negi",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "ER Dwivedi",
+              "bowler": "P Negi",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "ER Dwivedi",
+              "bowler": "P Negi",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "ER Dwivedi",
+              "bowler": "P Negi",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "ER Dwivedi",
+              "bowler": "P Negi",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "P Kumar",
+              "bowler": "P Negi",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "ER Dwivedi",
+              "bowler": "Navdeep Saini",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "P Kumar",
+              "bowler": "Navdeep Saini",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "P Kumar",
+              "bowler": "Navdeep Saini",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "ER Dwivedi",
+              "bowler": "Navdeep Saini",
+              "non_striker": "P Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Kumar",
+                  "fielders": [
+                    {
+                      "name": "G Gambhir"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "ER Dwivedi",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Amit Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Amit Mishra",
+              "bowler": "Navdeep Saini",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Amit Mishra",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Amit Mishra",
+              "bowler": "Suboth Bhati",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Amit Mishra",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Amit Mishra",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Amit Mishra",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Amit Mishra",
+              "bowler": "Suboth Bhati",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Amit Mishra",
+              "bowler": "P Negi",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Amit Mishra",
+              "bowler": "P Negi",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "ER Dwivedi",
+              "bowler": "P Negi",
+              "non_striker": "Amit Mishra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "ER Dwivedi",
+              "bowler": "P Negi",
+              "non_striker": "Amit Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

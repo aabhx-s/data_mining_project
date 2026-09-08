@@ -1,0 +1,2193 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-07-13",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Brondby",
+    "dates": [
+      "2026-07-12"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Europe Qualifier B",
+      "match_number": 13,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4028,
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "match_referees": [
+        "G McCrea"
+      ],
+      "reserve_umpires": [
+        "Jonathan Kennedy"
+      ],
+      "umpires": [
+        "M Prabhudesa",
+        "Munib Haq"
+      ]
+    },
+    "outcome": {
+      "winner": "Hungary",
+      "by": {
+        "runs": 20
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "players": {
+      "Hungary": [
+        "V Ravindran",
+        "Zahir Mohammed",
+        "Muhammad Soban",
+        "M Bhaiji",
+        "Ali Nawaz",
+        "Kamran Wahid",
+        "RJ Ainsworth",
+        "Amal Jacob",
+        "Muhammad Saqlain",
+        "SA Mohandas",
+        "L Bloomfield"
+      ],
+      "Turkey": [
+        "Abdullah Khan Lodhi",
+        "Muhammad Fahad",
+        "I Elec",
+        "Furkan Tuskan",
+        "Ilyas Ataullah",
+        "A Turkmen",
+        "Ibrahim Kursad Dalyan",
+        "M Ozturk",
+        "Mertcan Donmez",
+        "Omer Kutuk",
+        "Murat Yilmaz"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Turkmen": "e56f4180",
+        "Abdullah Khan Lodhi": "6d8b7ac4",
+        "Ali Nawaz": "deef8879",
+        "Amal Jacob": "5772882c",
+        "Furkan Tuskan": "32009b6a",
+        "G McCrea": "46f4a901",
+        "I Elec": "4d0d5b7d",
+        "Ibrahim Kursad Dalyan": "f0f20cf8",
+        "Ilyas Ataullah": "357484e9",
+        "Jonathan Kennedy": "f7ad4494",
+        "Kamran Wahid": "5592153b",
+        "L Bloomfield": "ea926d4f",
+        "M Bhaiji": "a06c81fd",
+        "M Ozturk": "d62f04f5",
+        "M Prabhudesa": "c36bcd1e",
+        "Mertcan Donmez": "fb5a5fe3",
+        "Muhammad Fahad": "3f778477",
+        "Muhammad Saqlain": "f094e3b8",
+        "Muhammad Soban": "a5e1e2d4",
+        "Munib Haq": "5ac45f13",
+        "Murat Yilmaz": "f2990906",
+        "Omer Kutuk": "c9a05046",
+        "RJ Ainsworth": "b6924e3f",
+        "SA Mohandas": "8b0b3bba",
+        "V Ravindran": "e5ecb1ef",
+        "Zahir Mohammed": "7c38942a"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Hungary",
+      "Turkey"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Hungary"
+    },
+    "venue": "Svanholm Park, Brondby"
+  },
+  "innings": [
+    {
+      "team": "Hungary",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "V Ravindran",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "V Ravindran",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "V Ravindran",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Ravindran",
+                  "fielders": [
+                    {
+                      "name": "Ilyas Ataullah"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Muhammad Soban",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Zahir Mohammed",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Zahir Mohammed",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Muhammad Soban",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Muhammad Soban",
+              "bowler": "Furkan Tuskan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Muhammad Soban",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Muhammad Soban",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Muhammad Soban",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Muhammad Soban",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Muhammad Soban",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Zahir Mohammed",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Zahir Mohammed",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Muhammad Soban",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Muhammad Soban",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Zahir Mohammed",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Muhammad Soban",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Zahir Mohammed",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Zahir Mohammed",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Zahir Mohammed",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zahir Mohammed",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "M Bhaiji",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "M Bhaiji",
+              "bowler": "Furkan Tuskan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "M Bhaiji",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "M Bhaiji",
+              "bowler": "Furkan Tuskan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "M Bhaiji",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "M Bhaiji",
+              "bowler": "A Turkmen",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Muhammad Soban",
+              "bowler": "A Turkmen",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Muhammad Soban",
+              "bowler": "A Turkmen",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Muhammad Soban",
+              "bowler": "A Turkmen",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Muhammad Soban",
+              "bowler": "A Turkmen",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Muhammad Soban",
+              "bowler": "A Turkmen",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "M Bhaiji",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "M Bhaiji",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "M Bhaiji",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Muhammad Soban",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Muhammad Soban",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Muhammad Soban",
+              "bowler": "Furkan Tuskan",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "M Bhaiji",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "M Bhaiji",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "M Bhaiji",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "M Bhaiji",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Muhammad Soban",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "M Bhaiji",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "M Bhaiji",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "M Bhaiji",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "M Bhaiji",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Muhammad Soban",
+              "bowler": "Ilyas Ataullah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Muhammad Soban",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "M Bhaiji",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "M Bhaiji",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "M Bhaiji",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "M Bhaiji",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "M Bhaiji",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Muhammad Soban",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "M Bhaiji",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "M Bhaiji",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Muhammad Soban",
+              "bowler": "M Ozturk",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "M Bhaiji",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "M Bhaiji",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Muhammad Soban",
+              "bowler": "M Ozturk",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Muhammad Soban",
+              "bowler": "M Ozturk",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Muhammad Soban",
+              "bowler": "M Ozturk",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "M Bhaiji",
+              "bowler": "A Turkmen",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Muhammad Soban",
+              "bowler": "A Turkmen",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "M Bhaiji",
+              "bowler": "A Turkmen",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Muhammad Soban",
+              "bowler": "A Turkmen",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "M Bhaiji",
+              "bowler": "A Turkmen",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Muhammad Soban",
+              "bowler": "A Turkmen",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "M Bhaiji",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "M Bhaiji",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "M Bhaiji",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "M Bhaiji",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Muhammad Soban",
+              "bowler": "M Ozturk",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Muhammad Soban",
+              "bowler": "M Ozturk",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "M Bhaiji",
+              "bowler": "M Ozturk",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "M Bhaiji",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Muhammad Soban",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "M Bhaiji",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Muhammad Soban",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "M Bhaiji",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Muhammad Soban",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "M Bhaiji",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Muhammad Soban",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "M Bhaiji",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "M Bhaiji",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Muhammad Soban",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Muhammad Soban",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "M Bhaiji",
+              "bowler": "Ilyas Ataullah",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "M Bhaiji",
+              "bowler": "A Turkmen",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "M Bhaiji",
+              "bowler": "A Turkmen",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Muhammad Soban",
+              "bowler": "A Turkmen",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "M Bhaiji",
+              "bowler": "A Turkmen",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "M Bhaiji",
+              "bowler": "A Turkmen",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Muhammad Soban",
+              "bowler": "A Turkmen",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "M Bhaiji",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "M Bhaiji",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "M Bhaiji",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "M Bhaiji",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Bhaiji",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "M Bhaiji",
+              "bowler": "Ibrahim Kursad Dalyan",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Muhammad Soban",
+              "bowler": "M Ozturk",
+              "non_striker": "M Bhaiji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "M Bhaiji",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "M Bhaiji",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "M Bhaiji",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "M Bhaiji",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Bhaiji",
+                  "fielders": [
+                    {
+                      "name": "Murat Yilmaz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Ali Nawaz",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Ali Nawaz",
+              "bowler": "A Turkmen",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Ali Nawaz",
+              "bowler": "A Turkmen",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Ali Nawaz",
+              "bowler": "A Turkmen",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Muhammad Soban",
+              "bowler": "A Turkmen",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Ali Nawaz",
+              "bowler": "A Turkmen",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Nawaz",
+                  "fielders": [
+                    {
+                      "name": "Murat Yilmaz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Kamran Wahid",
+              "bowler": "A Turkmen",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Kamran Wahid",
+              "bowler": "A Turkmen",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Muhammad Soban",
+              "bowler": "M Ozturk",
+              "non_striker": "Kamran Wahid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Muhammad Soban",
+              "bowler": "M Ozturk",
+              "non_striker": "Kamran Wahid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Kamran Wahid",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Kamran Wahid",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Kamran Wahid",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kamran Wahid",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Fahad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "RJ Ainsworth",
+              "bowler": "M Ozturk",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Muhammad Soban",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Muhammad Soban",
+              "bowler": "Muhammad Fahad",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "RJ Ainsworth",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "Muhammad Soban",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Muhammad Soban",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Muhammad Soban",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Muhammad Soban",
+              "bowler": "Muhammad Fahad",
+              "non_striker": "RJ Ainsworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Soban",
+                  "fielders": [
+                    {
+                      "name": "Ilyas Ataullah"
+                    },
+                    {
+                      "name": "Omer Kutuk"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Turkey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Abdullah Khan Lodhi",
+              "bowler": "Muhammad Saqlain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "Abdullah Khan Lodhi",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Abdullah Khan Lodhi",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Abdullah Khan Lodhi",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Muhammad Fahad",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Abdullah Khan Lodhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Muhammad Fahad",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Abdullah Khan Lodhi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Muhammad Fahad",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "Abdullah Khan Lodhi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Abdullah Khan Lodhi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Abdullah Khan Lodhi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Muhammad Fahad",
+              "bowler": "SA Mohandas",
+              "non_striker": "Abdullah Khan Lodhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Abdullah Khan Lodhi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Abdullah Khan Lodhi",
+              "bowler": "SA Mohandas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Abdullah Khan Lodhi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Abdullah Khan Lodhi",
+              "bowler": "SA Mohandas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Abdullah Khan Lodhi",
+              "bowler": "SA Mohandas",
+              "non_striker": "Muhammad Fahad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abdullah Khan Lodhi",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Soban"
+                    },
+                    {
+                      "name": "L Bloomfield"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Muhammad Fahad",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Fahad",
+                  "fielders": [
+                    {
+                      "name": "L Bloomfield"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Furkan Tuskan",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Furkan Tuskan",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Furkan Tuskan",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Furkan Tuskan",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Furkan Tuskan",
+              "bowler": "Muhammad Saqlain",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "I Elec",
+              "bowler": "SA Mohandas",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Furkan Tuskan",
+              "bowler": "SA Mohandas",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Furkan Tuskan",
+              "bowler": "SA Mohandas",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "I Elec",
+              "bowler": "SA Mohandas",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "I Elec",
+              "bowler": "SA Mohandas",
+              "non_striker": "Furkan Tuskan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Furkan Tuskan",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Saqlain"
+                    },
+                    {
+                      "name": "SA Mohandas"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "I Elec",
+              "bowler": "SA Mohandas",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Ilyas Ataullah",
+              "bowler": "Kamran Wahid",
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Ilyas Ataullah",
+              "bowler": "Kamran Wahid",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "I Elec",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "I Elec",
+              "bowler": "Kamran Wahid",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Elec",
+                  "fielders": [
+                    {
+                      "name": "L Bloomfield"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A Turkmen",
+              "bowler": "Kamran Wahid",
+              "non_striker": "Ilyas Ataullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Ilyas Ataullah",
+              "bowler": "Kamran Wahid",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ilyas Ataullah",
+                  "fielders": [
+                    {
+                      "name": "RJ Ainsworth"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Ibrahim Kursad Dalyan",
+              "bowler": "Kamran Wahid",
+              "non_striker": "A Turkmen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.4,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 51
+      }
+    }
+  ]
+}

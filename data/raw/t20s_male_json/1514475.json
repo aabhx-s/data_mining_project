@@ -1,0 +1,1978 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2025-12-15",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Murcia",
+    "dates": [
+      "2025-12-06"
+    ],
+    "event": {
+      "name": "Croatia tour of Spain",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3610,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Spain",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Mohammad Atif"
+    ],
+    "players": {
+      "Croatia": [
+        "S Houghton",
+        "A Beresford-Peirse",
+        "Jaikumar Thakur",
+        "Saghar Manzoor",
+        "A Awasthi",
+        "A Razmilic",
+        "A Magdalenic",
+        "A Curavic",
+        "R Murugan",
+        "D Svilicic",
+        "Sajid Khan"
+      ],
+      "Spain": [
+        "Adnan Tahir",
+        "D Doyle-Calle",
+        "A Davidson Soler",
+        "Hamza Dar",
+        "C Munoz-Mills",
+        "Yasir Ali",
+        "GS Bajwa",
+        "Mohammad Kamran",
+        "LA Burns",
+        "Mohammad Atif",
+        "SJ Hughes-Pinan"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Awasthi": "93544e69",
+        "A Beresford-Peirse": "4e7d882f",
+        "A Curavic": "8b3cf264",
+        "A Davidson Soler": "524943f1",
+        "A Magdalenic": "d6a2f3a5",
+        "A Razmilic": "d92fb332",
+        "Adnan Tahir": "f6c411db",
+        "C Munoz-Mills": "17bc032c",
+        "D Doyle-Calle": "74be2916",
+        "D Svilicic": "fa83d1b6",
+        "GS Bajwa": "a2621507",
+        "Hamza Dar": "557550a4",
+        "Jaikumar Thakur": "18fcb85f",
+        "LA Burns": "5b616bf0",
+        "Mohammad Atif": "705b8c5c",
+        "Mohammad Kamran": "1a628a92",
+        "R Murugan": "a2437e72",
+        "S Houghton": "4895df9e",
+        "SJ Hughes-Pinan": "ca72ea31",
+        "Saghar Manzoor": "9d103769",
+        "Sajid Khan": "54909313",
+        "Yasir Ali": "79209272"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Croatia",
+      "Spain"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Spain"
+    },
+    "venue": "La Manga Club Top Ground"
+  },
+  "innings": [
+    {
+      "team": "Croatia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Houghton",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Houghton",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Houghton",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Houghton",
+                  "fielders": [
+                    {
+                      "name": "SJ Hughes-Pinan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Jaikumar Thakur",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Jaikumar Thakur",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Jaikumar Thakur",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Jaikumar Thakur",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Yasir Ali",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Yasir Ali",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Jaikumar Thakur",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Jaikumar Thakur",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Jaikumar Thakur",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Jaikumar Thakur",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jaikumar Thakur",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Saghar Manzoor",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Yasir Ali",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Saghar Manzoor",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Saghar Manzoor",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Saghar Manzoor",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Saghar Manzoor",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Saghar Manzoor",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Saghar Manzoor",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Saghar Manzoor",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Saghar Manzoor",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Saghar Manzoor",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Saghar Manzoor",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Saghar Manzoor",
+              "bowler": "Mohammad Kamran",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "A Beresford-Peirse",
+              "bowler": "LA Burns",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Saghar Manzoor",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Saghar Manzoor",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Saghar Manzoor",
+              "bowler": "LA Burns",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Saghar Manzoor",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Saghar Manzoor",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "A Beresford-Peirse",
+              "bowler": "LA Burns",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Saghar Manzoor",
+              "bowler": "SJ Hughes-Pinan",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Saghar Manzoor",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Saghar Manzoor",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Saghar Manzoor",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saghar Manzoor",
+                  "fielders": [
+                    {
+                      "name": "D Doyle-Calle"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "A Awasthi",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "A Awasthi",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "A Beresford-Peirse",
+              "bowler": "LA Burns",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "A Awasthi",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "A Awasthi",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "A Awasthi",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "A Awasthi",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "A Awasthi",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "A Beresford-Peirse",
+              "bowler": "LA Burns",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "A Awasthi",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "A Awasthi",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "A Awasthi",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "A Awasthi",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "A Awasthi",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "A Awasthi",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "A Awasthi",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Awasthi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "A Razmilic",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Razmilic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Razmilic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "A Razmilic",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "A Razmilic",
+              "bowler": "LA Burns",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "A Beresford-Peirse",
+              "bowler": "LA Burns",
+              "non_striker": "A Razmilic",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "A Beresford-Peirse",
+              "bowler": "LA Burns",
+              "non_striker": "A Razmilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "A Razmilic",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "A Razmilic",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Razmilic",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Magdalenic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Magdalenic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Magdalenic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "A Magdalenic",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "A Magdalenic",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Magdalenic",
+                  "fielders": [
+                    {
+                      "name": "Yasir Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "A Curavic",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Curavic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Curavic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Curavic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "A Curavic",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Curavic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Curavic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "A Curavic",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "A Curavic",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Curavic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Curavic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "A Curavic",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "A Curavic",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Curavic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Curavic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "A Curavic",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Curavic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "A Curavic",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "A Curavic",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Curavic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Curavic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "A Curavic",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Curavic",
+                  "fielders": [
+                    {
+                      "name": "Adnan Tahir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "R Murugan",
+              "bowler": "Yasir Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "R Murugan",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "R Murugan",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Murugan",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "D Svilicic",
+              "bowler": "Yasir Ali",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "D Svilicic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Beresford-Peirse",
+                  "fielders": [
+                    {
+                      "name": "LA Burns"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Sajid Khan",
+              "bowler": "Mohammad Atif",
+              "non_striker": "D Svilicic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sajid Khan",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Spain",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Adnan Tahir",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "D Doyle-Calle",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Adnan Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "D Doyle-Calle",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Adnan Tahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "D Doyle-Calle",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Adnan Tahir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Adnan Tahir",
+              "bowler": "A Beresford-Peirse",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Adnan Tahir",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "D Doyle-Calle",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Adnan Tahir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Adnan Tahir",
+              "bowler": "A Curavic",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Adnan Tahir",
+              "bowler": "A Curavic",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Adnan Tahir",
+              "bowler": "A Curavic",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Adnan Tahir",
+                  "fielders": [
+                    {
+                      "name": "A Beresford-Peirse"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "A Davidson Soler",
+              "bowler": "A Curavic",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "A Davidson Soler",
+              "bowler": "A Curavic",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "D Doyle-Calle",
+              "bowler": "A Curavic",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "A Davidson Soler",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "D Doyle-Calle",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "D Doyle-Calle",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "D Doyle-Calle",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "D Doyle-Calle",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "D Doyle-Calle",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Davidson Soler",
+              "bowler": "A Magdalenic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Davidson Soler",
+              "bowler": "A Magdalenic",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Davidson Soler",
+              "bowler": "A Magdalenic",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "A Davidson Soler",
+              "bowler": "A Magdalenic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "A Davidson Soler",
+              "bowler": "A Magdalenic",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "A Davidson Soler",
+              "bowler": "A Magdalenic",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "D Doyle-Calle",
+              "bowler": "A Magdalenic",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "A Davidson Soler",
+              "bowler": "A Magdalenic",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "A Davidson Soler",
+              "bowler": "A Razmilic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "A Davidson Soler",
+              "bowler": "A Razmilic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "A Davidson Soler",
+              "bowler": "A Razmilic",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "A Davidson Soler",
+              "bowler": "A Razmilic",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "A Davidson Soler",
+              "bowler": "A Razmilic",
+              "non_striker": "D Doyle-Calle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "D Doyle-Calle",
+              "bowler": "A Razmilic",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 56
+      }
+    }
+  ]
+}

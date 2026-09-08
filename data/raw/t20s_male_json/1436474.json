@@ -1,0 +1,3305 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2024-06-10",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Rome",
+    "dates": [
+      "2024-06-09"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Europe Qualifier",
+      "match_number": 4,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2656,
+    "officials": {
+      "match_referees": [
+        "G McCrea"
+      ],
+      "reserve_umpires": [
+        "M Jameson"
+      ],
+      "umpires": [
+        "MJ Saggers",
+        "WPM van Liemt"
+      ]
+    },
+    "outcome": {
+      "winner": "Romania",
+      "by": {
+        "wickets": 3
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "V Saini"
+    ],
+    "players": {
+      "Austria": [
+        "I Asif",
+        "Karanbir Singh",
+        "Bilal Zalmai",
+        "Abrar Bilal",
+        "Aqib Iqbal",
+        "Waqar Zalmai",
+        "Shadnan Khan",
+        "A Randhawa",
+        "Amar Naeem",
+        "Baseer Khan",
+        "Abdullah Akbarjan"
+      ],
+      "Romania": [
+        "Taranjeet Singh",
+        "AN Lascu",
+        "Muhammad Moiz",
+        "V Saini",
+        "A Rajshekara",
+        "S Nadigotla",
+        "Rameez Khan",
+        "S Vashisht",
+        "Ali Hussain",
+        "P Hingorani",
+        "M Koli"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Rajshekara": "1f3e41fe",
+        "A Randhawa": "1798078c",
+        "AN Lascu": "e2c882d1",
+        "Abdullah Akbarjan": "5de198db",
+        "Abrar Bilal": "6ddaee2d",
+        "Ali Hussain": "b8fe81be",
+        "Amar Naeem": "f9dc404a",
+        "Aqib Iqbal": "14157abf",
+        "Baseer Khan": "75ebfe19",
+        "Bilal Zalmai": "33b67317",
+        "G McCrea": "46f4a901",
+        "I Asif": "663ad386",
+        "Karanbir Singh": "6a97c7a4",
+        "M Jameson": "bdf1ffe3",
+        "M Koli": "eb0f2802",
+        "MJ Saggers": "402d5937",
+        "Muhammad Moiz": "906b7d48",
+        "P Hingorani": "ecfdfbad",
+        "Rameez Khan": "ee86a890",
+        "S Nadigotla": "b78b3ffd",
+        "S Vashisht": "20ac8219",
+        "Shadnan Khan": "b17d629e",
+        "Taranjeet Singh": "ec483176",
+        "V Saini": "0fa81719",
+        "WPM van Liemt": "2bd48588",
+        "Waqar Zalmai": "74571ec4"
+      }
+    },
+    "season": "2024",
+    "team_type": "international",
+    "teams": [
+      "Austria",
+      "Romania"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Austria"
+    },
+    "venue": "Simar Cricket Ground, Rome"
+  },
+  "innings": [
+    {
+      "team": "Austria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "I Asif",
+              "bowler": "AN Lascu",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "I Asif",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "I Asif",
+              "bowler": "V Saini",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Karanbir Singh",
+              "bowler": "V Saini",
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Karanbir Singh",
+              "bowler": "V Saini",
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Karanbir Singh",
+              "bowler": "V Saini",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "I Asif",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "I Asif",
+              "bowler": "V Saini",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "I Asif",
+              "bowler": "V Saini",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "I Asif",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Asif",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Bilal Zalmai",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Bilal Zalmai",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Bilal Zalmai",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Bilal Zalmai",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Bilal Zalmai",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Karanbir Singh",
+              "bowler": "V Saini",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Karanbir Singh",
+              "bowler": "V Saini",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Karanbir Singh",
+              "bowler": "V Saini",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Bilal Zalmai",
+              "bowler": "V Saini",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Karanbir Singh",
+              "bowler": "V Saini",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Karanbir Singh",
+              "bowler": "V Saini",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Karanbir Singh",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Karanbir Singh",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Karanbir Singh",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Bilal Zalmai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Bilal Zalmai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Bilal Zalmai",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Bilal Zalmai",
+                  "fielders": [
+                    {
+                      "name": "S Vashisht"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Karanbir Singh",
+              "bowler": "Ali Hussain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.1",
+              "batter": "Karanbir Singh",
+              "bowler": "Ali Hussain",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Karanbir Singh",
+              "bowler": "Ali Hussain",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Karanbir Singh",
+              "bowler": "Ali Hussain",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Karanbir Singh",
+              "bowler": "Ali Hussain",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Abrar Bilal",
+              "bowler": "Ali Hussain",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Abrar Bilal",
+              "bowler": "Ali Hussain",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Karanbir Singh",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Karanbir Singh",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Karanbir Singh",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Karanbir Singh",
+              "bowler": "Taranjeet Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Karanbir Singh",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Karanbir Singh",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Karanbir Singh",
+              "bowler": "Taranjeet Singh",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Karanbir Singh",
+              "bowler": "Ali Hussain",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Karanbir Singh",
+              "bowler": "Ali Hussain",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Karanbir Singh",
+              "bowler": "Ali Hussain",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Karanbir Singh",
+              "bowler": "Ali Hussain",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Karanbir Singh",
+              "bowler": "Ali Hussain",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Karanbir Singh",
+              "bowler": "Ali Hussain",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Abrar Bilal",
+              "bowler": "AN Lascu",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Abrar Bilal",
+              "bowler": "AN Lascu",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Karanbir Singh",
+              "bowler": "AN Lascu",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Abrar Bilal",
+              "bowler": "AN Lascu",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Karanbir Singh",
+              "bowler": "V Saini",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Abrar Bilal",
+              "bowler": "V Saini",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Karanbir Singh",
+              "bowler": "V Saini",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Karanbir Singh",
+              "bowler": "V Saini",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Karanbir Singh",
+              "bowler": "V Saini",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Karanbir Singh",
+              "bowler": "V Saini",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Karanbir Singh",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Karanbir Singh",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Abrar Bilal",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Abrar Bilal",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Karanbir Singh",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Abrar Bilal",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Karanbir Singh",
+              "bowler": "M Koli",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Karanbir Singh",
+              "bowler": "M Koli",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Abrar Bilal",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Karanbir Singh",
+              "bowler": "M Koli",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Abrar Bilal",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Abrar Bilal",
+              "bowler": "M Koli",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Abrar Bilal",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Abrar Bilal",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Karanbir Singh",
+              "bowler": "Muhammad Moiz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Karanbir Singh",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Karanbir Singh",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Karanbir Singh",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Abrar Bilal",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Karanbir Singh",
+              "bowler": "M Koli",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Karanbir Singh",
+              "bowler": "M Koli",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Karanbir Singh",
+                  "fielders": [
+                    {
+                      "name": "P Hingorani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Aqib Iqbal",
+              "bowler": "M Koli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Aqib Iqbal",
+              "bowler": "M Koli",
+              "non_striker": "Abrar Bilal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Abrar Bilal",
+              "bowler": "M Koli",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abrar Bilal",
+                  "fielders": [
+                    {
+                      "name": "S Nadigotla"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Waqar Zalmai",
+              "bowler": "M Koli",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Aqib Iqbal",
+              "bowler": "M Koli",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Waqar Zalmai",
+              "bowler": "AN Lascu",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Waqar Zalmai",
+                  "fielders": [
+                    {
+                      "name": "S Vashisht"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Shadnan Khan",
+              "bowler": "AN Lascu",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Aqib Iqbal",
+              "bowler": "AN Lascu",
+              "non_striker": "Shadnan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Aqib Iqbal",
+              "bowler": "AN Lascu",
+              "non_striker": "Shadnan Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Aqib Iqbal",
+              "bowler": "AN Lascu",
+              "non_striker": "Shadnan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Shadnan Khan",
+              "bowler": "AN Lascu",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Aqib Iqbal",
+              "bowler": "V Saini",
+              "non_striker": "Shadnan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aqib Iqbal",
+                  "fielders": [
+                    {
+                      "name": "P Hingorani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "A Randhawa",
+              "bowler": "V Saini",
+              "non_striker": "Shadnan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Shadnan Khan",
+              "bowler": "V Saini",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Shadnan Khan",
+              "bowler": "V Saini",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shadnan Khan",
+                  "fielders": [
+                    {
+                      "name": "V Saini"
+                    },
+                    {
+                      "name": "S Nadigotla"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Amar Naeem",
+              "bowler": "V Saini",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Amar Naeem",
+                  "fielders": [
+                    {
+                      "name": "AN Lascu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Baseer Khan",
+              "bowler": "V Saini",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Baseer Khan",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Baseer Khan",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Baseer Khan",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Moiz"
+                    },
+                    {
+                      "name": "Ali Hussain"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "A Randhawa",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "Abdullah Akbarjan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Abdullah Akbarjan",
+              "bowler": "Muhammad Moiz",
+              "non_striker": "A Randhawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abdullah Akbarjan",
+                  "fielders": [
+                    {
+                      "name": "S Nadigotla"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Romania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Taranjeet Singh",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "AN Lascu",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "AN Lascu",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Taranjeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Taranjeet Singh",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Taranjeet Singh",
+              "bowler": "Aqib Iqbal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Taranjeet Singh",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Taranjeet Singh",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Taranjeet Singh",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Taranjeet Singh",
+                  "fielders": [
+                    {
+                      "name": "Karanbir Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Muhammad Moiz",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Muhammad Moiz",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Muhammad Moiz",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "AN Lascu",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Muhammad Moiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "AN Lascu",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Muhammad Moiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Muhammad Moiz",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Muhammad Moiz",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Moiz",
+                  "fielders": [
+                    {
+                      "name": "Waqar Zalmai"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "V Saini",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "AN Lascu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "AN Lascu",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "AN Lascu",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "AN Lascu",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AN Lascu",
+                  "fielders": [
+                    {
+                      "name": "Abrar Bilal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "V Saini",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Rajshekara",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "A Rajshekara",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "A Rajshekara",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "V Saini",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "A Rajshekara",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "V Saini",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "V Saini",
+              "bowler": "Aqib Iqbal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "V Saini",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "V Saini",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "V Saini",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "V Saini",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "A Rajshekara",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "V Saini",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "V Saini",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "V Saini",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "V Saini",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "V Saini",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "V Saini",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "V Saini",
+              "bowler": "Shadnan Khan",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "V Saini",
+              "bowler": "Shadnan Khan",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "V Saini",
+              "bowler": "Shadnan Khan",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "V Saini",
+              "bowler": "Shadnan Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "A Rajshekara",
+              "bowler": "Shadnan Khan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "V Saini",
+              "bowler": "Shadnan Khan",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "A Rajshekara",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "A Rajshekara",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "A Rajshekara",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "A Rajshekara",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "V Saini",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "A Rajshekara",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "A Rajshekara",
+              "bowler": "Karanbir Singh",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "A Rajshekara",
+              "bowler": "Karanbir Singh",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "V Saini",
+              "bowler": "Karanbir Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "V Saini",
+              "bowler": "Karanbir Singh",
+              "non_striker": "A Rajshekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "A Rajshekara",
+              "bowler": "Karanbir Singh",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "A Rajshekara",
+              "bowler": "Karanbir Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "A Rajshekara",
+              "bowler": "Karanbir Singh",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Rajshekara",
+                  "fielders": [
+                    {
+                      "name": "Shadnan Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "S Nadigotla",
+              "bowler": "Karanbir Singh",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "S Nadigotla",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "V Saini",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "V Saini",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "V Saini",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "V Saini",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "S Nadigotla",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "S Nadigotla",
+              "bowler": "Karanbir Singh",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "V Saini",
+              "bowler": "Karanbir Singh",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "V Saini",
+              "bowler": "Karanbir Singh",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "S Nadigotla",
+              "bowler": "Karanbir Singh",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "V Saini",
+              "bowler": "Karanbir Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "V Saini",
+              "bowler": "Karanbir Singh",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "S Nadigotla",
+              "bowler": "Karanbir Singh",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "S Nadigotla",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "S Nadigotla",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "S Nadigotla",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "S Nadigotla",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "V Saini",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "V Saini",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "S Nadigotla",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "V Saini",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "S Nadigotla",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "V Saini",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "S Nadigotla",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "S Nadigotla",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "S Nadigotla",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "V Saini",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "V Saini",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "S Nadigotla",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "V Saini",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "S Nadigotla",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "S Nadigotla",
+              "bowler": "Karanbir Singh",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "V Saini",
+              "bowler": "Karanbir Singh",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "S Nadigotla",
+              "bowler": "Karanbir Singh",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "V Saini",
+              "bowler": "Karanbir Singh",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "V Saini",
+              "bowler": "Karanbir Singh",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "S Nadigotla",
+              "bowler": "Karanbir Singh",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "V Saini",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "S Nadigotla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "S Nadigotla",
+              "bowler": "Abdullah Akbarjan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "S Nadigotla",
+                  "fielders": [
+                    {
+                      "name": "Abrar Bilal"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Rameez Khan",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Rameez Khan",
+              "bowler": "Abdullah Akbarjan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Rameez Khan",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Rameez Khan",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "V Saini",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Rameez Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Rameez Khan",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "V Saini",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "V Saini",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Rameez Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "V Saini",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Rameez Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "V Saini",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Rameez Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "V Saini",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Rameez Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "V Saini",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Rameez Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Saini",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "S Vashisht",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Rameez Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "S Vashisht",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Rameez Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "S Vashisht",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Rameez Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Rameez Khan",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "S Vashisht",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "Rameez Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Rameez Khan",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Rameez Khan",
+              "bowler": "Abdullah Akbarjan",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Rameez Khan",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Rameez Khan",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Rameez Khan",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rameez Khan",
+                  "fielders": [
+                    {
+                      "name": "Abrar Bilal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Ali Hussain",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Ali Hussain",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Ali Hussain",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "S Vashisht",
+              "bowler": "I Asif",
+              "non_striker": "Ali Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Ali Hussain",
+              "bowler": "I Asif",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Ali Hussain",
+              "bowler": "I Asif",
+              "non_striker": "S Vashisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 170
+      }
+    }
+  ]
+}

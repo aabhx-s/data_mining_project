@@ -1,0 +1,2752 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2021-11-03",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2021-11-03"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier",
+      "match_number": 3,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 1387,
+    "officials": {
+      "match_referees": [
+        "ET Dube"
+      ],
+      "reserve_umpires": [
+        "C Phiri"
+      ],
+      "umpires": [
+        "Claus Schumacher",
+        "I Chabi"
+      ]
+    },
+    "outcome": {
+      "winner": "Mozambique",
+      "by": {
+        "runs": 171
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "F Damiao Couana"
+    ],
+    "players": {
+      "Mozambique": [
+        "J Bulele",
+        "F Damiao Couana",
+        "JJ Huo",
+        "FA Cossa",
+        "L Emilio",
+        "FE Carava",
+        "VE Tembo",
+        "SF Nhavotso",
+        "SDJJ Dima",
+        "LA Simango",
+        "ZE Matsinhe"
+      ],
+      "Cameroon": [
+        "P Abanda",
+        "I Tchakou",
+        "DB Loic",
+        "RGA Amah",
+        "BN Toube",
+        "JB Abega",
+        "M Fru",
+        "AN Toube",
+        "FJ Mpegna",
+        "CB Ondoa",
+        "AB Mengoumou"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AB Mengoumou": "8ad3d034",
+        "AN Toube": "7f929ebe",
+        "BN Toube": "75f3aa00",
+        "C Phiri": "ade73404",
+        "CB Ondoa": "b3179e21",
+        "Claus Schumacher": "85645e62",
+        "DB Loic": "01679383",
+        "ET Dube": "4c0891bc",
+        "F Damiao Couana": "2c535f08",
+        "FA Cossa": "3b52d247",
+        "FE Carava": "dc650363",
+        "FJ Mpegna": "d3893060",
+        "I Chabi": "5e39110e",
+        "I Tchakou": "4d2b96b4",
+        "J Bulele": "2dde3e62",
+        "JB Abega": "b7abb123",
+        "JJ Huo": "d816fc1c",
+        "L Emilio": "31adde7f",
+        "LA Simango": "16084b50",
+        "M Fru": "0bab1be2",
+        "P Abanda": "90a8dfec",
+        "RGA Amah": "90f9aedf",
+        "SDJJ Dima": "b8b95e44",
+        "SF Nhavotso": "8b6aebf7",
+        "VE Tembo": "1439a13c",
+        "ZE Matsinhe": "03ef382c"
+      }
+    },
+    "season": "2021/22",
+    "team_type": "international",
+    "teams": [
+      "Mozambique",
+      "Cameroon"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Cameroon"
+    },
+    "venue": "Gahanga International Cricket Stadium. Rwanda"
+  },
+  "innings": [
+    {
+      "team": "Mozambique",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "F Damiao Couana",
+              "bowler": "JB Abega",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "J Bulele",
+              "bowler": "M Fru",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.1",
+              "batter": "J Bulele",
+              "bowler": "M Fru",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "J Bulele",
+              "bowler": "M Fru",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "J Bulele",
+              "bowler": "M Fru",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "F Damiao Couana",
+              "bowler": "M Fru",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "J Bulele",
+              "bowler": "M Fru",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "J Bulele",
+              "bowler": "M Fru",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "F Damiao Couana",
+              "bowler": "JB Abega",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "F Damiao Couana",
+              "bowler": "JB Abega",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "F Damiao Couana",
+              "bowler": "JB Abega",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "J Bulele",
+              "bowler": "M Fru",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "F Damiao Couana",
+              "bowler": "M Fru",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "F Damiao Couana",
+              "bowler": "M Fru",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "F Damiao Couana",
+              "bowler": "M Fru",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "J Bulele",
+              "bowler": "M Fru",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "J Bulele",
+              "bowler": "M Fru",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "J Bulele",
+              "bowler": "M Fru",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "J Bulele",
+              "bowler": "M Fru",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "F Damiao Couana",
+              "bowler": "DB Loic",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "J Bulele",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "F Damiao Couana",
+              "bowler": "JB Abega",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "F Damiao Couana",
+              "bowler": "JB Abega",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "F Damiao Couana",
+              "bowler": "JB Abega",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "F Damiao Couana",
+              "bowler": "JB Abega",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "J Bulele",
+              "bowler": "M Fru",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "J Bulele",
+              "bowler": "M Fru",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "F Damiao Couana",
+              "bowler": "M Fru",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "F Damiao Couana",
+              "bowler": "M Fru",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "F Damiao Couana",
+              "bowler": "M Fru",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "F Damiao Couana",
+              "bowler": "M Fru",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "F Damiao Couana",
+              "bowler": "BN Toube",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "J Bulele",
+              "bowler": "BN Toube",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "J Bulele",
+              "bowler": "BN Toube",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "J Bulele",
+              "bowler": "BN Toube",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "J Bulele",
+              "bowler": "BN Toube",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "J Bulele",
+              "bowler": "BN Toube",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "J Bulele",
+              "bowler": "AB Mengoumou",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "J Bulele",
+              "bowler": "AB Mengoumou",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "J Bulele",
+              "bowler": "AB Mengoumou",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "F Damiao Couana",
+              "bowler": "BN Toube",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "F Damiao Couana",
+              "bowler": "BN Toube",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "F Damiao Couana",
+              "bowler": "BN Toube",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "F Damiao Couana",
+              "bowler": "BN Toube",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "J Bulele",
+              "bowler": "BN Toube",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "J Bulele",
+              "bowler": "BN Toube",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "J Bulele",
+              "bowler": "BN Toube",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "F Damiao Couana",
+              "bowler": "JB Abega",
+              "non_striker": "J Bulele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "J Bulele",
+              "bowler": "JB Abega",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Bulele",
+                  "fielders": [
+                    {
+                      "name": "I Tchakou"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "F Damiao Couana",
+              "bowler": "JB Abega",
+              "non_striker": "JJ Huo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "JJ Huo",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "JJ Huo",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "JJ Huo",
+              "bowler": "DB Loic",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "JJ Huo",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JJ Huo",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "FA Cossa",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "FA Cossa",
+              "bowler": "DB Loic",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "F Damiao Couana",
+              "bowler": "BN Toube",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "F Damiao Couana",
+              "bowler": "BN Toube",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "F Damiao Couana",
+              "bowler": "BN Toube",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "F Damiao Couana",
+              "bowler": "BN Toube",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "F Damiao Couana",
+              "bowler": "BN Toube",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "F Damiao Couana",
+              "bowler": "BN Toube",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "F Damiao Couana",
+              "bowler": "BN Toube",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "FA Cossa",
+              "bowler": "AB Mengoumou",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "FA Cossa",
+              "bowler": "AB Mengoumou",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "F Damiao Couana",
+              "bowler": "M Fru",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "F Damiao Couana",
+              "bowler": "M Fru",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "FA Cossa",
+              "bowler": "M Fru",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "F Damiao Couana",
+              "bowler": "M Fru",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "FA Cossa",
+              "bowler": "M Fru",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "FA Cossa",
+              "bowler": "M Fru",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "FA Cossa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "FA Cossa",
+              "bowler": "AB Mengoumou",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "FA Cossa",
+              "bowler": "AB Mengoumou",
+              "non_striker": "F Damiao Couana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "FA Cossa",
+                  "fielders": [
+                    {
+                      "name": "FJ Mpegna"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "F Damiao Couana",
+              "bowler": "AB Mengoumou",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "F Damiao Couana",
+              "bowler": "DB Loic",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "F Damiao Couana",
+              "bowler": "DB Loic",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Damiao Couana",
+                  "fielders": [
+                    {
+                      "name": "FJ Mpegna"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "FE Carava",
+              "bowler": "DB Loic",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "FE Carava",
+              "bowler": "DB Loic",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "FE Carava",
+                  "fielders": [
+                    {
+                      "name": "P Abanda"
+                    },
+                    {
+                      "name": "I Tchakou"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "VE Tembo",
+              "bowler": "DB Loic",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "VE Tembo",
+              "bowler": "DB Loic",
+              "non_striker": "L Emilio",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "L Emilio",
+              "bowler": "BN Toube",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "L Emilio",
+              "bowler": "BN Toube",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "L Emilio",
+              "bowler": "BN Toube",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "L Emilio",
+              "bowler": "BN Toube",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "L Emilio",
+              "bowler": "BN Toube",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "L Emilio",
+              "bowler": "BN Toube",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "L Emilio",
+              "bowler": "BN Toube",
+              "non_striker": "VE Tembo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Cameroon",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "P Abanda",
+              "bowler": "F Damiao Couana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "P Abanda",
+              "bowler": "F Damiao Couana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "P Abanda",
+              "bowler": "F Damiao Couana",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "P Abanda",
+              "bowler": "F Damiao Couana",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "P Abanda",
+              "bowler": "F Damiao Couana",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "P Abanda",
+              "bowler": "F Damiao Couana",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "P Abanda",
+              "bowler": "F Damiao Couana",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "I Tchakou",
+              "bowler": "F Damiao Couana",
+              "non_striker": "P Abanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "P Abanda",
+              "bowler": "J Bulele",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "I Tchakou",
+              "bowler": "J Bulele",
+              "non_striker": "P Abanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "I Tchakou",
+              "bowler": "J Bulele",
+              "non_striker": "P Abanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "I Tchakou",
+              "bowler": "J Bulele",
+              "non_striker": "P Abanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "I Tchakou",
+              "bowler": "J Bulele",
+              "non_striker": "P Abanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "P Abanda",
+              "bowler": "J Bulele",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "I Tchakou",
+              "bowler": "F Damiao Couana",
+              "non_striker": "P Abanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Tchakou",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "DB Loic",
+              "bowler": "F Damiao Couana",
+              "non_striker": "P Abanda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "DB Loic",
+              "bowler": "F Damiao Couana",
+              "non_striker": "P Abanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "P Abanda",
+              "bowler": "F Damiao Couana",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "P Abanda",
+              "bowler": "F Damiao Couana",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "P Abanda",
+              "bowler": "F Damiao Couana",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "DB Loic",
+              "bowler": "J Bulele",
+              "non_striker": "P Abanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DB Loic",
+                  "fielders": [
+                    {
+                      "name": "FA Cossa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "RGA Amah",
+              "bowler": "J Bulele",
+              "non_striker": "P Abanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "P Abanda",
+              "bowler": "J Bulele",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "P Abanda",
+              "bowler": "J Bulele",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "P Abanda",
+              "bowler": "J Bulele",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "P Abanda",
+              "bowler": "J Bulele",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "P Abanda",
+              "bowler": "F Damiao Couana",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Abanda",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "BN Toube",
+              "bowler": "F Damiao Couana",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BN Toube",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "JB Abega",
+              "bowler": "F Damiao Couana",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "JB Abega",
+              "bowler": "F Damiao Couana",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "RGA Amah",
+              "bowler": "F Damiao Couana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "RGA Amah",
+              "bowler": "F Damiao Couana",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "JB Abega",
+              "bowler": "F Damiao Couana",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JB Abega",
+                  "fielders": [
+                    {
+                      "name": "JJ Huo"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "RGA Amah",
+              "bowler": "J Bulele",
+              "non_striker": "M Fru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "M Fru",
+              "bowler": "J Bulele",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "M Fru",
+              "bowler": "J Bulele",
+              "non_striker": "RGA Amah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "RGA Amah",
+              "bowler": "J Bulele",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Fru",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "RGA Amah",
+              "bowler": "J Bulele",
+              "non_striker": "M Fru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RGA Amah",
+                  "fielders": [
+                    {
+                      "name": "L Emilio"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "AN Toube",
+              "bowler": "J Bulele",
+              "non_striker": "M Fru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AN Toube",
+                  "fielders": [
+                    {
+                      "name": "L Emilio"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "FJ Mpegna",
+              "bowler": "J Bulele",
+              "non_striker": "M Fru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "M Fru",
+              "bowler": "F Damiao Couana",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "FJ Mpegna",
+              "bowler": "F Damiao Couana",
+              "non_striker": "M Fru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "FJ Mpegna",
+              "bowler": "F Damiao Couana",
+              "non_striker": "M Fru",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "FJ Mpegna",
+              "bowler": "F Damiao Couana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Fru",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "FJ Mpegna",
+              "bowler": "F Damiao Couana",
+              "non_striker": "M Fru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "FJ Mpegna",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "CB Ondoa",
+              "bowler": "F Damiao Couana",
+              "non_striker": "M Fru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "CB Ondoa",
+              "bowler": "F Damiao Couana",
+              "non_striker": "M Fru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "M Fru",
+              "bowler": "J Bulele",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Fru",
+                  "fielders": [
+                    {
+                      "name": "L Emilio"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "AB Mengoumou",
+              "bowler": "J Bulele",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "AB Mengoumou",
+              "bowler": "J Bulele",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "CB Ondoa",
+              "bowler": "J Bulele",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "CB Ondoa",
+              "bowler": "J Bulele",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "CB Ondoa",
+              "bowler": "J Bulele",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "CB Ondoa",
+              "bowler": "J Bulele",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "AB Mengoumou",
+              "bowler": "JJ Huo",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "AB Mengoumou",
+              "bowler": "JJ Huo",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "AB Mengoumou",
+              "bowler": "JJ Huo",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "AB Mengoumou",
+              "bowler": "JJ Huo",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "CB Ondoa",
+              "bowler": "JJ Huo",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "AB Mengoumou",
+              "bowler": "JJ Huo",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "CB Ondoa",
+              "bowler": "SF Nhavotso",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "CB Ondoa",
+              "bowler": "SF Nhavotso",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "AB Mengoumou",
+              "bowler": "SF Nhavotso",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "CB Ondoa",
+              "bowler": "SF Nhavotso",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "CB Ondoa",
+              "bowler": "SF Nhavotso",
+              "non_striker": "AB Mengoumou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "AB Mengoumou",
+              "bowler": "SF Nhavotso",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "AB Mengoumou",
+              "bowler": "JJ Huo",
+              "non_striker": "CB Ondoa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AB Mengoumou",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 210
+      }
+    }
+  ]
+}
