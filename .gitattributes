@@ -1,0 +1,5 @@
+# Generated analysis outputs
+data/processed/** linguist-generated=true
+
+# Bundled third-party package
+data/raw/cricketdata_0.3.0/** linguist-vendored=true
