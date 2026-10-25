@@ -1,10 +1,5 @@
 # Explain budget-blocked player fit
 
-Replace these project files with the versions in this update:
-
-- `src/models/score_team_fit.py`
-- `src/visualization/prediction_report.py`
-
 The previous score calculation deliberately set `team_fit_score` to zero when
 the player's estimated price exceeded a team's per-player fair-value limit.
 That rule remains unchanged, including the final ranking, recommendation
