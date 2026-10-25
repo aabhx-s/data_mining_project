@@ -1,0 +1,2 @@
+team,desired_role,performance_weight,value_weight,batting_weight,bowling_weight,max_fair_value_inr,notes
+Example Team,Batter|Wicketkeeper,0.40,0.25,0.25,0.10,100000000,Use one or more acceptable roles separated by a pipe; for example Batter|Wicketkeeper.

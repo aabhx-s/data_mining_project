@@ -1,0 +1,16 @@
+{
+  "seasons": {
+    "2027": {
+      "excluded_countries": ["Pakistan", "Bangladesh"],
+      "exclude_unknown_country": true,
+      "basis": "user_requested_forecast_planning_assumption",
+      "reviewed_on": "2026-10-25",
+      "notes": "Pakistan exclusion reflects current IPL non-participation practice. Bangladesh is excluded at the user's request as a planning scenario: a blanket ban on all Bangladeshi players for IPL 2027 was not verified. Mustafizur Rahman's BCCI-directed release concerned IPL 2026 and does not by itself establish a permanent country-wide ban. Recheck actual auction registration rules before treating this as factual eligibility.",
+      "sources": [
+        "https://sports.ndtv.com/cricket/who-are-the-last-pakistan-players-to-play-in-an-ipl-final-not-shoaib-akhtar-shahid-afridi-11211844",
+        "https://indianexpress.com/article/sports/cricket/mustafizur-rahman-released-by-kkr-following-bcci-instruction-10453190/",
+        "https://documents.iplt20.com/bcci/documents/1765197869375_TATA-IPL-2026-Auction-List-8.12.25.pdf"
+      ]
+    }
+  }
+}

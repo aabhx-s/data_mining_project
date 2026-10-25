@@ -1,0 +1,31 @@
+{
+  "held_out_target_seasons": [
+    2024,
+    2025
+  ],
+  "training_rows": 1966,
+  "test_rows": 328,
+  "conditional_on_next_season_appearance": true,
+  "targets": {
+    "next_runs": {
+      "mae": 73.88939811034578,
+      "rmse": 121.19794894033576,
+      "r2": 0.51475947819977
+    },
+    "next_wickets": {
+      "mae": 2.752227721821051,
+      "rmse": 4.549696774020238,
+      "r2": 0.47266390215878273
+    },
+    "next_batting_matches": {
+      "mae": 2.5122725691813224,
+      "rmse": 3.3263258775263718,
+      "r2": 0.5876755701587197
+    },
+    "next_bowling_matches": {
+      "mae": 2.1810928921723267,
+      "rmse": 3.2555172388452056,
+      "r2": 0.6183392966249113
+    }
+  }
+}

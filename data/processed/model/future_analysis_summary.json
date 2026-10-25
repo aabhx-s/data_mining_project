@@ -1,0 +1,86 @@
+{
+  "pool_year": 2026,
+  "forecast_year": 2027,
+  "performance_trained_through_season": 2026,
+  "candidate_pool_assumption": "Requires at least 1 recorded IPL or supported international match participation(s) during 2025\u20132026. BBL/SMAT-only history does not qualify a candidate. Season-specific blocked availability statuses are excluded. Unknown availability is assumed available, not verified. Activity screening does not confirm medical fitness, retention/release, registration, selection or auction sale. Country screening applies the season-specific project policy: Bangladesh, Pakistan. These exclusions are recorded as project planning assumptions, not a claim that every country has a confirmed blanket IPL ban.",
+  "team_profiles_used": [
+    "Chennai Super Kings",
+    "Delhi Capitals",
+    "Gujarat Titans",
+    "Kolkata Knight Riders",
+    "Lucknow Super Giants",
+    "Mumbai Indians",
+    "Punjab Kings",
+    "Rajasthan Royals",
+    "Royal Challengers Bengaluru",
+    "Sunrisers Hyderabad"
+  ],
+  "top_n_per_team": 10,
+  "fair_value_training": {
+    "training_rows": 963,
+    "test_rows": 182,
+    "held_out_years": [
+      2025,
+      2026
+    ],
+    "ratio_mae": 1.9201688951486862,
+    "price_mae_inr": 25844527.234596834,
+    "selected_model": "xgboost"
+  },
+  "performance_training": {
+    "training_rows": 2965,
+    "test_rows": 367,
+    "held_out_seasons": [
+      2025,
+      2026
+    ],
+    "forecast_rows": 1703,
+    "runs_mae": 68.82296397598753,
+    "wickets_mae": 2.823437506494098,
+    "selected_model": "xgboost",
+    "selected_forecast_method": "opportunity_rate_calibrated"
+  },
+  "candidate_scoring": {
+    "pool_players": 6837,
+    "scored_players": 1703,
+    "excluded_players": 5134,
+    "auction_year": 2027,
+    "candidate_scope": "recent_ipl_or_international",
+    "activity_years": 2,
+    "min_qualifying_matches": 1,
+    "activity_window_start": "2025-01-01",
+    "activity_window_end": "2026-12-31",
+    "require_confirmed_availability": false,
+    "availability_reference_used": null,
+    "eligible_availability_unknown": 1703,
+    "excluded_reason_counts": {
+      "no_recent_ipl_or_international_history": 4002,
+      "country_unresolved_review_required": 716,
+      "no_recent_ipl_or_international_history; project_country_exclusion_pakistan": 120,
+      "domestic_history_only": 113,
+      "no_recent_ipl_or_international_history; project_country_exclusion_bangladesh": 92,
+      "project_country_exclusion_pakistan": 46,
+      "project_country_exclusion_bangladesh": 31,
+      "domestic_history_only; country_unresolved_review_required": 6,
+      "no_recent_ipl_or_international_history; country_unresolved_review_required": 5,
+      "domestic_history_only; project_country_exclusion_pakistan": 3
+    },
+    "country_policy": {
+      "excluded_countries": [
+        "Bangladesh",
+        "Pakistan"
+      ],
+      "exclude_unknown_country": true,
+      "basis": "user_requested_forecast_planning_assumption",
+      "reviewed_on": "2026-10-25",
+      "notes": "Pakistan exclusion reflects current IPL non-participation practice. Bangladesh is excluded at the user's request as a planning scenario: a blanket ban on all Bangladeshi players for IPL 2027 was not verified. Mustafizur Rahman's BCCI-directed release concerned IPL 2026 and does not by itself establish a permanent country-wide ban. Recheck actual auction registration rules before treating this as factual eligibility.",
+      "sources": [
+        "https://sports.ndtv.com/cricket/who-are-the-last-pakistan-players-to-play-in-an-ipl-final-not-shoaib-akhtar-shahid-afridi-11211844",
+        "https://indianexpress.com/article/sports/cricket/mustafizur-rahman-released-by-kkr-following-bcci-instruction-10453190/",
+        "https://documents.iplt20.com/bcci/documents/1765197869375_TATA-IPL-2026-Auction-List-8.12.25.pdf"
+      ],
+      "forecast_year": 2027
+    }
+  },
+  "team_recommendation_file": "C:\\stuff\\data_mining_project-main\\data\\processed\\model\\future_team_recommendations.csv"
+}

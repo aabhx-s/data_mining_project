@@ -1,0 +1,637 @@
+{
+  "forecast_year": 2027,
+  "forecast_players": 1703,
+  "teams": [
+    "Chennai Super Kings",
+    "Delhi Capitals",
+    "Gujarat Titans",
+    "Kolkata Knight Riders",
+    "Lucknow Super Giants",
+    "Mumbai Indians",
+    "Punjab Kings",
+    "Rajasthan Royals",
+    "Royal Challengers Bengaluru",
+    "Sunrisers Hyderabad"
+  ],
+  "charts_created": 36,
+  "source_files": [
+    {
+      "file": "auction_candidate_eligibility.csv",
+      "rows": 6837,
+      "view": "Who passed the candidate-pool screen?",
+      "href": "../../auction_candidate_eligibility.csv"
+    },
+    {
+      "file": "auction_candidate_excluded_players.csv",
+      "rows": 5134,
+      "view": "Data coverage and exclusions; Who passed the candidate-pool screen?",
+      "href": "../../auction_candidate_excluded_players.csv"
+    },
+    {
+      "file": "auction_candidate_fair_values.csv",
+      "rows": 1703,
+      "view": "The full forecast pool; Leading runs forecasts; Leading wickets forecasts; Fair-value distribution; Value against predicted batting output; Full-pool density and bowling output; Role-aware auction board; Searchable player/team explorer",
+      "href": "../../auction_candidate_fair_values.csv"
+    },
+    {
+      "file": "fair_value_feature_importance.csv",
+      "rows": 227,
+      "view": "Fair-value model inputs",
+      "href": "../../fair_value_feature_importance.csv"
+    },
+    {
+      "file": "fair_value_metrics.json",
+      "rows": null,
+      "view": "Model and calibration comparisons; Actual against forecast auction price",
+      "href": "../../fair_value_metrics.json"
+    },
+    {
+      "file": "fair_value_model.joblib",
+      "rows": null,
+      "view": "Saved runtime model, not chart data; never loaded by this report.",
+      "href": "../../fair_value_model.joblib"
+    },
+    {
+      "file": "fair_value_model_comparison.csv",
+      "rows": 2,
+      "view": "Model and calibration comparisons",
+      "href": "../../fair_value_model_comparison.csv"
+    },
+    {
+      "file": "fair_value_test_predictions.csv",
+      "rows": 182,
+      "view": "Actual against forecast auction price",
+      "href": "../../fair_value_test_predictions.csv"
+    },
+    {
+      "file": "future_analysis_summary.json",
+      "rows": null,
+      "view": "Data coverage and exclusions; Who passed the candidate-pool screen?",
+      "href": "../../future_analysis_summary.json"
+    },
+    {
+      "file": "future_team_recommendations.csv",
+      "rows": 100,
+      "view": "Each team's highest-ranked candidate",
+      "href": "../../future_team_recommendations.csv"
+    },
+    {
+      "file": "performance_calibration_comparison.csv",
+      "rows": 2,
+      "view": "Model and calibration comparisons",
+      "href": "../../performance_calibration_comparison.csv"
+    },
+    {
+      "file": "performance_metrics.json",
+      "rows": null,
+      "view": "Model and calibration comparisons; Actual against forecast performance",
+      "href": "../../performance_metrics.json"
+    },
+    {
+      "file": "performance_model.joblib",
+      "rows": null,
+      "view": "Saved runtime model, not chart data; never loaded by this report.",
+      "href": "../../performance_model.joblib"
+    },
+    {
+      "file": "performance_model_comparison.csv",
+      "rows": 2,
+      "view": "Model and calibration comparisons",
+      "href": "../../performance_model_comparison.csv"
+    },
+    {
+      "file": "performance_test_predictions.csv",
+      "rows": 367,
+      "view": "Actual against forecast performance",
+      "href": "../../performance_test_predictions.csv"
+    },
+    {
+      "file": "player_auction_excluded_rows.csv",
+      "rows": 418,
+      "view": "Data coverage and exclusions",
+      "href": "../../player_auction_excluded_rows.csv"
+    },
+    {
+      "file": "player_auction_training.csv",
+      "rows": 1381,
+      "view": "Data coverage and exclusions",
+      "href": "../../player_auction_training.csv"
+    },
+    {
+      "file": "team_fit_Chennai_Super_Kings.csv",
+      "rows": 1703,
+      "view": "Performance for the estimated price; Chennai Super Kings: recommendations; Searchable player/team explorer",
+      "href": "../../team_fit_Chennai_Super_Kings.csv"
+    },
+    {
+      "file": "team_fit_Delhi_Capitals.csv",
+      "rows": 1703,
+      "view": "Performance for the estimated price; Delhi Capitals: recommendations; Searchable player/team explorer",
+      "href": "../../team_fit_Delhi_Capitals.csv"
+    },
+    {
+      "file": "team_fit_Gujarat_Titans.csv",
+      "rows": 1703,
+      "view": "Performance for the estimated price; Gujarat Titans: recommendations; Searchable player/team explorer",
+      "href": "../../team_fit_Gujarat_Titans.csv"
+    },
+    {
+      "file": "team_fit_Kolkata_Knight_Riders.csv",
+      "rows": 1703,
+      "view": "Performance for the estimated price; Kolkata Knight Riders: recommendations; Searchable player/team explorer",
+      "href": "../../team_fit_Kolkata_Knight_Riders.csv"
+    },
+    {
+      "file": "team_fit_Lucknow_Super_Giants.csv",
+      "rows": 1703,
+      "view": "Performance for the estimated price; Lucknow Super Giants: recommendations; Searchable player/team explorer",
+      "href": "../../team_fit_Lucknow_Super_Giants.csv"
+    },
+    {
+      "file": "team_fit_Mumbai_Indians.csv",
+      "rows": 1703,
+      "view": "Performance for the estimated price; Mumbai Indians: recommendations; Searchable player/team explorer",
+      "href": "../../team_fit_Mumbai_Indians.csv"
+    },
+    {
+      "file": "team_fit_Punjab_Kings.csv",
+      "rows": 1703,
+      "view": "Performance for the estimated price; Punjab Kings: recommendations; Searchable player/team explorer",
+      "href": "../../team_fit_Punjab_Kings.csv"
+    },
+    {
+      "file": "team_fit_Rajasthan_Royals.csv",
+      "rows": 1703,
+      "view": "Performance for the estimated price; Rajasthan Royals: recommendations; Searchable player/team explorer",
+      "href": "../../team_fit_Rajasthan_Royals.csv"
+    },
+    {
+      "file": "team_fit_Royal_Challengers_Bengaluru.csv",
+      "rows": 1703,
+      "view": "Performance for the estimated price; Royal Challengers Bengaluru: recommendations; Searchable player/team explorer",
+      "href": "../../team_fit_Royal_Challengers_Bengaluru.csv"
+    },
+    {
+      "file": "team_fit_Sunrisers_Hyderabad.csv",
+      "rows": 1703,
+      "view": "Performance for the estimated price; Sunrisers Hyderabad: recommendations; Searchable player/team explorer",
+      "href": "../../team_fit_Sunrisers_Hyderabad.csv"
+    },
+    {
+      "file": "team_role_shortlists_Chennai_Super_Kings.csv",
+      "rows": 20,
+      "view": "Chennai Super Kings: role shortlists; Searchable player/team explorer",
+      "href": "../../team_role_shortlists_Chennai_Super_Kings.csv"
+    },
+    {
+      "file": "team_role_shortlists_Delhi_Capitals.csv",
+      "rows": 20,
+      "view": "Delhi Capitals: role shortlists; Searchable player/team explorer",
+      "href": "../../team_role_shortlists_Delhi_Capitals.csv"
+    },
+    {
+      "file": "team_role_shortlists_Gujarat_Titans.csv",
+      "rows": 20,
+      "view": "Gujarat Titans: role shortlists; Searchable player/team explorer",
+      "href": "../../team_role_shortlists_Gujarat_Titans.csv"
+    },
+    {
+      "file": "team_role_shortlists_Kolkata_Knight_Riders.csv",
+      "rows": 20,
+      "view": "Kolkata Knight Riders: role shortlists; Searchable player/team explorer",
+      "href": "../../team_role_shortlists_Kolkata_Knight_Riders.csv"
+    },
+    {
+      "file": "team_role_shortlists_Lucknow_Super_Giants.csv",
+      "rows": 20,
+      "view": "Lucknow Super Giants: role shortlists; Searchable player/team explorer",
+      "href": "../../team_role_shortlists_Lucknow_Super_Giants.csv"
+    },
+    {
+      "file": "team_role_shortlists_Mumbai_Indians.csv",
+      "rows": 20,
+      "view": "Mumbai Indians: role shortlists; Searchable player/team explorer",
+      "href": "../../team_role_shortlists_Mumbai_Indians.csv"
+    },
+    {
+      "file": "team_role_shortlists_Punjab_Kings.csv",
+      "rows": 20,
+      "view": "Punjab Kings: role shortlists; Searchable player/team explorer",
+      "href": "../../team_role_shortlists_Punjab_Kings.csv"
+    },
+    {
+      "file": "team_role_shortlists_Rajasthan_Royals.csv",
+      "rows": 20,
+      "view": "Rajasthan Royals: role shortlists; Searchable player/team explorer",
+      "href": "../../team_role_shortlists_Rajasthan_Royals.csv"
+    },
+    {
+      "file": "team_role_shortlists_Royal_Challengers_Bengaluru.csv",
+      "rows": 20,
+      "view": "Royal Challengers Bengaluru: role shortlists; Searchable player/team explorer",
+      "href": "../../team_role_shortlists_Royal_Challengers_Bengaluru.csv"
+    },
+    {
+      "file": "team_role_shortlists_Sunrisers_Hyderabad.csv",
+      "rows": 20,
+      "view": "Sunrisers Hyderabad: role shortlists; Searchable player/team explorer",
+      "href": "../../team_role_shortlists_Sunrisers_Hyderabad.csv"
+    },
+    {
+      "file": "upcoming_performance_predictions.csv",
+      "rows": 1703,
+      "view": "The full forecast pool; Leading runs forecasts; Leading wickets forecasts; Expected batting and bowling opportunity; Value against predicted batting output; Full-pool density and bowling output; Role-aware auction board; Searchable player/team explorer",
+      "href": "../../upcoming_performance_predictions.csv"
+    }
+  ],
+  "warnings": [],
+  "report": "index.html",
+  "charts": [
+    {
+      "file": "forecast_pool.png",
+      "title": "The full forecast pool",
+      "section": "Overview",
+      "sources": [
+        "auction_candidate_fair_values.csv",
+        "upcoming_performance_predictions.csv"
+      ],
+      "note": "All players, their roles, forecast distribution and available recent evidence.",
+      "team": ""
+    },
+    {
+      "file": "predicted_runs_leaders.png",
+      "title": "Leading runs forecasts",
+      "section": "Forecasts",
+      "sources": [
+        "auction_candidate_fair_values.csv",
+        "upcoming_performance_predictions.csv"
+      ],
+      "note": "Top 15 for readability; every player remains in the searchable explorer.",
+      "team": ""
+    },
+    {
+      "file": "predicted_wickets_leaders.png",
+      "title": "Leading wickets forecasts",
+      "section": "Forecasts",
+      "sources": [
+        "auction_candidate_fair_values.csv",
+        "upcoming_performance_predictions.csv"
+      ],
+      "note": "Top 15 for readability; every player remains in the searchable explorer.",
+      "team": ""
+    },
+    {
+      "file": "playing_opportunity.png",
+      "title": "Expected batting and bowling opportunity",
+      "section": "Forecasts",
+      "sources": [
+        "upcoming_performance_predictions.csv"
+      ],
+      "note": "Separate appearances, not guaranteed selection.",
+      "team": ""
+    },
+    {
+      "file": "fair_value_distribution.png",
+      "title": "Fair-value distribution",
+      "section": "Fair values",
+      "sources": [
+        "auction_candidate_fair_values.csv"
+      ],
+      "note": "Full pool and role-specific distributions in ₹ crore.",
+      "team": ""
+    },
+    {
+      "file": "candidate_value_vs_predicted_runs.png",
+      "title": "Value against predicted batting output",
+      "section": "Fair values",
+      "sources": [
+        "auction_candidate_fair_values.csv",
+        "upcoming_performance_predictions.csv"
+      ],
+      "note": "Every candidate is a point; colour represents predicted wickets.",
+      "team": ""
+    },
+    {
+      "file": "full_candidate_pool_hexbin.png",
+      "title": "Full-pool density and bowling output",
+      "section": "Fair values",
+      "sources": [
+        "auction_candidate_fair_values.csv",
+        "upcoming_performance_predictions.csv"
+      ],
+      "note": "All candidates are included, not only the labelled leaders.",
+      "team": ""
+    },
+    {
+      "file": "role_aware_candidate_board.png",
+      "title": "Role-aware auction board",
+      "section": "Forecasts",
+      "sources": [
+        "auction_candidate_fair_values.csv",
+        "upcoming_performance_predictions.csv"
+      ],
+      "note": "Separate batter, keeper-batter, bowler and all-rounder sections.",
+      "team": ""
+    },
+    {
+      "file": "investment_leaders.png",
+      "title": "Performance for the estimated price",
+      "section": "Investment",
+      "sources": [
+        "team_fit_Chennai_Super_Kings.csv",
+        "team_fit_Delhi_Capitals.csv",
+        "team_fit_Gujarat_Titans.csv",
+        "team_fit_Kolkata_Knight_Riders.csv",
+        "team_fit_Lucknow_Super_Giants.csv",
+        "team_fit_Mumbai_Indians.csv",
+        "team_fit_Punjab_Kings.csv",
+        "team_fit_Rajasthan_Royals.csv",
+        "team_fit_Royal_Challengers_Bengaluru.csv",
+        "team_fit_Sunrisers_Hyderabad.csv"
+      ],
+      "note": "Investment score is relative value, not financial return.",
+      "team": ""
+    },
+    {
+      "file": "team_chennai_super_kings.png",
+      "title": "Chennai Super Kings: recommendations",
+      "section": "Teams",
+      "sources": [
+        "team_fit_Chennai_Super_Kings.csv"
+      ],
+      "note": "Fit, investment, price, performance and role/budget checks for the ranked leaders.",
+      "team": "Chennai Super Kings"
+    },
+    {
+      "file": "roles_chennai_super_kings.png",
+      "title": "Chennai Super Kings: role shortlists",
+      "section": "Teams",
+      "sources": [
+        "team_role_shortlists_Chennai_Super_Kings.csv"
+      ],
+      "note": "A market scan for every role, not a combined squad-buying recommendation.",
+      "team": "Chennai Super Kings"
+    },
+    {
+      "file": "team_delhi_capitals.png",
+      "title": "Delhi Capitals: recommendations",
+      "section": "Teams",
+      "sources": [
+        "team_fit_Delhi_Capitals.csv"
+      ],
+      "note": "Fit, investment, price, performance and role/budget checks for the ranked leaders.",
+      "team": "Delhi Capitals"
+    },
+    {
+      "file": "roles_delhi_capitals.png",
+      "title": "Delhi Capitals: role shortlists",
+      "section": "Teams",
+      "sources": [
+        "team_role_shortlists_Delhi_Capitals.csv"
+      ],
+      "note": "A market scan for every role, not a combined squad-buying recommendation.",
+      "team": "Delhi Capitals"
+    },
+    {
+      "file": "team_gujarat_titans.png",
+      "title": "Gujarat Titans: recommendations",
+      "section": "Teams",
+      "sources": [
+        "team_fit_Gujarat_Titans.csv"
+      ],
+      "note": "Fit, investment, price, performance and role/budget checks for the ranked leaders.",
+      "team": "Gujarat Titans"
+    },
+    {
+      "file": "roles_gujarat_titans.png",
+      "title": "Gujarat Titans: role shortlists",
+      "section": "Teams",
+      "sources": [
+        "team_role_shortlists_Gujarat_Titans.csv"
+      ],
+      "note": "A market scan for every role, not a combined squad-buying recommendation.",
+      "team": "Gujarat Titans"
+    },
+    {
+      "file": "team_kolkata_knight_riders.png",
+      "title": "Kolkata Knight Riders: recommendations",
+      "section": "Teams",
+      "sources": [
+        "team_fit_Kolkata_Knight_Riders.csv"
+      ],
+      "note": "Fit, investment, price, performance and role/budget checks for the ranked leaders.",
+      "team": "Kolkata Knight Riders"
+    },
+    {
+      "file": "roles_kolkata_knight_riders.png",
+      "title": "Kolkata Knight Riders: role shortlists",
+      "section": "Teams",
+      "sources": [
+        "team_role_shortlists_Kolkata_Knight_Riders.csv"
+      ],
+      "note": "A market scan for every role, not a combined squad-buying recommendation.",
+      "team": "Kolkata Knight Riders"
+    },
+    {
+      "file": "team_lucknow_super_giants.png",
+      "title": "Lucknow Super Giants: recommendations",
+      "section": "Teams",
+      "sources": [
+        "team_fit_Lucknow_Super_Giants.csv"
+      ],
+      "note": "Fit, investment, price, performance and role/budget checks for the ranked leaders.",
+      "team": "Lucknow Super Giants"
+    },
+    {
+      "file": "roles_lucknow_super_giants.png",
+      "title": "Lucknow Super Giants: role shortlists",
+      "section": "Teams",
+      "sources": [
+        "team_role_shortlists_Lucknow_Super_Giants.csv"
+      ],
+      "note": "A market scan for every role, not a combined squad-buying recommendation.",
+      "team": "Lucknow Super Giants"
+    },
+    {
+      "file": "team_mumbai_indians.png",
+      "title": "Mumbai Indians: recommendations",
+      "section": "Teams",
+      "sources": [
+        "team_fit_Mumbai_Indians.csv"
+      ],
+      "note": "Fit, investment, price, performance and role/budget checks for the ranked leaders.",
+      "team": "Mumbai Indians"
+    },
+    {
+      "file": "roles_mumbai_indians.png",
+      "title": "Mumbai Indians: role shortlists",
+      "section": "Teams",
+      "sources": [
+        "team_role_shortlists_Mumbai_Indians.csv"
+      ],
+      "note": "A market scan for every role, not a combined squad-buying recommendation.",
+      "team": "Mumbai Indians"
+    },
+    {
+      "file": "team_punjab_kings.png",
+      "title": "Punjab Kings: recommendations",
+      "section": "Teams",
+      "sources": [
+        "team_fit_Punjab_Kings.csv"
+      ],
+      "note": "Fit, investment, price, performance and role/budget checks for the ranked leaders.",
+      "team": "Punjab Kings"
+    },
+    {
+      "file": "roles_punjab_kings.png",
+      "title": "Punjab Kings: role shortlists",
+      "section": "Teams",
+      "sources": [
+        "team_role_shortlists_Punjab_Kings.csv"
+      ],
+      "note": "A market scan for every role, not a combined squad-buying recommendation.",
+      "team": "Punjab Kings"
+    },
+    {
+      "file": "team_rajasthan_royals.png",
+      "title": "Rajasthan Royals: recommendations",
+      "section": "Teams",
+      "sources": [
+        "team_fit_Rajasthan_Royals.csv"
+      ],
+      "note": "Fit, investment, price, performance and role/budget checks for the ranked leaders.",
+      "team": "Rajasthan Royals"
+    },
+    {
+      "file": "roles_rajasthan_royals.png",
+      "title": "Rajasthan Royals: role shortlists",
+      "section": "Teams",
+      "sources": [
+        "team_role_shortlists_Rajasthan_Royals.csv"
+      ],
+      "note": "A market scan for every role, not a combined squad-buying recommendation.",
+      "team": "Rajasthan Royals"
+    },
+    {
+      "file": "team_royal_challengers_bengaluru.png",
+      "title": "Royal Challengers Bengaluru: recommendations",
+      "section": "Teams",
+      "sources": [
+        "team_fit_Royal_Challengers_Bengaluru.csv"
+      ],
+      "note": "Fit, investment, price, performance and role/budget checks for the ranked leaders.",
+      "team": "Royal Challengers Bengaluru"
+    },
+    {
+      "file": "roles_royal_challengers_bengaluru.png",
+      "title": "Royal Challengers Bengaluru: role shortlists",
+      "section": "Teams",
+      "sources": [
+        "team_role_shortlists_Royal_Challengers_Bengaluru.csv"
+      ],
+      "note": "A market scan for every role, not a combined squad-buying recommendation.",
+      "team": "Royal Challengers Bengaluru"
+    },
+    {
+      "file": "team_sunrisers_hyderabad.png",
+      "title": "Sunrisers Hyderabad: recommendations",
+      "section": "Teams",
+      "sources": [
+        "team_fit_Sunrisers_Hyderabad.csv"
+      ],
+      "note": "Fit, investment, price, performance and role/budget checks for the ranked leaders.",
+      "team": "Sunrisers Hyderabad"
+    },
+    {
+      "file": "roles_sunrisers_hyderabad.png",
+      "title": "Sunrisers Hyderabad: role shortlists",
+      "section": "Teams",
+      "sources": [
+        "team_role_shortlists_Sunrisers_Hyderabad.csv"
+      ],
+      "note": "A market scan for every role, not a combined squad-buying recommendation.",
+      "team": "Sunrisers Hyderabad"
+    },
+    {
+      "file": "all_teams_best_candidate_summary.png",
+      "title": "Each team's highest-ranked candidate",
+      "section": "Teams",
+      "sources": [
+        "future_team_recommendations.csv"
+      ],
+      "note": "Scores compare suitability to each team's own assumptions, not actual team strength.",
+      "team": ""
+    },
+    {
+      "file": "model_comparisons.png",
+      "title": "Model and calibration comparisons",
+      "section": "Evaluation",
+      "sources": [
+        "performance_model_comparison.csv",
+        "performance_calibration_comparison.csv",
+        "fair_value_model_comparison.csv",
+        "performance_metrics.json",
+        "fair_value_metrics.json"
+      ],
+      "note": "Saved evaluation errors; lower is better. Missing comparisons are explicitly marked.",
+      "team": ""
+    },
+    {
+      "file": "performance_evaluation.png",
+      "title": "Actual against forecast performance",
+      "section": "Evaluation",
+      "sources": [
+        "performance_test_predictions.csv",
+        "performance_metrics.json"
+      ],
+      "note": "All saved held-out player-season rows, including zero outputs.",
+      "team": ""
+    },
+    {
+      "file": "price_evaluation.png",
+      "title": "Actual against forecast auction price",
+      "section": "Evaluation",
+      "sources": [
+        "fair_value_test_predictions.csv",
+        "fair_value_metrics.json"
+      ],
+      "note": "Price-error units are ₹ crore, not raw INR or percentages.",
+      "team": ""
+    },
+    {
+      "file": "price_feature_importance.png",
+      "title": "Fair-value model inputs",
+      "section": "Diagnostics",
+      "sources": [
+        "fair_value_feature_importance.csv"
+      ],
+      "note": "Transformed-input importance is not a causal explanation.",
+      "team": ""
+    },
+    {
+      "file": "data_coverage.png",
+      "title": "Data coverage and exclusions",
+      "section": "Diagnostics",
+      "sources": [
+        "auction_candidate_excluded_players.csv",
+        "player_auction_training.csv",
+        "player_auction_excluded_rows.csv",
+        "future_analysis_summary.json"
+      ],
+      "note": "Counts reconcile to the saved output files; missing history is not a low-performance label.",
+      "team": ""
+    },
+    {
+      "file": "candidate_eligibility.png",
+      "title": "Who passed the candidate-pool screen?",
+      "section": "Diagnostics",
+      "sources": [
+        "auction_candidate_eligibility.csv",
+        "auction_candidate_excluded_players.csv",
+        "future_analysis_summary.json"
+      ],
+      "note": "Recent IPL/international evidence, explicit exclusions and unknown availability are reported separately.",
+      "team": ""
+    }
+  ]
+}

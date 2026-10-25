@@ -1,64 +1,32 @@
+"""Small manual smoke test for one JSON file from every configured archive.
+
+This is optional for a quick sanity check. Use ``pytest`` for the full test
+suite in tests/test_1.py.
+"""
+
 from pathlib import Path
-from cricket_etl import process_match
+import sys
+
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+from src.transformation.cricket_etl import DATASETS, process_match, project_root_from_file
 
 
-# ============================================================
-# testing whether the pipeline loads for one match from each data file.
-# ============================================================
-
-TEST_FILES = {
-    "IPL": Path("data/raw/ipl_male_json"),
-    "ODI": Path("data/raw/odis_male_json"),
-    "T20": Path("data/raw/t20s_male_json"),
-    "BBL": Path("data/raw/bbl_male_json"),
-    "SMAT": Path("data/raw/sma_male_json"),
-    "T20_WC": Path("data/raw/icc_mens_t20_world_cup_male_json"),
-}
-
-
-# ============================================================
-# TEST
-# ============================================================
-
-for competition, directory in TEST_FILES.items():
-
-    print("\n" + "=" * 60)
-    print(f"TESTING {competition}")
-    print("=" * 60)
-
-    json_files = sorted(directory.glob("*.json"))
-
-    if not json_files:
-        print(f"NO JSON FILES FOUND: {directory}")
-        continue
-
-    test_file = json_files[0]
-
-    print(f"File: {test_file.name}")
-
-    try:
-
-        match, batting, bowling = process_match(
-            test_file,
-            competition
+def main() -> None:
+    root = project_root_from_file()
+    for output_name, (raw_name, competition) in DATASETS.items():
+        files = sorted((root / "data" / "raw" / raw_name).glob("*.json"))
+        if not files:
+            raise FileNotFoundError(f"No JSON files found for {competition}")
+        matches, batting, bowling = process_match(files[0], competition)
+        print(
+            f"{output_name}: match={len(matches)}, batting={len(batting)}, "
+            f"bowling={len(bowling)}, player_ids_missing="
+            f"{batting['player_id'].isna().sum() + bowling['player_id'].isna().sum()}"
         )
 
-        print("SUCCESS")
 
-        print(f"Match rows:   {len(match)}")
-        print(f"Batting rows: {len(batting)}")
-        print(f"Bowling rows: {len(bowling)}")
-
-        print("\nMatch columns:")
-        print(match.columns.tolist())
-
-        print("\nBatting columns:")
-        print(batting.columns.tolist())
-
-        print("\nBowling columns:")
-        print(bowling.columns.tolist())
-
-    except Exception as e:
-
-        print("FAILED")
-        print(f"Error: {e}")
+if __name__ == "__main__":
+    main()

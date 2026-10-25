@@ -1,0 +1,11 @@
+team,desired_role,performance_weight,value_weight,batting_weight,bowling_weight,max_fair_value_inr,notes
+Chennai Super Kings,Batter|Wicketkeeper,0.40,0.25,0.25,0.10,80000000,Planning assumption: succession-friendly top-order or keeper-batter depth; not a confirmed CSK strategy.
+Delhi Capitals,Batter|Wicketkeeper,0.45,0.20,0.25,0.10,90000000,Planning assumption: strengthen batting depth and a flexible keeper-batter option; not a confirmed DC strategy.
+Gujarat Titans,All-rounder,0.45,0.20,0.20,0.15,85000000,Planning assumption: add balanced middle-overs flexibility around an established top order and pace core; not a confirmed GT strategy.
+Kolkata Knight Riders,Batter|Wicketkeeper,0.50,0.20,0.25,0.05,100000000,Planning assumption: reinforce batting/keeper depth after a below-par 2026 league finish; not a confirmed KKR strategy.
+Lucknow Super Giants,Bowler,0.50,0.20,0.05,0.25,90000000,Planning assumption: prioritise wicket-taking and death-overs bowling after a low 2026 finish; not a confirmed LSG strategy.
+Mumbai Indians,Bowler,0.50,0.20,0.05,0.25,75000000,Planning assumption: add bowling depth and cover to an established batting group; not a confirmed MI strategy.
+Punjab Kings,Bowler,0.55,0.15,0.05,0.25,90000000,Planning assumption: prioritise a wicket-taking/death-bowling option after 2026 bowling struggles; not a confirmed PBKS strategy.
+Rajasthan Royals,Batter|Wicketkeeper,0.45,0.20,0.25,0.10,80000000,Planning assumption: add middle-order batting and keeper cover; not a confirmed RR strategy.
+Royal Challengers Bengaluru,All-rounder,0.45,0.25,0.15,0.15,85000000,Planning assumption: preserve a title-winning core while adding flexible balance; not a confirmed RCB strategy.
+Sunrisers Hyderabad,Bowler,0.55,0.15,0.05,0.25,90000000,Planning assumption: prioritise bowling control alongside a powerful batting core; not a confirmed SRH strategy.

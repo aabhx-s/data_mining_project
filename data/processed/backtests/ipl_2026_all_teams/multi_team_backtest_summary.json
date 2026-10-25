@@ -1,0 +1,40 @@
+{
+  "target_season": 2026,
+  "performance_data_through_season": 2025,
+  "fair_value_training_through_auction_year": 2025,
+  "candidate_pool_year": 2026,
+  "candidate_pool_limitation": "Sold players only; unsold auction candidates are unavailable.",
+  "teams": [
+    "Royal Challengers Bengaluru",
+    "Sunrisers Hyderabad"
+  ],
+  "top_n_per_team": 5,
+  "fair_value_training": {
+    "training_rows": 923,
+    "test_rows": 197,
+    "held_out_years": [
+      2024,
+      2025
+    ],
+    "ratio_mae": 1.7951146519886763,
+    "price_mae_inr": 25478644.90675889
+  },
+  "performance_training": {
+    "training_rows": 2294,
+    "test_rows": 328,
+    "held_out_seasons": [
+      2024,
+      2025
+    ],
+    "forecast_rows": 313,
+    "runs_mae": 73.88939811034578,
+    "wickets_mae": 2.752227721821052
+  },
+  "candidate_scoring": {
+    "pool_players": 52,
+    "scored_players": 40,
+    "excluded_players": 12,
+    "auction_year": 2026
+  },
+  "summary_file": "C:\\stuff\\data_mining_project-main\\data\\processed\\backtests\\ipl_2026_all_teams\\all_teams_top_recommendations.csv"
+}

@@ -1,0 +1,244 @@
+auction_year,player_id,player_name_auction,player_name_canonical,player_match_status,team,role,nationality,nationality_source,nationality_match_status,price_original,price_currency,exchange_rate_to_inr,price_inr,price_inr_year_median_ratio,source_file
+2013,,Darren Sammy,,unmatched,Sunrisers Hyderabad,All-Rounder,,,missing,425000.0,USD,58.6,24905000.0,1.416667,IPL_Auction_2013_Sold_Player.csv
+2013,,Michael Clarke,,ambiguous_full_name,Pune Warriors India,Batsman,,,missing,400000.0,USD,58.6,23440000.0,1.333333,IPL_Auction_2013_Sold_Player.csv
+2013,,Philip Hughes,,unmatched,Mumbai Indians,Batsman,,,missing,100000.0,USD,58.6,5860000.0,0.333333,IPL_Auction_2013_Sold_Player.csv
+2013,,Sachithra Senanayaka,,unmatched,Kolkata Knight Riders,All-Rounder,,,missing,625000.0,USD,58.6,36625000.0,2.083333,IPL_Auction_2013_Sold_Player.csv
+2014,,Akshar Rajesh Patel,,unmatched,Kings XI Punjab,All-Rounder,,,missing,7500000.0,INR,1.0,7500000.0,0.75,IPL_Auction_2014_Sold_Player.csv
+2014,,Albie Morkel,,unmatched,Royal Challengers Bengaluru,All-Rounder,,,missing,24000000.0,INR,1.0,24000000.0,2.4,IPL_Auction_2014_Sold_Player.csv
+2014,,Amit Mishra,,ambiguous,Rajasthan Royals,Bowler,,,missing,1000000.0,INR,1.0,1000000.0,0.1,IPL_Auction_2014_Sold_Player.csv
+2014,,Amit Mishra,,ambiguous,Sunrisers Hyderabad,Bowler,,,missing,47500000.0,INR,1.0,47500000.0,4.75,IPL_Auction_2014_Sold_Player.csv
+2014,,Ben Cutting,,unmatched,Rajasthan Royals,Bowler,,,missing,8000000.0,INR,1.0,8000000.0,0.8,IPL_Auction_2014_Sold_Player.csv
+2014,,Ben Hilfenhaus,,unmatched,Chennai Super Kings,Bowler,,,missing,10000000.0,INR,1.0,10000000.0,1.0,IPL_Auction_2014_Sold_Player.csv
+2014,,Darren Sammy,,unmatched,Sunrisers Hyderabad,All-Rounder,,,missing,35000000.0,INR,1.0,35000000.0,3.5,IPL_Auction_2014_Sold_Player.csv
+2014,,Faf Du Plessis,,unmatched,Chennai Super Kings,Batsman,,,missing,47500000.0,INR,1.0,47500000.0,4.75,IPL_Auction_2014_Sold_Player.csv
+2014,,Gurkirat Singh Mann,,unmatched,Kings XI Punjab,Batsman,,,missing,13000000.0,INR,1.0,13000000.0,1.3,IPL_Auction_2014_Sold_Player.csv
+2014,,HS Sharath,,unmatched,Delhi Daredevils,Bowler,,,missing,1000000.0,INR,1.0,1000000.0,0.1,IPL_Auction_2014_Sold_Player.csv
+2014,,Krismar Santokie,,unmatched,Mumbai Indians,Bowler,,,missing,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2014_Sold_Player.csv
+2014,,Kuldeep Singh Yadav,,unmatched,Kolkata Knight Riders,Bowler,,,missing,4000000.0,INR,1.0,4000000.0,0.4,IPL_Auction_2014_Sold_Player.csv
+2014,,Mandeep Hardev Singh,,unmatched,Kings XI Punjab,All-Rounder,,,missing,8000000.0,INR,1.0,8000000.0,0.8,IPL_Auction_2014_Sold_Player.csv
+2014,,Matt Henry,,ambiguous_full_name,Chennai Super Kings,Bowler,,,missing,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2014_Sold_Player.csv
+2014,,Mitchell Johnson,,ambiguous_full_name,Kings XI Punjab,All-Rounder,,,missing,65000000.0,INR,1.0,65000000.0,6.5,IPL_Auction_2014_Sold_Player.csv
+2014,,Mohammad Shami,,unmatched,Delhi Daredevils,Bowler,,,missing,42500000.0,INR,1.0,42500000.0,4.25,IPL_Auction_2014_Sold_Player.csv
+2014,,Muttiah Muralitharan,,unmatched,Royal Challengers Bengaluru,Bowler,,,missing,10000000.0,INR,1.0,10000000.0,1.0,IPL_Auction_2014_Sold_Player.csv
+2014,,Nic Maddinson,,unmatched,Royal Challengers Bengaluru,Batsman,,,missing,5000000.0,INR,1.0,5000000.0,0.5,IPL_Auction_2014_Sold_Player.csv
+2014,,Parthiv Patel,,ambiguous_full_name,Royal Challengers Bengaluru,Wicket Keeper,,,missing,14000000.0,INR,1.0,14000000.0,1.4,IPL_Auction_2014_Sold_Player.csv
+2014,,Parveez Rasool,,unmatched,Sunrisers Hyderabad,All-Rounder,,,missing,9500000.0,INR,1.0,9500000.0,0.95,IPL_Auction_2014_Sold_Player.csv
+2014,,Rahul Sharma,,ambiguous,Delhi Daredevils,Bowler,,,missing,19000000.0,INR,1.0,19000000.0,1.9,IPL_Auction_2014_Sold_Player.csv
+2014,,Ross Taylor,,ambiguous_full_name,Delhi Daredevils,Batsman,,,missing,20000000.0,INR,1.0,20000000.0,2.0,IPL_Auction_2014_Sold_Player.csv
+2014,,Sayan Sekhar Mandal,,unmatched,Kolkata Knight Riders,All-Rounder,,,missing,1000000.0,INR,1.0,1000000.0,0.1,IPL_Auction_2014_Sold_Player.csv
+2014,,Shivam Sharma,,ambiguous,Kings XI Punjab,Bowler,,,missing,1000000.0,INR,1.0,1000000.0,0.1,IPL_Auction_2014_Sold_Player.csv
+2014,,Steven Smith,,ambiguous_full_name,Rajasthan Royals,All-Rounder,,,missing,40000000.0,INR,1.0,40000000.0,4.0,IPL_Auction_2014_Sold_Player.csv
+2014,,Sushant Marathe,,unmatched,Mumbai Indians,Wicket Keeper,,,missing,1000000.0,INR,1.0,1000000.0,0.1,IPL_Auction_2014_Sold_Player.csv
+2014,,Tim Southee,,unmatched,Rajasthan Royals,Bowler,,,missing,12000000.0,INR,1.0,12000000.0,1.2,IPL_Auction_2014_Sold_Player.csv
+2014,,Umesh Yadav,,ambiguous_full_name,Kolkata Knight Riders,Bowler,,,missing,26000000.0,INR,1.0,26000000.0,2.6,IPL_Auction_2014_Sold_Player.csv
+2014,,Yuvraj Singh,,ambiguous,Royal Challengers Bengaluru,All-Rounder,,,missing,140000000.0,INR,1.0,140000000.0,14.0,IPL_Auction_2014_Sold_Player.csv
+2015,,Albie Morkel,,unmatched,Delhi Daredevils,All-Rounder,,,missing,3000000.0,INR,1.0,3000000.0,1.0,IPL_Auction_2015_Sold_Player.csv
+2015,,Amit Mishra,,ambiguous,Delhi Daredevils,Bowler,,,missing,35000000.0,INR,1.0,35000000.0,11.666667,IPL_Auction_2015_Sold_Player.csv
+2015,,Barinder Singh Saran,,unmatched,Rajasthan Royals,Bowler,,,missing,1000000.0,INR,1.0,1000000.0,0.333333,IPL_Auction_2015_Sold_Player.csv
+2015,,Darren Sammy,,unmatched,Royal Challengers Bengaluru,All-Rounder,,,missing,28000000.0,INR,1.0,28000000.0,9.333333,IPL_Auction_2015_Sold_Player.csv
+2015,,Domnic Joseph Muthuswamy,,unmatched,Delhi Daredevils,Bowler,,,missing,7500000.0,INR,1.0,7500000.0,2.5,IPL_Auction_2015_Sold_Player.csv
+2015,,J. Suchitch,,unmatched,Mumbai Indians,All-Rounder,,,missing,1000000.0,INR,1.0,1000000.0,0.333333,IPL_Auction_2015_Sold_Player.csv
+2015,,K.K. Jiyaz,,unmatched,Delhi Daredevils,Bowler,,,missing,1000000.0,INR,1.0,1000000.0,0.333333,IPL_Auction_2015_Sold_Player.csv
+2015,,Kane Williamson,,ambiguous_full_name,Sunrisers Hyderabad,All-Rounder,,,missing,6000000.0,INR,1.0,6000000.0,2.0,IPL_Auction_2015_Sold_Player.csv
+2015,,Rahul Sharma,,ambiguous,Chennai Super Kings,Bowler,,,missing,3000000.0,INR,1.0,3000000.0,1.0,IPL_Auction_2015_Sold_Player.csv
+2015,,Shishir Bhavane,,unmatched,Royal Challengers Bengaluru,Batsman,,,missing,1000000.0,INR,1.0,1000000.0,0.333333,IPL_Auction_2015_Sold_Player.csv
+2015,,Vaibhav Rawal,,unmatched,Kolkata Knight Riders,All-Rounder,,,missing,1000000.0,INR,1.0,1000000.0,0.333333,IPL_Auction_2015_Sold_Player.csv
+2015,,Yogesh Gowalkar,,unmatched,Kings XI Punjab,All-Rounder,,,missing,1000000.0,INR,1.0,1000000.0,0.333333,IPL_Auction_2015_Sold_Player.csv
+2015,,Yuvraj Singh,,ambiguous,Delhi Daredevils,Batsman,,,missing,160000000.0,INR,1.0,160000000.0,53.333333,IPL_Auction_2015_Sold_Player.csv
+2016,,Amit Mishra,,ambiguous,Gujarat Lions,Bowler,,,missing,1000000.0,INR,1.0,1000000.0,0.2,IPL_Auction_2016_Sold_Player.csv
+2016,,Armaan Jaffer,,unmatched,Kings XI Punjab,Batsman,,,missing,1000000.0,INR,1.0,1000000.0,0.2,IPL_Auction_2016_Sold_Player.csv
+2016,,Barinder Singh Sran,,unmatched,Sunrisers Hyderabad,Bowler,,,missing,12000000.0,INR,1.0,12000000.0,2.4,IPL_Auction_2016_Sold_Player.csv
+2016,,Ben Cutting,,unmatched,Sunrisers Hyderabad,All-Rounder,,,missing,5000000.0,INR,1.0,5000000.0,1.0,IPL_Auction_2016_Sold_Player.csv
+2016,,Jaskaran Singh,,ambiguous,Rising Pune Supergiant,Bowler,,,missing,1000000.0,INR,1.0,1000000.0,0.2,IPL_Auction_2016_Sold_Player.csv
+2016,,Jos Buttler,,unmatched,Mumbai Indians,Wicket Keeper,,,missing,38000000.0,INR,1.0,38000000.0,7.6,IPL_Auction_2016_Sold_Player.csv
+2016,,Kishore Pramod Kamath,,unmatched,Mumbai Indians,All-Rounder,,,missing,14000000.0,INR,1.0,14000000.0,2.8,IPL_Auction_2016_Sold_Player.csv
+2016,,Manan Ajay Sharma,,unmatched,Kolkata Knight Riders,All-Rounder,,,missing,1000000.0,INR,1.0,1000000.0,0.2,IPL_Auction_2016_Sold_Player.csv
+2016,,Sam Billings,,unmatched,Delhi Daredevils,Wicket Keeper,,,missing,3000000.0,INR,1.0,3000000.0,0.6,IPL_Auction_2016_Sold_Player.csv
+2016,,Syed Khaleel Ahmed,,unmatched,Delhi Daredevils,All-Rounder,,,missing,1000000.0,INR,1.0,1000000.0,0.2,IPL_Auction_2016_Sold_Player.csv
+2016,,Tim Southee,,unmatched,Mumbai Indians,Bowler,,,missing,25000000.0,INR,1.0,25000000.0,5.0,IPL_Auction_2016_Sold_Player.csv
+2016,,Yuvraj Singh,,ambiguous,Sunrisers Hyderabad,All-Rounder,,,missing,70000000.0,INR,1.0,70000000.0,14.0,IPL_Auction_2016_Sold_Player.csv
+2017,,Ankeet Bawane,,unmatched,Delhi Daredevils,Batsman,,,missing,1000000.0,INR,1.0,1000000.0,0.25,IPL_Auction_2017_Sold_Player.csv
+2017,,Asela Gunarathna,,unmatched,Mumbai Indians,Batsman,,,missing,3000000.0,INR,1.0,3000000.0,0.75,IPL_Auction_2017_Sold_Player.csv
+2017,,Chris Jordan,,ambiguous_full_name,Sunrisers Hyderabad,All-Rounder,,,missing,5000000.0,INR,1.0,5000000.0,1.25,IPL_Auction_2017_Sold_Player.csv
+2017,,Darren Sammy,,unmatched,Kings XI Punjab,All-Rounder,,,missing,3000000.0,INR,1.0,3000000.0,0.75,IPL_Auction_2017_Sold_Player.csv
+2017,,Lockie Ferguson,,unmatched,Rising Pune Supergiant,Bowler,,,missing,5000000.0,INR,1.0,5000000.0,1.25,IPL_Auction_2017_Sold_Player.csv
+2017,,Matt Henry,,ambiguous_full_name,Kings XI Punjab,Bowler,,,missing,5000000.0,INR,1.0,5000000.0,1.25,IPL_Auction_2017_Sold_Player.csv
+2017,,Milind Tandon,,unmatched,Rising Pune Supergiant,All-Rounder,,,missing,1000000.0,INR,1.0,1000000.0,0.25,IPL_Auction_2017_Sold_Player.csv
+2017,,Mitchell Johnson,,ambiguous_full_name,Mumbai Indians,Bowler,,,missing,20000000.0,INR,1.0,20000000.0,5.0,IPL_Auction_2017_Sold_Player.csv
+2017,,Nicolas Pooran,,unmatched,Mumbai Indians,Wicket Keeper,,,missing,3000000.0,INR,1.0,3000000.0,0.75,IPL_Auction_2017_Sold_Player.csv
+2017,,Saurabh Kumar,,ambiguous,Rising Pune Supergiant,Bowler,,,missing,1000000.0,INR,1.0,1000000.0,0.25,IPL_Auction_2017_Sold_Player.csv
+2017,,Shelley Shaurya,,unmatched,Gujarat Lions,Bowler,,,missing,1000000.0,INR,1.0,1000000.0,0.25,IPL_Auction_2017_Sold_Player.csv
+2017,,Shubam Agrawal,,unmatched,Gujarat Lions,All-Rounder,,,missing,1000000.0,INR,1.0,1000000.0,0.25,IPL_Auction_2017_Sold_Player.csv
+2017,,Tejas Singh Baroka,,unmatched,Gujarat Lions,Bowler,,,missing,1000000.0,INR,1.0,1000000.0,0.25,IPL_Auction_2017_Sold_Player.csv
+2018,,Akila Dhananjaya,,unmatched,Mumbai Indians,Bowler,,,missing,5000000.0,INR,1.0,5000000.0,0.294118,IPL_Auction_2018_Sold_Player.csv
+2018,,Amit Mishra,,ambiguous,Delhi Daredevils,Bowler,,,missing,40000000.0,INR,1.0,40000000.0,2.352941,IPL_Auction_2018_Sold_Player.csv
+2018,,Anirudha Ashok Joshi,,unmatched,Royal Challengers Bengaluru,All-Rounder,,,missing,2000000.0,INR,1.0,2000000.0,0.117647,IPL_Auction_2018_Sold_Player.csv
+2018,,Aryaman Vikram Birla,,unmatched,Rajasthan Royals,All-Rounder,,,missing,3000000.0,INR,1.0,3000000.0,0.176471,IPL_Auction_2018_Sold_Player.csv
+2018,,Asif K M,,unmatched,Chennai Super Kings,Bowler,,,missing,4000000.0,INR,1.0,4000000.0,0.235294,IPL_Auction_2018_Sold_Player.csv
+2018,,Barinder Singh Sran,,unmatched,Kings XI Punjab,Bowler,,,missing,22000000.0,INR,1.0,22000000.0,1.294118,IPL_Auction_2018_Sold_Player.csv
+2018,,Ben Cutting,,unmatched,Mumbai Indians,All-Rounder,,,missing,22000000.0,INR,1.0,22000000.0,1.294118,IPL_Auction_2018_Sold_Player.csv
+2018,,Ben Dwarshuis,,unmatched,Kings XI Punjab,Bowler,,,missing,14000000.0,INR,1.0,14000000.0,0.823529,IPL_Auction_2018_Sold_Player.csv
+2018,,Chris Jordan,,ambiguous_full_name,Sunrisers Hyderabad,All-Rounder,,,missing,10000000.0,INR,1.0,10000000.0,0.588235,IPL_Auction_2018_Sold_Player.csv
+2018,,Darcy Short,,unmatched,Rajasthan Royals,All-Rounder,,,missing,40000000.0,INR,1.0,40000000.0,2.352941,IPL_Auction_2018_Sold_Player.csv
+2018,,Faf Du Plessis,,unmatched,Chennai Super Kings,Batsman,,,missing,16000000.0,INR,1.0,16000000.0,0.941176,IPL_Auction_2018_Sold_Player.csv
+2018,,Gurkeerat Singh Mann,,unmatched,Delhi Daredevils,All-Rounder,,,missing,7500000.0,INR,1.0,7500000.0,0.441176,IPL_Auction_2018_Sold_Player.csv
+2018,,Jos Buttler,,unmatched,Rajasthan Royals,Wicket Keeper,,,missing,44000000.0,INR,1.0,44000000.0,2.588235,IPL_Auction_2018_Sold_Player.csv
+2018,,Kane Williamson,,ambiguous_full_name,Sunrisers Hyderabad,Batsman,,,missing,30000000.0,INR,1.0,30000000.0,1.764706,IPL_Auction_2018_Sold_Player.csv
+2018,,Kuldeep Singh Yadav,,unmatched,Kolkata Knight Riders,Bowler,,,missing,58000000.0,INR,1.0,58000000.0,3.411765,IPL_Auction_2018_Sold_Player.csv
+2018,,M.S. Washington Sundar,,unmatched,Royal Challengers Bengaluru,All-Rounder,,,missing,32000000.0,INR,1.0,32000000.0,1.882353,IPL_Auction_2018_Sold_Player.csv
+2018,,Mandeep Singh,,ambiguous,Royal Challengers Bengaluru,All-Rounder,,,missing,14000000.0,INR,1.0,14000000.0,0.823529,IPL_Auction_2018_Sold_Player.csv
+2018,,Mitchell Johnson,,ambiguous_full_name,Kolkata Knight Riders,Bowler,,,missing,20000000.0,INR,1.0,20000000.0,1.176471,IPL_Auction_2018_Sold_Player.csv
+2018,,Mohammad Shami,,unmatched,Delhi Daredevils,Bowler,,,missing,30000000.0,INR,1.0,30000000.0,1.764706,IPL_Auction_2018_Sold_Player.csv
+2018,,Mohsin Khan,,ambiguous,Mumbai Indians,Bowler,,,missing,2000000.0,INR,1.0,2000000.0,0.117647,IPL_Auction_2018_Sold_Player.csv
+2018,,Mujeeb Zadran,,unmatched,Kings XI Punjab,Bowler,,,missing,40000000.0,INR,1.0,40000000.0,2.352941,IPL_Auction_2018_Sold_Player.csv
+2018,,Nidheesh M D Dinesan,,unmatched,Mumbai Indians,Bowler,,,missing,2000000.0,INR,1.0,2000000.0,0.117647,IPL_Auction_2018_Sold_Player.csv
+2018,,Parthiv Patel,,ambiguous_full_name,Royal Challengers Bengaluru,Wicket Keeper,,,missing,17000000.0,INR,1.0,17000000.0,1.0,IPL_Auction_2018_Sold_Player.csv
+2018,,Pat Cummins,,unmatched,Mumbai Indians,Bowler,,,missing,54000000.0,INR,1.0,54000000.0,3.176471,IPL_Auction_2018_Sold_Player.csv
+2018,,Sam Billings,,unmatched,Chennai Super Kings,Wicket Keeper,,,missing,10000000.0,INR,1.0,10000000.0,0.588235,IPL_Auction_2018_Sold_Player.csv
+2018,,Syed Khaleel Ahmed,,unmatched,Sunrisers Hyderabad,Bowler,,,missing,30000000.0,INR,1.0,30000000.0,1.764706,IPL_Auction_2018_Sold_Player.csv
+2018,,Syed Mehdi Hasan,,unmatched,Sunrisers Hyderabad,All-Rounder,,,missing,2000000.0,INR,1.0,2000000.0,0.117647,IPL_Auction_2018_Sold_Player.csv
+2018,,Tim Southee,,unmatched,Royal Challengers Bengaluru,Bowler,,,missing,10000000.0,INR,1.0,10000000.0,0.588235,IPL_Auction_2018_Sold_Player.csv
+2018,,Umesh Yadav,,ambiguous_full_name,Royal Challengers Bengaluru,Bowler,,,missing,42000000.0,INR,1.0,42000000.0,2.470588,IPL_Auction_2018_Sold_Player.csv
+2018,,Yuvraj Singh,,ambiguous,Kings XI Punjab,All-Rounder,,,missing,20000000.0,INR,1.0,20000000.0,1.176471,IPL_Auction_2018_Sold_Player.csv
+2019,,Agnivesh Ayachi,,unmatched,Kings XI Punjab,All-Rounder,,,missing,2000000.0,INR,1.0,2000000.0,0.266667,IPL_Auction_2019_Sold_Player.csv
+2019,,Barinder Singh Sran,,unmatched,Mumbai Indians,Bowler,,,missing,34000000.0,INR,1.0,34000000.0,4.533333,IPL_Auction_2019_Sold_Player.csv
+2019,,Gurkeerat Singh Mann,,unmatched,Royal Challengers Bengaluru,All-Rounder,,,missing,5000000.0,INR,1.0,5000000.0,0.666667,IPL_Auction_2019_Sold_Player.csv
+2019,,Hardus Viljoen,,unmatched,Kings XI Punjab,Bowler,,,missing,7500000.0,INR,1.0,7500000.0,1.0,IPL_Auction_2019_Sold_Player.csv
+2019,,Joe Denly,,unmatched,Kolkata Knight Riders,Batsman,,,missing,10000000.0,INR,1.0,10000000.0,1.333333,IPL_Auction_2019_Sold_Player.csv
+2019,,Jonny Bairstow,,unmatched,Sunrisers Hyderabad,Wicket Keeper,,,missing,22000000.0,INR,1.0,22000000.0,2.933333,IPL_Auction_2019_Sold_Player.csv
+2019,,Lockie Ferguson,,unmatched,Kolkata Knight Riders,Bowler,,,missing,16000000.0,INR,1.0,16000000.0,2.133333,IPL_Auction_2019_Sold_Player.csv
+2019,,Mohammad Shami,,unmatched,Kings XI Punjab,Bowler,,,missing,48000000.0,INR,1.0,48000000.0,6.4,IPL_Auction_2019_Sold_Player.csv
+2019,,Nicolas Pooran,,unmatched,Kings XI Punjab,Wicket Keeper,,,missing,42000000.0,INR,1.0,42000000.0,5.6,IPL_Auction_2019_Sold_Player.csv
+2019,,Sam Curran,,unmatched,Kings XI Punjab,All-Rounder,,,missing,72000000.0,INR,1.0,72000000.0,9.6,IPL_Auction_2019_Sold_Player.csv
+2019,,Varun Chakaravarthy,,unmatched,Kings XI Punjab,All-Rounder,,,missing,84000000.0,INR,1.0,84000000.0,11.2,IPL_Auction_2019_Sold_Player.csv
+2019,,Yuvraj Singh,,ambiguous,Mumbai Indians,All-Rounder,,,missing,10000000.0,INR,1.0,10000000.0,1.333333,IPL_Auction_2019_Sold_Player.csv
+2020,,Abdul Samad,,ambiguous,Sunrisers Hyderabad,All-Rounder,,,missing,2000000.0,INR,1.0,2000000.0,0.222222,IPL_Auction_2020_Sold_Player.csv
+2020,,Anirudha Ashok Joshi,,unmatched,Rajasthan Royals,All-Rounder,,,missing,2000000.0,INR,1.0,2000000.0,0.222222,IPL_Auction_2020_Sold_Player.csv
+2020,,Chris Jordan,,ambiguous_full_name,Kings XI Punjab,All-Rounder,,,missing,30000000.0,INR,1.0,30000000.0,3.333333,IPL_Auction_2020_Sold_Player.csv
+2020,,Mohsin Khan,,ambiguous,Mumbai Indians,Bowler,,,missing,2000000.0,INR,1.0,2000000.0,0.222222,IPL_Auction_2020_Sold_Player.csv
+2020,,Pat Cummins,,unmatched,Kolkata Knight Riders,All-Rounder,,,missing,155000000.0,INR,1.0,155000000.0,17.222222,IPL_Auction_2020_Sold_Player.csv
+2020,,Prince Balwant Rai Singh,,unmatched,Mumbai Indians,All-Rounder,,,missing,2000000.0,INR,1.0,2000000.0,0.222222,IPL_Auction_2020_Sold_Player.csv
+2020,,Sam Curran,,unmatched,Chennai Super Kings,All-Rounder,,,missing,55000000.0,INR,1.0,55000000.0,6.111111,IPL_Auction_2020_Sold_Player.csv
+2020,,Shahbaz Ahamad,,unmatched,Royal Challengers Bengaluru,Wicket Keeper,,,missing,2000000.0,INR,1.0,2000000.0,0.222222,IPL_Auction_2020_Sold_Player.csv
+2020,,Tom Curran,,unmatched,Rajasthan Royals,All-Rounder,,,missing,10000000.0,INR,1.0,10000000.0,1.111111,IPL_Auction_2020_Sold_Player.csv
+2020,,Varun Chakaravarthy,,unmatched,Kolkata Knight Riders,All-Rounder,,,missing,40000000.0,INR,1.0,40000000.0,4.444444,IPL_Auction_2020_Sold_Player.csv
+2021,,Ben Cutting,,unmatched,Kolkata Knight Riders,All-Rounder,,,missing,7500000.0,INR,1.0,7500000.0,1.5,IPL_Auction_2021_Sold_Player.csv
+2021,,C Hari Nishaanth,,unmatched,Chennai Super Kings,Batsman,,,missing,2000000.0,INR,1.0,2000000.0,0.4,IPL_Auction_2021_Sold_Player.csv
+2021,,Dan Christian,,unmatched,Royal Challengers Bengaluru,All-Rounder,,,missing,48000000.0,INR,1.0,48000000.0,9.6,IPL_Auction_2021_Sold_Player.csv
+2021,,Lukman Hussain Meriwala,,unmatched,Delhi Capitals,Bowler,,,missing,2000000.0,INR,1.0,2000000.0,0.4,IPL_Auction_2021_Sold_Player.csv
+2021,,M. Harisankar Reddy,,unmatched,Chennai Super Kings,Bowler,,,missing,2000000.0,INR,1.0,2000000.0,0.4,IPL_Auction_2021_Sold_Player.csv
+2021,,Mohammed Azharudeen,,unmatched,Royal Challengers Bengaluru,Wicket Keeper,,,missing,2000000.0,INR,1.0,2000000.0,0.4,IPL_Auction_2021_Sold_Player.csv
+2021,,Mujeeb Zadran,,unmatched,Sunrisers Hyderabad,Bowler,,,missing,15000000.0,INR,1.0,15000000.0,3.0,IPL_Auction_2021_Sold_Player.csv
+2021,,Sam Billings,,unmatched,Delhi Capitals,Wicket Keeper,,,missing,20000000.0,INR,1.0,20000000.0,4.0,IPL_Auction_2021_Sold_Player.csv
+2021,,Saurabh Kumar,,ambiguous,Punjab Kings,All-Rounder,,,missing,2000000.0,INR,1.0,2000000.0,0.4,IPL_Auction_2021_Sold_Player.csv
+2021,,Steven Smith,,ambiguous_full_name,Delhi Capitals,Batsman,,,missing,22000000.0,INR,1.0,22000000.0,4.4,IPL_Auction_2021_Sold_Player.csv
+2021,,Suyash Prabhudesai,,unmatched,Royal Challengers Bengaluru,All-Rounder,,,missing,2000000.0,INR,1.0,2000000.0,0.4,IPL_Auction_2021_Sold_Player.csv
+2021,,Tom Curran,,unmatched,Delhi Capitals,All-Rounder,,,missing,52500000.0,INR,1.0,52500000.0,10.5,IPL_Auction_2021_Sold_Player.csv
+2021,,Umesh Yadav,,ambiguous_full_name,Delhi Capitals,Bowler,,,missing,10000000.0,INR,1.0,10000000.0,2.0,IPL_Auction_2021_Sold_Player.csv
+2022,,Abhinav Sadarangani,,unmatched,Gujarat Titans,Batsman,Indian,Indian,source,26000000.0,INR,1.0,26000000.0,2.47619,IPL_Auction_2022_Sold_Player.csv
+2022,,Aneeshwar Gautam,,unmatched,Royal Challengers Bangalore,All-Rounder,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.190476,IPL_Auction_2022_Sold_Player.csv
+2022,,C.Hari Nishaanth,,unmatched,Chennai Super Kings,Batsman,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.190476,IPL_Auction_2022_Sold_Player.csv
+2022,,Chris Jordan,,ambiguous_full_name,Chennai Super Kings,All-Rounder,Overseas,Overseas,source,36000000.0,INR,1.0,36000000.0,3.428571,IPL_Auction_2022_Sold_Player.csv
+2022,,Dushmanta Chameera,,unmatched,Lucknow Super Giants,Bowler,Overseas,Overseas,source,20000000.0,INR,1.0,20000000.0,1.904762,IPL_Auction_2022_Sold_Player.csv
+2022,,Faf Du Plessis,,unmatched,Royal Challengers Bangalore,Batsman,Overseas,Overseas,source,70000000.0,INR,1.0,70000000.0,6.666667,IPL_Auction_2022_Sold_Player.csv
+2022,,Jonny Bairstow,,unmatched,Punjab Kings,Wicket Keeper,Overseas,Overseas,source,67500000.0,INR,1.0,67500000.0,6.428571,IPL_Auction_2022_Sold_Player.csv
+2022,,Lockie Ferguson,,unmatched,Gujarat Titans,Bowler,Overseas,Overseas,source,100000000.0,INR,1.0,100000000.0,9.52381,IPL_Auction_2022_Sold_Player.csv
+2022,,Mandeep Singh,,ambiguous,Delhi Capitals,Batsman,Indian,Indian,source,11000000.0,INR,1.0,11000000.0,1.047619,IPL_Auction_2022_Sold_Player.csv
+2022,,Mohammad Shami,,unmatched,Gujarat Titans,Bowler,Indian,Indian,source,62500000.0,INR,1.0,62500000.0,5.952381,IPL_Auction_2022_Sold_Player.csv
+2022,,Mohsin Khan,,ambiguous,Lucknow Super Giants,Bowler,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.190476,IPL_Auction_2022_Sold_Player.csv
+2022,,N. Tilak Varma,,unmatched,Mumbai Indians,All-Rounder,Indian,Indian,source,17000000.0,INR,1.0,17000000.0,1.619048,IPL_Auction_2022_Sold_Player.csv
+2022,,Pat Cummins,,unmatched,Kolkata Knight Riders,All-Rounder,Overseas,Overseas,source,72500000.0,INR,1.0,72500000.0,6.904762,IPL_Auction_2022_Sold_Player.csv
+2022,,Pravin Dubey,,unmatched,Delhi Capitals,All-Rounder,Indian,Indian,source,5000000.0,INR,1.0,5000000.0,0.47619,IPL_Auction_2022_Sold_Player.csv
+2022,,R Samarth,,unmatched,Sunrisers Hyderabad,Batsman,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.190476,IPL_Auction_2022_Sold_Player.csv
+2022,,Raj Angad Bawa,,unmatched,Punjab Kings,All-Rounder,Indian,Indian,source,20000000.0,INR,1.0,20000000.0,1.904762,IPL_Auction_2022_Sold_Player.csv
+2022,,Rassie Van Der Dussen,,unmatched,Rajasthan Royals,Batsman,Overseas,Overseas,source,10000000.0,INR,1.0,10000000.0,0.952381,IPL_Auction_2022_Sold_Player.csv
+2022,,Sam Billings,,unmatched,Kolkata Knight Riders,Wicket Keeper,Overseas,Overseas,source,20000000.0,INR,1.0,20000000.0,1.904762,IPL_Auction_2022_Sold_Player.csv
+2022,,Shahbaz Ahamad,,unmatched,Royal Challengers Bangalore,All-Rounder,Indian,Indian,source,24000000.0,INR,1.0,24000000.0,2.285714,IPL_Auction_2022_Sold_Player.csv
+2022,,Shubham Garhwal,,unmatched,Rajasthan Royals,All-Rounder,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.190476,IPL_Auction_2022_Sold_Player.csv
+2022,,Siddharth  Kaul,,unmatched,Royal Challengers Bangalore,Bowler,Indian,Indian,source,7500000.0,INR,1.0,7500000.0,0.714286,IPL_Auction_2022_Sold_Player.csv
+2022,,Syed Khaleel Ahmed,,unmatched,Delhi Capitals,Bowler,Indian,Indian,source,52500000.0,INR,1.0,52500000.0,5.0,IPL_Auction_2022_Sold_Player.csv
+2022,,Tim David,,unmatched,Mumbai Indians,All-Rounder,Overseas,Overseas,source,82500000.0,INR,1.0,82500000.0,7.857143,IPL_Auction_2022_Sold_Player.csv
+2022,,Tim Southee,,unmatched,Kolkata Knight Riders,Bowler,Overseas,Overseas,source,15000000.0,INR,1.0,15000000.0,1.428571,IPL_Auction_2022_Sold_Player.csv
+2022,,Umesh Yadav,,ambiguous_full_name,Kolkata Knight Riders,Bowler,Indian,Indian,source,20000000.0,INR,1.0,20000000.0,1.904762,IPL_Auction_2022_Sold_Player.csv
+2022,,Vicky Ostwal,,unmatched,Delhi Capitals,All-Rounder,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.190476,IPL_Auction_2022_Sold_Player.csv
+2023,,Abdul P A,,unmatched,Rajasthan Royals,All-Rounder,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.4,IPL_Auction_2023_Sold_Player.csv
+2023,,Akash Vashisht,,unmatched,Rajasthan Royals,All-Rounder,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.4,IPL_Auction_2023_Sold_Player.csv
+2023,,Amit Mishra,,ambiguous,Lucknow Super Giants,Bowler,Indian,Indian,source,5000000.0,INR,1.0,5000000.0,1.0,IPL_Auction_2023_Sold_Player.csv
+2023,,Avinash Singh,,unmatched,Royal Challengers Bangalore,Bowler,Indian,Indian,source,6000000.0,INR,1.0,6000000.0,1.2,IPL_Auction_2023_Sold_Player.csv
+2023,,Ben Stokes,,unmatched,Chennai Super Kings,All-Rounder,Overseas,Overseas,source,162500000.0,INR,1.0,162500000.0,32.5,IPL_Auction_2023_Sold_Player.csv
+2023,,Joe Root,,unmatched,Rajasthan Royals,Batter,Overseas,Overseas,source,10000000.0,INR,1.0,10000000.0,2.0,IPL_Auction_2023_Sold_Player.csv
+2023,,Kane Williamson,,ambiguous_full_name,Gujarat Titans,Batter,Overseas,Overseas,source,20000000.0,INR,1.0,20000000.0,4.0,IPL_Auction_2023_Sold_Player.csv
+2023,,Mandeep Singh,,ambiguous,Kolkata Knight Riders,Batter,Indian,Indian,source,5000000.0,INR,1.0,5000000.0,1.0,IPL_Auction_2023_Sold_Player.csv
+2023,,Sam Curran,,unmatched,Punjab Kings,All-Rounder,Overseas,Overseas,source,185000000.0,INR,1.0,185000000.0,37.0,IPL_Auction_2023_Sold_Player.csv
+2023,,Upendra Singh Yadav,,unmatched,Sunrisers Hyderabad,Wicket-Keeper,Indian,Indian,source,2500000.0,INR,1.0,2500000.0,0.5,IPL_Auction_2023_Sold_Player.csv
+2023,,Will Jacks,,ambiguous_full_name,Royal Challengers Bangalore,Batter,Overseas,Overseas,source,32000000.0,INR,1.0,32000000.0,6.4,IPL_Auction_2023_Sold_Player.csv
+2024,,Avanish Rao Aravelly,,unmatched,Chennai Super Kings,Wicket-Keeper,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.16,IPL_Auction_2024_Sold_Player.csv
+2024,,Dilshan Madushanka,,ambiguous_full_name,Mumbai Indians,Bowler,Overseas,Overseas,source,46000000.0,INR,1.0,46000000.0,3.68,IPL_Auction_2024_Sold_Player.csv
+2024,,Gus Atkinson,,unmatched,Kolkata Knight Riders,Bowler,Overseas,Overseas,source,10000000.0,INR,1.0,10000000.0,0.8,IPL_Auction_2024_Sold_Player.csv
+2024,,Jhathavedh Subramanyan,,unmatched,Sunrisers Hyderabad,Bowler,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.16,IPL_Auction_2024_Sold_Player.csv
+2024,,Lockie Ferguson,,unmatched,Royal Challengers Bengaluru,Bowler,Overseas,Overseas,source,20000000.0,INR,1.0,20000000.0,1.6,IPL_Auction_2024_Sold_Player.csv
+2024,,Pat Cummins,,unmatched,Sunrisers Hyderabad,All-Rounder,Overseas,Overseas,source,205000000.0,INR,1.0,205000000.0,16.4,IPL_Auction_2024_Sold_Player.csv
+2024,,Prince Choudhary,,unmatched,Punjab Kings,Bowler,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.16,IPL_Auction_2024_Sold_Player.csv
+2024,,Robin Minz,,unmatched,Gujarat Titans,Wicket-Keeper,Indian,Indian,source,36000000.0,INR,1.0,36000000.0,2.88,IPL_Auction_2024_Sold_Player.csv
+2024,,Saurav Chuahan,,unmatched,Royal Challengers Bengaluru,Batter,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.16,IPL_Auction_2024_Sold_Player.csv
+2024,,Sumit Kumar,,ambiguous,Delhi Capitals,All-Rounder,Indian,Indian,source,10000000.0,INR,1.0,10000000.0,0.8,IPL_Auction_2024_Sold_Player.csv
+2024,,Sushant Mishra,,unmatched,Gujarat Titans,Bowler,Indian,Indian,source,22000000.0,INR,1.0,22000000.0,1.76,IPL_Auction_2024_Sold_Player.csv
+2024,,Swastik Chhikara,,unmatched,Delhi Capitals,Batter,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.16,IPL_Auction_2024_Sold_Player.csv
+2024,,Tom Curran,,unmatched,Royal Challengers Bengaluru,All-Rounder,Overseas,Overseas,source,15000000.0,INR,1.0,15000000.0,1.2,IPL_Auction_2024_Sold_Player.csv
+2024,,Umesh Yadav,,ambiguous_full_name,Gujarat Titans,Bowler,Indian,Indian,source,58000000.0,INR,1.0,58000000.0,4.64,IPL_Auction_2024_Sold_Player.csv
+2024,,Vishwanath Pratap Singh,,unmatched,Punjab Kings,All-Rounder,Indian,Indian,source,2000000.0,INR,1.0,2000000.0,0.16,IPL_Auction_2024_Sold_Player.csv
+2025,,Abdul Samad,,ambiguous,Lucknow Super Giants,,Indian,Indian,source,42000000.0,INR,1.0,42000000.0,2.8,IPL_Auction_2025_Sold_Player.csv
+2025,,Allah  Ghazanfar,,unmatched,Mumbai Indians,,Overseas,Overseas,source,48000000.0,INR,1.0,48000000.0,3.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Andre Siddarth,,unmatched,Chennai Super Kings,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Bevan John Jacobs,,unmatched,Mumbai Indians,,Overseas,Overseas,source,3000000.0,INR,1.0,3000000.0,0.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Digvesh Singh,,unmatched,Lucknow Super Giants,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Faf Du Plessis,,unmatched,Delhi Capitals,,Overseas,Overseas,source,20000000.0,INR,1.0,20000000.0,1.333333,IPL_Auction_2025_Sold_Player.csv
+2025,,Gurnoor Singh Brar,,unmatched,Gujarat Titans,,Indian,Indian,source,13000000.0,INR,1.0,13000000.0,0.866667,IPL_Auction_2025_Sold_Player.csv
+2025,,Harnoor Pannu,,unmatched,Punjab Kings,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Jos  Buttler,,unmatched,Gujarat Titans,,Overseas,Overseas,source,157500000.0,INR,1.0,157500000.0,10.5,IPL_Auction_2025_Sold_Player.csv
+2025,,Lockie Ferguson,,unmatched,Punjab Kings,,Overseas,Overseas,source,20000000.0,INR,1.0,20000000.0,1.333333,IPL_Auction_2025_Sold_Player.csv
+2025,,Madhav Tiwari,,unmatched,Delhi Capitals,,Indian,Indian,source,4000000.0,INR,1.0,4000000.0,0.266667,IPL_Auction_2025_Sold_Player.csv
+2025,,Manvanth Kumar L,,unmatched,Delhi Capitals,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Mohammad Shami,,unmatched,Sunrisers Hyderabad,,Indian,Indian,source,100000000.0,INR,1.0,100000000.0,6.666667,IPL_Auction_2025_Sold_Player.csv
+2025,,Mohammad Siraj,,unmatched,Gujarat Titans,,Indian,Indian,source,122500000.0,INR,1.0,122500000.0,8.166667,IPL_Auction_2025_Sold_Player.csv
+2025,,Pravin Dubey,,unmatched,Punjab Kings,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Pyla Avinash,,unmatched,Punjab Kings,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Raj Angad Bawa,,unmatched,Mumbai Indians,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Ramakrishna Ghosh,,unmatched,Chennai Super Kings,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Ravichandaran Ashwin,,unmatched,Chennai Super Kings,,Indian,Indian,source,97500000.0,INR,1.0,97500000.0,6.5,IPL_Auction_2025_Sold_Player.csv
+2025,,Robin Minz,,unmatched,Mumbai Indians,,Indian,Indian,source,6500000.0,INR,1.0,6500000.0,0.433333,IPL_Auction_2025_Sold_Player.csv
+2025,,Sam Curran,,unmatched,Chennai Super Kings,,Overseas,Overseas,source,24000000.0,INR,1.0,24000000.0,1.6,IPL_Auction_2025_Sold_Player.csv
+2025,,Shahbaz Ahamad,,unmatched,Lucknow Super Giants,,Indian,Indian,source,24000000.0,INR,1.0,24000000.0,1.6,IPL_Auction_2025_Sold_Player.csv
+2025,,Swastik Chhikara,,unmatched,Royal Challengers Bengaluru,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Syed Khaleel Ahmed,,unmatched,Chennai Super Kings,,Indian,Indian,source,48000000.0,INR,1.0,48000000.0,3.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Tim David,,unmatched,Royal Challengers Bengaluru,,Overseas,Overseas,source,30000000.0,INR,1.0,30000000.0,2.0,IPL_Auction_2025_Sold_Player.csv
+2025,,Vaibhav Suryavanshi,,unmatched,Rajasthan Royals,,Indian,Indian,source,11000000.0,INR,1.0,11000000.0,0.733333,IPL_Auction_2025_Sold_Player.csv
+2025,,Vansh Bedi,,unmatched,Chennai Super Kings,,Indian,Indian,source,5500000.0,INR,1.0,5500000.0,0.366667,IPL_Auction_2025_Sold_Player.csv
+2025,,Venkata Satyanarayana Penmetsa,,unmatched,Mumbai Indians,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Vignesh Puthur,,unmatched,Mumbai Indians,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.2,IPL_Auction_2025_Sold_Player.csv
+2025,,Will Jacks,,ambiguous_full_name,Mumbai Indians,,Overseas,Overseas,source,52500000.0,INR,1.0,52500000.0,3.5,IPL_Auction_2025_Sold_Player.csv
+2026,,Aman Rao Perala,,unmatched,Rajasthan Royals,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Auqib Dar,,unmatched,Delhi Capitals,,Indian,Indian,source,84000000.0,INR,1.0,84000000.0,8.4,IPL_Auction_2026_Sold_Player.csv
+2026,,Ben Dwarshuis,,unmatched,Punjab Kings,,Overseas,Overseas,source,44000000.0,INR,1.0,44000000.0,4.4,IPL_Auction_2026_Sold_Player.csv
+2026,,Daksh Kamra,,unmatched,Kolkata Knight Riders,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Danish Malewar,,unmatched,Mumbai Indians,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Kanishk Chouhan,,unmatched,Royal Challengers Bengaluru,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Krains Fuletra,,unmatched,Sunrisers Hyderabad,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Mangesh Yadav,,unmatched,Royal Challengers Bengaluru,,Indian,Indian,source,52000000.0,INR,1.0,52000000.0,5.2,IPL_Auction_2026_Sold_Player.csv
+2026,,Matt Henry,,ambiguous_full_name,Chennai Super Kings,,Overseas,Overseas,source,20000000.0,INR,1.0,20000000.0,2.0,IPL_Auction_2026_Sold_Player.csv
+2026,,Matthew Short,,ambiguous_full_name,Chennai Super Kings,,Overseas,Overseas,source,15000000.0,INR,1.0,15000000.0,1.5,IPL_Auction_2026_Sold_Player.csv
+2026,,Mohammad Izhar,,unmatched,Mumbai Indians,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Mukul Choudhary,,unmatched,Lucknow Super Giants,,Indian,Indian,source,26000000.0,INR,1.0,26000000.0,2.6,IPL_Auction_2026_Sold_Player.csv
+2026,,Naman Tiwari,,unmatched,Lucknow Super Giants,,Indian,Indian,source,10000000.0,INR,1.0,10000000.0,1.0,IPL_Auction_2026_Sold_Player.csv
+2026,,Onkar Tarmale,,unmatched,Sunrisers Hyderabad,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Praful Hinge,,unmatched,Sunrisers Hyderabad,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Pravin Dubey,,unmatched,Punjab Kings,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Sahil Parakh,,unmatched,Delhi Capitals,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Satvik Deswal,,unmatched,Royal Challengers Bengaluru,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Sushant Mishra,,unmatched,Rajasthan Royals,,Indian,Indian,source,9000000.0,INR,1.0,9000000.0,0.9,IPL_Auction_2026_Sold_Player.csv
+2026,,Tejasvi Singh,,unmatched,Kolkata Knight Riders,,Indian,Indian,source,30000000.0,INR,1.0,30000000.0,3.0,IPL_Auction_2026_Sold_Player.csv
+2026,,Vicky Ostwal,,unmatched,Royal Challengers Bengaluru,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Vignesh Puthur,,unmatched,Rajasthan Royals,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Vihaan Malhotra,,unmatched,Royal Challengers Bengaluru,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Vishal Nishad,,unmatched,Punjab Kings,,Indian,Indian,source,3000000.0,INR,1.0,3000000.0,0.3,IPL_Auction_2026_Sold_Player.csv
+2026,,Zak Foulkes,,unmatched,Chennai Super Kings,,Overseas,Overseas,source,7500000.0,INR,1.0,7500000.0,0.75,IPL_Auction_2026_Sold_Player.csv

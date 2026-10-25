@@ -1,0 +1,11 @@
+team,rank,player_id,player_name_canonical,team_fit_score,recommendation,within_budget,role_match,predicted_fair_value_inr,expected_runs,expected_wickets
+Royal Challengers Bengaluru,1,ba5e1069,R Ravindra,72.6,Strong fit,TRUE,TRUE,62677359,285.889686,0.255477093
+Royal Challengers Bengaluru,2,a24be938,VR Iyer,69.1,Strong fit,TRUE,TRUE,41781359,191.1654939,0.049748506
+Royal Challengers Bengaluru,3,a97c8ec2,PWH de Silva,67.9,Strong fit,TRUE,TRUE,43392921,5.636568706,4.151939828
+Royal Challengers Bengaluru,4,0f721006,JO Holder,65.2,Strong fit,TRUE,TRUE,22359624,3.687643276,3.963888707
+Royal Challengers Bengaluru,5,50c6bc2b,LS Livingstone,60.8,Strong fit,TRUE,TRUE,72509852,132.1811188,1.485484579
+Sunrisers Hyderabad,1,ba5e1069,R Ravindra,91.6,Strong fit,TRUE,TRUE,62677359,285.889686,0.255477093
+Sunrisers Hyderabad,2,372455c4,Q de Kock,89,Strong fit,TRUE,TRUE,52600797,225.0217755,0.020875455
+Sunrisers Hyderabad,3,a24be938,VR Iyer,84.7,Strong fit,TRUE,TRUE,41781359,191.1654939,0.049748506
+Sunrisers Hyderabad,4,d67d5f00,DA Miller,84.4,Strong fit,TRUE,TRUE,69611065,196.7203184,0.016747965
+Sunrisers Hyderabad,5,eaa76d3c,C Green,80.5,Strong fit,TRUE,TRUE,80371098,182.4757381,3.610152184

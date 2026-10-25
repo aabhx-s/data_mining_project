@@ -1,0 +1,76 @@
+{
+  "held_out_target_seasons": [
+    2025,
+    2026
+  ],
+  "training_rows": 2598,
+  "test_rows": 367,
+  "selected_model": "xgboost",
+  "selected_forecast_method": "opportunity_rate_calibrated",
+  "model_comparison": [
+    {
+      "model": "random_forest",
+      "scaled_mae": 0.5375092873142292
+    },
+    {
+      "model": "xgboost",
+      "scaled_mae": 0.5348748369835953
+    }
+  ],
+  "calibration": {
+    "approach": "predicted appearances multiplied by calibrated per-appearance output",
+    "historical_rate_weight": 0.75,
+    "direct_total_scaled_mae": 0.5348748369835953,
+    "calibrated_scaled_mae": 0.5254794523384022,
+    "calibration_candidates": [
+      {
+        "historical_rate_weight": 0.0,
+        "scaled_mae": 0.5315470775894322
+      },
+      {
+        "historical_rate_weight": 0.25,
+        "scaled_mae": 0.5287586000543973
+      },
+      {
+        "historical_rate_weight": 0.5,
+        "scaled_mae": 0.526756350902272
+      },
+      {
+        "historical_rate_weight": 0.75,
+        "scaled_mae": 0.5254794523384022
+      },
+      {
+        "historical_rate_weight": 1.0,
+        "scaled_mae": 0.5258295214808937
+      }
+    ]
+  },
+  "conditional_on_next_season_appearance": true,
+  "feature_sources": {
+    "ipl": "Primary signal: prior IPL seasons.",
+    "t20": "Supplementary: T20I, BBL, SMAT and T20 World Cup matches.",
+    "odi": "Supplementary context: ODI matches, kept separate from T20 statistics."
+  },
+  "targets": {
+    "next_runs": {
+      "mae": 68.82296397598753,
+      "rmse": 119.88244456485194,
+      "r2": 0.558456339787369
+    },
+    "next_wickets": {
+      "mae": 2.823437506494098,
+      "rmse": 4.909055659494523,
+      "r2": 0.36104041288272914
+    },
+    "next_batting_matches": {
+      "mae": 2.396125832151327,
+      "rmse": 3.2677495274041544,
+      "r2": 0.6027365486024592
+    },
+    "next_bowling_matches": {
+      "mae": 2.2508786019275338,
+      "rmse": 3.463490213632044,
+      "r2": 0.54045218205402
+    }
+  }
+}

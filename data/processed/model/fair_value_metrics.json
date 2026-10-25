@@ -1,0 +1,35 @@
+{
+  "test_years": [
+    2025,
+    2026
+  ],
+  "training_rows": 781,
+  "test_rows": 182,
+  "selected_model": "xgboost",
+  "model_comparison": [
+    {
+      "model": "random_forest",
+      "ratio_mae": 1.9327789274251106,
+      "ratio_rmse": 3.5133003390242172,
+      "price_mae_inr": 25879367.127853326,
+      "price_rmse_inr": 45077002.97589641
+    },
+    {
+      "model": "xgboost",
+      "ratio_mae": 1.9201688951486862,
+      "ratio_rmse": 3.4665382281686434,
+      "price_mae_inr": 25844527.234596834,
+      "price_rmse_inr": 44913841.993646674
+    }
+  ],
+  "median_price_ratio": {
+    "mae": 1.9201688951486862,
+    "rmse": 3.4665382281686434,
+    "r2": 0.2250490272525767
+  },
+  "price_inr": {
+    "mae": 25844527.234596834,
+    "rmse": 44913841.993646674,
+    "r2": 0.2358007994064989
+  }
+}

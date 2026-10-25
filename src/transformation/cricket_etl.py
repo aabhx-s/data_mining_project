@@ -1,11 +1,22 @@
+"""Extract Cricsheet JSON archives into model-ready match, batting and bowling tables.
+
+Run all configured competitions from the repository root with:
+
+    python -m src.transformation.cricket_etl --all
+
+The output tables deliberately retain Cricsheet's registry player ID. Names are
+useful for display, but player_id is the stable key used for joins and modelling.
+"""
+
+from __future__ import annotations
+
+import argparse
 import json
-import pandas as pd
 from pathlib import Path
+from typing import Any
 
+import pandas as pd
 
-# ============================================================
-# WICKET TYPES CREDITED TO THE BOWLER
-# ============================================================
 
 BOWLER_WICKET_TYPES = {
     "bowled",
@@ -13,535 +24,404 @@ BOWLER_WICKET_TYPES = {
     "caught and bowled",
     "lbw",
     "stumped",
-    "hit wicket"
+    "hit wicket",
 }
 
+DATASETS = {
+    "ipl": ("ipl_male_json", "IPL"),
+    "odi": ("odis_male_json", "ODI"),
+    "t20": ("t20s_male_json", "T20"),
+    "bbl": ("bbl_male_json", "BBL"),
+    "smat": ("sma_male_json", "SMAT"),
+    "t20_wc": ("icc_mens_t20_world_cup_male_json", "T20_WC"),
+}
 
-# ============================================================
-# HELPER FUNCTIONS
-# ============================================================
+# Cricsheet match 1130677 uses "KV Sharma" for two different opponents.
+# The registry maps that abbreviation only to Karn Sharma (Vidarbha). The
+# Railways batter is Karan Sharma, so give that otherwise-unidentifiable
+# player a deterministic local ID instead of merging two people together.
+# Keep source-specific corrections here, with match ID + team + source name
+# as the key, so normal registry IDs remain unchanged everywhere else.
+MATCH_PLAYER_OVERRIDES: dict[tuple[str, str, str], tuple[str, str]] = {
+    ("1130677", "Railways", "KV Sharma"): (
+        "source_1130677_railways_karan_sharma",
+        "Karan Sharma",
+    ),
+    ("1130677", "Vidarbha", "KV Sharma"): ("119678fd", "Karn Sharma"),
+}
 
-def is_legal_ball(delivery):
-    """
-    Returns True if the delivery counts as a legal ball.
-    Wides and no-balls do not count as legal balls.
-    """
+MATCH_COLUMNS = [
+    "match_id", "competition", "season", "date", "match_type", "team1", "team2",
+    "venue", "city", "toss_winner", "toss_decision", "winner", "result",
+    "winner_margin_runs", "winner_margin_wickets", "match_method", "player_of_match",
+]
+
+BATTING_COLUMNS = [
+    "match_id", "competition", "season", "date", "team", "opposition", "player_id",
+    "player", "runs", "balls", "fours", "sixes", "strike_rate",
+]
+
+BOWLING_COLUMNS = [
+    "match_id", "competition", "season", "date", "bowling_team", "opposition",
+    "player_id", "player", "balls", "runs_conceded", "wickets", "overs", "economy",
+    "bowling_strike_rate",
+]
+
+
+def project_root_from_file() -> Path:
+    """Return the repository root regardless of the current working directory."""
+
+    return Path(__file__).resolve().parents[2]
+
+
+def is_legal_ball(delivery: dict[str, Any]) -> bool:
+    """Return whether a delivery counts as a legal ball for batting and bowling."""
 
     extras = delivery.get("extras", {})
+    return "wides" not in extras and "noballs" not in extras
 
+
+def calculate_bowler_runs(delivery: dict[str, Any]) -> int:
+    """Return runs charged to the bowler, excluding byes, leg-byes and penalties."""
+
+    extras = delivery.get("extras", {})
+    total = delivery["runs"]["total"]
     return (
-        "wides" not in extras
-        and "noballs" not in extras
+        total
+        - extras.get("byes", 0)
+        - extras.get("legbyes", 0)
+        - extras.get("penalty", 0)
     )
 
 
-def calculate_bowler_runs(delivery):
-    """
-    Calculates runs charged to the bowler.
-
-    Byes and leg-byes are not charged to the bowler.
-    """
-
-    total = delivery["runs"]["total"]
-    extras = delivery.get("extras", {})
-
-    total -= extras.get("byes", 0)
-    total -= extras.get("legbyes", 0)
-    total -= extras.get("penalty", 0)
-
-    return total
-
-
-def get_bowler_wickets(delivery):
-    """
-    Counts wickets credited to the bowler.
-    Run-outs and other non-bowler dismissals are excluded.
-    """
-
-    wickets = delivery.get("wickets", [])
+def get_bowler_wickets(delivery: dict[str, Any]) -> int:
+    """Count only dismissal types credited to the bowler."""
 
     return sum(
-        1
-        for wicket in wickets
-        if wicket["kind"] in BOWLER_WICKET_TYPES
+        wicket.get("kind") in BOWLER_WICKET_TYPES
+        for wicket in delivery.get("wickets", [])
     )
 
 
-# ============================================================
-# PROCESS ONE MATCH
-# ============================================================
+def safe_rate(numerator: pd.Series, denominator: pd.Series, multiplier: float = 1.0) -> pd.Series:
+    """Calculate a rate without attempting to round missing values.
 
-def process_match(file_path, competition):
-    """
-    Reads one Cricsheet JSON file and returns:
-
-    1. Match information
-    2. Player batting statistics
-    3. Player bowling statistics
+    A batter can face only wides, and a bowler can deliver only illegal balls.
+    Their rate is undefined, so the output intentionally contains a blank value.
     """
 
-    # --------------------------------------------------------
-    # Load JSON
-    # --------------------------------------------------------
+    result = pd.Series(index=numerator.index, dtype="float64")
+    valid_denominator = denominator.gt(0)
+    result.loc[valid_denominator] = (
+        numerator.loc[valid_denominator]
+        .div(denominator.loc[valid_denominator])
+        .mul(multiplier)
+        .round(2)
+    )
+    return result
 
-    with open(file_path, "r", encoding="utf-8") as f:
-        match = json.load(f)
+
+def registry_people(match_info: dict[str, Any]) -> dict[str, str]:
+    """Return the Cricsheet display-name -> canonical-ID registry for a match."""
+
+    people = match_info.get("registry", {}).get("people", {})
+    return {str(name): str(player_id) for name, player_id in people.items()}
+
+
+def resolve_player(
+    match_id: str,
+    team: str | None,
+    player_name: str,
+    player_registry: dict[str, str],
+) -> tuple[str | None, str]:
+    """Return the most accurate ID and display name for a match participant."""
+
+    override = MATCH_PLAYER_OVERRIDES.get((match_id, team or "", player_name))
+    if override:
+        return override
+    return player_registry.get(player_name), player_name
+
+
+def other_team(teams: list[str], batting_team: str) -> str | None:
+    """Return the other team in a normal two-team match."""
+
+    return next((team for team in teams if team != batting_team), None)
+
+
+def extract_outcome(match_info: dict[str, Any]) -> dict[str, Any]:
+    """Normalise optional Cricsheet outcome fields into stable match-table columns."""
+
+    outcome = match_info.get("outcome", {})
+    margin = outcome.get("by", {})
+    players_of_match = match_info.get("player_of_match", [])
+
+    if outcome.get("winner"):
+        result = "win"
+    elif outcome.get("result"):
+        result = str(outcome["result"])
+    elif outcome.get("eliminator"):
+        result = "eliminator"
+    else:
+        result = None
+
+    return {
+        "winner": outcome.get("winner") or outcome.get("eliminator"),
+        "result": result,
+        "winner_margin_runs": margin.get("runs"),
+        "winner_margin_wickets": margin.get("wickets"),
+        "match_method": outcome.get("method"),
+        "player_of_match": " | ".join(players_of_match) if players_of_match else None,
+    }
+
+
+def process_match(file_path: str | Path, competition: str) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+    """Process one Cricsheet JSON match into match, batting and bowling tables."""
+
+    file_path = Path(file_path)
+    with file_path.open("r", encoding="utf-8") as source_file:
+        match = json.load(source_file)
 
     info = match["info"]
+    teams = list(info.get("teams", []))
+    if len(teams) != 2:
+        raise ValueError(f"Expected two teams, found {teams!r}")
 
-    match_id = file_path.stem
-    season = info["season"]
-    date = info["dates"][0]
+    player_registry = registry_people(info)
+    deliveries: list[dict[str, Any]] = []
 
-    teams = info["teams"]
-
-    venue = info.get("venue")
-    city = info.get("city")
-
-
-    # --------------------------------------------------------
-    # Extract delivery-level data
-    # --------------------------------------------------------
-
-    deliveries = []
-
-    for innings in match["innings"]:
-
+    for innings in match.get("innings", []):
         batting_team = innings["team"]
+        bowling_team = other_team(teams, batting_team)
 
-        # Find bowling team
-        bowling_team = next(
-            team for team in teams
-            if team != batting_team
-        )
-
-        for over in innings["overs"]:
-
-            for delivery in over["deliveries"]:
-
-                extras = delivery.get("extras", {})
-
-                deliveries.append({
-
-                    "match_id": match_id,
-                    "competition": competition,
-                    "season": season,
-                    "date": date,
-
-                    "venue": venue,
-                    "city": city,
-
-                    "batting_team": batting_team,
-                    "bowling_team": bowling_team,
-
-                    "batter": delivery["batter"],
-                    "bowler": delivery["bowler"],
-                    "non_striker": delivery["non_striker"],
-
-                    "delivery": delivery["actual_delivery"],
-
-                    "batter_runs": delivery["runs"]["batter"],
-                    "extra_runs": delivery["runs"]["extras"],
-                    "total_runs": delivery["runs"]["total"],
-
-                    "is_legal_ball": is_legal_ball(delivery),
-
-                    "bowler_runs": calculate_bowler_runs(delivery),
-
-                    "bowler_wickets": get_bowler_wickets(delivery),
-
-                    "four": int(
-                        delivery["runs"]["batter"] == 4
-                    ),
-
-                    "six": int(
-                        delivery["runs"]["batter"] == 6
-                    )
-                })
-
+        for over in innings.get("overs", []):
+            for delivery in over.get("deliveries", []):
+                batter = delivery["batter"]
+                bowler = delivery["bowler"]
+                batter_id, batter_name = resolve_player(
+                    file_path.stem, batting_team, batter, player_registry
+                )
+                bowler_id, bowler_name = resolve_player(
+                    file_path.stem, bowling_team, bowler, player_registry
+                )
+                deliveries.append(
+                    {
+                        "match_id": file_path.stem,
+                        "competition": competition,
+                        "season": str(info.get("season", "")),
+                        "date": str(info.get("dates", [None])[0]),
+                        "batting_team": batting_team,
+                        "bowling_team": bowling_team,
+                        "batter_id": batter_id,
+                        "batter": batter_name,
+                        "bowler_id": bowler_id,
+                        "bowler": bowler_name,
+                        "batter_runs": delivery["runs"]["batter"],
+                        "is_legal_ball": is_legal_ball(delivery),
+                        "bowler_runs": calculate_bowler_runs(delivery),
+                        "bowler_wickets": get_bowler_wickets(delivery),
+                        "four": int(delivery["runs"]["batter"] == 4),
+                        "six": int(delivery["runs"]["batter"] == 6),
+                    }
+                )
 
     deliveries_df = pd.DataFrame(deliveries)
+    if deliveries_df.empty:
+        raise ValueError("Match contains no deliveries")
 
-
-    # ========================================================
-    # BATTING STATISTICS
-    # ========================================================
-
-    batting_match = (
-        deliveries_df
-        .groupby(
+    batting = (
+        deliveries_df.groupby(
             [
-                "match_id",
-                "competition",
-                "season",
-                "date",
-                "batting_team",
-                "batter"
+                "match_id", "competition", "season", "date", "batting_team", "bowling_team",
+                "batter_id", "batter",
             ],
-            as_index=False
+            as_index=False,
+            dropna=False,
         )
         .agg(
-
             runs=("batter_runs", "sum"),
-
             balls=("is_legal_ball", "sum"),
-
             fours=("four", "sum"),
-
-            sixes=("six", "sum")
+            sixes=("six", "sum"),
+        )
+        .rename(
+            columns={
+                "batting_team": "team",
+                "bowling_team": "opposition",
+                "batter_id": "player_id",
+                "batter": "player",
+            }
         )
     )
+    batting["strike_rate"] = safe_rate(batting["runs"], batting["balls"], 100)
+    batting = batting[BATTING_COLUMNS]
 
-
-    # Strike rate
-
-    batting_match["strike_rate"] = (
-        batting_match["runs"]
-        .div(
-            batting_match["balls"].replace(
-                0,
-                float("nan")
-            )
-        )
-        .mul(100)
-        .round(2)
-    )
-
-
-    # Rename batting columns
-
-    batting_match = batting_match.rename(
-        columns={
-            "batting_team": "team",
-            "batter": "player"
-        }
-    )
-
-
-    # ========================================================
-    # BOWLING STATISTICS
-    # ========================================================
-
-    bowling_match = (
-        deliveries_df
-        .groupby(
+    bowling = (
+        deliveries_df.groupby(
             [
-                "match_id",
-                "competition",
-                "season",
-                "date",
-                "bowling_team",
-                "batting_team",
-                "bowler"
+                "match_id", "competition", "season", "date", "bowling_team", "batting_team",
+                "bowler_id", "bowler",
             ],
-            as_index=False
+            as_index=False,
+            dropna=False,
         )
         .agg(
-
             balls=("is_legal_ball", "sum"),
-
             runs_conceded=("bowler_runs", "sum"),
-
-            wickets=("bowler_wickets", "sum")
+            wickets=("bowler_wickets", "sum"),
+        )
+        .rename(
+            columns={
+                "batting_team": "opposition",
+                "bowler_id": "player_id",
+                "bowler": "player",
+            }
         )
     )
-
-
-    # Overs
-
-    bowling_match["overs"] = (
-        (bowling_match["balls"] // 6).astype(str)
-        + "."
-        + (bowling_match["balls"] % 6).astype(str)
+    bowling["overs"] = (
+        (bowling["balls"] // 6).astype(str) + "." + (bowling["balls"] % 6).astype(str)
     )
+    bowling["economy"] = safe_rate(bowling["runs_conceded"], bowling["balls"], 6)
+    bowling["bowling_strike_rate"] = safe_rate(bowling["balls"], bowling["wickets"])
+    bowling = bowling[BOWLING_COLUMNS]
 
-
-    # Economy
-
-    bowling_match["economy"] = (
-        bowling_match["runs_conceded"]
-        .div(
-            bowling_match["balls"].replace(
-                0,
-                float("nan")
-            )
-        )
-        .mul(6)
-        .round(2)
-    )
-
-
-    # Bowling strike rate
-
-    bowling_match["bowling_strike_rate"] = (
-        bowling_match["balls"]
-        .div(
-            bowling_match["wickets"].replace(
-                0,
-                float("nan")
-            )
-        )
-        .round(2)
-    )
-
-
-    # Rename bowler
-
-    bowling_match = bowling_match.rename(
-        columns={
-            "bowler": "player",
-            "batting_team": "opposition"
-        }
-    )
-
-
-    # ========================================================
-    # MATCH INFORMATION
-    # ========================================================
-
-    match_data = pd.DataFrame([{
-
-        "match_id": match_id,
-
+    toss = info.get("toss", {})
+    match_row = {
+        "match_id": file_path.stem,
         "competition": competition,
-
-        "season": season,
-
-        "date": date,
-
+        "season": str(info.get("season", "")),
+        "date": str(info.get("dates", [None])[0]),
+        "match_type": info.get("match_type"),
         "team1": teams[0],
-
         "team2": teams[1],
+        "venue": info.get("venue"),
+        "city": info.get("city"),
+        "toss_winner": toss.get("winner"),
+        "toss_decision": toss.get("decision"),
+        **extract_outcome(info),
+    }
+    matches = pd.DataFrame([match_row], columns=MATCH_COLUMNS)
 
-        "venue": venue,
-
-        "city": city
-    }])
-
-
-    # ========================================================
-    # RETURN
-    # ========================================================
-
-    return (
-        match_data,
-        batting_match,
-        bowling_match
-    )
+    return matches, batting, bowling
 
 
-# ============================================================
-# PROCESS ONE COMPETITION
-# ============================================================
+def validate_output(matches: pd.DataFrame, batting: pd.DataFrame, bowling: pd.DataFrame) -> None:
+    """Fail early if an ETL result violates its essential keys."""
+
+    if matches["match_id"].duplicated().any():
+        raise ValueError("Duplicate match_id values found in matches output")
+
+    for name, table in {"batting": batting, "bowling": bowling}.items():
+        if table["player_id"].isna().any():
+            missing_names = sorted(table.loc[table["player_id"].isna(), "player"].dropna().unique())
+            sample = ", ".join(missing_names[:10])
+            raise ValueError(f"{name} output has missing player IDs. Sample: {sample}")
+        number_columns = [
+            column for column in table.columns
+            if column in {"runs", "balls", "fours", "sixes", "runs_conceded", "wickets"}
+        ]
+        if (table[number_columns] < 0).any().any():
+            raise ValueError(f"{name} output has negative statistics")
+
 
 def process_competition(
-    input_directory,
-    output_directory,
-    competition
-):
-    """
-    Processes every JSON file for one competition
-    and saves consolidated CSV files.
-    """
+    input_directory: str | Path,
+    output_directory: str | Path,
+    competition: str,
+) -> dict[str, int]:
+    """Process a complete Cricsheet archive and write its three processed tables."""
 
     input_directory = Path(input_directory)
     output_directory = Path(output_directory)
+    json_files = sorted(input_directory.glob("*.json"))
+    if not json_files:
+        raise FileNotFoundError(f"No JSON match files found in {input_directory}")
 
-    output_directory.mkdir(
-        parents=True,
-        exist_ok=True
-    )
+    all_matches: list[pd.DataFrame] = []
+    all_batting: list[pd.DataFrame] = []
+    all_bowling: list[pd.DataFrame] = []
+    errors: list[dict[str, str]] = []
 
-
-    json_files = sorted(
-        input_directory.glob("*.json")
-    )
-
-    print(
-        f"Found {len(json_files)} {competition} match files."
-    )
-
-
-    all_matches = []
-    all_batting = []
-    all_bowling = []
-
-    errors = []
-
-
-    # --------------------------------------------------------
-    # Process every match
-    # --------------------------------------------------------
-
-    for i, file_path in enumerate(
-        json_files,
-        start=1
-    ):
-
+    for index, file_path in enumerate(json_files, start=1):
         try:
-
-            match_data, batting, bowling = (
-                process_match(file_path, competition)
-            )
-
-            all_matches.append(match_data)
-
+            matches, batting, bowling = process_match(file_path, competition)
+            all_matches.append(matches)
             all_batting.append(batting)
-
             all_bowling.append(bowling)
+        except (KeyError, TypeError, ValueError, json.JSONDecodeError) as error:
+            errors.append({"file": file_path.name, "error": str(error)})
 
+        if index % 250 == 0 or index == len(json_files):
+            print(f"{competition}: processed {index:,}/{len(json_files):,} files")
 
-            if i % 100 == 0:
-
-                print(
-                    f"Processed {i}/{len(json_files)} matches..."
-                )
-
-
-        except Exception as e:
-
-            errors.append({
-
-                "file": file_path.name,
-
-                "error": str(e)
-            })
-
-            print(
-                f"ERROR: {file_path.name} → {e}"
-            )
-
-
-    # --------------------------------------------------------
-    # Combine everything
-    # --------------------------------------------------------
-
-    matches_df = pd.concat(
-        all_matches,
-        ignore_index=True
-    )
-
-    batting_df = pd.concat(
-        all_batting,
-        ignore_index=True
-    )
-
-    bowling_df = pd.concat(
-        all_bowling,
-        ignore_index=True
-    )
-
-
-    # --------------------------------------------------------
-    # Save processed data
-    # --------------------------------------------------------
-
-    matches_df.to_csv(
-        output_directory / "matches.csv",
-        index=False
-    )
-
-    batting_df.to_csv(
-        output_directory / "batting_match.csv",
-        index=False
-    )
-
-    bowling_df.to_csv(
-        output_directory / "bowling_match.csv",
-        index=False
-    )
-
-
-    # Save errors if any
-
+    error_path = output_directory / "etl_errors.csv"
     if errors:
+        output_directory.mkdir(parents=True, exist_ok=True)
+        pd.DataFrame(errors).to_csv(error_path, index=False)
+        raise RuntimeError(f"{competition}: {len(errors)} files failed. See {error_path}")
 
-        pd.DataFrame(errors).to_csv(
-            output_directory / "etl_errors.csv",
-            index=False
+    # A previous unsuccessful run may have left a log behind. It no longer
+    # describes the current successful output, so remove just that generated log.
+    if error_path.exists():
+        error_path.unlink()
+
+    matches_df = pd.concat(all_matches, ignore_index=True).sort_values("match_id")
+    batting_df = pd.concat(all_batting, ignore_index=True).sort_values(["match_id", "player_id"])
+    bowling_df = pd.concat(all_bowling, ignore_index=True).sort_values(["match_id", "player_id"])
+    validate_output(matches_df, batting_df, bowling_df)
+
+    output_directory.mkdir(parents=True, exist_ok=True)
+    matches_df.to_csv(output_directory / "matches.csv", index=False)
+    batting_df.to_csv(output_directory / "batting_match.csv", index=False)
+    bowling_df.to_csv(output_directory / "bowling_match.csv", index=False)
+
+    return {
+        "matches": len(matches_df),
+        "batting_rows": len(batting_df),
+        "bowling_rows": len(bowling_df),
+    }
+
+
+def run_default_pipeline(project_root: str | Path | None = None) -> pd.DataFrame:
+    """Run ETL for every configured source directory in this repository."""
+
+    root = Path(project_root) if project_root else project_root_from_file()
+    results: list[dict[str, Any]] = []
+
+    for output_name, (raw_directory_name, competition) in DATASETS.items():
+        print(f"\nRunning {competition} ETL")
+        counts = process_competition(
+            root / "data" / "raw" / raw_directory_name,
+            root / "data" / "processed" / output_name,
+            competition,
         )
+        results.append({"dataset": output_name, "competition": competition, **counts})
+
+    return pd.DataFrame(results)
 
 
-    # --------------------------------------------------------
-    # Summary
-    # --------------------------------------------------------
+def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--all", action="store_true", help="Run all configured competitions.")
+    parser.add_argument("--competition", choices=DATASETS.keys(), help="Run one configured competition.")
+    parser.add_argument("--project-root", type=Path, default=project_root_from_file())
+    arguments = parser.parse_args()
 
-    print("\nETL COMPLETE")
-    print("-------------------------")
+    if arguments.all:
+        print(run_default_pipeline(arguments.project_root).to_string(index=False))
+        return
 
-    print(
-        f"Matches processed: {len(matches_df)}"
-    )
-
-    print(
-        f"Batting records: {len(batting_df)}"
-    )
-
-    print(
-        f"Bowling records: {len(bowling_df)}"
-    )
-
-    all_players = set(
-        batting_df["player"]
-    ).union(
-        set(bowling_df["player"])
-    )
-
-    print(
-        f"Unique players: {len(all_players)}"
-    )
-
-    print(
-        f"Errors: {len(errors)}"
-    )
-
-    return (
-        matches_df,
-        batting_df,
-        bowling_df
-    )
-
-
-# ============================================================
-# ALL COMPETITIONS
-# ============================================================
-
-COMPETITIONS = {
-    "IPL": Path("data/raw/ipl_male_json"),
-    "ODI": Path("data/raw/odis_male_json"),
-    "T20": Path("data/raw/t20s_male_json"),
-    "BBL": Path("data/raw/bbl_male_json"),
-    "SMAT": Path("data/raw/sma_male_json"),
-    "T20_WC": Path("data/raw/icc_mens_t20_world_cup_male_json"),
-}
-
-
-def process_all_competitions():
-    """
-    Process every configured competition into
-    its own processed folder.
-    """
-
-    results = {}
-
-    for competition, input_directory in COMPETITIONS.items():
-
-        output_directory = (
-            Path("data/processed") / competition.lower()
+    if arguments.competition:
+        raw_name, competition = DATASETS[arguments.competition]
+        result = process_competition(
+            arguments.project_root / "data" / "raw" / raw_name,
+            arguments.project_root / "data" / "processed" / arguments.competition,
+            competition,
         )
+        print(result)
+        return
 
-        results[competition] = process_competition(
-            input_directory,
-            output_directory,
-            competition
-        )
+    parser.error("Choose --all or --competition.")
 
-    return results
-
-
-# ============================================================
-# MAIN
-# ============================================================
 
 if __name__ == "__main__":
-    process_all_competitions()
+    main()

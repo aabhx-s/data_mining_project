@@ -1,231 +1,231 @@
-match_id,competition,season,date,team1,team2,venue,city
-1273712,T20_WC,2021/22,2021-10-17,Papua New Guinea,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat
-1273713,T20_WC,2021/22,2021-10-17,Scotland,Bangladesh,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat
-1273714,T20_WC,2021/22,2021-10-18,Netherlands,Ireland,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
-1273715,T20_WC,2021/22,2021-10-18,Namibia,Sri Lanka,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
-1273716,T20_WC,2021/22,2021-10-19,Scotland,Papua New Guinea,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat
-1273717,T20_WC,2021/22,2021-10-19,Bangladesh,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat
-1273718,T20_WC,2021/22,2021-10-20,Netherlands,Namibia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
-1273719,T20_WC,2021/22,2021-10-20,Sri Lanka,Ireland,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
-1273720,T20_WC,2021/22,2021-10-21,Bangladesh,Papua New Guinea,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat
-1273721,T20_WC,2021/22,2021-10-21,Oman,Scotland,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat
-1273722,T20_WC,2021/22,2021-10-22,Ireland,Namibia,Sharjah Cricket Stadium,Sharjah
-1273723,T20_WC,2021/22,2021-10-22,Netherlands,Sri Lanka,Sharjah Cricket Stadium,Sharjah
-1273724,T20_WC,2021/22,2021-10-23,South Africa,Australia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
-1273725,T20_WC,2021/22,2021-10-23,West Indies,England,Dubai International Cricket Stadium,Dubai
-1273726,T20_WC,2021/22,2021-10-24,Bangladesh,Sri Lanka,Sharjah Cricket Stadium,Sharjah
-1273727,T20_WC,2021/22,2021-10-24,India,Pakistan,Dubai International Cricket Stadium,Dubai
-1273729,T20_WC,2021/22,2021-10-26,West Indies,South Africa,Dubai International Cricket Stadium,Dubai
-1273730,T20_WC,2021/22,2021-10-26,New Zealand,Pakistan,Sharjah Cricket Stadium,Sharjah
-1273731,T20_WC,2021/22,2021-10-27,Bangladesh,England,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
-1273732,T20_WC,2021/22,2021-10-27,Scotland,Namibia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
-1273733,T20_WC,2021/22,2021-10-28,Sri Lanka,Australia,Dubai International Cricket Stadium,Dubai
-1273734,T20_WC,2021/22,2021-10-29,West Indies,Bangladesh,Sharjah Cricket Stadium,Sharjah
-1273736,T20_WC,2021/22,2021-10-30,Sri Lanka,South Africa,Sharjah Cricket Stadium,Sharjah
-1273737,T20_WC,2021/22,2021-10-30,Australia,England,Dubai International Cricket Stadium,Dubai
-1273739,T20_WC,2021/22,2021-10-31,India,New Zealand,Dubai International Cricket Stadium,Dubai
-1273740,T20_WC,2021/22,2021-11-01,England,Sri Lanka,Sharjah Cricket Stadium,Sharjah
-1273741,T20_WC,2021/22,2021-11-02,Bangladesh,South Africa,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
-1273742,T20_WC,2021/22,2021-11-02,Pakistan,Namibia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
-1273743,T20_WC,2021/22,2021-11-03,New Zealand,Scotland,Dubai International Cricket Stadium,Dubai
-1273745,T20_WC,2021/22,2021-11-04,Bangladesh,Australia,Dubai International Cricket Stadium,Dubai
-1273746,T20_WC,2021/22,2021-11-04,Sri Lanka,West Indies,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
-1273747,T20_WC,2021/22,2021-11-05,New Zealand,Namibia,Sharjah Cricket Stadium,Sharjah
-1273748,T20_WC,2021/22,2021-11-05,Scotland,India,Dubai International Cricket Stadium,Dubai
-1273749,T20_WC,2021/22,2021-11-06,West Indies,Australia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
-1273750,T20_WC,2021/22,2021-11-06,South Africa,England,Sharjah Cricket Stadium,Sharjah
-1273752,T20_WC,2021/22,2021-11-07,Pakistan,Scotland,Sharjah Cricket Stadium,Sharjah
-1273753,T20_WC,2021/22,2021-11-08,Namibia,India,Dubai International Cricket Stadium,Dubai
-1273754,T20_WC,2021/22,2021-11-10,England,New Zealand,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
-1273755,T20_WC,2021/22,2021-11-11,Pakistan,Australia,Dubai International Cricket Stadium,Dubai
-1273756,T20_WC,2021/22,2021-11-14,New Zealand,Australia,Dubai International Cricket Stadium,Dubai
-1298135,T20_WC,2022/23,2022-10-16,Namibia,Sri Lanka,"GMHBA Stadium, South Geelong, Victoria",Geelong
-1298136,T20_WC,2022/23,2022-10-16,United Arab Emirates,Netherlands,"GMHBA Stadium, South Geelong, Victoria",Geelong
-1298137,T20_WC,2022/23,2022-10-17,Scotland,West Indies,"Bellerive Oval, Hobart",Hobart
-1298138,T20_WC,2022/23,2022-10-17,Zimbabwe,Ireland,"Bellerive Oval, Hobart",Hobart
-1298139,T20_WC,2022/23,2022-10-18,Namibia,Netherlands,"GMHBA Stadium, South Geelong, Victoria",Geelong
-1298140,T20_WC,2022/23,2022-10-18,Sri Lanka,United Arab Emirates,"GMHBA Stadium, South Geelong, Victoria",Geelong
-1298141,T20_WC,2022/23,2022-10-19,Scotland,Ireland,"Bellerive Oval, Hobart",Hobart
-1298142,T20_WC,2022/23,2022-10-19,West Indies,Zimbabwe,"Bellerive Oval, Hobart",Hobart
-1298143,T20_WC,2022/23,2022-10-20,Sri Lanka,Netherlands,"GMHBA Stadium, South Geelong, Victoria",Geelong
-1298144,T20_WC,2022/23,2022-10-20,United Arab Emirates,Namibia,"GMHBA Stadium, South Geelong, Victoria",Geelong
-1298145,T20_WC,2022/23,2022-10-21,West Indies,Ireland,"Bellerive Oval, Hobart",Hobart
-1298146,T20_WC,2022/23,2022-10-21,Scotland,Zimbabwe,"Bellerive Oval, Hobart",Hobart
-1298147,T20_WC,2022/23,2022-10-22,New Zealand,Australia,Sydney Cricket Ground,Sydney
-1298149,T20_WC,2022/23,2022-10-23,Ireland,Sri Lanka,"Bellerive Oval, Hobart",Hobart
-1298150,T20_WC,2022/23,2022-10-23,Pakistan,India,Melbourne Cricket Ground,Melbourne
-1298151,T20_WC,2022/23,2022-10-24,Bangladesh,Netherlands,"Bellerive Oval, Hobart",Hobart
-1298152,T20_WC,2022/23,2022-10-24,Zimbabwe,South Africa,"Bellerive Oval, Hobart",Hobart
-1298153,T20_WC,2022/23,2022-10-25,Sri Lanka,Australia,Perth Stadium,Perth
-1298154,T20_WC,2022/23,2022-10-26,Ireland,England,Melbourne Cricket Ground,Melbourne
-1298156,T20_WC,2022/23,2022-10-27,South Africa,Bangladesh,Sydney Cricket Ground,Sydney
-1298157,T20_WC,2022/23,2022-10-27,India,Netherlands,Sydney Cricket Ground,Sydney
-1298158,T20_WC,2022/23,2022-10-27,Zimbabwe,Pakistan,Perth Stadium,Perth
-1298161,T20_WC,2022/23,2022-10-29,New Zealand,Sri Lanka,Sydney Cricket Ground,Sydney
-1298162,T20_WC,2022/23,2022-10-30,Bangladesh,Zimbabwe,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane
-1298163,T20_WC,2022/23,2022-10-30,Netherlands,Pakistan,Perth Stadium,Perth
-1298164,T20_WC,2022/23,2022-10-30,India,South Africa,Perth Stadium,Perth
-1298165,T20_WC,2022/23,2022-10-31,Australia,Ireland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane
-1298167,T20_WC,2022/23,2022-11-01,England,New Zealand,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane
-1298168,T20_WC,2022/23,2022-11-02,Zimbabwe,Netherlands,Adelaide Oval,Adelaide
-1298169,T20_WC,2022/23,2022-11-02,India,Bangladesh,Adelaide Oval,Adelaide
-1298170,T20_WC,2022/23,2022-11-03,Pakistan,South Africa,Sydney Cricket Ground,Sydney
-1298171,T20_WC,2022/23,2022-11-04,New Zealand,Ireland,Adelaide Oval,Adelaide
-1298173,T20_WC,2022/23,2022-11-05,Sri Lanka,England,Sydney Cricket Ground,Sydney
-1298174,T20_WC,2022/23,2022-11-06,Netherlands,South Africa,Adelaide Oval,Adelaide
-1298175,T20_WC,2022/23,2022-11-06,Bangladesh,Pakistan,Adelaide Oval,Adelaide
-1298176,T20_WC,2022/23,2022-11-06,India,Zimbabwe,Melbourne Cricket Ground,Melbourne
-1298177,T20_WC,2022/23,2022-11-09,New Zealand,Pakistan,Sydney Cricket Ground,Sydney
-1298178,T20_WC,2022/23,2022-11-10,India,England,Adelaide Oval,Adelaide
-1298179,T20_WC,2022/23,2022-11-13,Pakistan,England,Melbourne Cricket Ground,Melbourne
-1415701,T20_WC,2024,2024-06-01,Canada,United States of America,"Grand Prairie Stadium, Dallas",Dallas
-1415702,T20_WC,2024,2024-06-02,Papua New Guinea,West Indies,"Providence Stadium, Guyana",Providence
-1415703,T20_WC,2024,2024-06-02,Oman,Namibia,"Kensington Oval, Bridgetown, Barbados",Bridgetown
-1415704,T20_WC,2024,2024-06-03,Sri Lanka,South Africa,"Nassau County International Cricket Stadium, New York",New York
-1415706,T20_WC,2024,2024-06-04,Scotland,England,"Kensington Oval, Bridgetown, Barbados",Bridgetown
-1415707,T20_WC,2024,2024-06-04,Nepal,Netherlands,"Grand Prairie Stadium, Dallas",Dallas
-1415708,T20_WC,2024,2024-06-05,Ireland,India,"Nassau County International Cricket Stadium, New York",New York
-1415709,T20_WC,2024,2024-06-05,Papua New Guinea,Uganda,"Providence Stadium, Guyana",Providence
-1415710,T20_WC,2024,2024-06-05,Australia,Oman,"Kensington Oval, Bridgetown, Barbados",Bridgetown
-1415711,T20_WC,2024,2024-06-06,Pakistan,United States of America,"Grand Prairie Stadium, Dallas",Dallas
-1415712,T20_WC,2024,2024-06-06,Namibia,Scotland,"Kensington Oval, Bridgetown, Barbados",Bridgetown
-1415713,T20_WC,2024,2024-06-07,Canada,Ireland,"Nassau County International Cricket Stadium, New York",New York
-1415715,T20_WC,2024,2024-06-07,Sri Lanka,Bangladesh,"Grand Prairie Stadium, Dallas",Dallas
-1415716,T20_WC,2024,2024-06-08,Netherlands,South Africa,"Nassau County International Cricket Stadium, New York",New York
-1415717,T20_WC,2024,2024-06-08,Australia,England,"Kensington Oval, Bridgetown, Barbados",Bridgetown
-1415718,T20_WC,2024,2024-06-08,West Indies,Uganda,"Providence Stadium, Guyana",Providence
-1415719,T20_WC,2024,2024-06-09,India,Pakistan,"Nassau County International Cricket Stadium, New York",New York
-1415720,T20_WC,2024,2024-06-09,Oman,Scotland,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
-1415721,T20_WC,2024,2024-06-10,South Africa,Bangladesh,"Nassau County International Cricket Stadium, New York",New York
-1415722,T20_WC,2024,2024-06-11,Canada,Pakistan,"Nassau County International Cricket Stadium, New York",New York
-1415724,T20_WC,2024,2024-06-11,Namibia,Australia,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
-1415725,T20_WC,2024,2024-06-12,United States of America,India,"Nassau County International Cricket Stadium, New York",New York
-1415726,T20_WC,2024,2024-06-12,West Indies,New Zealand,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba
-1415727,T20_WC,2024,2024-06-13,Bangladesh,Netherlands,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown
-1415728,T20_WC,2024,2024-06-13,Oman,England,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
-1415731,T20_WC,2024,2024-06-14,South Africa,Nepal,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown
-1415732,T20_WC,2024,2024-06-14,Uganda,New Zealand,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba
-1415734,T20_WC,2024,2024-06-15,England,Namibia,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
-1415735,T20_WC,2024,2024-06-15,Scotland,Australia,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet
-1415736,T20_WC,2024,2024-06-16,Ireland,Pakistan,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill
-1415737,T20_WC,2024,2024-06-16,Bangladesh,Nepal,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown
-1415738,T20_WC,2024,2024-06-16,Sri Lanka,Netherlands,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet
-1415739,T20_WC,2024,2024-06-17,Papua New Guinea,New Zealand,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba
-1415741,T20_WC,2024,2024-06-19,South Africa,United States of America,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
-1415742,T20_WC,2024,2024-06-19,West Indies,England,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet
-1415744,T20_WC,2024,2024-06-20,Bangladesh,Australia,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
-1415745,T20_WC,2024,2024-06-21,South Africa,England,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet
-1415746,T20_WC,2024,2024-06-21,United States of America,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown
-1415747,T20_WC,2024,2024-06-22,India,Bangladesh,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
-1415749,T20_WC,2024,2024-06-23,United States of America,England,"Kensington Oval, Bridgetown, Barbados",Bridgetown
-1415750,T20_WC,2024,2024-06-23,West Indies,South Africa,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound
-1415751,T20_WC,2024,2024-06-24,India,Australia,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet
-1415754,T20_WC,2024,2024-06-27,India,England,"Providence Stadium, Guyana",Providence
-1415755,T20_WC,2024,2024-06-29,India,South Africa,"Kensington Oval, Bridgetown, Barbados",Bridgetown
-1512719,T20_WC,2025/26,2026-02-07,Netherlands,Pakistan,"Sinhalese Sports Club Ground, Colombo",Colombo
-1512720,T20_WC,2025/26,2026-02-07,West Indies,Scotland,"Eden Gardens, Kolkata",Kolkata
-1512721,T20_WC,2025/26,2026-02-07,India,United States of America,"Wankhede Stadium, Mumbai",Mumbai
-1512723,T20_WC,2025/26,2026-02-08,England,Nepal,"Wankhede Stadium, Mumbai",Mumbai
-1512724,T20_WC,2025/26,2026-02-08,Sri Lanka,Ireland,"R Premadasa Stadium, Colombo",Colombo
-1512725,T20_WC,2025/26,2026-02-09,Scotland,Italy,"Eden Gardens, Kolkata",Kolkata
-1512726,T20_WC,2025/26,2026-02-09,Oman,Zimbabwe,"Sinhalese Sports Club Ground, Colombo",Colombo
-1512727,T20_WC,2025/26,2026-02-09,South Africa,Canada,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
-1512728,T20_WC,2025/26,2026-02-10,Namibia,Netherlands,"Arun Jaitley Stadium, Delhi",Delhi
-1512729,T20_WC,2025/26,2026-02-10,United Arab Emirates,New Zealand,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
-1512730,T20_WC,2025/26,2026-02-10,Pakistan,United States of America,"Sinhalese Sports Club Ground, Colombo",Colombo
-1512732,T20_WC,2025/26,2026-02-11,Australia,Ireland,"R Premadasa Stadium, Colombo",Colombo
-1512733,T20_WC,2025/26,2026-02-11,West Indies,England,"Wankhede Stadium, Mumbai",Mumbai
-1512734,T20_WC,2025/26,2026-02-12,Sri Lanka,Oman,Pallekele International Cricket Stadium,Kandy
-1512735,T20_WC,2025/26,2026-02-12,Nepal,Italy,"Wankhede Stadium, Mumbai",Mumbai
-1512736,T20_WC,2025/26,2026-02-12,India,Namibia,"Arun Jaitley Stadium, Delhi",Delhi
-1512737,T20_WC,2025/26,2026-02-13,Zimbabwe,Australia,"R Premadasa Stadium, Colombo",Colombo
-1512738,T20_WC,2025/26,2026-02-13,Canada,United Arab Emirates,"Arun Jaitley Stadium, Delhi",Delhi
-1512739,T20_WC,2025/26,2026-02-13,United States of America,Netherlands,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
-1512740,T20_WC,2025/26,2026-02-14,Ireland,Oman,"Sinhalese Sports Club Ground, Colombo",Colombo
-1512741,T20_WC,2025/26,2026-02-14,Scotland,England,"Eden Gardens, Kolkata",Kolkata
-1512742,T20_WC,2025/26,2026-02-14,New Zealand,South Africa,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
-1512743,T20_WC,2025/26,2026-02-15,Nepal,West Indies,"Wankhede Stadium, Mumbai",Mumbai
-1512744,T20_WC,2025/26,2026-02-15,United States of America,Namibia,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
-1512745,T20_WC,2025/26,2026-02-15,India,Pakistan,"R Premadasa Stadium, Colombo",Colombo
-1512747,T20_WC,2025/26,2026-02-16,England,Italy,"Eden Gardens, Kolkata",Kolkata
-1512748,T20_WC,2025/26,2026-02-16,Australia,Sri Lanka,Pallekele International Cricket Stadium,Kandy
-1512749,T20_WC,2025/26,2026-02-17,Canada,New Zealand,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
-1512751,T20_WC,2025/26,2026-02-17,Scotland,Nepal,"Wankhede Stadium, Mumbai",Mumbai
-1512752,T20_WC,2025/26,2026-02-18,United Arab Emirates,South Africa,"Arun Jaitley Stadium, Delhi",Delhi
-1512753,T20_WC,2025/26,2026-02-18,Pakistan,Namibia,"Sinhalese Sports Club Ground, Colombo",Colombo
-1512754,T20_WC,2025/26,2026-02-18,India,Netherlands,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
-1512755,T20_WC,2025/26,2026-02-19,West Indies,Italy,"Eden Gardens, Kolkata",Kolkata
-1512756,T20_WC,2025/26,2026-02-19,Sri Lanka,Zimbabwe,"R Premadasa Stadium, Colombo",Colombo
-1512758,T20_WC,2025/26,2026-02-20,Oman,Australia,Pallekele International Cricket Stadium,Kandy
-1512760,T20_WC,2025/26,2026-02-22,England,Sri Lanka,Pallekele International Cricket Stadium,Kandy
-1512761,T20_WC,2025/26,2026-02-22,South Africa,India,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
-1512762,T20_WC,2025/26,2026-02-23,West Indies,Zimbabwe,"Wankhede Stadium, Mumbai",Mumbai
-1512763,T20_WC,2025/26,2026-02-24,Pakistan,England,Pallekele International Cricket Stadium,Kandy
-1512764,T20_WC,2025/26,2026-02-25,New Zealand,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo
-1512765,T20_WC,2025/26,2026-02-26,West Indies,South Africa,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
-1512766,T20_WC,2025/26,2026-02-26,India,Zimbabwe,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
-1512767,T20_WC,2025/26,2026-02-27,New Zealand,England,"R Premadasa Stadium, Colombo",Colombo
-1512768,T20_WC,2025/26,2026-02-28,Pakistan,Sri Lanka,Pallekele International Cricket Stadium,Kandy
-1512769,T20_WC,2025/26,2026-03-01,Zimbabwe,South Africa,"Arun Jaitley Stadium, Delhi",Delhi
-1512770,T20_WC,2025/26,2026-03-01,West Indies,India,"Eden Gardens, Kolkata",Kolkata
-1512771,T20_WC,2025/26,2026-03-04,South Africa,New Zealand,"Eden Gardens, Kolkata",Kolkata
-1512772,T20_WC,2025/26,2026-03-05,India,England,"Wankhede Stadium, Mumbai",Mumbai
-1512773,T20_WC,2025/26,2026-03-08,India,New Zealand,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
-682899,T20_WC,2013/14,2014-03-16,Hong Kong,Nepal,Zahur Ahmed Chowdhury Stadium,Chittagong
-682901,T20_WC,2013/14,2014-03-17,Ireland,Zimbabwe,Sylhet Stadium,
-682903,T20_WC,2013/14,2014-03-17,Netherlands,United Arab Emirates,Sylhet Stadium,
-682907,T20_WC,2013/14,2014-03-18,Bangladesh,Nepal,Zahur Ahmed Chowdhury Stadium,Chittagong
-682909,T20_WC,2013/14,2014-03-19,Netherlands,Zimbabwe,Sylhet Stadium,
-682911,T20_WC,2013/14,2014-03-19,Ireland,United Arab Emirates,Sylhet Stadium,
-682915,T20_WC,2013/14,2014-03-20,Bangladesh,Hong Kong,Zahur Ahmed Chowdhury Stadium,Chittagong
-682917,T20_WC,2013/14,2014-03-21,United Arab Emirates,Zimbabwe,Sylhet Stadium,
-682919,T20_WC,2013/14,2014-03-21,Ireland,Netherlands,Sylhet Stadium,
-682921,T20_WC,2013/14,2014-03-21,India,Pakistan,Shere Bangla National Stadium,Mirpur
-682923,T20_WC,2013/14,2014-03-22,South Africa,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong
-682925,T20_WC,2013/14,2014-03-22,England,New Zealand,Zahur Ahmed Chowdhury Stadium,Chattogram
-682927,T20_WC,2013/14,2014-03-23,Australia,Pakistan,Shere Bangla National Stadium,Mirpur
-682929,T20_WC,2013/14,2014-03-23,India,West Indies,Shere Bangla National Stadium,Mirpur
-682931,T20_WC,2013/14,2014-03-24,New Zealand,South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong
-682933,T20_WC,2013/14,2014-03-24,Netherlands,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong
-682935,T20_WC,2013/14,2014-03-25,Bangladesh,West Indies,Shere Bangla National Stadium,Mirpur
-682937,T20_WC,2013/14,2014-03-27,Netherlands,South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong
-682939,T20_WC,2013/14,2014-03-27,England,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong
-682941,T20_WC,2013/14,2014-03-28,Australia,West Indies,Shere Bangla National Stadium,Mirpur
-682943,T20_WC,2013/14,2014-03-28,Bangladesh,India,Shere Bangla National Stadium,Mirpur
-682945,T20_WC,2013/14,2014-03-29,Netherlands,New Zealand,Zahur Ahmed Chowdhury Stadium,Chittagong
-682947,T20_WC,2013/14,2014-03-29,England,South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong
-682949,T20_WC,2013/14,2014-03-30,Bangladesh,Pakistan,Shere Bangla National Stadium,Mirpur
-682951,T20_WC,2013/14,2014-03-30,Australia,India,Shere Bangla National Stadium,Mirpur
-682953,T20_WC,2013/14,2014-03-31,England,Netherlands,Zahur Ahmed Chowdhury Stadium,Chittagong
-682955,T20_WC,2013/14,2014-03-31,New Zealand,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong
-682957,T20_WC,2013/14,2014-04-01,Bangladesh,Australia,Shere Bangla National Stadium,Mirpur
-682959,T20_WC,2013/14,2014-04-01,Pakistan,West Indies,Shere Bangla National Stadium,Mirpur
-682961,T20_WC,2013/14,2014-04-03,Sri Lanka,West Indies,Shere Bangla National Stadium,Mirpur
-682963,T20_WC,2013/14,2014-04-04,India,South Africa,Shere Bangla National Stadium,Mirpur
-682965,T20_WC,2013/14,2014-04-06,India,Sri Lanka,Shere Bangla National Stadium,Mirpur
-951309,T20_WC,2015/16,2016-03-09,Bangladesh,Netherlands,Himachal Pradesh Cricket Association Stadium,Dharamsala
-951311,T20_WC,2015/16,2016-03-09,Ireland,Oman,Himachal Pradesh Cricket Association Stadium,Dharamsala
-951313,T20_WC,2015/16,2016-03-10,Scotland,Zimbabwe,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur
-951319,T20_WC,2015/16,2016-03-11,Bangladesh,Ireland,Himachal Pradesh Cricket Association Stadium,Dharamsala
-951323,T20_WC,2015/16,2016-03-12,Hong Kong,Scotland,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur
-951325,T20_WC,2015/16,2016-03-13,Ireland,Netherlands,Himachal Pradesh Cricket Association Stadium,Dharamsala
-951327,T20_WC,2015/16,2016-03-13,Bangladesh,Oman,Himachal Pradesh Cricket Association Stadium,Dharamsala
-951329,T20_WC,2015/16,2016-03-15,India,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur
-951331,T20_WC,2015/16,2016-03-16,England,West Indies,Wankhede Stadium,Mumbai
-951333,T20_WC,2015/16,2016-03-16,Bangladesh,Pakistan,Eden Gardens,Kolkata
-951337,T20_WC,2015/16,2016-03-18,Australia,New Zealand,Himachal Pradesh Cricket Association Stadium,Dharamsala
-951339,T20_WC,2015/16,2016-03-18,England,South Africa,Wankhede Stadium,Mumbai
-951341,T20_WC,2015/16,2016-03-19,India,Pakistan,Eden Gardens,Kolkata
-951345,T20_WC,2015/16,2016-03-20,Sri Lanka,West Indies,M Chinnaswamy Stadium,Bangalore
-951347,T20_WC,2015/16,2016-03-21,Australia,Bangladesh,M Chinnaswamy Stadium,Bangalore
-951349,T20_WC,2015/16,2016-03-22,New Zealand,Pakistan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh
-951353,T20_WC,2015/16,2016-03-23,India,Bangladesh,M Chinnaswamy Stadium,Bangalore
-951355,T20_WC,2015/16,2016-03-25,Australia,Pakistan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh
-951357,T20_WC,2015/16,2016-03-25,South Africa,West Indies,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur
-951359,T20_WC,2015/16,2016-03-26,Bangladesh,New Zealand,Eden Gardens,Kolkata
-951361,T20_WC,2015/16,2016-03-26,England,Sri Lanka,Feroz Shah Kotla,Delhi
-951363,T20_WC,2015/16,2016-03-27,India,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh
-951367,T20_WC,2015/16,2016-03-28,South Africa,Sri Lanka,Feroz Shah Kotla,Delhi
-951369,T20_WC,2015/16,2016-03-30,England,New Zealand,Feroz Shah Kotla,Delhi
-951371,T20_WC,2015/16,2016-03-31,India,West Indies,Wankhede Stadium,Mumbai
-951373,T20_WC,2015/16,2016-04-03,England,West Indies,Eden Gardens,Kolkata
+match_id,competition,season,date,match_type,team1,team2,venue,city,toss_winner,toss_decision,winner,result,winner_margin_runs,winner_margin_wickets,match_method,player_of_match
+1273712,T20_WC,2021/22,2021-10-17,T20,Papua New Guinea,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,Oman,field,Oman,win,,10,,Zeeshan Maqsood
+1273713,T20_WC,2021/22,2021-10-17,T20,Scotland,Bangladesh,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,Bangladesh,field,Scotland,win,6,,,CN Greaves
+1273714,T20_WC,2021/22,2021-10-18,T20,Netherlands,Ireland,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Netherlands,bat,Ireland,win,,7,,C Campher
+1273715,T20_WC,2021/22,2021-10-18,T20,Namibia,Sri Lanka,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Sri Lanka,field,Sri Lanka,win,,7,,M Theekshana
+1273716,T20_WC,2021/22,2021-10-19,T20,Scotland,Papua New Guinea,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,Scotland,bat,Scotland,win,17,,,RD Berrington
+1273717,T20_WC,2021/22,2021-10-19,T20,Bangladesh,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,Bangladesh,bat,Bangladesh,win,26,,,Shakib Al Hasan
+1273718,T20_WC,2021/22,2021-10-20,T20,Netherlands,Namibia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Namibia,field,Namibia,win,,6,,D Wiese
+1273719,T20_WC,2021/22,2021-10-20,T20,Sri Lanka,Ireland,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Ireland,field,Sri Lanka,win,70,,,PWH de Silva
+1273720,T20_WC,2021/22,2021-10-21,T20,Bangladesh,Papua New Guinea,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,Bangladesh,bat,Bangladesh,win,84,,,Shakib Al Hasan
+1273721,T20_WC,2021/22,2021-10-21,T20,Oman,Scotland,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,Oman,bat,Scotland,win,,8,,JH Davey
+1273722,T20_WC,2021/22,2021-10-22,T20,Ireland,Namibia,Sharjah Cricket Stadium,Sharjah,Ireland,bat,Namibia,win,,8,,D Wiese
+1273723,T20_WC,2021/22,2021-10-22,T20,Netherlands,Sri Lanka,Sharjah Cricket Stadium,Sharjah,Sri Lanka,field,Sri Lanka,win,,8,,CBRLS Kumara
+1273724,T20_WC,2021/22,2021-10-23,T20,South Africa,Australia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Australia,field,Australia,win,,5,,JR Hazlewood
+1273725,T20_WC,2021/22,2021-10-23,T20,West Indies,England,Dubai International Cricket Stadium,Dubai,England,field,England,win,,6,,MM Ali
+1273726,T20_WC,2021/22,2021-10-24,T20,Bangladesh,Sri Lanka,Sharjah Cricket Stadium,Sharjah,Sri Lanka,field,Sri Lanka,win,,5,,KIC Asalanka
+1273727,T20_WC,2021/22,2021-10-24,T20,India,Pakistan,Dubai International Cricket Stadium,Dubai,Pakistan,field,Pakistan,win,,10,,Shaheen Shah Afridi
+1273729,T20_WC,2021/22,2021-10-26,T20,West Indies,South Africa,Dubai International Cricket Stadium,Dubai,South Africa,field,South Africa,win,,8,,A Nortje
+1273730,T20_WC,2021/22,2021-10-26,T20,New Zealand,Pakistan,Sharjah Cricket Stadium,Sharjah,Pakistan,field,Pakistan,win,,5,,Haris Rauf
+1273731,T20_WC,2021/22,2021-10-27,T20,Bangladesh,England,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Bangladesh,bat,England,win,,8,,JJ Roy
+1273732,T20_WC,2021/22,2021-10-27,T20,Scotland,Namibia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Namibia,field,Namibia,win,,4,,R Trumpelmann
+1273733,T20_WC,2021/22,2021-10-28,T20,Sri Lanka,Australia,Dubai International Cricket Stadium,Dubai,Australia,field,Australia,win,,7,,A Zampa
+1273734,T20_WC,2021/22,2021-10-29,T20,West Indies,Bangladesh,Sharjah Cricket Stadium,Sharjah,Bangladesh,field,West Indies,win,3,,,N Pooran
+1273736,T20_WC,2021/22,2021-10-30,T20,Sri Lanka,South Africa,Sharjah Cricket Stadium,Sharjah,South Africa,field,South Africa,win,,4,,T Shamsi
+1273737,T20_WC,2021/22,2021-10-30,T20,Australia,England,Dubai International Cricket Stadium,Dubai,England,field,England,win,,8,,CJ Jordan
+1273739,T20_WC,2021/22,2021-10-31,T20,India,New Zealand,Dubai International Cricket Stadium,Dubai,New Zealand,field,New Zealand,win,,8,,IS Sodhi
+1273740,T20_WC,2021/22,2021-11-01,T20,England,Sri Lanka,Sharjah Cricket Stadium,Sharjah,Sri Lanka,field,England,win,26,,,JC Buttler
+1273741,T20_WC,2021/22,2021-11-02,T20,Bangladesh,South Africa,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,South Africa,field,South Africa,win,,6,,K Rabada
+1273742,T20_WC,2021/22,2021-11-02,T20,Pakistan,Namibia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Pakistan,bat,Pakistan,win,45,,,Mohammad Rizwan
+1273743,T20_WC,2021/22,2021-11-03,T20,New Zealand,Scotland,Dubai International Cricket Stadium,Dubai,Scotland,field,New Zealand,win,16,,,MJ Guptill
+1273745,T20_WC,2021/22,2021-11-04,T20,Bangladesh,Australia,Dubai International Cricket Stadium,Dubai,Australia,field,Australia,win,,8,,A Zampa
+1273746,T20_WC,2021/22,2021-11-04,T20,Sri Lanka,West Indies,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,West Indies,field,Sri Lanka,win,20,,,KIC Asalanka
+1273747,T20_WC,2021/22,2021-11-05,T20,New Zealand,Namibia,Sharjah Cricket Stadium,Sharjah,Namibia,field,New Zealand,win,52,,,JDS Neesham
+1273748,T20_WC,2021/22,2021-11-05,T20,Scotland,India,Dubai International Cricket Stadium,Dubai,India,field,India,win,,8,,RA Jadeja
+1273749,T20_WC,2021/22,2021-11-06,T20,West Indies,Australia,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Australia,field,Australia,win,,8,,DA Warner
+1273750,T20_WC,2021/22,2021-11-06,T20,South Africa,England,Sharjah Cricket Stadium,Sharjah,England,field,South Africa,win,10,,,HE van der Dussen
+1273752,T20_WC,2021/22,2021-11-07,T20,Pakistan,Scotland,Sharjah Cricket Stadium,Sharjah,Pakistan,bat,Pakistan,win,72,,,Shoaib Malik
+1273753,T20_WC,2021/22,2021-11-08,T20,Namibia,India,Dubai International Cricket Stadium,Dubai,India,field,India,win,,9,,RA Jadeja
+1273754,T20_WC,2021/22,2021-11-10,T20,England,New Zealand,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,New Zealand,field,New Zealand,win,,5,,DJ Mitchell
+1273755,T20_WC,2021/22,2021-11-11,T20,Pakistan,Australia,Dubai International Cricket Stadium,Dubai,Australia,field,Australia,win,,5,,MS Wade
+1273756,T20_WC,2021/22,2021-11-14,T20,New Zealand,Australia,Dubai International Cricket Stadium,Dubai,Australia,field,Australia,win,,8,,MR Marsh
+1298135,T20_WC,2022/23,2022-10-16,T20,Namibia,Sri Lanka,"GMHBA Stadium, South Geelong, Victoria",Geelong,Sri Lanka,field,Namibia,win,55,,,JN Frylinck
+1298136,T20_WC,2022/23,2022-10-16,T20,United Arab Emirates,Netherlands,"GMHBA Stadium, South Geelong, Victoria",Geelong,United Arab Emirates,bat,Netherlands,win,,3,,BFW de Leede
+1298137,T20_WC,2022/23,2022-10-17,T20,Scotland,West Indies,"Bellerive Oval, Hobart",Hobart,West Indies,field,Scotland,win,42,,,HG Munsey
+1298138,T20_WC,2022/23,2022-10-17,T20,Zimbabwe,Ireland,"Bellerive Oval, Hobart",Hobart,Ireland,field,Zimbabwe,win,31,,,Sikandar Raza
+1298139,T20_WC,2022/23,2022-10-18,T20,Namibia,Netherlands,"GMHBA Stadium, South Geelong, Victoria",Geelong,Namibia,bat,Netherlands,win,,5,,BFW de Leede
+1298140,T20_WC,2022/23,2022-10-18,T20,Sri Lanka,United Arab Emirates,"GMHBA Stadium, South Geelong, Victoria",Geelong,United Arab Emirates,field,Sri Lanka,win,79,,,P Nissanka
+1298141,T20_WC,2022/23,2022-10-19,T20,Scotland,Ireland,"Bellerive Oval, Hobart",Hobart,Scotland,bat,Ireland,win,,6,,C Campher
+1298142,T20_WC,2022/23,2022-10-19,T20,West Indies,Zimbabwe,"Bellerive Oval, Hobart",Hobart,West Indies,bat,West Indies,win,31,,,AS Joseph
+1298143,T20_WC,2022/23,2022-10-20,T20,Sri Lanka,Netherlands,"GMHBA Stadium, South Geelong, Victoria",Geelong,Sri Lanka,bat,Sri Lanka,win,16,,,BKG Mendis
+1298144,T20_WC,2022/23,2022-10-20,T20,United Arab Emirates,Namibia,"GMHBA Stadium, South Geelong, Victoria",Geelong,United Arab Emirates,bat,United Arab Emirates,win,7,,,Waseem Muhammad
+1298145,T20_WC,2022/23,2022-10-21,T20,West Indies,Ireland,"Bellerive Oval, Hobart",Hobart,West Indies,bat,Ireland,win,,9,,GJ Delany
+1298146,T20_WC,2022/23,2022-10-21,T20,Scotland,Zimbabwe,"Bellerive Oval, Hobart",Hobart,Scotland,bat,Zimbabwe,win,,5,,Sikandar Raza
+1298147,T20_WC,2022/23,2022-10-22,T20,New Zealand,Australia,Sydney Cricket Ground,Sydney,Australia,field,New Zealand,win,89,,,DP Conway
+1298149,T20_WC,2022/23,2022-10-23,T20,Ireland,Sri Lanka,"Bellerive Oval, Hobart",Hobart,Ireland,bat,Sri Lanka,win,,9,,BKG Mendis
+1298150,T20_WC,2022/23,2022-10-23,T20,Pakistan,India,Melbourne Cricket Ground,Melbourne,India,field,India,win,,4,,V Kohli
+1298151,T20_WC,2022/23,2022-10-24,T20,Bangladesh,Netherlands,"Bellerive Oval, Hobart",Hobart,Netherlands,field,Bangladesh,win,9,,,Taskin Ahmed
+1298152,T20_WC,2022/23,2022-10-24,T20,Zimbabwe,South Africa,"Bellerive Oval, Hobart",Hobart,Zimbabwe,bat,,no result,,,,
+1298153,T20_WC,2022/23,2022-10-25,T20,Sri Lanka,Australia,Perth Stadium,Perth,Australia,field,Australia,win,,7,,MP Stoinis
+1298154,T20_WC,2022/23,2022-10-26,T20,Ireland,England,Melbourne Cricket Ground,Melbourne,England,field,Ireland,win,5,,D/L,A Balbirnie
+1298156,T20_WC,2022/23,2022-10-27,T20,South Africa,Bangladesh,Sydney Cricket Ground,Sydney,South Africa,bat,South Africa,win,104,,,RR Rossouw
+1298157,T20_WC,2022/23,2022-10-27,T20,India,Netherlands,Sydney Cricket Ground,Sydney,India,bat,India,win,56,,,SA Yadav
+1298158,T20_WC,2022/23,2022-10-27,T20,Zimbabwe,Pakistan,Perth Stadium,Perth,Zimbabwe,bat,Zimbabwe,win,1,,,Sikandar Raza
+1298161,T20_WC,2022/23,2022-10-29,T20,New Zealand,Sri Lanka,Sydney Cricket Ground,Sydney,New Zealand,bat,New Zealand,win,65,,,GD Phillips
+1298162,T20_WC,2022/23,2022-10-30,T20,Bangladesh,Zimbabwe,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Bangladesh,bat,Bangladesh,win,3,,,Taskin Ahmed
+1298163,T20_WC,2022/23,2022-10-30,T20,Netherlands,Pakistan,Perth Stadium,Perth,Netherlands,bat,Pakistan,win,,6,,Shadab Khan
+1298164,T20_WC,2022/23,2022-10-30,T20,India,South Africa,Perth Stadium,Perth,India,bat,South Africa,win,,5,,L Ngidi
+1298165,T20_WC,2022/23,2022-10-31,T20,Australia,Ireland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Ireland,field,Australia,win,42,,,AJ Finch
+1298167,T20_WC,2022/23,2022-11-01,T20,England,New Zealand,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,England,bat,England,win,20,,,JC Buttler
+1298168,T20_WC,2022/23,2022-11-02,T20,Zimbabwe,Netherlands,Adelaide Oval,Adelaide,Zimbabwe,bat,Netherlands,win,,5,,MP O'Dowd
+1298169,T20_WC,2022/23,2022-11-02,T20,India,Bangladesh,Adelaide Oval,Adelaide,Bangladesh,field,India,win,5,,D/L,V Kohli
+1298170,T20_WC,2022/23,2022-11-03,T20,Pakistan,South Africa,Sydney Cricket Ground,Sydney,Pakistan,bat,Pakistan,win,33,,D/L,Shadab Khan
+1298171,T20_WC,2022/23,2022-11-04,T20,New Zealand,Ireland,Adelaide Oval,Adelaide,Ireland,field,New Zealand,win,35,,,KS Williamson
+1298173,T20_WC,2022/23,2022-11-05,T20,Sri Lanka,England,Sydney Cricket Ground,Sydney,Sri Lanka,bat,England,win,,4,,AU Rashid
+1298174,T20_WC,2022/23,2022-11-06,T20,Netherlands,South Africa,Adelaide Oval,Adelaide,South Africa,field,Netherlands,win,13,,,CN Ackermann
+1298175,T20_WC,2022/23,2022-11-06,T20,Bangladesh,Pakistan,Adelaide Oval,Adelaide,Bangladesh,bat,Pakistan,win,,5,,Shaheen Shah Afridi
+1298176,T20_WC,2022/23,2022-11-06,T20,India,Zimbabwe,Melbourne Cricket Ground,Melbourne,India,bat,India,win,71,,,SA Yadav
+1298177,T20_WC,2022/23,2022-11-09,T20,New Zealand,Pakistan,Sydney Cricket Ground,Sydney,New Zealand,bat,Pakistan,win,,7,,Mohammad Rizwan
+1298178,T20_WC,2022/23,2022-11-10,T20,India,England,Adelaide Oval,Adelaide,England,field,England,win,,10,,AD Hales
+1298179,T20_WC,2022/23,2022-11-13,T20,Pakistan,England,Melbourne Cricket Ground,Melbourne,England,field,England,win,,5,,SM Curran
+1415701,T20_WC,2024,2024-06-01,T20,Canada,United States of America,"Grand Prairie Stadium, Dallas",Dallas,United States of America,field,United States of America,win,,7,,Aaron Jones
+1415702,T20_WC,2024,2024-06-02,T20,Papua New Guinea,West Indies,"Providence Stadium, Guyana",Providence,West Indies,field,West Indies,win,,5,,RL Chase
+1415703,T20_WC,2024,2024-06-02,T20,Oman,Namibia,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Namibia,field,Namibia,tie,,,,D Wiese
+1415704,T20_WC,2024,2024-06-03,T20,Sri Lanka,South Africa,"Nassau County International Cricket Stadium, New York",New York,Sri Lanka,bat,South Africa,win,,6,,A Nortje
+1415706,T20_WC,2024,2024-06-04,T20,Scotland,England,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Scotland,bat,,no result,,,,
+1415707,T20_WC,2024,2024-06-04,T20,Nepal,Netherlands,"Grand Prairie Stadium, Dallas",Dallas,Netherlands,field,Netherlands,win,,6,,TJG Pringle
+1415708,T20_WC,2024,2024-06-05,T20,Ireland,India,"Nassau County International Cricket Stadium, New York",New York,India,field,India,win,,8,,JJ Bumrah
+1415709,T20_WC,2024,2024-06-05,T20,Papua New Guinea,Uganda,"Providence Stadium, Guyana",Providence,Uganda,field,Uganda,win,,3,,Riazat Ali Shah
+1415710,T20_WC,2024,2024-06-05,T20,Australia,Oman,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Oman,field,Australia,win,39,,,MP Stoinis
+1415711,T20_WC,2024,2024-06-06,T20,Pakistan,United States of America,"Grand Prairie Stadium, Dallas",Dallas,United States of America,field,United States of America,tie,,,,MD Patel
+1415712,T20_WC,2024,2024-06-06,T20,Namibia,Scotland,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Namibia,bat,Scotland,win,,5,,MA Leask
+1415713,T20_WC,2024,2024-06-07,T20,Canada,Ireland,"Nassau County International Cricket Stadium, New York",New York,Ireland,field,Canada,win,12,,,NR Kirton
+1415715,T20_WC,2024,2024-06-07,T20,Sri Lanka,Bangladesh,"Grand Prairie Stadium, Dallas",Dallas,Bangladesh,field,Bangladesh,win,,2,,Rishad Hossain
+1415716,T20_WC,2024,2024-06-08,T20,Netherlands,South Africa,"Nassau County International Cricket Stadium, New York",New York,South Africa,field,South Africa,win,,4,,DA Miller
+1415717,T20_WC,2024,2024-06-08,T20,Australia,England,"Kensington Oval, Bridgetown, Barbados",Bridgetown,England,field,Australia,win,36,,,A Zampa
+1415718,T20_WC,2024,2024-06-08,T20,West Indies,Uganda,"Providence Stadium, Guyana",Providence,West Indies,bat,West Indies,win,134,,,AJ Hosein
+1415719,T20_WC,2024,2024-06-09,T20,India,Pakistan,"Nassau County International Cricket Stadium, New York",New York,Pakistan,field,India,win,6,,,JJ Bumrah
+1415720,T20_WC,2024,2024-06-09,T20,Oman,Scotland,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,Oman,bat,Scotland,win,,7,,BJ McMullen
+1415721,T20_WC,2024,2024-06-10,T20,South Africa,Bangladesh,"Nassau County International Cricket Stadium, New York",New York,South Africa,bat,South Africa,win,4,,,H Klaasen
+1415722,T20_WC,2024,2024-06-11,T20,Canada,Pakistan,"Nassau County International Cricket Stadium, New York",New York,Pakistan,field,Pakistan,win,,7,,Mohammad Amir
+1415724,T20_WC,2024,2024-06-11,T20,Namibia,Australia,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,Australia,field,Australia,win,,9,,A Zampa
+1415725,T20_WC,2024,2024-06-12,T20,United States of America,India,"Nassau County International Cricket Stadium, New York",New York,India,field,India,win,,7,,Arshdeep Singh
+1415726,T20_WC,2024,2024-06-12,T20,West Indies,New Zealand,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,New Zealand,field,West Indies,win,13,,,SE Rutherford
+1415727,T20_WC,2024,2024-06-13,T20,Bangladesh,Netherlands,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,Netherlands,field,Bangladesh,win,25,,,Shakib Al Hasan
+1415728,T20_WC,2024,2024-06-13,T20,Oman,England,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,England,field,England,win,,8,,AU Rashid
+1415731,T20_WC,2024,2024-06-14,T20,South Africa,Nepal,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,Nepal,field,South Africa,win,1,,,T Shamsi
+1415732,T20_WC,2024,2024-06-14,T20,Uganda,New Zealand,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,New Zealand,field,New Zealand,win,,9,,TG Southee
+1415734,T20_WC,2024,2024-06-15,T20,England,Namibia,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,Namibia,field,England,win,41,,D/L,HC Brook
+1415735,T20_WC,2024,2024-06-15,T20,Scotland,Australia,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,Australia,field,Australia,win,,5,,MP Stoinis
+1415736,T20_WC,2024,2024-06-16,T20,Ireland,Pakistan,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,Pakistan,field,Pakistan,win,,3,,Shaheen Shah Afridi
+1415737,T20_WC,2024,2024-06-16,T20,Bangladesh,Nepal,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,Nepal,field,Bangladesh,win,21,,,Tanzim Hasan Sakib
+1415738,T20_WC,2024,2024-06-16,T20,Sri Lanka,Netherlands,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,Netherlands,field,Sri Lanka,win,83,,,KIC Asalanka
+1415739,T20_WC,2024,2024-06-17,T20,Papua New Guinea,New Zealand,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,New Zealand,field,New Zealand,win,,7,,LH Ferguson
+1415741,T20_WC,2024,2024-06-19,T20,South Africa,United States of America,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,United States of America,field,South Africa,win,18,,,Q de Kock
+1415742,T20_WC,2024,2024-06-19,T20,West Indies,England,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,England,field,England,win,,8,,PD Salt
+1415744,T20_WC,2024,2024-06-20,T20,Bangladesh,Australia,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,Australia,field,Australia,win,28,,D/L,PJ Cummins
+1415745,T20_WC,2024,2024-06-21,T20,South Africa,England,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,England,field,South Africa,win,7,,,Q de Kock
+1415746,T20_WC,2024,2024-06-21,T20,United States of America,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown,West Indies,field,West Indies,win,,9,,RL Chase
+1415747,T20_WC,2024,2024-06-22,T20,India,Bangladesh,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,Bangladesh,field,India,win,50,,,HH Pandya
+1415749,T20_WC,2024,2024-06-23,T20,United States of America,England,"Kensington Oval, Bridgetown, Barbados",Bridgetown,England,field,England,win,,10,,AU Rashid
+1415750,T20_WC,2024,2024-06-23,T20,West Indies,South Africa,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,South Africa,field,South Africa,win,,3,D/L,T Shamsi
+1415751,T20_WC,2024,2024-06-24,T20,India,Australia,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,Australia,field,India,win,24,,,RG Sharma
+1415754,T20_WC,2024,2024-06-27,T20,India,England,"Providence Stadium, Guyana",Providence,England,field,India,win,68,,,AR Patel
+1415755,T20_WC,2024,2024-06-29,T20,India,South Africa,"Kensington Oval, Bridgetown, Barbados",Bridgetown,India,bat,India,win,7,,,V Kohli
+1512719,T20_WC,2025/26,2026-02-07,T20,Netherlands,Pakistan,"Sinhalese Sports Club Ground, Colombo",Colombo,Pakistan,field,Pakistan,win,,3,,Faheem Ashraf
+1512720,T20_WC,2025/26,2026-02-07,T20,West Indies,Scotland,"Eden Gardens, Kolkata",Kolkata,Scotland,field,West Indies,win,35,,,SO Hetmyer
+1512721,T20_WC,2025/26,2026-02-07,T20,India,United States of America,"Wankhede Stadium, Mumbai",Mumbai,United States of America,field,India,win,29,,,SA Yadav
+1512723,T20_WC,2025/26,2026-02-08,T20,England,Nepal,"Wankhede Stadium, Mumbai",Mumbai,England,bat,England,win,4,,,WG Jacks
+1512724,T20_WC,2025/26,2026-02-08,T20,Sri Lanka,Ireland,"R Premadasa Stadium, Colombo",Colombo,Ireland,field,Sri Lanka,win,20,,,PHKD Mendis
+1512725,T20_WC,2025/26,2026-02-09,T20,Scotland,Italy,"Eden Gardens, Kolkata",Kolkata,Italy,field,Scotland,win,73,,,MA Leask
+1512726,T20_WC,2025/26,2026-02-09,T20,Oman,Zimbabwe,"Sinhalese Sports Club Ground, Colombo",Colombo,Zimbabwe,field,Zimbabwe,win,,8,,B Muzarabani
+1512727,T20_WC,2025/26,2026-02-09,T20,South Africa,Canada,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Canada,field,South Africa,win,57,,,L Ngidi
+1512728,T20_WC,2025/26,2026-02-10,T20,Namibia,Netherlands,"Arun Jaitley Stadium, Delhi",Delhi,Netherlands,field,Netherlands,win,,7,,BFW de Leede
+1512729,T20_WC,2025/26,2026-02-10,T20,United Arab Emirates,New Zealand,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,United Arab Emirates,bat,New Zealand,win,,10,,TL Seifert
+1512730,T20_WC,2025/26,2026-02-10,T20,Pakistan,United States of America,"Sinhalese Sports Club Ground, Colombo",Colombo,United States of America,field,Pakistan,win,32,,,Sahibzada Farhan
+1512732,T20_WC,2025/26,2026-02-11,T20,Australia,Ireland,"R Premadasa Stadium, Colombo",Colombo,Australia,bat,Australia,win,67,,,NT Ellis
+1512733,T20_WC,2025/26,2026-02-11,T20,West Indies,England,"Wankhede Stadium, Mumbai",Mumbai,England,field,West Indies,win,30,,,SE Rutherford
+1512734,T20_WC,2025/26,2026-02-12,T20,Sri Lanka,Oman,Pallekele International Cricket Stadium,Kandy,Oman,field,Sri Lanka,win,105,,,P Rathnayake
+1512735,T20_WC,2025/26,2026-02-12,T20,Nepal,Italy,"Wankhede Stadium, Mumbai",Mumbai,Italy,field,Italy,win,,10,,CJPF Kalugamage
+1512736,T20_WC,2025/26,2026-02-12,T20,India,Namibia,"Arun Jaitley Stadium, Delhi",Delhi,Namibia,field,India,win,93,,,HH Pandya
+1512737,T20_WC,2025/26,2026-02-13,T20,Zimbabwe,Australia,"R Premadasa Stadium, Colombo",Colombo,Australia,field,Zimbabwe,win,23,,,B Muzarabani
+1512738,T20_WC,2025/26,2026-02-13,T20,Canada,United Arab Emirates,"Arun Jaitley Stadium, Delhi",Delhi,Canada,bat,United Arab Emirates,win,,5,,Junaid Siddique
+1512739,T20_WC,2025/26,2026-02-13,T20,United States of America,Netherlands,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Netherlands,field,United States of America,win,93,,,Harmeet Singh
+1512740,T20_WC,2025/26,2026-02-14,T20,Ireland,Oman,"Sinhalese Sports Club Ground, Colombo",Colombo,Oman,field,Ireland,win,96,,,L Tucker
+1512741,T20_WC,2025/26,2026-02-14,T20,Scotland,England,"Eden Gardens, Kolkata",Kolkata,England,field,England,win,,5,,T Banton
+1512742,T20_WC,2025/26,2026-02-14,T20,New Zealand,South Africa,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,South Africa,field,South Africa,win,,7,,M Jansen
+1512743,T20_WC,2025/26,2026-02-15,T20,Nepal,West Indies,"Wankhede Stadium, Mumbai",Mumbai,West Indies,field,West Indies,win,,9,,JO Holder
+1512744,T20_WC,2025/26,2026-02-15,T20,United States of America,Namibia,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,United States of America,bat,United States of America,win,31,,,SP Krishnamurthi
+1512745,T20_WC,2025/26,2026-02-15,T20,India,Pakistan,"R Premadasa Stadium, Colombo",Colombo,Pakistan,field,India,win,61,,,Ishan Kishan
+1512747,T20_WC,2025/26,2026-02-16,T20,England,Italy,"Eden Gardens, Kolkata",Kolkata,England,bat,England,win,24,,,WG Jacks
+1512748,T20_WC,2025/26,2026-02-16,T20,Australia,Sri Lanka,Pallekele International Cricket Stadium,Kandy,Sri Lanka,field,Sri Lanka,win,,8,,P Nissanka
+1512749,T20_WC,2025/26,2026-02-17,T20,Canada,New Zealand,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Canada,bat,New Zealand,win,,8,,GD Phillips
+1512751,T20_WC,2025/26,2026-02-17,T20,Scotland,Nepal,"Wankhede Stadium, Mumbai",Mumbai,Nepal,field,Nepal,win,,7,,DS Airee
+1512752,T20_WC,2025/26,2026-02-18,T20,United Arab Emirates,South Africa,"Arun Jaitley Stadium, Delhi",Delhi,South Africa,field,South Africa,win,,6,,C Bosch
+1512753,T20_WC,2025/26,2026-02-18,T20,Pakistan,Namibia,"Sinhalese Sports Club Ground, Colombo",Colombo,Pakistan,bat,Pakistan,win,102,,,Sahibzada Farhan
+1512754,T20_WC,2025/26,2026-02-18,T20,India,Netherlands,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,India,bat,India,win,17,,,S Dube
+1512755,T20_WC,2025/26,2026-02-19,T20,West Indies,Italy,"Eden Gardens, Kolkata",Kolkata,Italy,field,West Indies,win,42,,,SD Hope
+1512756,T20_WC,2025/26,2026-02-19,T20,Sri Lanka,Zimbabwe,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,bat,Zimbabwe,win,,6,,Sikandar Raza
+1512758,T20_WC,2025/26,2026-02-20,T20,Oman,Australia,Pallekele International Cricket Stadium,Kandy,Australia,field,Australia,win,,9,,A Zampa
+1512760,T20_WC,2025/26,2026-02-22,T20,England,Sri Lanka,Pallekele International Cricket Stadium,Kandy,Sri Lanka,field,England,win,51,,,WG Jacks
+1512761,T20_WC,2025/26,2026-02-22,T20,South Africa,India,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,South Africa,bat,South Africa,win,76,,,DA Miller
+1512762,T20_WC,2025/26,2026-02-23,T20,West Indies,Zimbabwe,"Wankhede Stadium, Mumbai",Mumbai,Zimbabwe,field,West Indies,win,107,,,SO Hetmyer
+1512763,T20_WC,2025/26,2026-02-24,T20,Pakistan,England,Pallekele International Cricket Stadium,Kandy,Pakistan,bat,England,win,,2,,HC Brook
+1512764,T20_WC,2025/26,2026-02-25,T20,New Zealand,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,field,New Zealand,win,61,,,R Ravindra
+1512765,T20_WC,2025/26,2026-02-26,T20,West Indies,South Africa,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,South Africa,field,South Africa,win,,9,,AK Markram
+1512766,T20_WC,2025/26,2026-02-26,T20,India,Zimbabwe,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Zimbabwe,field,India,win,72,,,HH Pandya
+1512767,T20_WC,2025/26,2026-02-27,T20,New Zealand,England,"R Premadasa Stadium, Colombo",Colombo,New Zealand,bat,England,win,,4,,WG Jacks
+1512768,T20_WC,2025/26,2026-02-28,T20,Pakistan,Sri Lanka,Pallekele International Cricket Stadium,Kandy,Sri Lanka,field,Pakistan,win,5,,,Sahibzada Farhan
+1512769,T20_WC,2025/26,2026-03-01,T20,Zimbabwe,South Africa,"Arun Jaitley Stadium, Delhi",Delhi,Zimbabwe,bat,South Africa,win,,5,,Sikandar Raza
+1512770,T20_WC,2025/26,2026-03-01,T20,West Indies,India,"Eden Gardens, Kolkata",Kolkata,India,field,India,win,,5,,SV Samson
+1512771,T20_WC,2025/26,2026-03-04,T20,South Africa,New Zealand,"Eden Gardens, Kolkata",Kolkata,New Zealand,field,New Zealand,win,,9,,FH Allen
+1512772,T20_WC,2025/26,2026-03-05,T20,India,England,"Wankhede Stadium, Mumbai",Mumbai,England,field,India,win,7,,,SV Samson
+1512773,T20_WC,2025/26,2026-03-08,T20,India,New Zealand,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,New Zealand,field,India,win,96,,,JJ Bumrah
+682899,T20_WC,2013/14,2014-03-16,T20,Hong Kong,Nepal,Zahur Ahmed Chowdhury Stadium,Chittagong,Hong Kong,field,Nepal,win,80,,,SP Gauchan
+682901,T20_WC,2013/14,2014-03-17,T20,Ireland,Zimbabwe,Sylhet Stadium,,Ireland,field,Ireland,win,,3,,PR Stirling
+682903,T20_WC,2013/14,2014-03-17,T20,Netherlands,United Arab Emirates,Sylhet Stadium,,United Arab Emirates,bat,Netherlands,win,,6,,TLW Cooper
+682907,T20_WC,2013/14,2014-03-18,T20,Bangladesh,Nepal,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,field,Bangladesh,win,,8,,Al-Amin Hossain
+682909,T20_WC,2013/14,2014-03-19,T20,Netherlands,Zimbabwe,Sylhet Stadium,,Netherlands,bat,Zimbabwe,win,,5,,BRM Taylor
+682911,T20_WC,2013/14,2014-03-19,T20,Ireland,United Arab Emirates,Sylhet Stadium,,Ireland,field,Ireland,win,21,,D/L,EC Joyce
+682915,T20_WC,2013/14,2014-03-20,T20,Bangladesh,Hong Kong,Zahur Ahmed Chowdhury Stadium,Chittagong,Hong Kong,field,Hong Kong,win,,2,,Nadeem Ahmed
+682917,T20_WC,2013/14,2014-03-21,T20,United Arab Emirates,Zimbabwe,Sylhet Stadium,,Zimbabwe,field,Zimbabwe,win,,5,,E Chigumbura
+682919,T20_WC,2013/14,2014-03-21,T20,Ireland,Netherlands,Sylhet Stadium,,Netherlands,field,Netherlands,win,,6,,SJ Myburgh
+682921,T20_WC,2013/14,2014-03-21,T20,India,Pakistan,Shere Bangla National Stadium,Mirpur,India,field,India,win,,7,,A Mishra
+682923,T20_WC,2013/14,2014-03-22,T20,South Africa,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong,Sri Lanka,bat,Sri Lanka,win,5,,,MDKJ Perera
+682925,T20_WC,2013/14,2014-03-22,T20,England,New Zealand,Zahur Ahmed Chowdhury Stadium,Chattogram,New Zealand,field,New Zealand,win,9,,D/L,CJ Anderson
+682927,T20_WC,2013/14,2014-03-23,T20,Australia,Pakistan,Shere Bangla National Stadium,Mirpur,Australia,field,Pakistan,win,16,,,Umar Akmal
+682929,T20_WC,2013/14,2014-03-23,T20,India,West Indies,Shere Bangla National Stadium,Mirpur,India,field,India,win,,7,,A Mishra
+682931,T20_WC,2013/14,2014-03-24,T20,New Zealand,South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong,New Zealand,field,South Africa,win,2,,,JP Duminy
+682933,T20_WC,2013/14,2014-03-24,T20,Netherlands,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong,Sri Lanka,field,Sri Lanka,win,,9,,AD Mathews
+682935,T20_WC,2013/14,2014-03-25,T20,Bangladesh,West Indies,Shere Bangla National Stadium,Mirpur,Bangladesh,field,West Indies,win,73,,,DR Smith
+682937,T20_WC,2013/14,2014-03-27,T20,Netherlands,South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong,Netherlands,field,South Africa,win,6,,,Imran Tahir
+682939,T20_WC,2013/14,2014-03-27,T20,England,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong,England,field,England,win,,6,,AD Hales
+682941,T20_WC,2013/14,2014-03-28,T20,Australia,West Indies,Shere Bangla National Stadium,Mirpur,Australia,bat,West Indies,win,,6,,DJG Sammy
+682943,T20_WC,2013/14,2014-03-28,T20,Bangladesh,India,Shere Bangla National Stadium,Mirpur,India,field,India,win,,8,,R Ashwin
+682945,T20_WC,2013/14,2014-03-29,T20,Netherlands,New Zealand,Zahur Ahmed Chowdhury Stadium,Chittagong,New Zealand,field,New Zealand,win,,6,,BB McCullum
+682947,T20_WC,2013/14,2014-03-29,T20,England,South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong,England,field,South Africa,win,3,,,AB de Villiers
+682949,T20_WC,2013/14,2014-03-30,T20,Bangladesh,Pakistan,Shere Bangla National Stadium,Mirpur,Pakistan,bat,Pakistan,win,50,,,Ahmed Shehzad
+682951,T20_WC,2013/14,2014-03-30,T20,Australia,India,Shere Bangla National Stadium,Mirpur,Australia,field,India,win,73,,,R Ashwin
+682953,T20_WC,2013/14,2014-03-31,T20,England,Netherlands,Zahur Ahmed Chowdhury Stadium,Chittagong,England,field,Netherlands,win,45,,,Mudassar Bukhari
+682955,T20_WC,2013/14,2014-03-31,T20,New Zealand,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong,New Zealand,field,Sri Lanka,win,59,,,HMRKB Herath
+682957,T20_WC,2013/14,2014-04-01,T20,Bangladesh,Australia,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,Australia,win,,7,,AJ Finch
+682959,T20_WC,2013/14,2014-04-01,T20,Pakistan,West Indies,Shere Bangla National Stadium,Mirpur,West Indies,bat,West Indies,win,84,,,DJ Bravo
+682961,T20_WC,2013/14,2014-04-03,T20,Sri Lanka,West Indies,Shere Bangla National Stadium,Mirpur,Sri Lanka,bat,Sri Lanka,win,27,,D/L,AD Mathews
+682963,T20_WC,2013/14,2014-04-04,T20,India,South Africa,Shere Bangla National Stadium,Mirpur,South Africa,bat,India,win,,6,,V Kohli
+682965,T20_WC,2013/14,2014-04-06,T20,India,Sri Lanka,Shere Bangla National Stadium,Mirpur,Sri Lanka,field,Sri Lanka,win,,6,,KC Sangakkara
+951309,T20_WC,2015/16,2016-03-09,T20,Bangladesh,Netherlands,Himachal Pradesh Cricket Association Stadium,Dharamsala,Netherlands,field,Bangladesh,win,8,,,Tamim Iqbal
+951311,T20_WC,2015/16,2016-03-09,T20,Ireland,Oman,Himachal Pradesh Cricket Association Stadium,Dharamsala,Ireland,bat,Oman,win,,2,,Amir Ali
+951313,T20_WC,2015/16,2016-03-10,T20,Scotland,Zimbabwe,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Zimbabwe,bat,Zimbabwe,win,11,,,WP Masakadza
+951319,T20_WC,2015/16,2016-03-11,T20,Bangladesh,Ireland,Himachal Pradesh Cricket Association Stadium,Dharamsala,Ireland,field,,no result,,,,
+951323,T20_WC,2015/16,2016-03-12,T20,Hong Kong,Scotland,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Hong Kong,bat,Scotland,win,,8,D/L,MW Machan
+951325,T20_WC,2015/16,2016-03-13,T20,Ireland,Netherlands,Himachal Pradesh Cricket Association Stadium,Dharamsala,Ireland,field,Netherlands,win,12,,,PA van Meekeren
+951327,T20_WC,2015/16,2016-03-13,T20,Bangladesh,Oman,Himachal Pradesh Cricket Association Stadium,Dharamsala,Oman,field,Bangladesh,win,54,,D/L,Tamim Iqbal
+951329,T20_WC,2015/16,2016-03-15,T20,India,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,New Zealand,bat,New Zealand,win,47,,,MJ Santner
+951331,T20_WC,2015/16,2016-03-16,T20,England,West Indies,Wankhede Stadium,Mumbai,West Indies,field,West Indies,win,,6,,CH Gayle
+951333,T20_WC,2015/16,2016-03-16,T20,Bangladesh,Pakistan,Eden Gardens,Kolkata,Pakistan,bat,Pakistan,win,55,,,Shahid Afridi
+951337,T20_WC,2015/16,2016-03-18,T20,Australia,New Zealand,Himachal Pradesh Cricket Association Stadium,Dharamsala,New Zealand,bat,New Zealand,win,8,,,MJ McClenaghan
+951339,T20_WC,2015/16,2016-03-18,T20,England,South Africa,Wankhede Stadium,Mumbai,England,field,England,win,,2,,JE Root
+951341,T20_WC,2015/16,2016-03-19,T20,India,Pakistan,Eden Gardens,Kolkata,India,field,India,win,,6,,V Kohli
+951345,T20_WC,2015/16,2016-03-20,T20,Sri Lanka,West Indies,M Chinnaswamy Stadium,Bangalore,West Indies,field,West Indies,win,,7,,ADS Fletcher
+951347,T20_WC,2015/16,2016-03-21,T20,Australia,Bangladesh,M Chinnaswamy Stadium,Bangalore,Australia,field,Australia,win,,3,,A Zampa
+951349,T20_WC,2015/16,2016-03-22,T20,New Zealand,Pakistan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,New Zealand,bat,New Zealand,win,22,,,MJ Guptill
+951353,T20_WC,2015/16,2016-03-23,T20,India,Bangladesh,M Chinnaswamy Stadium,Bangalore,Bangladesh,field,India,win,1,,,R Ashwin
+951355,T20_WC,2015/16,2016-03-25,T20,Australia,Pakistan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Australia,bat,Australia,win,21,,,JP Faulkner
+951357,T20_WC,2015/16,2016-03-25,T20,South Africa,West Indies,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,West Indies,field,West Indies,win,,3,,MN Samuels
+951359,T20_WC,2015/16,2016-03-26,T20,Bangladesh,New Zealand,Eden Gardens,Kolkata,New Zealand,bat,New Zealand,win,75,,,KS Williamson
+951361,T20_WC,2015/16,2016-03-26,T20,England,Sri Lanka,Feroz Shah Kotla,Delhi,Sri Lanka,field,England,win,10,,,JC Buttler
+951363,T20_WC,2015/16,2016-03-27,T20,India,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Australia,bat,India,win,,6,,V Kohli
+951367,T20_WC,2015/16,2016-03-28,T20,South Africa,Sri Lanka,Feroz Shah Kotla,Delhi,South Africa,field,South Africa,win,,8,,AM Phangiso
+951369,T20_WC,2015/16,2016-03-30,T20,England,New Zealand,Feroz Shah Kotla,Delhi,England,field,England,win,,7,,JJ Roy
+951371,T20_WC,2015/16,2016-03-31,T20,India,West Indies,Wankhede Stadium,Mumbai,West Indies,field,West Indies,win,,7,,LMP Simmons
+951373,T20_WC,2015/16,2016-04-03,T20,England,West Indies,Eden Gardens,Kolkata,West Indies,field,West Indies,win,,4,,MN Samuels

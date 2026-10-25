@@ -1,0 +1,78 @@
+,Name,Nationality,BasePrices in Rs,Winning Bid in Rs,TeamName,Capped/UnCapped
+0,Kartik Sharma,Indian,"30,00,000 ","14,20,00,000 ", Chennai Super Kings,Uncapped
+1,Prashant Veer,Indian,"30,00,000 ","14,20,00,000 ", Chennai Super Kings,Uncapped
+2,Rahul Chahar,Indian,"1,00,00,000 ","5,20,00,000 ", Chennai Super Kings,Capped
+3,Matt Henry  ,Overseas,"2,00,00,000 ","2,00,00,000 ", Chennai Super Kings,Capped
+4,Akeal Hosein  ,Overseas,"2,00,00,000 ","2,00,00,000 ", Chennai Super Kings,Capped
+5,Matthew Short  ,Overseas,"1,50,00,000 ","1,50,00,000 ", Chennai Super Kings,Capped
+6,Zak Foulkes  ,Overseas,"75,00,000 ","75,00,000 ", Chennai Super Kings,Capped
+7,Sarfaraz Khan,Indian,"75,00,000 ","75,00,000 ", Chennai Super Kings,Capped
+8,Aman Khan,Indian,"30,00,000 ","40,00,000 ", Chennai Super Kings,Uncapped
+9,Auqib Dar,Indian,"30,00,000 ","8,40,00,000 ", Delhi Capitals,Uncapped
+10,Pathum Nissanka  ,Overseas,"75,00,000 ","4,00,00,000 ", Delhi Capitals,Capped
+11,Kyle Jamieson  ,Overseas,"2,00,00,000 ","2,00,00,000 ", Delhi Capitals,Capped
+12,Lungisani Ngidi  ,Overseas,"2,00,00,000 ","2,00,00,000 ", Delhi Capitals,Capped
+13,Ben Duckett  ,Overseas,"2,00,00,000 ","2,00,00,000 ", Delhi Capitals,Capped
+14,David Miller  ,Overseas,"2,00,00,000 ","2,00,00,000 ", Delhi Capitals,Capped
+15,Prithvi Shaw,Indian,"75,00,000 ","75,00,000 ", Delhi Capitals,Capped
+16,Sahil Parakh,Indian,"30,00,000 ","30,00,000 ", Delhi Capitals,Uncapped
+17,Jason Holder  ,Overseas,"2,00,00,000 ","7,00,00,000 ", Gujarat Titans,Capped
+18,Tom Banton  ,Overseas,"2,00,00,000 ","2,00,00,000 ", Gujarat Titans,Capped
+19,Ashok Sharma,Indian,"30,00,000 ","90,00,000 ", Gujarat Titans,Uncapped
+20,Luke Wood  ,Overseas,"75,00,000 ","75,00,000 ", Gujarat Titans,Capped
+21,Prithviraj Yarra,Indian,"30,00,000 ","30,00,000 ", Gujarat Titans,Uncapped
+22,Cameron Green  ,Overseas,"2,00,00,000 ","25,20,00,000 ", Kolkata Knight Riders,Capped
+23,Matheesha Pathirana  ,Overseas,"2,00,00,000 ","18,00,00,000 ", Kolkata Knight Riders,Capped
+24,Mustafizur Rahman  ,Overseas,"2,00,00,000 ","9,20,00,000 ", Kolkata Knight Riders,Capped
+25,Tejasvi Singh,Indian,"30,00,000 ","3,00,00,000 ", Kolkata Knight Riders,Uncapped
+26,Rachin Ravindra  ,Overseas,"2,00,00,000 ","2,00,00,000 ", Kolkata Knight Riders,Capped
+27,Finn Allen  ,Overseas,"2,00,00,000 ","2,00,00,000 ", Kolkata Knight Riders,Capped
+28,Tim Seifert  ,Overseas,"1,50,00,000 ","1,50,00,000 ", Kolkata Knight Riders,Capped
+29,Akash Deep,Indian,"1,00,00,000 ","1,00,00,000 ", Kolkata Knight Riders,Capped
+30,Rahul Tripathi,Indian,"75,00,000 ","75,00,000 ", Kolkata Knight Riders,Capped
+31,Daksh Kamra,Indian,"30,00,000 ","30,00,000 ", Kolkata Knight Riders,Uncapped
+32,Sarthak Ranjan,Indian,"30,00,000 ","30,00,000 ", Kolkata Knight Riders,Uncapped
+33,Prashant Solanki,Indian,"30,00,000 ","30,00,000 ", Kolkata Knight Riders,Uncapped
+34,Kartik Tyagi,Indian,"30,00,000 ","30,00,000 ", Kolkata Knight Riders,Uncapped
+35,Josh Inglis  ,Overseas,"2,00,00,000 ","8,60,00,000 ", Lucknow Super Giants,Capped
+36,Mukul Choudhary,Indian,"30,00,000 ","2,60,00,000 ", Lucknow Super Giants,Uncapped
+37,Akshat Raghuwanshi,Indian,"30,00,000 ","2,20,00,000 ", Lucknow Super Giants,Uncapped
+38,Anrich Nortje  ,Overseas,"2,00,00,000 ","2,00,00,000 ", Lucknow Super Giants,Capped
+39,Wanindu Hasaranga  ,Overseas,"2,00,00,000 ","2,00,00,000 ", Lucknow Super Giants,Capped
+40,Naman Tiwari,Indian,"30,00,000 ","1,00,00,000 ", Lucknow Super Giants,Uncapped
+41,Quinton De Kock  ,Overseas,"1,00,00,000 ","1,00,00,000 ", Mumbai Indians,Capped
+42,Mayank Rawat,Indian,"30,00,000 ","30,00,000 ", Mumbai Indians,Uncapped
+43,Atharva Ankolekar,Indian,"30,00,000 ","30,00,000 ", Mumbai Indians,Uncapped
+44,Mohammad Izhar,Indian,"30,00,000 ","30,00,000 ", Mumbai Indians,Uncapped
+45,Danish Malewar,Indian,"30,00,000 ","30,00,000 ", Mumbai Indians,Uncapped
+46,Ben Dwarshuis  ,Overseas,"1,00,00,000 ","4,40,00,000 ", Punjab Kings,Capped
+47,Cooper Connolly  ,Overseas,"2,00,00,000 ","3,00,00,000 ", Punjab Kings,Capped
+48,Vishal Nishad,Indian,"30,00,000 ","30,00,000 ", Punjab Kings,Uncapped
+49,Pravin Dubey,Indian,"30,00,000 ","30,00,000 ", Punjab Kings,Uncapped
+50,Ravi Bishnoi,Indian,"2,00,00,000 ","7,20,00,000 ", Rajasthan Royals,Capped
+51,Adam Milne  ,Overseas,"2,00,00,000 ","2,40,00,000 ", Rajasthan Royals,Capped
+52,Ravi Singh,Indian,"30,00,000 ","95,00,000 ", Rajasthan Royals,Uncapped
+53,Sushant Mishra,Indian,"30,00,000 ","90,00,000 ", Rajasthan Royals,Uncapped
+54,Kuldeep Sen,Indian,"75,00,000 ","75,00,000 ", Rajasthan Royals,Capped
+55,Brijesh Sharma,Indian,"30,00,000 ","30,00,000 ", Rajasthan Royals,Uncapped
+56,Aman Rao Perala,Indian,"30,00,000 ","30,00,000 ", Rajasthan Royals,Uncapped
+57,Vignesh Puthur,Indian,"30,00,000 ","30,00,000 ", Rajasthan Royals,Uncapped
+58,Yash Raj Punja,Indian,"30,00,000 ","30,00,000 ", Rajasthan Royals,Uncapped
+59,Venkatesh Iyer,Indian,"2,00,00,000 ","7,00,00,000 ", Royal Challengers Bengaluru,Capped
+60,Mangesh Yadav,Indian,"30,00,000 ","5,20,00,000 ", Royal Challengers Bengaluru,Uncapped
+61,Jacob Duffy  ,Overseas,"2,00,00,000 ","2,00,00,000 ", Royal Challengers Bengaluru,Capped
+62,Jordan Cox  ,Overseas,"75,00,000 ","75,00,000 ", Royal Challengers Bengaluru,Capped
+63,Kanishk Chouhan,Indian,"30,00,000 ","30,00,000 ", Royal Challengers Bengaluru,Uncapped
+64,Vihaan Malhotra,Indian,"30,00,000 ","30,00,000 ", Royal Challengers Bengaluru,Uncapped
+65,Vicky Ostwal,Indian,"30,00,000 ","30,00,000 ", Royal Challengers Bengaluru,Uncapped
+66,Satvik Deswal,Indian,"30,00,000 ","30,00,000 ", Royal Challengers Bengaluru,Uncapped
+67,Liam Livingstone  ,Overseas,"2,00,00,000 ","13,00,00,000 ", Sunrisers Hyderabad,Capped
+68,Jack Edwards  ,Overseas,"50,00,000 ","3,00,00,000 ", Sunrisers Hyderabad,Uncapped
+69,Salil Arora,Indian,"30,00,000 ","1,50,00,000 ", Sunrisers Hyderabad,Uncapped
+70,Shivam Mavi,Indian,"75,00,000 ","75,00,000 ", Sunrisers Hyderabad,Capped
+71,Krains Fuletra,Indian,"30,00,000 ","30,00,000 ", Sunrisers Hyderabad,Uncapped
+72,Praful Hinge,Indian,"30,00,000 ","30,00,000 ", Sunrisers Hyderabad,Uncapped
+73,Amit Kumar,Indian,"30,00,000 ","30,00,000 ", Sunrisers Hyderabad,Uncapped
+74,Onkar Tarmale,Indian,"30,00,000 ","30,00,000 ", Sunrisers Hyderabad,Uncapped
+75,Sakib Hussain,Indian,"30,00,000 ","30,00,000 ", Sunrisers Hyderabad,Uncapped
+76,Shivang Kumar,Indian,"30,00,000 ","30,00,000 ", Sunrisers Hyderabad,Uncapped

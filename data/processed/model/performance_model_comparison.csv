@@ -1,0 +1,3 @@
+model,scaled_mae
+xgboost,0.5348748369835953
+random_forest,0.5375092873142292
